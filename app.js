@@ -191,17 +191,13 @@ function pHem() {
     ['#/ordlista', 'Ordlista', 'Riksföreståndare, interregnum och andra ord.'],
     ['#/bokmarken', 'Bokmärken', 'Platser du har sparat i berättelserna.']
   ].map(([h, t, s]) => `<li><a href="${h}"><strong>${t}</strong><span>${s}</span></a></li>`).join('');
-  post = () => { $('#hemsok').addEventListener('submit', e => { e.preventDefault(); const q = $('#hemq').value.trim(); if (q) location.hash = '#/sok?q=' + encodeURIComponent(q); }); };
   return `
   <section class="hero" aria-labelledby="h1">
     <div class="hero-in">
-      <div class="hero-c11"><div class="hero-krona" aria-hidden="true">${TRE_KRONOR}</div></div>
+      <div class="hero-vbar"></div><div class="hero-hbar"></div>
+      <div class="hero-krona" aria-hidden="true">${TRE_KRONOR}</div>
       <div class="hero-top"><h1 id="h1">Sveriges regenter</h1></div>
-      <div class="hero-c21"></div>
-      <div class="hero-bot">
-        <p>Tusen år av kungar och drottningar, och en berättelse om var och en.</p>
-        <form id="hemsok" class="sokform" role="search"><input id="hemq" type="search" placeholder="Sök regent, händelse eller ord" aria-label="Sök"><button type="submit">Sök</button></form>
-      </div>
+      <div class="hero-bot"><p>Tusen år av kungar och drottningar, och en berättelse om var och en.</p></div>
     </div>
   </section>
   <div class="sida">
