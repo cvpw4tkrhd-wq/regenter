@@ -1,0 +1,90 @@
+{
+ "regenter": [
+  {
+   "id": "sverker-den-aldre",
+   "namn": "Sverker den äldre",
+   "titel": "Kung",
+   "hus": "sverker",
+   "perioder": [
+    [
+     1130,
+     1156
+    ]
+   ],
+   "dod": 1156,
+   "dodCa": true,
+   "ca": true,
+   "dodsatt": "mördad",
+   "barn": [
+    "karl-sverkersson"
+   ],
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "karl-sverkersson",
+   "namn": "Karl Sverkersson",
+   "titel": "Kung",
+   "hus": "sverker",
+   "perioder": [
+    [
+     1161,
+     1167
+    ]
+   ],
+   "dod": 1167,
+   "dodsatt": "mördad",
+   "barn": [
+    "sverker-den-yngre"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "sverker-den-yngre",
+   "namn": "Sverker den yngre",
+   "titel": "Kung",
+   "hus": "sverker",
+   "perioder": [
+    [
+     1196,
+     1208
+    ]
+   ],
+   "dod": 1210,
+   "dodsatt": "stupad",
+   "barn": [
+    "johan-sverkersson"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "johan-sverkersson",
+   "namn": "Johan Sverkersson",
+   "titel": "Kung",
+   "hus": "sverker",
+   "perioder": [
+    [
+     1216,
+     1222
+    ]
+   ],
+   "dod": 1222,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
