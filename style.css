@@ -1,0 +1,263 @@
+/* Sveriges regenter – formgivning
+   Färger: flaggblått och guld mot en kall, ljus bakgrund. Husens färger kommer från data/index.json. */
+:root{
+  --bg:#eef2f6; --yta:#ffffff; --yta2:#e6ecf2; --text:#14212e; --dim:#566678; --linje:#d3dce6;
+  --bla:#006aa7; --marin:#0d2a4a; --guld:#fecc02; --guldtext:#7a5c00; --lank:#00598d;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+  --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --las:1.14rem; --lasstorlek:1;
+  --radie:6px; --bredd:72rem; --nav-h:3.5rem;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#0b1623;--yta:#122336;--yta2:#18304a;--text:#e6edf3;--dim:#9fb0c1;--linje:#243a52;--bla:#5db3e8;--marin:#071420;--guldtext:#fecc02;--lank:#7cc4ee}
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-padding-top:4.5rem}
+body{margin:0;background:var(--bg);color:var(--text);font:1rem/1.5 var(--sans);padding-bottom:env(safe-area-inset-bottom)}
+a{color:var(--lank)}
+img{max-width:100%}
+[hidden]{display:none!important}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:3px solid var(--bla);outline-offset:2px;border-radius:3px}
+.hoppa{position:absolute;left:-999px;top:0;background:var(--guld);color:#000;padding:.6rem 1rem;z-index:99}
+.hoppa:focus{left:0}
+.mut{color:var(--dim)}
+h1,h2,h3{font-family:var(--serif);font-weight:700;line-height:1.2;margin:0}
+
+/* ---------- Topp och meny ---------- */
+.topp{position:sticky;top:0;z-index:30;background:var(--marin);color:#fff;display:flex;align-items:center;gap:1rem;padding:.4rem max(1rem,calc((100% - var(--bredd))/2 + 1rem));min-height:var(--nav-h);border-bottom:3px solid var(--guld)}
+.varumarke{display:flex;align-items:center;gap:.6rem;color:#fff;text-decoration:none;font-family:var(--serif);font-weight:700;font-size:1.15rem;margin-right:auto}
+.logo{display:grid;place-items:center;width:2.1rem;height:2.1rem;background:var(--bla);color:var(--guld);border-radius:50%}
+.logo svg{width:1.4rem;height:1.4rem}
+.nav{display:flex;gap:.2rem}
+.nav a{color:#d8e4ef;text-decoration:none;padding:.55rem .8rem;border-radius:var(--radie);font-weight:500}
+.nav a:hover{background:rgba(255,255,255,.08)}
+.nav a[aria-current=page]{color:#fff;box-shadow:inset 0 -3px 0 var(--guld)}
+.sokknapp{color:#fff;padding:.5rem;border-radius:50%;display:grid;place-items:center}
+.sokknapp:hover{background:rgba(255,255,255,.1)}
+@media (max-width:760px){
+  .nav{position:fixed;left:0;right:0;bottom:0;z-index:40;background:var(--marin);border-top:3px solid var(--guld);justify-content:space-around;padding:.2rem .2rem calc(.2rem + env(safe-area-inset-bottom))}
+  .nav a{flex:1;text-align:center;padding:.7rem .2rem;font-size:.84rem}
+  body{padding-bottom:calc(4rem + env(safe-area-inset-bottom))}
+}
+.lasstreck{position:fixed;top:0;left:0;height:4px;width:0;background:var(--guld);z-index:60;transition:width .12s linear}
+
+main{display:block;outline:none}
+.sida{max-width:var(--bredd);margin:0 auto;padding:1.5rem 1rem 3rem}
+.laddar{padding:3rem 1rem;text-align:center;color:var(--dim)}
+.sidhuvud{margin:0 0 1.2rem}
+.sidhuvud h1{font-size:clamp(1.8rem,5vw,2.6rem)}
+.sidhuvud p{margin:.4rem 0 0;color:var(--dim);max-width:44rem}
+
+/* ---------- Hem: flaggkorset ---------- */
+.hero{background:var(--marin);color:#fff}
+.hero-in{max-width:var(--bredd);margin:0 auto;display:grid;grid-template-columns:clamp(4.2rem,17vw,8.5rem) minmax(0,1fr);position:relative}
+.hero-vert{grid-column:1;grid-row:1/3;border-right:14px solid var(--guld)}
+.hero-top{grid-column:2;grid-row:1;border-bottom:14px solid var(--guld);padding:2.2rem 1rem 1.6rem 1.4rem;position:relative}
+.hero-bot{grid-column:2;grid-row:2;padding:1.4rem 1rem 2.2rem 1.4rem}
+.hero-krona{position:absolute;left:-7px;bottom:-7px;transform:translate(-50%,50%);width:clamp(3.4rem,11vw,5.4rem);height:clamp(3.4rem,11vw,5.4rem);display:grid;place-items:center;background:var(--bla);border:5px solid var(--guld);border-radius:50%;color:var(--guld);z-index:2}
+.hero-krona svg{width:68%;height:68%}
+.hero h1{font-size:clamp(2.2rem,8vw,4.4rem);letter-spacing:-.01em}
+.hero p{margin:.6rem 0 0;font-size:1.1rem;color:#cfdeec;max-width:34rem}
+.sokform{display:flex;gap:.5rem;max-width:30rem;margin-top:.2rem}
+.sokform input{flex:1;min-width:0;padding:.75rem .9rem;border:2px solid transparent;border-radius:var(--radie);font:inherit;background:#fff;color:#14212e}
+.sokform input:focus-visible{outline-color:var(--guld)}
+.sokform button{padding:.75rem 1.1rem;border:0;border-radius:var(--radie);background:var(--guld);color:#1a1400;font-weight:700}
+
+/* ---------- Tusenårsbandet ---------- */
+.avd{margin-top:2rem}
+.avd>h2,.rubrikrad h2{font-size:1.5rem}
+.rubrikrad{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.3rem 1rem;margin-bottom:.7rem}
+.bandram{overflow-x:auto;padding-bottom:.4rem;background:var(--yta);border:1px solid var(--linje);border-radius:var(--radie)}
+.bandyta{position:relative;min-width:880px;height:5.2rem;margin:.9rem 1rem 1.9rem}
+.bb{position:absolute;top:0;height:2.6rem;background:var(--c);border-radius:2px;opacity:.38;min-width:3px;transition:opacity .15s}
+.bb.rf{top:2.9rem;height:.9rem}
+.bb.last{opacity:1;box-shadow:0 -4px 0 var(--guld)}
+.bb:hover,.bb:focus-visible{opacity:1;outline-offset:3px}
+.tick{position:absolute;top:4.1rem;font-size:.72rem;color:var(--dim);transform:translateX(-50%);padding-top:.3rem;border-left:1px solid var(--linje)}
+.legend{list-style:none;margin:.8rem 0 0;padding:0;display:flex;flex-wrap:wrap;gap:.35rem .5rem}
+.legend a{display:inline-flex;align-items:center;gap:.4rem;padding:.3rem .65rem;border:1px solid var(--linje);border-radius:2rem;background:var(--yta);text-decoration:none;color:var(--text);font-size:.85rem}
+.legend a:hover{border-color:var(--bla)}
+.legend b{font-weight:600;color:var(--dim)}
+.prick{display:inline-block;width:.7rem;height:.7rem;border-radius:50%;background:var(--c);flex:none}
+
+.rader{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(17rem,1fr));margin-top:2rem}
+.ruta{background:var(--yta);border:1px solid var(--linje);border-left:6px solid var(--c,var(--bla));border-radius:var(--radie);padding:1rem 1.1rem}
+.ruta h2{font-size:1.2rem;margin-bottom:.4rem}
+.ruta p{margin:.3rem 0}
+.ruta ul{margin:.3rem 0 0;padding-left:1.1rem}
+.knapp{display:inline-block;padding:.6rem 1rem;border-radius:var(--radie);border:2px solid var(--bla);background:var(--bla);color:#fff;text-decoration:none;font-weight:600}
+.knapp.ljus{background:transparent;color:var(--lank)}
+.knapp:hover{filter:brightness(1.08)}
+.utforska{list-style:none;margin:.5rem 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:0 1.5rem}
+.utforska a{display:block;padding:.85rem 0;border-bottom:1px solid var(--linje);text-decoration:none;color:var(--text)}
+.utforska strong{display:block;font-family:var(--serif);font-size:1.15rem;color:var(--lank)}
+.utforska span{color:var(--dim);font-size:.92rem}
+.utforska a:hover strong{text-decoration:underline}
+
+/* ---------- Pålitlighet och märken ---------- */
+.pal{display:inline-block;font-size:.78rem;font-weight:600;padding:.08rem .5rem;border-radius:3px;border:2px solid currentColor;white-space:nowrap}
+.pal-saker{color:#1b6b3a}
+.pal-osaker{color:#9a5b00;border-style:dashed}
+.pal-legend{color:#8a2f6a;border-style:dotted;font-style:italic}
+@media (prefers-color-scheme:dark){.pal-saker{color:#6fd39a}.pal-osaker{color:#f0b35a}.pal-legend{color:#e69ccb}}
+.utkast{background:var(--yta2);border-left:6px solid var(--guld);padding:.7rem 1rem;border-radius:var(--radie);margin:1rem 0;font-size:.95rem}
+
+/* ---------- Tidslinje ---------- */
+.filter{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center;margin:0 0 1.2rem}
+.chip{display:inline-flex;align-items:center;gap:.4rem;padding:.35rem .7rem;border:1px solid var(--linje);background:var(--yta);border-radius:2rem;font-size:.88rem}
+.chip[aria-pressed=true]{border-color:var(--bla);box-shadow:inset 0 0 0 1px var(--bla);font-weight:600}
+.filter select{padding:.4rem .6rem;border:1px solid var(--linje);border-radius:var(--radie);background:var(--yta);color:var(--text);font:inherit}
+.tl{list-style:none;margin:0;padding:0 0 0 0;position:relative}
+.era{margin:1.8rem 0 .6rem;padding-top:1rem;border-top:3px solid var(--text)}
+.era h2{font-size:1.35rem}
+.era .eraar{color:var(--dim);font-size:.9rem;margin-left:.4rem;font-family:var(--sans);font-weight:400}
+.era details{margin-top:.3rem;color:var(--dim);max-width:46rem}
+.era summary{cursor:pointer;color:var(--lank)}
+.rad{display:grid;grid-template-columns:4.6rem 1fr auto;align-items:stretch;gap:.5rem;position:relative;margin:0}
+.rad::before{content:"";position:absolute;left:4.6rem;top:0;bottom:0;width:2px;background:var(--linje)}
+.rad .ar{font-family:var(--serif);font-variant-numeric:tabular-nums;font-weight:700;padding:.85rem 0;text-align:right;padding-right:.9rem;color:var(--dim)}
+.rad .kort{margin:.3rem 0;margin-left:.9rem;display:block;padding:.65rem .9rem;background:var(--yta);border:1px solid var(--linje);border-left:8px solid var(--c);border-radius:var(--radie);text-decoration:none;color:var(--text);position:relative}
+.rad .kort::before{content:"";position:absolute;left:calc(-.9rem - 12px);top:1.15rem;width:12px;height:12px;border-radius:50%;background:var(--c);border:3px solid var(--bg)}
+.rad .kort:hover{border-color:var(--c)}
+.rad .namn{font-family:var(--serif);font-size:1.2rem;font-weight:700;display:block}
+.rad .under{display:flex;flex-wrap:wrap;gap:.2rem .8rem;color:var(--dim);font-size:.88rem;margin-top:.15rem;align-items:center}
+.rad.rf .kort{border-left-style:dashed}
+.rad.last .kort{background:var(--yta2)}
+.rad.last .namn::after{content:"Läst";font:600 .72rem var(--sans);color:var(--guldtext);border:1px solid currentColor;border-radius:3px;padding:0 .35rem;margin-left:.55rem;vertical-align:middle}
+.rad.hand .kort{border-left-width:3px;border-style:solid;background:transparent;padding:.4rem .8rem}
+.rad.hand .namn{font-size:1rem;font-family:var(--sans);font-weight:600}
+.rad.hand .kort::before{border-radius:2px;transform:rotate(45deg);background:var(--text)}
+.kryss{align-self:center;width:2.6rem;height:2.6rem;border-radius:var(--radie);border:2px solid var(--linje);background:var(--yta);display:grid;place-items:center;color:transparent}
+.kryss svg{width:1.4rem;height:1.4rem}
+.kryss[aria-pressed=true]{background:var(--guld);border-color:var(--guld);color:#1a1400}
+.kryss:hover{border-color:var(--bla)}
+@media (max-width:560px){
+  #tl-hus{flex-wrap:nowrap;overflow-x:auto;padding-bottom:.4rem;margin-right:-1rem;padding-right:1rem}
+  #tl-hus .chip{flex:none}
+  .rad{grid-template-columns:3.2rem 1fr auto}
+  .rad::before{left:3.2rem}
+  .rad .ar{font-size:.85rem;padding-right:.6rem}
+  .rad .kort{margin-left:.7rem}
+  .rad .kort::before{left:calc(-.7rem - 12px)}
+}
+
+/* ---------- Regentsida ---------- */
+.regent{max-width:var(--bredd);margin:0 auto}
+.rhuvud{background:var(--marin);color:#fff;border-bottom:8px solid var(--c)}
+.rhuvud-in{max-width:var(--bredd);margin:0 auto;padding:1.4rem 1rem 1.6rem;display:grid;grid-template-columns:minmax(9rem,15rem) 1fr;gap:1.4rem;align-items:end}
+.port{margin:0}
+.port-ram{position:relative;aspect-ratio:3/4;border-radius:var(--radie);overflow:hidden;background:linear-gradient(160deg,var(--c),#0d2a4a 85%);border:3px solid var(--guld);display:grid;place-items:center}
+.port-krona{width:52%;color:var(--guld);opacity:.9}
+.port-krona svg{width:100%;height:auto;display:block}
+.port-ram img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top center}
+.port figcaption{font-size:.75rem;color:#b8c9da;margin-top:.4rem;line-height:1.35}
+.port figcaption a{color:#d8e8f6}
+.rhuvud h1{font-size:clamp(2rem,6vw,3.4rem)}
+.rhuvud .titel{color:#cfdeec;font-size:1.1rem;margin:.3rem 0 .8rem}
+.rhuvud .pal{color:#fff}
+.verktyg{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.9rem}
+.vk{display:inline-flex;align-items:center;gap:.45rem;padding:.55rem .85rem;border-radius:var(--radie);border:2px solid rgba(255,255,255,.55);background:transparent;color:#fff;font-weight:600;font-size:.92rem;text-decoration:none}
+.vk:hover{background:rgba(255,255,255,.1)}
+.vk[aria-pressed=true]{background:var(--guld);border-color:var(--guld);color:#1a1400}
+.vk svg{width:1.1rem;height:1.1rem}
+@media (max-width:620px){.rhuvud-in{grid-template-columns:7.5rem 1fr;gap:1rem;align-items:start}.rhuvud .verktyg{margin-top:.6rem}}
+
+.rkropp{display:grid;grid-template-columns:minmax(0,1fr) 19rem;gap:2rem;padding:1.5rem 1rem 3rem;align-items:start}
+@media (max-width:900px){.rkropp{grid-template-columns:1fr}}
+.sidoruta{background:var(--yta);border:1px solid var(--linje);border-radius:var(--radie);padding:1rem 1.1rem;margin-bottom:1rem;font-size:.95rem}
+.sidoruta h2{font-size:1.1rem;margin-bottom:.5rem}
+.sidoruta dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:.35rem .8rem}
+.sidoruta dt{color:var(--dim)}
+.sidoruta dd{margin:0}
+.sidoruta .pl{font-weight:500}
+.chips a{display:inline-block;margin:.15rem .2rem .15rem 0;padding:.25rem .6rem;border:1px solid var(--linje);border-radius:2rem;text-decoration:none;font-size:.88rem}
+@media (max-width:900px){.sida-kol{order:-1}}
+
+.innehall{display:flex;flex-wrap:wrap;gap:.3rem .5rem;margin:0 0 1.2rem;padding:0;list-style:none}
+.innehall a{display:inline-block;padding:.3rem .65rem;border:1px solid var(--linje);border-radius:2rem;font-size:.88rem;text-decoration:none;background:var(--yta)}
+
+.story{font-family:var(--serif);font-size:calc(var(--las)*var(--lasstorlek));line-height:1.75;max-width:40rem}
+.story .ingress{font-size:1.18em;line-height:1.6;font-style:italic;color:var(--dim);margin:0 0 1.5rem;border-left:4px solid var(--guld);padding-left:1rem}
+.story h2{font-size:1.55em;margin:2.2rem 0 .7rem;display:flex;align-items:center;gap:.6rem}
+.story p{margin:0 0 1.1em}
+.story .tal{background:color-mix(in srgb,var(--guld) 35%,transparent);border-radius:3px}
+.bokm{flex:none;width:2.1rem;height:2.1rem;border:1px solid var(--linje);background:var(--yta);border-radius:var(--radie);display:grid;place-items:center;color:var(--dim)}
+.bokm svg{width:1.1rem;height:1.1rem}
+.bokm[aria-pressed=true]{background:var(--guld);color:#1a1400;border-color:var(--guld)}
+.xl{color:var(--lank);text-decoration-thickness:1px;text-underline-offset:3px}
+.xl.xh{text-decoration-style:dashed}
+.xo{text-decoration:underline dotted;cursor:help;text-underline-offset:3px}
+.fakta{background:var(--yta);border:1px solid var(--linje);border-left:6px solid var(--guld);border-radius:var(--radie);padding:.8rem 1.1rem;margin:2rem 0;font-family:var(--sans);font-size:.95rem;max-width:40rem}
+.fakta h2{font-size:1.1rem;margin-bottom:.4rem}
+.fakta ul{margin:0;padding-left:1.1rem}
+.fakta li{margin:.3rem 0}
+.tom{background:var(--yta);border:2px dashed var(--linje);border-radius:var(--radie);padding:1.2rem;max-width:40rem}
+.klar{display:flex;align-items:center;gap:.9rem;background:var(--yta);border:2px solid var(--linje);border-radius:var(--radie);padding:1rem;margin:2rem 0 1rem;max-width:40rem;width:100%;text-align:left}
+.klar .ruta-k{flex:none;width:2.2rem;height:2.2rem;border:2px solid var(--dim);border-radius:var(--radie);display:grid;place-items:center;color:transparent}
+.klar .ruta-k svg{width:1.4rem;height:1.4rem}
+.klar[aria-pressed=true]{border-color:var(--guld);background:var(--yta2)}
+.klar[aria-pressed=true] .ruta-k{background:var(--guld);border-color:var(--guld);color:#1a1400}
+.klar strong{display:block;font-family:var(--serif);font-size:1.1rem}
+.kallor{font-size:.92rem;max-width:40rem;margin-top:2rem}
+.kallor h2{font-size:1.2rem;margin-bottom:.4rem}
+.kallor ol{padding-left:1.2rem;margin:0}
+.kallor li{margin:.4rem 0}
+.bladdra{display:flex;justify-content:space-between;gap:1rem;max-width:40rem;margin-top:2rem}
+.bladdra a{flex:1;display:block;padding:.8rem 1rem;border:1px solid var(--linje);border-radius:var(--radie);background:var(--yta);text-decoration:none;color:var(--text);border-left:6px solid var(--c)}
+.bladdra a:last-child{text-align:right;border-left:1px solid var(--linje);border-right:6px solid var(--c)}
+.bladdra small{display:block;color:var(--dim)}
+.bladdra strong{font-family:var(--serif)}
+
+/* ---------- Släktträd ---------- */
+.trad{display:grid;gap:1.4rem;margin-top:1rem}
+.gen h2{font-size:1rem;font-family:var(--sans);font-weight:600;color:var(--dim);margin-bottom:.5rem}
+.gen .nodrad{display:flex;flex-wrap:wrap;gap:.6rem;justify-content:center}
+.gen:not(:last-child) .nodrad::after{content:"";flex-basis:100%;height:0}
+.nod{display:block;min-width:9rem;max-width:14rem;padding:.55rem .8rem;border:1px solid var(--linje);border-top:5px solid var(--c,var(--dim));background:var(--yta);border-radius:var(--radie);text-decoration:none;color:var(--text);text-align:center}
+.nod strong{display:block;font-family:var(--serif)}
+.nod small{color:var(--dim)}
+a.nod:hover{border-color:var(--c)}
+.nod.fokus{border-width:2px;border-top-width:8px;background:var(--yta2)}
+.nod.ext{border-style:dashed;color:var(--dim)}
+.band-ner{height:18px;width:2px;background:var(--linje);margin:0 auto}
+.valj{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center}
+.valj select,.valj input{padding:.55rem .7rem;border:1px solid var(--linje);border-radius:var(--radie);background:var(--yta);color:var(--text);font:inherit;min-width:12rem}
+
+/* ---------- Tabeller, statistik, quiz ---------- */
+.tabell{width:100%;border-collapse:collapse;background:var(--yta);border:1px solid var(--linje);border-radius:var(--radie);overflow:hidden}
+.tabell th,.tabell td{padding:.6rem .8rem;text-align:left;border-bottom:1px solid var(--linje);vertical-align:top}
+.tabell th{width:34%;color:var(--dim);font-weight:600}
+.tabell thead th{color:var(--text);font-family:var(--serif);font-size:1.1rem;background:var(--yta2)}
+.stat{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(19rem,1fr))}
+.stat .ruta ol{padding-left:1.4rem;margin:.4rem 0 0}
+.stat li{margin:.35rem 0}
+.stat li span{color:var(--dim)}
+.sblock{display:flex;align-items:center;gap:.5rem;margin:.3rem 0;font-size:.9rem}
+.sblock i{display:block;height:.9rem;background:var(--c);border-radius:2px;min-width:3px}
+.sblock a{min-width:11rem;text-decoration:none;color:var(--text)}
+.quiz{max-width:40rem}
+.quiz .fraga{font-family:var(--serif);font-size:1.5rem;margin:.5rem 0 1rem}
+.alt{display:grid;gap:.5rem}
+.alt button{text-align:left;padding:.8rem 1rem;border:2px solid var(--linje);border-radius:var(--radie);background:var(--yta);font-size:1.05rem}
+.alt button:hover:not(:disabled){border-color:var(--bla)}
+.alt button.ratt{border-color:#1b8a4a;background:color-mix(in srgb,#1b8a4a 18%,var(--yta))}
+.alt button.fel{border-color:#c0392b;background:color-mix(in srgb,#c0392b 16%,var(--yta))}
+.ordlista dt{font-family:var(--serif);font-weight:700;font-size:1.15rem;margin-top:1rem}
+.ordlista dd{margin:.2rem 0 0;max-width:44rem;color:var(--dim)}
+.bokmlista{list-style:none;padding:0;margin:0;display:grid;gap:.5rem}
+.bokmlista li{display:flex;gap:.6rem;align-items:center;background:var(--yta);border:1px solid var(--linje);border-left:6px solid var(--c);border-radius:var(--radie);padding:.6rem .8rem}
+.bokmlista a{flex:1;text-decoration:none;color:var(--text)}
+.bokmlista strong{font-family:var(--serif);font-size:1.1rem;display:block}
+.bokmlista small{color:var(--dim)}
+.liten{font-size:.9rem;color:var(--dim)}
+.sokres li{margin:.7rem 0}
+.sokres mark{background:color-mix(in srgb,var(--guld) 50%,transparent);color:inherit}
+
+/* ---------- Meddelande ---------- */
+#toast{position:fixed;left:50%;bottom:calc(5rem + env(safe-area-inset-bottom));transform:translate(-50%,20px);background:var(--marin);color:#fff;border:2px solid var(--guld);padding:.7rem 1rem;border-radius:var(--radie);opacity:0;pointer-events:none;transition:opacity .2s,transform .2s;z-index:80;max-width:min(92vw,28rem);display:flex;gap:.8rem;align-items:center}
+#toast.visa{opacity:1;transform:translate(-50%,0);pointer-events:auto}
+#toast button{background:var(--guld);color:#1a1400;border:0;border-radius:4px;padding:.3rem .7rem;font-weight:700}
+@media (min-width:761px){#toast{bottom:1.5rem}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+@media print{.topp,.nav,.lasstreck,.verktyg,.bokm,#toast{display:none}.story{max-width:none}}
