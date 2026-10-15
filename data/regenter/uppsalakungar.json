@@ -213,10 +213,62 @@
    "dodCa": true,
    "ca": true,
    "palitlighet": "osäker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Emund den gamle, i västgötalagen kallad Emund slemme, var son till Olof Skötkonung. Han känns främst genom Adam av Bremen, som beskriver honom som en ljum kristen, och genom en tidig gränsdragning mot Danmark.",
+   "berattelse": [
+    {
+     "rubrik": "Härkomst och källor",
+     "text": "Emund omtalas främst hos Adam av Bremen. Han var son till Olof Skötkonung, enligt Adam en frilleson, i motsats till den äktfödde Anund Jakob. Anund Jakob blev faderns efterträdare, men när han avled, som Adam tidsätter till omkring 1050, blev Emund kung. Han dog omkring 1060, enligt SBL, som anger att han föddes i början av 1000-talet."
+    },
+    {
+     "rubrik": "Kyrkan och missionen",
+     "text": "Emund hade blivit döpt, men Adam skildrar honom, till skillnad från fadern Olof och brodern Anund Jakob, som en ljum kristen. Adams motvilja kan enligt SBL bero på att Emund motarbetade den hamburg-bremenska kyrkan, som under ärkebiskop Adalbert bedrev en intensiv mission i Norden. Emund gynnade i stället en representant för den angelsaxiska missionen, Osmundus. Han hade följt den helige Sigfrid till Norden och sänts av honom till Bremen för utbildning, men avvek därifrån och vigdes till biskop av ärkebiskopen av Gnesen. Osmundus kom till Sverige och uppträdde med Emunds gillande som en ärkebiskop oberoende av Hamburg-Bremen. En delegation från Hamburg-Bremen under biskop Adalvard den äldre avvisades av Emund. Under efterträdaren Stenkil, som var Emunds släkting, förbättrades enligt Adam förhållandet till Hamburg-Bremen."
+    },
+    {
+     "rubrik": "Sonens expedition och Emunds död",
+     "text": "Adam berättar att Emund utrustade en expedition under sin son Anund för att utvidga sitt välde. Anund kom enligt Adam fram till kvinnornas eller amasonernas land, som anses syfta på kvänernas, alltså finnarnas, land, och dödades där av förgiftat vatten från en källa. Omedelbart därefter ska Emund ha drabbats av döden, som tidsätts till ungefär 1060."
+    },
+    {
+     "rubrik": "Gränsen mot Danmark",
+     "text": "De flesta moderna nordiska historiker anser att Emund tillsammans med den danske kungen Sven Estridsson drog den första kända landgränsen mellan de två rikena. Den äldsta berättelsen om detta finns i äldre västgötalagen, som talar om gränsdragning mellan \"konung Sven Tveskägg\" och konung Emund Slemme. Att Sven Tveskägg och Emund Slemme aldrig var samtida är otvivelaktigt. Historikern Lauritz Weibull hävdade en tid att Emund Slemme var en kung på 900-talet, före Erik Segersäll, men övergav senare själv teorin. Flertalet historiker följer i stället Curt Weibull: gränsavtalet i äldre västgötalagen är en så kallad notitia, en mycket gammal form av rättsligt giltig uppteckning, där tillnamn som Tveskägg och Slemme inte kan ha stått från början utan måste vara senare tillägg. Då finns inget skäl att betvivla att Emund, som bevisligen var samtida med Sven Estridsson, var svensk kung när gränsen drogs."
+    },
+    {
+     "rubrik": "Namnet Slemme och senare påhitt",
+     "text": "Västgötalagens kungakrönika, vår äldsta svenska historiska krönika, anger Emund Slemme som andre kung efter Olof Skötkonung, på den plats där Adam av Bremen har Emund den gamle. Krönikan nämner också gränsdragningen. Dess övriga uppgifter om honom, att han var \"slisker och ej göder att motsätta sig i ty mål, han ville främja\", är enligt SBL tydligen en tolkning av tillnamnet. Den så kallade kungalängden fram till 1333 har kombinerat krönikans uppgifter med utländska notiser och med fantasi hävdat att Emund omkom i en strid med Knut den store i Skåne. Uppgiften, som också förekommer, att Emund vid gränsdragningen skulle ha avstått Blekinge till Danmark saknar enligt SBL allt historiskt värde."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Emund Gamle (band 13, 1950, sida 449)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16058",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "Regeringstiden anges av SBL som omkring 1050–1060. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "foralder": [
+    "olof-skotkonung"
+   ],
+   "relaterade": [
+    {
+     "id": "anund-jakob",
+     "relation": "halvbror"
+    },
+    {
+     "id": "stenkil",
+     "relation": "släkting"
+    }
+   ],
+   "barn": [
+    {
+     "namn": "Anund",
+     "anm": "dog på en expedition enligt Adam av Bremen"
+    }
+   ],
+   "fakta": [
+    "Emund tillskrivs tillsammans med Sven Estridsson den första kända landgränsen mellan Sverige och Danmark.",
+    "Tillnamnet Slemme kommer från västgötalagen. Krönikans beskrivning av honom som sluskig är enligt SBL en tolkning av just namnet."
+   ]
   }
  ]
 }
