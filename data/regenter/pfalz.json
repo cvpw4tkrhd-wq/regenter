@@ -1,0 +1,96 @@
+{
+ "regenter": [
+  {
+   "id": "karl-x-gustav",
+   "namn": "Karl X Gustav",
+   "titel": "Kung",
+   "hus": "pfalz",
+   "perioder": [
+    [
+     1654,
+     1660
+    ]
+   ],
+   "fodd": 1622,
+   "dod": 1660,
+   "barn": [
+    "karl-xi"
+   ],
+   "relaterade": [
+    {
+     "id": "karl-ix",
+     "relation": "morfar",
+     "omvand": "dotterson"
+    }
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "karl-xi",
+   "namn": "Karl XI",
+   "titel": "Kung",
+   "hus": "pfalz",
+   "perioder": [
+    [
+     1660,
+     1697
+    ]
+   ],
+   "fodd": 1655,
+   "dod": 1697,
+   "barn": [
+    "karl-xii",
+    "ulrika-eleonora"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "karl-xii",
+   "namn": "Karl XII",
+   "titel": "Kung",
+   "hus": "pfalz",
+   "perioder": [
+    [
+     1697,
+     1718
+    ]
+   ],
+   "fodd": 1682,
+   "dod": 1718,
+   "dodsatt": "stupad",
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "ulrika-eleonora",
+   "namn": "Ulrika Eleonora",
+   "titel": "Drottning",
+   "hus": "pfalz",
+   "perioder": [
+    [
+     1718,
+     1720
+    ]
+   ],
+   "fodd": 1688,
+   "dod": 1741,
+   "kon": "k",
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
