@@ -14,20 +14,110 @@
    "fodd": 1622,
    "dod": 1660,
    "barn": [
-    "karl-xi"
+    "karl-xi",
+    {
+     "namn": "Gustav Carlson",
+     "anm": "utomäktenskaplig son"
+    }
    ],
    "relaterade": [
     {
      "id": "karl-ix",
      "relation": "morfar",
      "omvand": "dotterson"
+    },
+    {
+     "id": "gustav-ii-adolf",
+     "relation": "morbror"
+    },
+    {
+     "id": "kristina",
+     "relation": "kusin och företrädare"
     }
    ],
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Karl X Gustav var Gustav II Adolfs systerson och blev kung när Kristina abdikerade 1654. Han förde krig mot Polen och Danmark, genomförde reduktionen och gick över Bält 1658. Roskildefreden gav Sverige Skåne, Halland, Blekinge och Bohuslän.",
+   "berattelse": [
+    {
+     "rubrik": "Systerson till Gustav Adolf",
+     "text": "Karl föddes den 8 november 1622 på Nyköpingshus som son till pfalzgreven Johan Kasimir av Zweibrücken och Katarina, dotter till Karl IX. Som Gustav Adolfs systerson stod han från början nära den svenska tronen, vilket förstärktes av att morbrodern vid sin död efterlämnade bara en dotter som tronarvinge. Hans arvsanspråk kunde i viss mån anses berättigade enligt Norrköpings arvförening, men de erkändes aldrig officiellt, inte ens vid hans tronbestigning.\n\nLiksom andra furstesöner utbildades han först av informatorer och guvernörer, med studier i historia, politik, juridik och krigsväsen och stor vikt vid språk: förutom svenska och tyska franska, latin och i någon mån italienska. Den pfalzgrevliga familjen tog sina vänner och politiska understödjare till råds, de som ofta stod för en oxenstiernafientlig linje, som Skytte, Salvius och Gyllenhielm. Men rikskanslern tillfrågades också, och efter hans inrådan studerade Karl en kortare tid i Uppsala. Viktigare var troligen den utbildningsresa han företog 1638–1640 genom Danmark, Tyskland, Nederländerna, Frankrike och Schweiz, med ett kort besök i England. I Paris studerade han vid Benjamins berömda officersakademi, och bland hans handledare fanns det svenska sändebudet Hugo Grotius, vars bok om krigets och fredens rätt hörde till hans läroböcker. I Sverige uppehöll han sig sedan till 1642, mest vid hovet, där han skulle göras förtrogen med rikets styrelse. Hans brev till fadern visar att han var kritisk mot förmyndarregeringen, och att hans politiska åskådning gick i mycket ut på att hävda kungamakten."
+    },
+    {
+     "rubrik": "Under Torstensons fanor",
+     "text": "I juli 1642 reste Karl till armén i Tyskland för att vinna erfarenhet av krigföring. Han reste utan officiell ställning, eftersom riksrådet trots faderns ansträngningar inte ville göra något för den pfalzgrevliga familjen som kunde tolkas som ett erkännande av dess tronanspråk. Han tjänstgjorde i Torstensons armé till hösten 1645 och deltog bland annat i slagen vid Leipzig och Jankowitz och i fälttåget mot Danmark 1643–44. Han visade redan då sin duglighet som militär och fick pröva på att förena militära och diplomatiska värv i de förhandlingar som han på Torstensons uppdrag förde med prins Rákóczi av Siebenbürgen om en militärallians mot kejsaren. När han kom tillbaka till Sverige hade han en position i armén, och genom Kristinas trontillträde förbättrades hans politiska ställning."
+    },
+    {
+     "rubrik": "Kristina, generalissimus och tronföljare",
+     "text": "För Karl måste det viktigaste problemet före trontillträdet ha varit hans möjligheter att spela en dominerande roll i svensk politik. Vägen dit tycktes länge gå genom ett giftermål med Kristina. Från åren 1637–38 och 1643–44 finns brev från Kristina som uttrycker varma känslor och innehåller löften om giftermål, vilka hon senare, enligt Karls egen berättelse, förklarade vara givna \"av ungdoms oförstånd\". När han 1645 återkom började han upptäcka att hon inte ville hålla dem och att hon motsatte sig giftermål över huvud taget. Vid riksdagen 1647 sade hon sig vilja tänka över saken och \"ha ett nådigt öga på\" honom framför andra, men av allt att döma hade hon redan beslutat lösa tronföljdsfrågan på annat sätt.\n\nKarls ojämförligt viktigaste insats före tronbestigningen var som generalissimus i Tyskland 1648–50. Utnämningen förklaras delvis av att Kristina ville stärka hans ställning inför tronföljarvalet, och av att man behövde en överbefälhavare med auktoritet. Hans främsta insats i krigets slutskede var att han genom att föra in trupper i kejsarens arvländer och understödja Königsmarck vid belägringen av Prag ökade trycket på kejsaren att sluta fred. Därefter organiserade han fredsvillkorens verkställande och truppernas evakuering, och vid ett par tillfällen ådrog han sig Kristinas missnöje, eftersom han ville få svenska och i viss mån pfalziska intressen tillgodosedda även till priset av tidsförlust. Under hans bortovaro tog Kristina upp tronföljdsfrågan med ständerna: vid riksdagen 1649 genomdrev hon med stöd av de ofrälse att Karl valdes till tronföljare, och 1650 fick hon ständerna att acceptera honom och hans manliga bröstarvingar som arvfurstar. I sin försäkran vid kröningen hösten 1650 förband han sig att regera med lag och rätt och med rådets råd, men han undgick att uttryckligen lova konfirmation av givna donationer. Fram till tronskiftet höll han sig i stort sett utanför politiken, och bodde från 1651 på Öland, där han lät utdika Skede mosse och stödde ölänningarnas jordbruk, skogsbruk och handel."
+    },
+    {
+     "rubrik": "Tronskiftet 1654 och reduktionen",
+     "text": "Våren 1654 blev det avgjort att Kristina skulle abdikera. Den 6 juni 1654 avsade hon sig kronan, och Karl utropades till regent. Han gifte sig den 24 oktober 1654 i Stockholm med Hedvig Eleonora av Holstein-Gottorp. Hans regering förknippas enligt SBL med två stora frågor: Sveriges yttre expansion och statsfinanserna. Han fick i sin kungaförsäkran in ett förbehåll att han med rådets och ständernas samtycke kunde genomföra förändringar till rikets \"bästa, säkerhet, uppkomst och tarv\", vilket främst syftade på reduktionen, och i övrigt gav försäkran honom stor handlingsfrihet.\n\nVid riksdagen 1655 fick han till stånd ett reduktionsbeslut med fyra huvuddrag: donationer på förbjudna orter efter 1632 skulle återgå till kronan, expektanser och allodialrättigheter från samma tid upphävas, en laga räfst genomföras med gods avsöndrade efter 1604, och en fjärdedel av donationerna efter 1632 utanför förbjudna orter återgå, eller för tillfället en motsvarande kontribution betalas. Rådet gick med på det, delvis eftersom kungen hotade med andra, för rådet mer misshagliga åtgärder, och det fanns ett starkt tryck från de ofrälse. Skälen var hans önskan att minska adelns makt, att godsinkomsterna var undandragna ständernas bevillning och att reduktionen skulle stabilisera kronans budget. Den kom att avstanna från hösten 1656, eftersom kungen inte själv kunde leda genomförandet och kriget krävde inrikespolitiska hänsyn."
+    },
+    {
+     "rubrik": "Kriget mot Polen 1655–1657",
+     "text": "Karl X Gustavs regering tillhör det expansiva skedet i Sveriges stormaktstid. Han var i hög grad militär och hade främst blick för militära lösningar, kompletterade av en livlig diplomati. Den första stora frågan gällde Sveriges ställning i Östeuropa, där Ryssland 1653 öppnat krig mot Polen och hotade att förvärva områden i den svenska intressesfären. Att han vände sig mot Polen och inte mot Ryssland berodde bland annat på Polens svaghet, på att de områden Sverige var mest intresserad av, främst Kurland och Preussen, låg under polsk överhöghet, och på ouppgjorda tvistefrågor, som det polska Vasahusets pretentioner på den svenska tronen. SBL betonar att det expansiva syftet inte kan förnekas. Beslutet fattades vid de stora rådsdebatterna i december 1654, och på sommaren 1655 avreste kungen med hären till Pommern.\n\nDe stora militära framgångarna i Polen 1655–57, bland dem tredagarsslaget vid Warszawa, gav inte motsvarande politiska resultat, eftersom svenskarna inte hade tillräckliga resurser för att behärska hela Polen och det utrikespolitiska läget försämrades. Kurfursten av Brandenburg tvingades i början av 1656 ingå ett för Sverige fördelaktigt fördrag i Königsberg, men i Labiau i november 1656 måste Karl medge honom full suveränitet i Ostpreussen, och hösten 1657 slöt Brandenburg förbund med den polske kungen. Ryssland öppnade krig mot Sverige i juni 1656, och Österrike slöt i maj 1657 förbund med Polen. Karl, som under intryck av sina framgångar hyst planer på att förena hela Polen med Sverige, kunde från 1657 räkna med stora svårigheter."
+    },
+    {
+     "rubrik": "Tåget över Bält och freden i Roskilde",
+     "text": "I början av juni 1657 hade Fredrik III av Danmark definitivt brutit freden med Sverige, i hopp om att kunna återvinna något av det Sverige tidigare tagit när Sverige var engagerat i Polen. Karl ansåg det omöjligt att föra krig i Polen med Danmark som fiende och gick med hären mot Danmark genom Holstein och erövrade under hösten Jylland. Förhandlingarna med Cromwell om flottans hjälp att föra över trupperna till de danska öarna blev resultatlösa, men den stränga vintern kom till hjälp. I slutet av januari 1658 kunde han gå över med hären till Fyn, där den danska hären besegrades. Den 6 februari företogs det ryktbara tåget över Stora Bält från Langeland till Lolland, och den 12 februari stod den svenska hären på Själland. Försvaret på de danska öarna och Köpenhamn var dåligt förberett, och Danmark sattes i en tvångssituation.\n\nFredsförhandlingar inleddes, där franska och engelska medlare spelade en viktig roll. Genom freden i Roskilde, daterad den 26 februari, fick Sverige Skåne, Halland, Blekinge, Bohuslän, Bornholm och Trondheims län. Fredsvillkoren innehöll också bestämmelser om att Sverige och Danmark inte skulle ingå någon allians mot varandra och att de skulle söka förhindra att någon fientlig örlogsflotta passerade in i Östersjön. SBL ser bakom kraven en önskan att vinna de närliggande danska områdena på den svenska sidan av Östersjön och ett gammalt svenskt intresse att få fotfäste vid Öresund för att kontrollera inloppet och kanske så småningom Öresundstullen. Tanken på Östersjön som ett av svenskarna dominerat innanhav var enligt SBL synnerligen levande för honom. Karl uttryckte förhoppningen att Danmark till sist skulle \"söka Sveriges protektion, om icke alldeles med tiden kombinera sig med Sverige\"."
+    },
+    {
+     "rubrik": "Andra kriget mot Danmark och döden",
+     "text": "Situationen förbättrades inte under våren 1658. Karl planerade ett angrepp i Tyskland mot Brandenburg eller Österrike, men Sverige riskerade att bli helt isolerat, och han kunde inte avrusta hären med fyra fiender på halsen. Ett nytt krig mot Danmark kunde synas som den bästa lösningen. I augusti 1658 öppnade han det genom att med den del av hären som låg i Holstein segla över från Kiel till Själland. Det andra kriget blev fyllt av motgångar: hans och Sveriges resurser räckte inte till för att betvinga ett Danmark som kämpade för sin existens och fick stöd av Nederländerna, vars flotta i strid med den svenska vid Kronborg tilltvingade sig passagen till Köpenhamn och undsatte staden. Han förlorade Trondheims län, Bornholm och Fyn, hans stormning av Köpenhamn i december 1659 misslyckades, och truppernas underhåll försämrades i de utblottade danska områdena. England och Frankrike skärpte sin hållning och ingick de så kallade Haagkonserterna med Nederländerna för en fred med Roskildefördraget som bas men med inskränkningar till Sveriges nackdel.\n\nI december 1659 reste Karl till Göteborg för att vinna riksdagens stöd för en fortsatt aktiv utrikespolitik, som troligen mer än tidigare skulle inriktas på en allmän fred. Innan han hunnit klargöra sin ståndpunkt i fredsfrågan dog han natten mellan 12 och 13 februari 1660, troligen av lunginflammation. Striden om hans testamente, där han på dödsbädden sökte säkra kungamaktens intressen i förmyndarregeringen för Karl XI, visade enligt SBL att kungamaktens företrädare utan en myndig kungs maktresurser inte kunde hindra att tyngdpunkten förlades hos råd och ständer."
+    },
+    {
+     "rubrik": "Kungamakt på gränsen till envälde",
+     "text": "SBL beskriver Karl X Gustav som en typisk representant för en stark kungamakt på gränsen till envälde. Han fick stor handlingsfrihet i sin försäkran, men kunde inte utnyttja den fullt ut eftersom han måste ta hänsyn till dem som förfogade över de resurser han ville ta i anspråk. För att vinna riksdagens samtycke till kriget mot Polen 1655 satte han den i en tvångssituation: rustningarna var i full gång och riksrådet hade ställt sig bakom kriget. Under sin frånvaro agerade han utrikespolitiskt helt självständigt. Rådet var splittrat i en hemmaavdelning och en fältavdelning, och i hans närhet fanns främst rådspersoner med militär ställning. Efter 1655 sammankallade han ständerna landskapsvis 1656 och 1657, vilket gjorde det lättare att begära extraskatter, och våren 1658 kallade han ett utskott av de tre högre stånden till Göteborg, som gav honom frihet att dirigera hela verket som han fann bäst. Han behärskade armén, var rättsväsendets högste domare och hade makten över tillsättningarna av civila och militära ämbeten."
+    },
+    {
+     "rubrik": "Människan och eftermälet",
+     "text": "Som regent förenade Karl enligt SBL flera värdefulla egenskaper: han var skicklig militär, diplomat och politisk taktiker, kunde skarpsinnigt analysera en politisk situation och hade stor arbetsförmåga. Hans optimism var en stor tillgång men slog ibland över i ogrundad sangvinism, och han ställde sina mål ibland för högt. Han hade en ovilja att binda sig för framtiden och lämnade ofta fördrag och beslut i dubbeltydig form. Hans två huvudmål, stark yttre expansion och inre stabilisering av statsfinanserna, var svåra att förena. Genom krigen med Danmark tillförde han kronan stora och bestående vinster, och genom reduktionen lade han grunden till reorganisationen av statsfinanserna under Karl XI. Som person var han stolt, känslig och hetlevrad, och under perioder som tronföljare utan uppgifter uttryckte han ofta depressiva stämningar. Före äktenskapet hade han flera kärleksförbindelser med utomäktenskapliga barn som följd, bland dem greve Gustav Carlson. Äktenskapet med Hedvig Eleonora var i hög grad politiskt men inget tyder på annat än att det var harmoniskt. Han framstår enligt SBL som en ganska isolerad person.\n\nEftermälet har växlat. Samuel Pufendorfs verk från 1696, skrivet på officiellt uppdrag, gav en starkt förhärligande bild av honom som krigare och statsman. Lagerbring var mer kritisk, romantiken och Geijer beundrade honom, och Fryxell angrep honom för krigslystnad och dubbelspel i diplomatiska sammanhang. F. F. Carlson fann ett moraliskt försvar i att han aldrig \"skilt sin storhet från Sveriges\", och den positiva synen utvecklades vidare i början av 1900-talet. Senare forskning diskuterar i stället enskilda problem, som hans krigsplaner 1655 och orsakerna till andra danska kriget. Tåget över Bält har utlöst en lång debatt om Erik Dahlberghs roll, där historikerna Björlin, Weibull och Stade har granskat källorna."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl X Gustav (band 20, 1973–75, sida 641)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12355",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "foddCa": false,
+   "foddDatum": "1622-11-08",
+   "dodCa": false,
+   "dodDatum": "1660-02-13",
+   "dodsatt": "sjukdom",
+   "foralder": [
+    {
+     "namn": "Johan Kasimir av Pfalz-Zweibrücken"
+    },
+    {
+     "namn": "Katarina Vasa",
+     "anm": "dotter till Karl IX"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Hedvig Eleonora av Holstein-Gottorp",
+     "anm": "gift 24 oktober 1654, död 1715"
+    }
+   ],
+   "portratt": {
+    "fil": "Karl X Gustav, 1622-1660, konung av Sverige pfalzgreve av Zweibrücken (Abraham Wuchters) - Nationalmuseum - 15134.tif",
+    "beskrivning": "Karl X Gustav, målning tillskriven Abraham Wuchters",
+    "kredit": "Tillskriven Abraham Wuchters, Nationalmuseum",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Karl_X_Gustav,_1622-1660,_konung_av_Sverige_pfalzgreve_av_Zweibrücken_(Abraham_Wuchters)_-_Nationalmuseum_-_15134.tif"
+   },
+   "anm": "Karl X Gustav föddes 8 november 1622 på Nyköpingshus och dog 13 februari 1660 i Göteborg. Han begravdes 4 november 1660 i Riddarholmskyrkan. Berättelsen bygger på SBL.",
+   "fakta": [
+    "Karl X Gustav gick den 6 februari 1658 med hären över Stora Bält från Langeland till Lolland och stod den 12 februari på Själland.",
+    "Freden i Roskilde den 26 februari 1658 gav Sverige Skåne, Halland, Blekinge, Bohuslän, Bornholm och Trondheims län.",
+    "Karl X Gustav dog natten mellan 12 och 13 februari 1660 i Göteborg, troligen av lunginflammation, medan han planerade för en fredsslutning."
+   ]
   },
   {
    "id": "karl-xi",
@@ -47,10 +137,82 @@
     "ulrika-eleonora"
    ],
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Karl XI blev kung som fyraåring och hade stora svårigheter att läsa. Som vuxen förde han det skånska kriget till ett lyckligt slut, genomförde 1680 års omvälvning med reduktion, indelningsverk och envälde, och byggde upp den armé som sonen Karl XII övertog.",
+   "berattelse": [
+    {
+     "rubrik": "Kung som fyraåring",
+     "text": "Karl föddes den 24 november 1655 på Stockholms slott som son till Karl X Gustav och Hedvig Eleonora. Han var bara fyra år gammal vid faderns död, och i mars 1660 hyllades han som kung av ständerna i Göteborg. Uppfostran ankom närmast på modern, som var praktiskt anlagd och saknade större intellektuella intressen. Man har beskyllt henne för att ha klemat bort sonen, som var ende barnet och hade bräcklig hälsa, och sökt skona honom från att anstränga sig i studierna. På sin dödsbädd hade Karl X Gustav utsett sin sekreterare Emund Gripenhielm, tidigare professor i historia i Uppsala, till sonens lärare, och förhållandet mellan lärare och elev var gott. Guvernör blev 1663 riksrådet Krister Horn, en krutstänkt officer som SBL kallar okunnig och olämplig för uppgiften."
+    },
+    {
+     "rubrik": "Svårigheter med läsning",
+     "text": "Hovkanslern Mattias Biörenklou utarbetade en instruktion för en lärd och allsidig uppfostran, men den kunde aldrig efterlevas. Gripenhielms rapporter visade att Karl hade ett dåligt läshuvud, svårt att följa med under lektionerna och intressen riktade mot helt andra saker. År 1664 rapporterade två rådsherrar att han kunde redogöra för långa predikningar han lyssnat på men ännu inte rätt väl kunde läsa svenska och latin. Läraren försvarade sin metod men skyllde på bristande koncentration och på att Karl hade en besynnerlig vana att kasta om bokstäverna. Hans almanacksanteckningar visar detsamma: han tappade bort bokstäver eller kastade om dem och skrev till exempel \"faton\" när han menade afton. Erik Benzelius d.y. berättar att Karl kunde både rodna och blekna när han tog emot böneskrifter, eftersom han inte ville visa hur besvärligt det var för honom att läsa dem. Allt tyder enligt SBL på medfödd ordblindhet, så kallad dyslexi. Läs- och skrivsvårigheterna skulle besvära honom livet ut och göra honom beroende av rådgivarnas muntliga föredragningar.\n\nÅr 1668 var ständerna uppskrämda över rykten om hans försummade uppfostran och uttalade misstroende mot guvernören Horn, men rikskanslern Magnus Gabriel De la Gardie försvarade det arbete som lagts ned. I november 1669 meddelades att Karl var väl bevandrad i Bibeln, förstod en del latin och kände till de förnämsta landskapen och städerna i geografin, men hans bokliga kunskaper var fortfarande mycket bristfälliga."
+    },
+    {
+     "rubrik": "Jakt, vänner och myndighet",
+     "text": "Karl reste i moderns sällskap mycket omkring till de kungliga slotten. Vid 14 års ålder var han med om sin första tjäderjakt, och under en tvåmånadersresa i Östergötland hösten 1670 jagade han nästan varje söckendag. Specifikationen över jagade djur vittnar om en förfärande masslakt, men SBL ser jakten som ett led i uppfostran till kung, som skärpte hans iakttagelseförmåga och sinne för detaljer. Han flyttade in naturen på slottet i Stockholm och hade i trädgården flera burar med vilda djur. År 1671 upphörde Gripenhielms undervisning, och i mars började han delta i rådets förhandlingar. Vid riksdagen 1672, då han var 17 år, förklarades han myndig och övertog regeringen, den 18 december.\n\nHans militära utbildning började tidigt. På slottet hade han ett eget garde på 200 man, och hösten 1672 var han med om en stor militär övning på Ladugårdsgärde, där den franske ministern Courtin berättade att kungen satt till häst från morgon till afton och fullgjorde sin militära tjänst med ytterligt nöje. Italienaren Lorenzo Magalotti, som besökte Stockholm sommaren 1674, skrev att den unge kungen såg ut som en människa som var förlägen och rädd för allt, men att han till häst föreföll vara en helt annan: \"Då ser han verkligen ut som en konung.\" Karl hade flera förtrogna bland sina rid- och jaktkamrater, främst bröderna Axel och Hans Wachtmeister och Gustav och Kristoffer Gyllenstierna. Rikskanslern De la Gardie stärkte sin makt genom att skjuta rådet åt sidan och handlägga viktiga ärenden i kungens kabinett. Sommaren 1673 gjorde Karl en eriksgata genom södra Sverige, där han lärde känna officerarna Rutger von Ascheberg och Erik Dahlbergh, som berättade om de tjänster de gjort Karl X Gustav i Polen och Danmark. Sommaren 1674 samlade han trupper till ett storläger vid Kungsör, en kungsgård som med tiden blev hans käraste tillhåll."
+    },
+    {
+     "rubrik": "Kriget 1675–1679",
+     "text": "Strax före Karls trontillträde hade förmyndarregeringen, under trycket av penningnöd, ingått ett förbund med Frankrike. Ludvig XIV krävde att Sverige skulle ingripa mot Brandenburg, och regeringen gav med sig mot löfte om ökade franska subsidier och förde stora styrkor till Pommern. Det i sig obetydliga nederlaget vid Fehrbellin i juni 1675 fick svåra efterverkningar och framkallade krigsförklaringar från Holland, kejsaren och Danmark. Krigsutbrottet avslöjade den stora misshushållningen på försvarets område. Kröningsriksdagen i Uppsala krävde en granskning av de höga riksämbetsmännens medelsförvaltning, och Karl, som ansåg sig vilseledd av kanslern och hans kolleger, gav sitt bifall till förmyndarräfsten. Han kröntes den 28 september 1675 i Uppsala domkyrka. Rådsherrarna var splittrade, och kungen blev den fasta punkten. Han var ett barn av den stränga lutherska ortodoxin: arbetsam, pliktmedveten, tyngd av sitt ansvar och ofördragsam mot de höga herrar som vållat rikets olyckor. Sedan De la Gardie dragit sig tillbaka regerade han själv med sina sekreterare och fattade ensam besluten.\n\nKarl var full av stridslust. När den norske överbefälhavaren Gyldenløve ryckte in i Bohuslän i oktober 1675 drog han emot honom med några regementen, och Erik Dahlbergh berättar att han ville gå mot honom \"skulle han ock aldrig komma dädan\". I maj 1676 mönstrade han i Malmö sina 5 000–6 000 dåligt beväpnade soldater, och från kyrktornet i Trelleborg följde han den 26 maj den för Sverige olyckliga sjöstriden. Därefter följde katastroferna slag i slag: den danska landstigningen vid Råå, de skånska fästningarnas kapitulation och bondeuppbåden mot svenska ryttare i göingeskogarna. Karl var djupt deprimerad under den panikartade reträtten. Genom Erik Lindschölds förmedling kallades riksrådet Johan Gyllenstierna till armén, och han blev Karls mäktige rådgivare. Den 17 augusti 1676 slog Karl en dansk styrka som sänts att belägra Halmstad, vilket var militärt betydelselöst men gav soldaterna nytt mod. I slutet av oktober öppnade han vinterfälttåget i Skåne, och den 4 december 1676 stod slaget vid Lund. Karl förde befälet över högra flygeln, förföljde den besegrade motståndaren för långt men kom i sista stund tillbaka och undsatte sin hårt trängda center och vänstra flygel. Han var enligt SBL den dominerande gestalten i slaget, vändpunkten i kriget och i hans eget liv. Han blev inte någon stor taktiker, och riskerade ibland sin armé, men han förde kriget till ett lyckligt slut: genom Ludvig XIV:s ingripande slöts freden i Lund 1679 med oförändrade gränser."
+    },
+    {
+     "rubrik": "Skåne, Karlskrona och giftermålet",
+     "text": "Karl var livet igenom misstänksam mot skåningarna. Han tycks ha anslutit sig till de radikala försvenskningsprogram som Johan Gyllenstierna skisserat, där delar av den skånska befolkningen skulle flyttas till Baltikum och uppsvenska bönder lockas till Skåne, men efter Gyllenstiernas död ändrade han mening och stödde Aschebergs mer moderata försvenskningspolitik. Han var enig med Gyllenstierna om att stärka Skånes försvar och lägga örlogsflottan i Blekinge, och i december 1679 bestämde han att en örlogsstation skulle byggas på Trossö och att den nya fästningsstaden skulle kallas Karlskrona. Förbittrad på danskarna, som han ansåg ha påfört honom ett orättfärdigt krig, accepterade han ändå förbundet med Danmark, som beseglades genom hans giftermål den 6 maj 1680 med den danska prinsessan Ulrika Eleonora.\n\nVid samma tid lade Karl om Sveriges utrikespolitik. Han var varken subtil eller djupsinnig men hade några idéer han höll fast vid: Sverige skulle hållas utanför nya krig, inte gå i ledband hos någon stormakt utan bevara sin handlingsfrihet, och han ville vara neutral och samtidigt genom en stark fredsarmé vinna internationell prestige. Han underskattade hotet från Ryssland och hann aldrig uppfostra sonen Karl i sin \"igelkottspolitik\", men han insåg enligt SBL klarare än någon annan att expansionens tid för alltid var förbi."
+    },
+    {
+     "rubrik": "Omvälvningen 1680",
+     "text": "Vid 1680 års riksdag skedde den stora omvälvningen. Då genomdrevs reduktionen av de adliga godsen, då genomfördes indelningsverket och upprustningen av flottan, och då utfärdades ständerförklaringen som bröt rådets makt och gjorde kungen enväldig. Det har debatterats om detta skedde efter en uppgjord plan eller genom omständigheternas makt. Enligt Rosén fanns ett verkligt aktionsprogram som Gyllenstierna och Karl utarbetat redan i det skånska högkvarteret, men det delas inte av alla forskare. SBL konstaterar att Karl uppenbarligen var den drivande kraften tack vare sin av alla erkända moraliska auktoritet. Övergången till enväldet var inte så våldsam som man föreställt sig, eftersom minnena av 1650-talets ståndsstrider var levande och han kunde räkna med gensvar hos de ofrälse stånden. Karl var enligt SBL ingen despot: han stod under lagen, ämbetsmännen erinrades om skyldigheten att vägra olagliga order, alla beslut var lagligt grundade och riksdagen konfirmerade dem. Besluten blev avgörande: bönderna räddade sin frihet, statsfinanserna och försvaret fick fast grund, och en stark ämbetsmannakår växte fram som en gång själv skulle göra slut på enväldet. Statsnyttan var hans enda ledstjärna, och i frågor som förmyndarräfsten och reduktionen var han hård och hänsynslös."
+    },
+    {
+     "rubrik": "Armén, resorna och familjen",
+     "text": "De nyförvärvade gårdarna bildade grunden till det nya indelningsverket, som Karl ägnade sina främsta krafter. Han byggde ständigt upp den karolinska armén: han drog upp linjerna för mobiliseringsverket, prövade nya organisationsformer och vapen och skrev instruktioner och reglementen. Under ständiga resor mönstrade han varje soldat och hans utrustning och övade förbanden, och hans många anteckningar i rullorna är en del av hans litterära kvarlåtenskap. Han skickade också officerare utomlands för att studera europeiska arméer. År 1694 reste han ända upp till Torneå, där han en natt steg upp i stadskyrkans klockstapel för att se midnattssolen. Det finns många berättelser om Gråkappan, den resande monarken som oväntat dök upp och slog ned på oredliga befallningsmän.\n\nKarl var strängt religiös och kyrkans trogne son, och hans uppfattning om kungadömets höghet var färgad av hans tro på Guds direkta ingripande i människornas liv. Han var inbunden och reserverad, van vid sparsamhet och enkla vanor, ogillade hovlivet och drog gärna med familjen till Kungsör. Han vördade sin mor, som fick vara huvudperson vid hovet, och var djupt fäst vid sin maka, den glada och intelligenta Ulrika Eleonora. Efter hennes död 1693 ägnade han hela sin hårdhänta kärlek åt sonen Karl och tog med honom på jakter, ritter och mönstringar. Det var en färdigorganiserad armé och en välutrustad flotta som sonen skulle överta."
+    },
+    {
+     "rubrik": "Död och omdömen",
+     "text": "Bara 41 år gammal lades Karl på dödsbädden i obotlig magcancer. Hans dödskamp var långvarig och svår, men han bar sitt öde med största tålamod. Han dog påskdagen, den 5 april 1697, och hade förordnat att begravningen skulle ske utan prål. Omdömena om honom har skiftat. Geijer tecknade 1817 ett nyanserat porträtt: han såg ingen \"kunglig själ\" hos den inskränkte och pedantiske monarken, som vuxit upp i \"oädel dunkel vanvårdnad och omgivning\". F. F. Carlson visade hög uppskattning av hans karaktär men var starkt kritisk mot hans strävan efter maktanhopning i en hand. Den moderna forskningen har enligt SBL visat att hans politik i många fall byggde på idéer som utarbetats före hans tid och att han var mer fullbordande än nyskapande. Bilden av honom har blivit mer nyanserad: i huvudfrågorna var han konsekvent, i andra osjälvständig och lätt att påverka."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XI (band 20, 1973–75, sida 650)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12356",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "regeringstext": "kung 1660–1697 (styrde själv från 18 december 1672)",
+   "foddCa": false,
+   "foddDatum": "1655-11-24",
+   "dodCa": false,
+   "dodDatum": "1697-04-05",
+   "dodsatt": "sjukdom",
+   "foralder": [
+    "karl-x-gustav",
+    {
+     "namn": "Hedvig Eleonora av Holstein-Gottorp"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Ulrika Eleonora av Danmark",
+     "anm": "gift 6 maj 1680, död 1693"
+    }
+   ],
+   "portratt": {
+    "fil": "Karl XI, 1655-1697, konung av Sverige pfalzgreve av Zweibrücken (David Klöcker Ehrenstrahl) - Nationalmuseum - 14999.tif",
+    "beskrivning": "Karl XI, målning tillskriven David Klöcker Ehrenstrahl",
+    "kredit": "Tillskriven David Klöcker Ehrenstrahl, Nationalmuseum",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Karl_XI,_1655-1697,_konung_av_Sverige_pfalzgreve_av_Zweibrücken_(David_Klöcker_Ehrenstrahl)_-_Nationalmuseum_-_14999.tif"
+   },
+   "anm": "Karl XI föddes 24 november 1655 och dog 5 april 1697, båda gångerna på Stockholms slott. Han hyllades som kung 1 mars 1660, övertog styrelsen 18 december 1672 och kröntes 28 september 1675. Berättelsen bygger på SBL.",
+   "fakta": [
+    "Karl XI hade enligt SBL troligen medfödd ordblindhet (dyslexi) och var beroende av muntliga föredragningar livet ut.",
+    "I december 1679 bestämde Karl XI att en örlogsstation skulle byggas på Trossö, och den nya fästningsstaden skulle heta Karlskrona.",
+    "Karl XI dog påskdagen den 5 april 1697 av magcancer, 41 år gammal."
+   ]
   },
   {
    "id": "karl-xii",
