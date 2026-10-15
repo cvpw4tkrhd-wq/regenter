@@ -249,13 +249,126 @@
    "fodd": 1537,
    "dod": 1592,
    "barn": [
-    "sigismund"
+    "sigismund",
+    {
+     "namn": "Anna Vasa"
+    },
+    {
+     "namn": "Johan, hertig av Östergötland"
+    }
    ],
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Johan III var hertig i Finland, fånge hos sin bror, upprorsledare och till slut kung i drygt tjugofyra år. Han förde ett långt krig i öster, byggde om slott och kyrkor och försökte skapa en svensk kyrka nära den medeltida, men hans regering präglades av dålig ekonomi och ständiga konflikter med brodern Karl och rådet.",
+   "berattelse": [
+    {
+     "rubrik": "Uppväxt som den äldsta i Gustav Vasas andra äktenskap",
+     "text": "Johan föddes den 20 december 1537 på Stegeborgs slott i Östergötland. Han var det äldsta barnet i Gustav Vasas andra äktenskap, med Margareta Leijonhufvud, och släkt med rådsadeln på både fädernet och mödernet. Tillsammans med halvbrodern Erik, som var fyra år äldre, uppfostrades han enligt renässansens ideal, efter ett ambitiöst program som pommraren Georg Norman utarbetat.\n\nLiksom Erik fick Johan tidigt praktiska uppgifter av sin far inom förvaltning och ekonomi. Som femtonåring utfärdade han kvitton på pengar och leveranser, och han fick tillsammans med Erik ett uppdrag vid Sala silvergruva. Kungen höll dem underrättade om utrikespolitiken och ville höra deras åsikter. När ryssarna gick över gränsen till Finland i april 1555 begav sig Gustav dit i augusti med hela familjen. Johan fick där sina första uppgifter som förhandlare, när kungen lät honom ta hand om en beskickning från den sönderfallande livländska ordensstaten, och han följde krigsförberedelserna på nära håll. I ett betänkande, troligen från april 1556, förordade han en offensiv i stället för faderns defensiva krigföring."
+    },
+    {
+     "rubrik": "Hertig av Finland",
+     "text": "I juni 1556 skrev Gustav från Åbo till storfursten och meddelade att han, för att undvika dröjsmål och gränsbekymmer, utsett Johan till regent i Finland. I slutet av juni fick Johan ett förläningsbrev på Åbo och Kumogårds län som ärftligt furstendöme på manslinjen, och några dagar senare tog han över högsta ledningen i Finland, civilt och militärt. Ett nytt förläningsbrev sommaren 1557 lade till Raseborgs län. I de furstliga rättigheterna ingick inte att besluta om krig, fred och förbund. Fadern släppte inte kontrollen, utan sköt i början själv de viktigaste finska ärendena, skickade krigsfolk, murmästare, snickare, kanslipersonal och vid behov läkare.\n\nFrån omkring 1 november 1556 bodde Johan stadigt i Åbo. Där byggde han upp ett hushåll med sin älskarinna från Stockholm, Karin Hansdotter, med vilken han hade minst fyra barn födda före hösten 1561. Åbo slott rustades upp, salarna pryddes med tavlor och dyra tapisserier, en tornérplats byggdes, och i biblioteket fanns böcker som motsvarade tidens höga krav på bildning. Hovet var stort, 262 personer 1563, och staden anses ha blomstrat. Johan grundade Björneborg och Ekenäs återuppstod. Han hade under furstetiden dessutom god ekonomi, till skillnad från senare som kung.\n\nFörhållandet till Ryssland och Livland blev den dominerande frågan för honom. Han försökte få fadern att ingripa mot polska rustningar i Livland, men Gustav ville bevara freden med Ryssland. När ryssarna intog Narva i maj 1558 började kungen visa uttalat missnöje med Johan, som han tyckte rapporterade dåligt och började föra en egen utrikespolitik. Gustavs hjärta klappade ändå alltid för honom, och dagen efter ett strängt förmaningsbrev skrev han ett litet försonande."
+    },
+    {
+     "rubrik": "Sändebud i England",
+     "text": "Sommaren 1559 beslöt Gustav, Johan och Erik vid ett möte på Stegeborg, av allt att döma på Johans initiativ, att Johan skulle \"brukas legationsvis\" i England för att främja Eriks stora dröm om giftermål med drottning Elisabet. Fadern hoppades enligt ett brev att Johan själv skulle kunna gifta sig till ett land han var nöjd med. Den 11 september 1559 lämnade ett fartyg med Johan Älvsborg, och redan den 17 var de framme i England.\n\nAtt den sparsmakade och misstänksamme Erik ansåg honom vara ett representativt sändebud säger en del om hans förmågor. Utlänningar prisade hans begåvning, hans eleganta latin och hans behagliga tal. En fransk humanist beskrev honom som rakryggad och reslig, och vid en undersökning av graven mättes han till 171 centimeter. Hans intåg i London ansågs imponerande, och han vann gott anseende genom att delta i hovlivet, jaktpartier och bollspel och genom påkostade fester och frikostiga gåvor. I april 1560 var han fortfarande i London, och den 30 april daterade han sitt första brev efter hemkomsten till Älvsborg.\n\nUnder våren 1560 var Gustav sjuklig och väntade otåligt på Johan. När Johan hade kommit hem började kungen enligt en skildring bemöta alla vänligt och sade sig nu gärna vilja lämna världen. Johan lyckades på ganska svaga grunder skapa optimism kring det engelska frieriet om bara Erik reste själv, och kungen lät sig åter övertygas. Vid riksdagen i juni 1560 beviljades medel till Eriks resa. Erik lämnade fadern den 14 augusti, men dagen därpå blev Gustav sängliggande. Johan vistades långa tider i sjukrummet, och den 28 september undertecknade han en trohetsförbindelse till Erik. Dagen därpå dog Gustav."
+    },
+    {
+     "rubrik": "Konflikten med Erik och giftermålet i Polen",
+     "text": "Den nye kungen hävdade omedelbart sin suveränitet, och mycket av Johans självständiga position försvann. På riksdagen i Arboga i april 1561 fixerades furstarnas rättigheter och inskränktes avsevärt. De blev förläningstagare med bara några få kvarstående höghetsrättigheter. Johan kämpade in i det sista för rätten till egen utrikespolitik, men Erik satte sig emot. Resultatet av Johans ansträngningar i Livland kom Erik till godo: Reval och adeln i de kringliggande landskapen ställde sig i juni 1561 under den nye svenske kungens beskydd.\n\nJohan sökte nu en egen väg och anknöt till Polen. Han ville gifta sig med kung Sigismund Augusts yngre syster Katarina Jagellonica. Hösten 1561 avvecklade han förhållandet till Karin Hansdotter, som fick gott underhåll och gifte bort sig med en av Johans tjänare. Samtidigt försökte Polen vinna honom för en svensk-polsk front mot Ryssland, och Johan lånade polske kungen pengar. Erik, som misstänkte att Polen bara ville vinna tid, varnade honom för att resa dit utan tillstånd och erbjöd honom till och med sina egna förhoppningar om Maria Stuart. På sitt amiralsskepp anlände Johan den 26 juni 1562 till Danzig och nåddes där av Eriks reseförbud. Han träffade ändå Sigismund August i Kovno den 12 september, och den 4 oktober 1562 gifte han sig med den elva år äldre Katarina Jagellonica i Vilna.\n\nKatarina fick rätt att fritt utöva sin katolska tro. Som säkerhet för de 120 000 daler Johan lånat ut till polske kungen fick han sju pantslott i Livland, men slotten låg utsatt, och redan den 18 november föll Wittensten i Eriks händer. När hertigparet kom hem till Åbo i mitten av december hade Johan fått sitt giftermål, men hans satsning på Livland hade misslyckats och han hade stött sig allvarligt med brodern."
+    },
+    {
+     "rubrik": "Dömd och fången",
+     "text": "Inför det väntade kriget mot Danmark ville Erik ha ryggen fri och Johan under kontroll. Material samlades systematiskt: våren 1563 förhördes under tortyr en ung adelsman som tidigare tjänat Johan. Erik skickade också adelsmän till Finland för att hålla räfst, och Johan kände sig provocerad. Riksdagen i början av juni, med svag representation från adeln, dömde honom som landsförrädare. Anklagelserna gick bland annat ut på att han brutit mot Arboga artiklar och försträckt Sveriges fiende, kungen i Polen, med pengar. Johan fick erbjudande att behålla furstendömet på hårda villkor, men han vägrade. Hans två närmaste rådgivare avrådde från motstånd, och de sade upp sin trohet när han lät fängsla kungens mönsterherrar. Johan trodde på hjälp från Polen, men tilltron innanför Åbo slotts murar började vackla, och den 12 augusti 1563 kapitulerade han mot fri lejd till Stockholm för sig själv, Katarina och 40 hovtjänare.\n\nDen 28 augusti mottogs han i Vaxholm av Jöran Persson, som läste upp en lång anklagelseskrift. Johan ska otåligt ha svarat att kejsare, kungar och furstar skulle döma honom och hans sak, men inte Jöran Persson, som han kallade en \"prästekläpp\". Katarina vägrade att skiljas från maken. Paret fördes direkt till Gripsholm, där flera av Johans tjänare dömdes till döden och avrättades. Erik gav Jöran Persson i uppdrag att sköta Johans fängslade förvaring: han förbjöds kontakt med omvärlden och vaktades när han rörde sig utanför sitt rum, medan Katarina fick promenera i slottsträdgården.\n\nI drygt fyra år satt paret fångna. Johan hade god tid att läsa, särskilt kyrkofädernas skrifter, och Katarinas balanserade katolicism och djupa religiositet torde ha påverkat honom. Dottern Isabella föddes under tiden men dog efter ett par år, och i juni 1566 föddes sonen Sigismund. Katarina var också ett politiskt kort: tsar Ivan IV hade tidigare friat till henne, krävde 1566 hennes utlämning, och i februari 1567 gick det svenska sändebudet enligt sina instruktioner med på det, även om det enligt SBL:s artikel om Erik aldrig verkställdes."
+    },
+    {
+     "rubrik": "Upproret mot Erik och kungavalet",
+     "text": "Efter Sturemorden i maj 1567 var Erik under lång tid sinnesförvirrad. Han trodde att han själv var fånge och att Johan var kung, och i oktober 1567 hölls ett märkligt möte vid Svartsjö, där Erik föll på knä för Johan. Johan gjorde detsamma och avvisade tanken att han var kung. Rådet föreslog att Johan skulle bli riksföreståndare. Han fick röra sig fritt och i november tillåtelse att vistas på Arboga kungsgård, och våren 1568 följde han tillsammans med hertig Karl den tillfrisknade Erik på hans krigståg mot danskarna. I maj bodde hertigparet i Eskilstuna, där dottern Anna föddes.\n\nVåren 1568 var läget ett annat än 1563: enligt SBL finns det inget som tyder på att Johan hade planerat en statskupp mot Erik våren 1563, och inte heller att adeln gjort det 1567. Men nu, med hotet över Katarina, sin egen oklara ställning och en direkt rädsla för livet, som han delade med stora delar av högadeln, manövrerade Johan försiktigt med tydligt sikte på Eriks avsättning. Pengar ställdes till förfogande av främst de mördade herrarnas släktingar. När Johan och Karl i juni bjöds in till Eriks bröllop med Karin Månsdotter den 4 juli, tackade de ja men kom inte, och i stället började de upproret.\n\nDen sjuttonårige Karl tog Vadstena slott den 12 juli 1568 genom en djärv kupp, och Johan upprättade där sitt högkvarter. Upproret spred sig snabbt. Från den 17 september låg hertigarna vid Rörstrand, och den 18 september utlämnades Jöran Persson. Den 29 september släpptes de in i Stockholm, och Erik gav sig fången till Karl. Johans morbror Sten Eriksson Leijonhufvud sårades dödligt på Stortorget. Johan själv red in den 30 september och blev direkt vald till kung. Redan samma dag kallade han sig Johan III. Han begärde trohetseder från hela landet men höll ingen räfst med Eriks tjänare, vilket enligt SBL passade väl eftersom avsättningen motiverades med att Erik var en tyrann, och Johan jämfördes med Gustav Eriksson, det vill säga Gustav Vasa. Riksdagen i Stockholm i januari 1569 avsatte Erik och bekräftade Johans val, och han kröntes i Uppsala den 10 juli 1569 under enklare former än Erik."
+    },
+    {
+     "rubrik": "Adeln, brodern Karl och den fångne Erik",
+     "text": "Johan hade kommit till makten med hjälp av brodern Karl och rådsadeln, och han belönade adeln genom ett privilegiebrev dagen före kröningen. Enligt SBL lyckades han ändå skickligt bevaka kronans rätt, bland annat genom att utnyttja motsättningen mellan hög- och lågadeln. Hertig Karl fick direkt tillträde till sitt hertigdöme enligt faderns testamente, utan Arboga artiklars inskränkningar, och förhållandet till brodern skulle snart bli ett stort problem.\n\nDen avsatte Erik var en ständig oroskälla. Spridda bonderörelser till hans förmån, missnöje bland krigsfolket och en sammansvärjning där Charles de Mornay var själen, med skotska legotrupper, hotade Johan, och rättegången mot de Mornay 1574 blev extra känslig eftersom Karl hade känt till komplotten. Eriks förvaring blev hårdare, och detaljerade anvisningar hade tidigt utfärdats om hur han skulle avlivas om något förräderi bröt ut. Rådet fällde en formell dom över honom i mars 1575. I februari 1577 insjuknade Erik under omständigheter som gjort Johan misstänkt för att ha låtit förgifta honom. Att hans död den 26 februari innebar en stor lättnad för Johan är enligt SBL uppenbart."
+    },
+    {
+     "rubrik": "Fred med Danmark och kriget i öster",
+     "text": "Kriget med Danmark hade varit oerhört påfrestande för båda sidor, och Johan sökte redan under upproret kontakt med Fredrik II. En fredsbeskickning avgick direkt efter hans trontillträde, men den gick i Roskilde i november 1568 med på danska krav som Johan ansåg helt oacceptabla, framför allt på grund av de mycket höga skadeståndskraven. Fred slöts efter ett möte i Stettin mellan juli och december 1570, med medlare från bland annat Frankrike, kejsaren och Polen. Inga gränser ändrades, men lösensumman för Älvsborg var 150 000 daler. Därefter höll sig relationen till Danmark på en dräglig nivå under hela hans regering.\n\nJohans utrikespolitiska intresse hade sedan ungdomen fixerats vid Östersjön och tanken på att kontrollera rysslandshandeln. Målet, fastställt 1571, var att behärska mynningarna av Neva och Narva och hindra ryssarna från att handla direkt med västeuropeiska köpmän via Östersjön. Men skillnaden mellan mål och medel var skriande. Slotten Hapsal, Lode och Leal föll 1575 i ryssarnas händer, och 1576 återstod bara Reval, som i januari–mars 1577 hårt belägrades men tappert försvarades av Henrik Klasson Horn och hans son Karl. Då var bottenläget nått. Först sedan Pontus De la Gardie, gift med Johans utomäktenskapliga dotter Sofia, fått överbefälet vände krigslyckan: Kexholm erövrades i november 1580, Narva föll i september 1581, och i slutet av året var Estland befriat. Ett stilleståndsavtal i augusti 1583 kom att gälla till 1590.\n\nJohan eftersträvade också ett svensk-polskt förbund mot Ryssland, men polackerna ansåg sig ha rätt till hela den gamla ordensstatens område. Han hade stora ekonomiska intressen i Polen, Katarinas hemgift och morsarv och egna lån till Sigismund August. Han ställde 1572 och 1575 upp som kandidat till den polska kronan, utan större satsning: valet föll först på Henrik av Anjou och sedan på Stefan Bathory, som gifte sig med Katarinas äldre syster Anna."
+    },
+    {
+     "rubrik": "Kyrkan och liturgin",
+     "text": "Redan våren 1569 återställdes den äldre stiftsindelningen och biskopstiteln. Den kyrkoordning som ärkebiskop Laurentius Petri utarbetat, konservativ och med behållna katolska ceremonier, hade Erik inte godkänt, men Johan accepterade den efter viss översyn. Den trycktes 1571 och antogs vid ett möte i Uppsala året därpå. Vid ärkebiskopsskiftet 1575 genomdrev Johan ett tillägg, den så kallade Nova Ordinantia, som aldrig trycktes, och 1576 lät han trycka en ny liturgi, Röda boken, utarbetad av sekreteraren Petrus Michaelis Fecht. Mässan fördes närmare katolskt bruk och latin användes vid sidan av svenska, vilket de strikta lutheranerna tolkade som en återgång till det katolska mässoffret. Hertig Karl och furstendömets ständer vägrade våren 1576 att anta den, och Karl gav präster som vägrat en fristad i sitt hertigdöme.\n\nJohan tog också kontakt med den katolska kyrkan, delvis genom drottning Katarina. Jesuiten Laurentius Nicolai Norvegus, kallad Klosterlasse, ledde från 1576 en teologisk skola i det tidigare franciskanklostret på Riddarholmen. Åren 1578–80 besökte den påvlige sändebudet Antonio Possevino Sverige. Johan förde med honom ingående teologiska samtal och diskuterade fyra villkor för en förening med den katolska kyrkan: lekmän skulle få ta kalken, mässan skulle hållas på svenska, präster skulle få gifta sig, och indragningen av kyrkogodsen skulle godkännas. Possevino påstod senare att Johan i maj 1578 avsvor sig sin protestantiska tro, men det kan enligt SBL inte beläggas i samtida material. Däremot tycks han ha bikat och tagit nattvarden av Possevino. Påven avslog huvudvillkoren, och Possevino lyckades genom Katarinas kaplaner få tronföljaren Sigismund att öppet övergå till katolicismen. Kollegiet på Riddarholmen stängdes 1580.\n\nMånga punkter i Johans förhållande till katolicismen är oklara. Han har setts både som en troende katolik som inte vågade riskera tronen och som en kallhamrad politiker som utnyttjade kontakterna. Enligt SBL ville han personligen främja en återgång till medeltida bruk, av pietet och estetik, och såg sig själv som kyrkans överhuvud som ville enas med de kristna på kyrkofädernas grund. Han förstod inte att påven inte kunde medge eftergifter i sådant han kallade yttre ting. Allvaret i hans kyrkliga program framgår av hans envisa fasthållande vid liturgin."
+    },
+    {
+     "rubrik": "Pengar, mynt och slottsbygge",
+     "text": "Johans ekonomi var ytterst dålig från upproret och hela regeringstiden. Han hade satsat mycket av sina egna tillgångar på det polska giftet, och han kom till en så gott som tom kassa. Varken han, Karl eller någon annan i samtiden kunde förstå att det var möjligt, eftersom Gustav Vasas rikedomar hade ansetts outtömliga och man trodde att Erik gömt undan en del. Det skotska och tyska krigsfolket slukade stora summor. År 1573 smältes både hans förgyllda \"skänkeskiva\" och S:t Eriks och S:ta Birgittas relikskrin. Bland utvägarna var extra skatter, myntförsämringar, innehållna löner, krediter, tvångsleveranser, lån och försäljning av krigsfartyg. Prisstegringen var nästan oavbruten från 1561 till mitten av 1570-talet, och det gick så småningom 32 mark på dalern i stället för 4. År 1583 översteg kronans skulder en miljon daler, jämfört med en ordinarie bruttoinkomst på 589 000 daler.\n\nJohan och hans medhjälpare i kammaren skärpte tull- och acciskontrollen, försökte förbättra bergsbruket, höll räfst mot adeln och inrättade ett kopparmonopol 1580–88. Han hade också ett stort intresse för arkitektur och skrev närmare 500 skrivelser med detaljerade byggnadsanvisningar. Slotten i Stockholm, Vadstena, Kalmar, Uppsala och Borgholm byggdes om under hans tid, och Svartsjö blev ett skötebarn, med en elegant rund förgård och en loggia i italiensk stil. I den profana arkitekturen dominerade nederländsk-italienska renässansinslag, förmedlade av bland andra Willem Boy och bröderna Pahr, medan han i kyrkobyggandet var traditionalist och byggde i gotisk stil. Han ville återupprätta de kyrkor på Stockholms malmar som fadern hade rivit, Klara, Maria och Jakobs kyrkor. Riksrådet kritiserade ofta hovhållningen och byggena, men enligt SBL har deras ekonomiska betydelse överdrivits."
+    },
+    {
+     "rubrik": "Karl, rådet och Sigismund",
+     "text": "Förhållandet till hertig Karl var ansträngt. I Gustavs testamentes anda rådgjorde Johan först ofta med honom, men tyckte snart att brodern var närig, och Karl hade skäl till missnöje över indragna arvegods och över att han inte fått Strömsholms län. En ny kris kom när Johan i februari 1585 gifte sig med den unga Gunilla Bielke, vilket både Karl och systrarna ansåg vara ett olämpligt giftermål. Vid riksdagen i Vadstena i februari 1587 antogs en stadga om kungliga och furstliga rättigheter, men den stannade på papperet. Johan försökte balansera mellan hertigen och rådet, och mot Karl kunde han under 1580-talet oftast räkna med rådets stöd.\n\nEfter kung Stefan Bathorys död i december 1586 tog änkedrottning Anna kontakt med Johan för sin systerson Sigismunds kandidatur till den polska tronen. Johan tackade efter viss tvekan ja, och den 9 augusti 1587 valdes Sigismund till polsk kung. Johan blev snart betänksam, men gav med sig, och den 5 september undertecknade de båda kungarna Kalmare stadgar. En vecka senare lämnade Sigismund Sverige. Sigismunds bortovaro vägde tungt på Johan. Han oroade sig för tronföljden och ville ha sonen tillbaka.\n\nSommaren 1589 planerades ett kungamöte i Reval som en styrkedemonstration inför polackerna och ryssarna, men extragärder och skatter hade pressat allmogen till gränsen, särskilt i Finland. När det i Reval spred sig rykten om att Johan tänkte ta med sig Sigismund hem, vände sig adel och krigsfolk till rådet, som överlämnade en skrivelse till Sigismund med en uppgörelse med hela Johans regeringssystem. Rådet skrev också till Johan i 31 punkter, och avslutade med orden \"Vincat affectum ratio\", vilket enligt SBL sårade honom mer än något annat. Sigismund reste till Polen, och Johan återvände till Sverige utan att ta avsked av riksråden. På riksdagen i Stockholm i januari 1590 ställdes sex riksråd, bland dem Erik Sparre och Hogenskild Bielke, till svars. De avsattes, och en ny arvförening antogs som även gjorde kvinnolinjen arvsberättigad om ingen arvfurste fanns i livet."
+    },
+    {
+     "rubrik": "De sista åren och döden",
+     "text": "Under Johans sista år deltog hertig Karl aktivt i regeringsarbetet. Myntförsämringen som började 1589 gjorde att en del av kronans skulder kunde betalas, och Johan och Karl var helt överens om att ståthållarnas befogenheter måste upphöra. Alla resurser sattes in för kriget i öster, där ryssarna hade tagit Jama i Ingermanland och i stilleståndsförhandlingarna fick Ivangorod och Koporie. Johan lät döma Karl Henriksson Horn till döden men benådade honom på avrättsplatsen, och SBL konstaterar att hans metoder började påminna om Erik XIV:s.\n\nLiturgin bekymrade honom in i det sista. Prästerskapet i furstendömet var fredlöst utanför dess gränser, och professorerna vid högskolan på Riddarholmen lämnade sina tjänster. När ärkebiskop Andreas Laurentii, ett pålitligt stöd, dog 1591, bröt motståndet på allvar ut också i övriga Sverige, och prästerskapet i Växjö stift bad att få slippa liturgin. Johan måste under sin sista sjukdomstid med grämelse ge efter. Han förklarade att han inte var någon papist och inte \"deras samvetes kung\". Efter mer än ett halvårs sjuklighet, troligen en hjärtåkomma, dog han den 17 november 1592 på Stockholms slott efter en regeringstid på 24 år. Han begravdes den 1 februari 1594 i Uppsala domkyrka."
+    },
+    {
+     "rubrik": "Familj och eftermäle",
+     "text": "Med Katarina Jagellonica, som dog 1583, fick Johan tre barn: Isabella (1564–1566), Sigismund (1566–1632) och Anna (1568–1625). Med Gunilla Bielke, som han gifte sig med 1585, hade han sonen Johan, hertig av Östergötland (1589–1618). Han hade också barn med Karin Hansdotter, minst fyra före hösten 1561, och en utomäktenskaplig dotter, Sofia, som gifte sig med Pontus De la Gardie.\n\nJohan har enligt SBL aldrig fått någon samlad vetenskaplig biografi. Äldre litteratur, som Emil Hildebrands, ser honom som hetsig och misstänksam som fadern och bröderna, envis, inkonsekvent och slösaktig, obeslutsam och lättpåverkad. Han har dessutom hamnat i kläm mellan uppskattande skildringar av bröderna Erik och Karl, där han båda gångerna var motpart. Nyare forskning har belyst hans besvärliga situation: den dåliga ekonomin, balansen mellan rådsadeln och hertigen och hans envisa politik i Baltikum. Hans kyrkopolitik har fått en rad avhandlingar där hans markanta teologiska profil allt tydligare framträder, och konsthistoriker har klarlagt hans omfattande byggnadsverksamhet."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Johan III (artikel i band 20, 1973–75, sida 182)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12099",
+     "kontrollerad": true
+    },
+    {
+     "titel": "King Johan III",
+     "utgivare": "Kungliga slotten (kungligaslotten.se)",
+     "url": "https://www.kungligaslotten.se/english/list-of-swedish-monarchs/johan-iii.html",
+     "kontrollerad": true
+    }
+   ],
+   "foddDatum": "1537-12-20",
+   "dodDatum": "1592-11-17",
+   "dodsatt": "naturlig",
+   "foralder": [
+    {
+     "namn": "Margareta Leijonhufvud"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Katarina Jagellonica",
+     "anm": "gift 1562"
+    },
+    {
+     "namn": "Gunilla Bielke",
+     "anm": "gift 1585"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "erik-xiv",
+     "relation": "halvbror"
+    },
+    {
+     "id": "karl-ix",
+     "relation": "bror"
+    }
+   ],
+   "fakta": [
+    "Vid en gravundersökning mättes Johan III till 171 centimeter, och en fransk humanist som träffade honom i England beskrev honom som rakryggad och reslig.",
+    "Johan skrev närmare 500 brev med detaljerade anvisningar för slott- och kyrkobyggen.",
+    "Under hans regering sjönk myntvärdet så att det gick 32 mark på en daler i stället för 4."
+   ],
+   "portratt": {
+    "fil": "Johan III.jpg",
+    "beskrivning": "Johan III, efter Johan Baptista van Uther (1582)",
+    "kredit": "Efter Johan Baptista van Uther",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Johan_III.jpg"
+   },
+   "anm": "Berättelsen bygger på Svenskt biografiskt lexikon och är kontrollerad mot Kungliga slottens sida om Johan III."
   },
   {
    "id": "sigismund",
