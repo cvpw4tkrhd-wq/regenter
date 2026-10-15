@@ -71,7 +71,9 @@
    "fakta": [
     "Stenkils föräldrar nämns bara i den isländska Hervararsagan, som skrevs långt efter hans tid, och uppgiften är obestyrkt.",
     "Enligt västgötalagens kungakrönika var Stenkil en väldig skytt, och västgötarna älskade honom mer än rikets övriga undersåtar."
-   ]
+   ],
+   "regeringstext": "död omkring 1066",
+   "osakerLangd": true
   },
   {
    "id": "halsten",
@@ -119,7 +121,9 @@
      "relation": "bror"
     }
    ],
-   "anm": "Halsten levde omkring 1070 enligt SBL, som inte anger några fler årtal. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat."
+   "anm": "Halsten levde omkring 1070 enligt SBL, som inte anger några fler årtal. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "regeringstext": "omkring 1070",
+   "osakerLangd": true
   },
   {
    "id": "hakan-rode",
@@ -128,16 +132,37 @@
    "hus": "stenkil",
    "perioder": [
     [
-     1075,
-     1079
+     1070,
+     1075
     ]
    ],
    "ca": true,
    "palitlighet": "osäker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Håkan Röde nämns av Adam av Bremen som en kung valdes av svearna omkring 1070, och i västgötalagen som född och begraven i Levene. Allt annat om honom är osäkert.",
+   "berattelse": [
+    {
+     "rubrik": "Vad källorna säger",
+     "text": "Håkan röde var enligt SBL svensk kung omkring 1070. Hans bakgrund som kung har ansetts vara härstamning från den kungaätt som regerade före Stenkil, och hans far var möjligen Emund Åkesson, dotterson till Erik Segersäll. Möjligen var han identisk med en bror till den svenske hövdingen Ingvar den vittfarne, som avled i Ryssland och nämns på åtskilliga runstenar.\n\nI ett tillägg till sin krönika från 1070-talet uppger Adam av Bremen att Håkan valdes till kung av svearna sedan två tronpretendenter med namnet Erik stupat, och Stenkils son Halsten och dennes efterträdare Anund fördrivits från Ryssland.\n\nMer uppgifter ger västgötalagens kungakrönika från mitten av 1200-talet. Där bär han tillnamnet röde och uppges ha varit Stenkils föregångare som kung och ha regerat i tretton vintrar. Enligt samma källa föddes han i Levene i Västergötland och blev begraven där. Den isländska traditionen nämner honom bara i förbigående, utan tillnamn, som företrädare till Stenkils son Inge. Möjligen är det Håkan och inte Halsten som i ett brev från början av 1080-talet i det påvliga registret nämns som kung i Västergötland med initialen A, alltså Aquinus, tillsammans med Inge."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Håkan röde (band 19, 1971–73, sida 560)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13946",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "SBL anger bara att Håkan var svensk kung omkring 1070. Västgötalagens kungakrönika anger tretton vintrar, men ordningen mellan Håkan och Stenkil är oklar. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "regeringstext": "omkring 1070",
+   "osakerLangd": true,
+   "foralder": [
+    {
+     "namn": "Möjligen Emund Åkesson",
+     "anm": "dotterson till Erik Segersäll"
+    }
+   ]
   },
   {
    "id": "inge-den-aldre",
@@ -146,20 +171,92 @@
    "hus": "stenkil",
    "perioder": [
     [
-     1079,
-     1084
-    ],
-    [
-     1087,
-     1105
+     1080,
+     1100
     ]
    ],
    "ca": true,
    "palitlighet": "osäker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Inge den äldre är den förste svenske kung som nämns i brev, i ett brev från påven Gregorius VII 1080. Hans kamp mot hedendomen och ett norskt krig skildras i sagorna, men mycket i dem är sent och osäkert.",
+   "berattelse": [
+    {
+     "rubrik": "Den förste kungen i brevmaterialet",
+     "text": "Inge är den förste svenske kung som nämns i brevmaterial. Den 4 oktober 1080 skrev påven Gregorius VII till svearnas kung I, namnet i det påvliga registret bara angivet med initial. Påven hade hört att kristna predikanter kommit till hans land och ville att kungen skulle skicka en biskop eller annan lämplig präst till Rom för att berätta om landets förhållanden och ta emot instruktioner.\n\nEtt odaterat brev från samme påve riktar sig till västgötarnas kungar I och A. Det nämner att en biskop R, som har identifierats med någon av Rodolward eller Rikulv i den västgötska biskopslängden, kommit till Rom med underrättelser om folkets omvändelse till kristendomen. Påven ville då att tionde skulle påbjudas över hela riket och att präster ofta skulle sändas till Rom för att lära sig kyrkans sed.\n\nDet har diskuterats om medregenten A var Inges bror Halsten, som dock bara i Hervararsagan nämns som medregent. Enligt Adam av Bremen hade Halsten fördrivits efter en kort tid som kung under tronstriderna efter faderns död, och enligt västgötalagens kungalängd efterträdde han Inge. Därför har A också identifierats med Håkan, den senaste kung Adam nämner, som enligt Hervararsagan var Inges föregångare men enligt västgötalagen Stenkils."
+    },
+    {
+     "rubrik": "Kampen mot hedendomen",
+     "text": "Att Inge år 1080 var kung över svearna men vid en annan tidpunkt var en av västgötarnas två kungar kan sättas samman med Hervararsagans utförliga skildring av hans tidigare regeringsår. Enligt den avskaffade han blotandet i Sverige och påbjöd kristendomen. När Inge på tinget vägrade ge upp åtgärderna jagades han bort med stenkastning, och hans svåger Blot-Sven valdes till kung av svearna medan Inge for till Västergötland. Efter tre vintrar kom han tillbaka, dödade svågern, återinförde kristendomen och styrde landet till sin död. Inges fördrivande och Blot-Svens val nämns också i legenden om den engelske missionären Eskil i Södermanland, som i sin nuvarande form tillkommit tidigast i slutet av 1200-talet.\n\nInges religiösa intresse framgår också av en lista över donationer till Vreta kloster, känd genom excerpter från 1500-talet. Enligt den grundade han klostret tillsammans med sin gemål Helena och gav bort vissa uppräknade gårdar, de flesta i Östergötland."
+    },
+    {
+     "rubrik": "Kriget med Norge",
+     "text": "Utöver Hervararsagan förekommer Inge i andra västnordiska källor, tidigast hos den norske munken Theodoricus strax före 1187. Där nämns krig och fredsslut, tydligen omkring 1100, mellan Inge, götarnas kung, och den norske kungen Magnus Barfot, som då fick Inges dotter Margareta till hustru. Vissa delar av Dalsland, som Magnus gjort anspråk på, fick hon som hemgift. Inge kallas i denna källa \"oförvitlig\" (probissimus). Senare isländska källor, bland annat Snorre Sturlassons Heimskringla, skildrar kriget mer utförligt, delvis efter tydligen samtida skaldeverser. Bland annat nämns en strid i Fuxerna. Freden ska ha slutits i Kungälvs föregångare Konungahälla i närvaro av den danske kungen Erik Ejegod. Inge skildras då som den störste och kraftigaste av de tre kungarna.\n\nAtt de isländska källorna har så mycket fler uppgifter om Inge än om andra svenska kungar under dessa århundraden har satts i samband med att islänningen Markus Skeggjason enligt den isländska skaldelistan en tid varit verksam hos Inge, och att biskop Gissur Isleifsson enligt Are frode vistades i Götaland i början av 1080-talet."
+    },
+    {
+     "rubrik": "Sena och tvivelaktiga uppgifter",
+     "text": "Enligt den först på 1400-talet tillkomna Prosaiska krönikan ska Inge ha segrat i fem strider i Skåne och innehaft landskapet i tre år men blivit mördad där i sin säng. Lilla rimkrönikan tillägger att han begravdes i Värnhem. Ännu senare och mer tvivelaktig är Johannes Magnus uppgift att Inge skulle ha besegrat en rysk furste Valdemar eller Jarizlav. Västgötalagens kungalängd prisar däremot Inges mod och laglydighet. Hans gravsten i Varnhems kyrka tillkom först på 1600-talet på initiativ av M. G. De la Gardie."
+    },
+    {
+     "rubrik": "Familj",
+     "text": "Enligt SBL var Inge gift med Helena, möjligen identisk med en \"Mær\" (en mö) som enligt isländska uppgifter var hans gemål och syster till motkungen Blot-Sven. Enligt en uppgift från 1400-talet var han gift med den som dyrkades som helgon, Ragnhild, som ska ha grundat Södertälje kyrka och blivit begravd där, medan en annan uppgift från samma århundrade gör henne till gift med hans brorson Inge den yngre. Om hans ende son Ragvald är bara känt att hans dotter Ingrid enligt isländska uppgifter var mor till den svenske tronpretendenten Magnus Henriksson och till den norske kungen Inge Krokrygg. Dottern Margareta, kallad fredkulla, gifte efter Magnus Barfots död om sig med Nils, Erik Ejegods bror och efterträdare som dansk kung, och fick med honom sonen Magnus Nilsson, senare svensk tronpretendent. Dottern Katarina var enligt Knytlingasagan svärmor till Erik den helige, och en tredje dotter, Kristina, var enligt danska släktlistor från slutet av 1100-talet genom giftermål med en rysk furste mormor till den danske kungen Valdemar den store och dennes kusin, den ungerske kungen Béla III."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Inge d.ä. (band 19, 1971–73, sida 779)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14103",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "Inge var kung från senast 1080 och dog tidigast omkring 1100. Omkring tre år i början av 1080-talet var han bara en av de två kungarna i Västergötland, enligt SBL. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "regeringstext": "från senast 1080 till omkring 1100",
+   "osakerLangd": true,
+   "dod": 1100,
+   "dodCa": true,
+   "foralder": [
+    "stenkil"
+   ],
+   "make": [
+    {
+     "namn": "Helena",
+     "anm": "möjligen den \"Mær\" som isländska källor nämner"
+    }
+   ],
+   "barn": [
+    {
+     "namn": "Ragvald",
+     "anm": "enda sonen"
+    },
+    {
+     "namn": "Margareta fredkulla",
+     "anm": "gift med Magnus Barfot"
+    },
+    {
+     "namn": "Katarina"
+    },
+    {
+     "namn": "Kristina"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "halsten",
+     "relation": "bror"
+    },
+    {
+     "id": "blot-sven",
+     "relation": "svåger (enligt isländska källor)"
+    },
+    {
+     "id": "inge-den-yngre",
+     "relation": "brorson"
+    }
+   ],
+   "fakta": [
+    "Inge är den förste svenske kung som nämns i brev, i påven Gregorius VII:s brev 1080.",
+    "Gravstenen i Varnhems kyrka tillkom först på 1600-talet och bygger inte på någon äldre uppgift om graven."
+   ]
   },
   {
    "id": "blot-sven",
@@ -168,16 +265,45 @@
    "hus": "stenkil",
    "perioder": [
     [
-     1084,
-     1087
+     1080,
+     1083
     ]
    ],
    "ca": true,
    "palitlighet": "osäker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Blot-Sven var ledare för det hedniska partiet omkring 1080 och blev enligt isländska källor vald till kung när Inge den äldre vägrade delta i blotet.",
+   "berattelse": [
+    {
+     "rubrik": "Den hedniska reaktionen",
+     "text": "Blot-Sven omtalas som ledare för det hedniska partiet i Sverige och framträdde omkring 1080. Adam av Bremen berättar att man under missionskyrkans tid i Sverige visat stor tolerans mot missionärerna och deras anhängare. När kungen antog kristendomen kom man överens om att han fick fri religionsutövning i en del av riket, medan hedningarna i övrigt fritt skulle få dyrka sina gudar. Omkring 1080 vet vi dock ur flera delvis helt autentiska källor att en hednisk reaktion ägde rum, och den helige Eskil blev ett av offren.\n\nOm orsaken finns olika uppgifter. Den engelske krönikören Aelnoth tänker mest på växtförhållandena, som gjorde svenskarna benägna att frukta de gamla gudarnas vrede och tvivla på den nya gudens makt. Isländarna anser i stället att den unge kungen, Inge den äldre, var orsaken genom att gå längre i kristet nit än fadern och än vad de hedniska svearna ansåg stämma med gällande lag, alltså den överenskommelse som nämnts. Att västgötalagens kungalängd uttryckligen hävdar att Inge aldrig bröt något landskaps lag kan enligt SBL kanske tolkas som en direkt polemik mot den uppfattningen och därmed som ett bevis för att den fanns."
+    },
+    {
+     "rubrik": "Blot-Sven enligt de isländska källorna",
+     "text": "Det är en dramatisk episod som i de isländska källorna gett honom namnet han blivit känd under. De svenska källorna kallar honom Sveno Idolatra eller Sven Blodkarl. Detaljerna om hans liv får vi därför från isländarna. När kung Inge vägrade delta i det hedniska offret vid svearnas ting ansågs han ha brutit lagen, och svearna fördrev honom. Kungen var gift med en högättad kvinna som kallades \"Mär\", alltså Mö. Drottningens bror Sven åtog sig att sköta blotet och valdes till svearnas kung, medan Inge fick dra sig tillbaka till Västergötland. Inom tre år kom han tillbaka, överrumplade och dödade Sven och återvann kungavärdigheten över hela riket. Därmed var kristendomens seger avgjord."
+    },
+    {
+     "rubrik": "Vad SBL tror på",
+     "text": "SBL påpekar att det i skildringen egentligen inte finns något som direkt förefaller tvivelaktigt förutom drottningens namn. Enligt pålitliga danska källor hette Inges drottning Helena. Att hon också haft ett nordiskt namn kan vara troligt, men namnet Mö kan knappast bero på något annat än ett missförstånd. Några runstenar som verkar avse personer ur kungaätten ger anledning att tro att Sven härstammade från Ynglingaätten, och en sådan härstamning är troligen en nödvändig förutsättning för att hans tronanspråk skulle lyckas. Full visshet går inte att nå. Däremot kan man bestämt säga att uppgifterna där en sen kungalängd gör Blot-Sven till stamfader för de sverkerska och erikska ätterna saknar all trovärdighet."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Blotsven (band 5, 1925, sida 73)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17820",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "SBL anger bara att Blot-Sven framträdde omkring 1080. Isländska källor nämner att Inge kom tillbaka inom tre år. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "regeringstext": "omkring 1080",
+   "osakerLangd": true,
+   "relaterade": [
+    {
+     "id": "inge-den-aldre",
+     "relation": "svåger (enligt isländska källor)"
+    }
+   ]
   },
   {
    "id": "filip",
@@ -186,16 +312,45 @@
    "hus": "stenkil",
    "perioder": [
     [
-     1105,
+     1100,
      1118
     ]
    ],
    "ca": true,
    "palitlighet": "osäker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Filip var son till Halsten och regerade kort efter omkring 1100. Det finns knappast om någon annan svensk kung från kristen tid så få uppgifter, men hans dödsår, 1118, är bevarat.",
+   "berattelse": [
+    {
+     "rubrik": "Vem var Filip?",
+     "text": "Filip var svensk kung, son till Halsten av den stenkilska ätten, och dog 1118. Han blev kung efter omkring 1100. Enligt Uppsalalängden efterträdde han Inge den äldre. Västgötalagens kungakrönika sätter i stället Halsten som hans företrädare, men det strider mot anteckningar hos Adams samtida krönika och bör därför enligt SBL inte beaktas.\n\nUppgiften att Filip regerade tillsammans med sin bror Inge den yngre har inget stöd i de äldsta svenska kungalängderna och förekommer först, och under medeltiden bara, i genealogiskt konstruerade isländska skrifter, Langfeðgatal och Hervararsagan. I den svenska kungalängden fram till 1333, som är utpräglat kompilatorisk och påverkad av isländsk släktkonstruktion, sätts Filip som medregent till den Ragnvald Ingesson som nämns av Saxo. Att Ragnvald skulle ha varit svensk kung är emellertid okänt i alla andra källor. Enligt Hervararsagan regerade Filip kort tid. Hans regering måste ha börjat efter omkring 1100, då Inge den äldre ännu levde."
+    },
+    {
+     "rubrik": "Dödsåret och familjen",
+     "text": "Knappast om någon annan svensk kung från kristen tid som varit rikets obestridde herre finns så få uppgifter. Västgötalagens kungakrönika, som under följande sekel betraktade den stenkilska ättens tid som den gamla goda tiden och vill säga något positivt om var och en av kungarna, berättar att ingen kunde tillvita Filip lagbrott. Märkligt nog är den annars så okände kungens dödsår bekant: Ari frode nämner i sin Islendingabok bland sina kronologiska notiser Filips död 1118, och SBL ser ingen anledning att betvivla det.\n\nEnligt Hervararsagan var Filip gift med Harald Hårdrådes dotter Ingrid. Enligt andra isländska källor var hon gift med den danske kungen Olof Svensson, kallad Olof Hunger, och det kan givetvis tänkas att Filip gifte sig med dennes änka. Frågan hänger samman med hur den del av Hervararsagan som handlar om de svenska kungarna fram till Filip ska bedömas. Det har dels hävdats att den direkt återger ett parti ur Ari frodes större förlorade Islendingabok och alltså skrevs kort efter 1117, dels att den ingår som en integrerad del i den omkring år 1300 skrivna Hervararsagan."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Konung Filip (band 16, 1964–66, sida 22)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14124",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "Filip blev kung efter omkring 1100 och dog 1118 enligt SBL. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "regeringstext": "efter omkring 1100 till 1118",
+   "osakerLangd": true,
+   "dod": 1118,
+   "foralder": [
+    "halsten"
+   ],
+   "relaterade": [
+    {
+     "id": "inge-den-yngre",
+     "relation": "bror"
+    }
+   ]
   },
   {
    "id": "inge-den-yngre",
@@ -204,16 +359,48 @@
    "hus": "stenkil",
    "perioder": [
     [
-     1110,
+     1118,
      1125
     ]
    ],
    "ca": true,
    "palitlighet": "osäker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Inge den yngre, brorson till Inge den äldre, var troligen den siste manlige medlemmen av Stenkils ätt. Hans regering var kort enligt SBL, och västgötalagen berättar att han blev förgiftad i Östergötland.",
+   "berattelse": [
+    {
+     "rubrik": "Kung efter Filip",
+     "text": "Inge den yngre var brorson till Inge den äldre och svensk kung i början av 1100-talet. Hans far var kung Halsten. Västgötalagens kungalängd uppger att han efterträdde sin bror Filip, som enligt isländsk uppgift dog 1118, och att han blev förgiftad \"med ond dryck\" i Östergötland. Enligt isländsk uppgift efterträdde han tillsammans med Filip deras farbror Inge den äldre. Bristen på ytterligare källnotiser tyder enligt SBL på att hans regering var kort.\n\nDen enda kronologiska hållpunkten verkar vara Saxos uppgift att götarna, efter en svensk kungs död, valde Magnus Nilsson till kung, och han stupade redan 1134. Inge var sannolikt den siste manlige medlemmen av Stenkils dynasti. En uppgift från 1300-talet att han skulle ha varit svärfar till Erik den helige är troligen oriktig. Hans gravmonument i Vreta klosters kyrka tillkom på 1500-talet på initiativ av Johan III."
+    },
+    {
+     "rubrik": "Hans gemål",
+     "text": "Uppgifterna om Inges giftermål går isär. Enligt en svensk uppgift från 1400-talet var han gift med den som dyrkades som helgon, Ragnhild, som ska ha grundat Södertälje kyrka och blivit begravd där, medan en annan 1400-talsuppgift gör henne till gift med hans farbror Inge den äldre. Enligt en isländsk uppgift från 1200-talet, i Fagrskinna, var han gift med Ulfhild Håkansdotter, dotter till den norske stormannen Håkon Finnsson. SBL anger dessutom att flera källor låter hans hustru, eller hustrurna, ingå äktenskap med den danske kungen Nils Svensson (död 1134) och med kung Sverker den äldre (död 1156)."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Inge d.y. (band 19, 1971–73, sida 781)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14102",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "SBL anger bara att Inge den yngre var svensk kung i början av 1100-talet och att han efterträdde Filip, som dog 1118. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "regeringstext": "i början av 1100-talet",
+   "osakerLangd": true,
+   "foralder": [
+    "halsten"
+   ],
+   "relaterade": [
+    {
+     "id": "filip",
+     "relation": "bror"
+    },
+    {
+     "id": "inge-den-aldre",
+     "relation": "farbror"
+    }
+   ]
   },
   {
    "id": "ragnvald-knaphovde",
@@ -228,10 +415,33 @@
    ],
    "ca": true,
    "palitlighet": "osäker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Ragnvald Knaphövde nämns bara i västgötalagens kungakrönika, som säger att han var djärv och högmodig och blev dödad av västgötarna. SBL placerar honom sannolikt på 1120-talet.",
+   "berattelse": [
+    {
+     "rubrik": "Källan",
+     "text": "Ragnvald är känd genom den äldre västgötalagens kungakrönika, som har daterats till 1240-talet. Där uppges att han var kung mellan Inge den yngre och Sverker den äldre, att han var djärv (\"baldaer\") och högmodig (\"huxstor\"), och att han utan gisslan red till \"Karllaepitt\" och blev dödad eftersom han därmed förolämpat västgötarna.\n\nEn kopia från 1400-talet har \"Karlaeby\" i stället för \"Karllaepitt\". Det har satts i samband med att lagmansting och häradsting åtminstone på 1400-talet kan beläggas ha hållits i Karleby socken nära Falköping. Enligt en annan uppgift från 1400-talet dödades Ragnvald i \"Gaasamosa\", ett ortnamn som nu förekommer som Gåsamossen på flera håll i Vadsbo och Valle härad i Västergötland. Nära Karleby ligger Gårmossen i Asle socken i Vartofta härad, och det fornisländska ordet \"pyttr\" betyder pöl."
+    },
+    {
+     "rubrik": "Tillnamnet och härkomsten",
+     "text": "Tillnamnet \"knaphöfda\" har lagts till i marginalen i kungakrönikan med betydligt yngre handstil, troligen efter någon av 1400-talsverken Prosaiska krönikan, Lilla rimkrönikan eller Ericus Olai. Ordet har använts om ett dryckeskärl av ett manshuvuds storlek och har i det här fallet ansetts betyda rundhuvud.\n\nOm Ragnvalds ursprung uppger en isländsk uppräkning av svenska kungar från början av 1300-talet att han var son till en Olof \"näskonung\". Det har sammanställts med att en svensk kungalängd från andra hälften av 1200-talet nämner en Näskonung bland kungarna mellan Inge den yngres far Halsten och dennes bror Inge den äldre. Men uppgiften är så sen och obestyrkt att den har ansetts värdelös. Valet av Ragnvald har i stället förmodats kunna förklaras med att han skulle vara identisk med Inge den äldres i övrigt okände men av isländska skribenter och Saxo nämnde son med samma namn, men det har betecknats som enbart en namnkombination."
+    },
+    {
+     "rubrik": "Dateringen",
+     "text": "Saxo nämner inte Ragnvalds namn men uppger att svearna, sedan götarna valt den danske kungasonen Magnus Nilsson, valde en annan kung som götarna dödade. Magnus Nilsson förekommer inte i västgötalagens kungakrönika. Den kung Saxo inte namnger torde enligt SBL ha varit Ragnvald. Hans regering kan då dateras av att Magnus Nilsson stupade 1134 och av att Ragnvalds företrädares företrädare eller medregent Filip enligt isländsk uppgift dog 1118. Ragnvalds gravkor i Vreta kloster, tillkommet på Johan III:s tid, vittnar enligt SBL om en förväxling med den Ragnvald som var bror till Magnus Henriksson och kan beläggas ha donerat till klostret."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Ragnvald (band 29, 1995–97, sida 615)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7499",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "SBL anger bara att Ragnvald var svensk kung, sannolikt på 1120-talet. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "regeringstext": "sannolikt på 1120-talet",
+   "osakerLangd": true
   }
  ]
 }
