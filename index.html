@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Sveriges regenter</title>
+<meta name="description" content="Tidslinje över Sveriges kungar och drottningar, med en berättelse om varje regent.">
+<meta name="theme-color" content="#0d2a4a">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="hoppa" href="#app">Hoppa till innehållet</a>
+<header class="topp">
+  <a class="varumarke" href="#/" aria-label="Sveriges regenter, till startsidan">
+    <span class="logo"><svg viewBox="0 0 512 512" aria-hidden="true"><path fill="currentColor" d="M136 342 108 192l84 70 64-116 64 116 84-70-28 150z"/><rect fill="currentColor" x="132" y="356" width="248" height="46" rx="10"/></svg></span>
+    <span class="vm-text">Sveriges regenter</span>
+  </a>
+  <nav class="nav" aria-label="Huvudmeny">
+    <a href="#/" data-nav="">Hem</a>
+    <a href="#/tidslinje" data-nav="tidslinje">Tidslinje</a>
+    <a href="#/slakttrad" data-nav="slakttrad">Släktträd</a>
+    <a href="#/handelser" data-nav="handelser">Händelser</a>
+    <a href="#/mer" data-nav="mer">Mer</a>
+  </nav>
+  <a class="sokknapp" href="#/sok" aria-label="Sök">
+    <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m15.5 15.5 5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+  </a>
+</header>
+<div class="lasstreck" id="lasstreck" aria-hidden="true"></div>
+<main id="app" tabindex="-1"><p class="laddar">Laddar…</p></main>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="app.js" defer></script>
+</body>
+</html>
