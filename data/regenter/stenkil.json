@@ -1,0 +1,162 @@
+{
+ "regenter": [
+  {
+   "id": "stenkil",
+   "namn": "Stenkil",
+   "titel": "Kung",
+   "hus": "stenkil",
+   "perioder": [
+    [
+     1060,
+     1066
+    ]
+   ],
+   "dod": 1066,
+   "dodCa": true,
+   "ca": true,
+   "palitlighet": "osäker",
+   "barn": [
+    "halsten",
+    "inge-den-aldre"
+   ],
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "halsten",
+   "namn": "Halsten Stenkilsson",
+   "titel": "Kung",
+   "hus": "stenkil",
+   "perioder": [
+    [
+     1070,
+     1075
+    ]
+   ],
+   "ca": true,
+   "palitlighet": "osäker",
+   "barn": [
+    "filip",
+    "inge-den-yngre"
+   ],
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "hakan-rode",
+   "namn": "Håkan Röde",
+   "titel": "Kung",
+   "hus": "stenkil",
+   "perioder": [
+    [
+     1075,
+     1079
+    ]
+   ],
+   "ca": true,
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "inge-den-aldre",
+   "namn": "Inge den äldre",
+   "titel": "Kung",
+   "hus": "stenkil",
+   "perioder": [
+    [
+     1079,
+     1084
+    ],
+    [
+     1087,
+     1105
+    ]
+   ],
+   "ca": true,
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "blot-sven",
+   "namn": "Blot-Sven",
+   "titel": "Kung",
+   "hus": "stenkil",
+   "perioder": [
+    [
+     1084,
+     1087
+    ]
+   ],
+   "ca": true,
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "filip",
+   "namn": "Filip Halstensson",
+   "titel": "Kung",
+   "hus": "stenkil",
+   "perioder": [
+    [
+     1105,
+     1118
+    ]
+   ],
+   "ca": true,
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "inge-den-yngre",
+   "namn": "Inge den yngre",
+   "titel": "Kung",
+   "hus": "stenkil",
+   "perioder": [
+    [
+     1110,
+     1125
+    ]
+   ],
+   "ca": true,
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "ragnvald-knaphovde",
+   "namn": "Ragnvald Knaphövde",
+   "titel": "Kung",
+   "hus": "ovriga",
+   "perioder": [
+    [
+     1125,
+     1130
+    ]
+   ],
+   "ca": true,
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
