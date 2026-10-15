@@ -15,7 +15,8 @@
    "dod": 1560,
    "foralder": [
     {
-     "namn": "Erik Johansson (Vasa)"
+     "namn": "Erik Johansson (Vasa)",
+     "anm": "riksråd"
     },
     {
      "namn": "Cecilia Månsdotter (Eka)"
@@ -23,82 +24,92 @@
    ],
    "make": [
     {
-     "namn": "Katarina av Sachsen-Lauenburg"
+     "namn": "Katarina av Sachsen-Lauenburg",
+     "anm": "gift 1531"
     },
     {
-     "namn": "Margareta Leijonhufvud"
+     "namn": "Margareta Leijonhufvud",
+     "anm": "gift 1536"
     },
     {
-     "namn": "Katarina Stenbock"
+     "namn": "Katarina Stenbock",
+     "anm": "gift 1552"
     }
    ],
    "barn": [
     "erik-xiv",
     "johan-iii",
-    "karl-ix",
-    {
-     "namn": "Magnus, hertig av Östergötland"
-    }
+    "karl-ix"
    ],
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "Gustav Vasa var gisslan, flykting och upprorsledare innan han blev Sveriges förste arvkung. Under hans styre stärktes kungamakten, kyrkan underordnades kronan och riket lämnade för gott unionen med Danmark.",
+   "status": "verifierad",
+   "ingress": "Gustav Vasa började som en ung adelsman i Sten Stures hov och blev gisslan, flykting och upprorsledare. Som kung byggde han under nära fyrtio år upp ett arvrike med stark kungamakt, en egen kyrka under kronan och en ordnad statsekonomi, men det skedde med hårda metoder och många uppror.",
    "berattelse": [
     {
-     "rubrik": "Släkt och uppväxt",
-     "text": "Gustav Eriksson föddes 1496 i Uppland. Hans far, Erik Johansson, tillhörde den släkt som senare kom att kallas Vasa efter sitt vapen, en kärve (vase). Fadern var riksråd och stod på Sturepartiets sida, och modern, Cecilia Månsdotter, kom också ur en framstående adelsfamilj. Släkten var alltså väl förbunden med den politiska elit som sedan decennier försvarade Sveriges självständighet mot de danska unionskungarna.\n\nGustav växte upp i en tid då unionen med Danmark och Norge hade blivit en öppen stridsfråga. På ena sidan stod de som ville behålla unionen under en gemensam kung, på den andra de som, under ledning av riksföreståndarna ur Sturesläkten, ville ha Sverige styrt av svenskar. Som ung man kom Gustav i tjänst hos riksföreståndaren [[sten-sture-den-yngre|Sten Sture den yngre]] och fick tidigt se hur makten fungerade, och hur sårbar den var."
+     "rubrik": "Släkt och födelse",
+     "text": "Gustav Eriksson föddes den 12 maj 1496, troligen på Lindholmens gods i Orkesta i Uppland. Några äldre källor anger 1495, men SBL bedömer 1496 som mest sannolikt. Hans far, riksrådet Erik Johansson, tillhörde ätten som senare kom att kallas Vasa, och hans mor, Cecilia Månsdotter, kom ur Ekaätten. Båda föräldrarna var högadel med kända anor från 1300-talet, och i släkten fanns också tyskt påbrå genom tidigare giftermål.\n\nFamiljen hörde politiskt till Sturepartiet: farfadern Johan Kristiernsson hade knutit släkten dit genom sitt giftermål, och Gustavs moster Kristina Gyllenstierna var gift med riksföreståndaren Sten Sture den yngre. Gustav var näst äldst i en barnaskara på tre söner och fem döttrar. Av dem verkar bara systern Margareta ha nått vuxen ålder. Namnet Gustav fick han efter faderns morfar, som var far till Sten Sture den äldre. Enligt SBL var det tänkt att stärka släktens anspråk på Sturearvet."
     },
     {
-     "rubrik": "Gisslan i Danmark och flykten",
-     "text": "Hösten 1518 sändes Gustav som gisslan till den danske unionskungen [[kristian-ii|Kristian II]] i samband med förhandlingar på Mälaren. I stället för att få komma hem fördes han till Danmark och hölls fången på slottet Kalø i Jylland. Under fångenskapen levde han som en ädling men utan frihet, och han lärde sig hur den danske kungen tänkte och vad han var beredd att göra.\n\nÅr 1519 lyckades Gustav fly. Han tog sig söderut till Lübeck, den mäktiga hansestaden, som hade egna skäl att vilja försvaga Danmarks kung. I maj 1520 kunde han med hjälp av Lübeck segla över Östersjön och landsätta vid Kalmar. Läget i Sverige var då i gungning. Sten Sture den yngre var på väg att besegras av Kristian II:s trupper, och Gustav stod själv utan armé och utan någon tydlig plats i striden."
+     "rubrik": "Ung vid Sturehovet",
+     "text": "Efter korta studier i Uppsala fick Gustav från omkring 18 års ålder sin politiska och militära skolning vid riksföreståndaren Sten Sture den yngres hov. De sparsamma källorna ger bilden av en vaken men hetsig ung adelsman, som troligen hade en ansvarsfull ställning vid hovstaten. Han deltog i Sten Stures lyckade försvar av Stockholm mot Kristian II:s anfall 1517 och 1518, och vid Brännkyrka ska han ha burit huvudbaneret.\n\nDen 2 oktober 1518 ingick han i den grupp som lämnades som gisslan hos Kristian inför överenskomna förhandlingar. Men den danska flottan seglade plötsligt iväg med de svenskar som kommit ombord. I nästan ett år hölls Gustav kvar, internerad hos en släkting på Kalö slott på östra Jylland. När danskarna förberedde ett nytt härtåg mot Sverige tog han sig undan och kom i september 1519 som hjälpsökande flykting till Lübeck. Därifrån lyckades han, med hjälp av lybska köpmän, ta sig över Östersjön till Kalmar i maj 1520."
     },
     {
-     "rubrik": "Stockholms blodbad och resningen i Dalarna",
-     "text": "I november 1520 kröntes Kristian II till kung i Stockholm. Några dagar senare, den 8 november, lät han avrätta ett stort antal av rikets ledande män på Stortorget, bland dem biskopar, riksråd och borgmästare. Händelsen kom att kallas [[h:stockholms-blodbad-1520|Stockholms blodbad]]. Bland de avrättade fanns Gustavs far, Erik Johansson. Gustavs mor och systrar fördes som fångar till Danmark, där de avled.\n\nGustav själv höll sig undan och tog sig i vintern 1520–1521 till Dalarna. Där försökte han först förgäves få bönderna med sig, och han var på väg mot norska gränsen när dalkarlarna, enligt traditionen, ångrade sig och skickade skidlöpare efter honom. Hur mycket av den berättelsen som är historia och hur mycket som är senare sägen är svårt att avgöra, eftersom de äldsta skildringarna skrevs ned flera decennier efteråt. Tydligt är däremot att resningen i Dalarna växte under 1521, att allt fler bygder anslöt sig och att Gustav fick den ledarroll han saknat."
+     "rubrik": "Blodbadet och dalkarlarna",
+     "text": "När Gustav kom hem hade Kristian II:s nya anfall redan haft framgång. På hösten skulle Kristian kröna sig i Stockholm, och kröningen skulle samtidigt vara en försoningsfest. Gustav hade fått både amnesti och inbjudan, men han vägrade att komma. Det räddade hans liv: i blodbadet i november mördades hans far, hans svåger och flera manliga släktingar, medan hans mor och tre systrar fängslades. Modern och två av systrarna dog snart i fångenskapen. All släktens egendom drogs in.\n\nGustav gav sig av till Dalarna efter en rad äventyr som folktraditionen senare utökade och färgade. Men bönderna i Mora ville inte gripa till vapen, och Gustav tog väg mot Norge för att komma undan utomlands. Då ändrade sig morakarlarna när de fick höra mer om Kristians handlingar och planer. Några skidlöpare kallade tillbaka honom från Sälen i Lima socken, och i januari 1521 utsåg Dalarna honom till sin hövitsman."
     },
     {
-     "rubrik": "Befrielsekriget och kungavalet 1523",
-     "text": "I augusti 1521 valdes Gustav i Vadstena till [[o:riksforestandare|riksföreståndare]]. Under de följande två åren belägrade hans trupper Stockholm och andra fästen, samtidigt som Lübecks flotta hjälpte till på havet. Lübecks stöd var dyrt. Staden fick handelsprivilegier och Sverige blev skyldigt den stora summor, en skuld som Gustav under flera år kämpade med att betala av.\n\nUnder tiden föll Kristian II:s ställning även i Danmark, och våren 1523 lämnade han landet. Den 6 juni 1523 valdes Gustav till kung vid riksdagen i Strängnäs. Elva dagar senare, den 17 juni, tågade han in i Stockholm. Kalmarunionen var därmed i praktiken slut, och Sverige hade en kung som inte längre behövde svara inför en dansk överherre. Men kronan var tom, landet utarmat av krigen och stora delar av makten låg hos kyrkan och hos adeln."
+     "rubrik": "Resningen sprider sig",
+     "text": "Varför även de rika och inflytelserika bergsmännen längre söderut anslöt sig till resningen är enligt SBL oklart. Gustav kunde vädja till den gamla Sturevänliga inställningen, eftersom han var Sturarnas närmaste vuxna manliga släkting. Men ekonomiska skäl kan ha spelat in: Kristian II hade planer på att omorganisera bergsbruket och trycka ut tyskarna ur den nordiska marknaden, och bergsmännen kan ha oroats av att Stockholm nu styrdes av ett nytt råd.\n\nDen första stora segern kom i april 1521 vid Västerås. Gustavs underbefälhavare trängde snabbt ned i Väster- och Östergötland och fick kontakt med den resning som smålänningarna, ledda av Sturemän, redan hade startat vid årsskiftet. Under sommaren omfattade bondehärarna hela landet, och nu anslöt sig också fler grupper i samhället, med västgötalagmannen Ture Jönsson och Linköpingsbiskopen Hans Brask i spetsen. Vid ett möte i Vadstena den 23 augusti 1521 erkändes Gustav som riksföreståndare.\n\nFör att kunna fortsätta kriget behövdes pengar. Gustav förfogade över Kopparberget och Sala silvergruva, och från våren 1522 över ärkestolens inkomster och Västerås stift, jämte silver från kyrkan. Men för att bryta de danska fästena krävdes mer. Från sommaren 1522 blev Lübecks hjälp med flotta, knektar och krigsförnödenheter avgörande, och som motprestation tog riksföreståndaren på sig skuldförbindelser och lovade stora handelsprivilegier. Vid årsskiftet 1523 började avgörandet mogna: Kalmar inneslöts, Stockholm isolerades och trupper bröt in i Skåne och Bohuslän. Samtidigt gjorde Danmarks adel uppror mot Kristian, och han lämnade Norden som flykting den 13 april 1523."
     },
     {
-     "rubrik": "Reformationen och kyrkans gods",
-     "text": "Gustav behövde pengar, och en stor del av pengarna fanns hos kyrkan. På riksdagen i Västerås 1527 lyckades han, enligt traditionen efter att ha hotat med att lämna riket, få igenom att kronan fick dra in en stor del av kyrkans egendom och att evangeliskt, det vill säga reformatoriskt, predikande tilläts. Beslutet brukar ses som reformationens början i Sverige, men för Gustav var det i första hand ett sätt att stärka statens ekonomi och maktställning.\n\nReformationen genomfördes därför lugnt och steg för steg. Olaus Petri och hans bror Laurentius Petri satte sin prägel på den nya kyrkan, och 1531 blev Laurentius Petri ärkebiskop. År 1541 kom den första fullständiga bibeln på svenska. Förhållandet till reformatorerna var inte problemfritt. År 1540 dömdes Olaus Petri och Laurentius Andreae till döden för att ha känt till men inte avslöjat ett påstått sammansvärjningsförsök, men de benådades och fick betala böter. Kyrkan blev under Gustav i praktiken underordnad kronan."
+     "rubrik": "Kungavalet i Strängnäs",
+     "text": "Det var i det läget som Gustav valdes till kung vid riksdagen i Strängnäs den 6 juni 1523. Om motiven bakom valet råder delade meningar. Lübecks två ledande rådsherrar, som var särskilt framträdande gäster på riksdagen, sägs ha varit de egentliga kungamakarna, eftersom staden ville ha en kung som kunde utfärda handelsprivilegierna och ansvara för skulden. Andra forskare har velat se valet som en improvisation, utlöst av att danska unionsplaner blev kända mitt under mötet, eller som rådsaristokratins planerade seger över Sturepartiet. Säkert är enligt SBL att den nye danske kungens unionsplaner gjorde valet aktuellt, att lybeckarna önskade det och verkade pådrivande, och att händelsernas egen logik pekade på Gustav, som stod som befrielsekampens segrare. Kort därefter, i midsommartid, tågade han in i Stockholm."
     },
     {
-     "rubrik": "Staten, skatterna och Dackefejden",
-     "text": "Gustav Vasa byggde upp en kungamakt av ett slag som Sverige inte tidigare haft. Han införde en noggrann förvaltning med fogdar, räkenskaper och skriftlig kontroll, byggde om och befäste slott som Gripsholm, Vadstena och Kalmar och satsade på en armé som delvis bestod av tyska legosoldater. Skatterna höjdes, och bönderna fick bära en betydande del av bördan.\n\nMissnöjet tog sig uttryck i flera uppror under hans tid. Det största var Dackefejden 1542–1543 i Småland under ledning av Nils Dacke. Upproret hade flera orsaker: höga skatter, kyrkans förändrade ställning och kronans allt hårdare grepp om bygderna. Gustav lyckades krossa det med hjälp av legosoldater, och Dacke dödades 1543. Året därpå, 1544, fastslog riksdagen i Västerås att kungamakten skulle gå i arv inom Vasaätten, vilket gjorde Sverige till ett arvrike. Tidigare hade kungen formellt valts."
+     "rubrik": "De första kungaåren",
+     "text": "De första åren blev en ständig kamp för att behålla ställningen. Utrikespolitiskt var Gustav helt beroende av Lübeck, med dess penningkrav och tullfria handel i Sverige, ett beroende han fick känna av på kungamötet i Malmö 1524, hans enda utlandsbesök som kung. För att bli friare måste han stärka riket inifrån: bekämpa självrådiga särintressen och skaffa mer pengar. Han hade tidigt en kritisk syn på kyrkans makthavare, kanske förstärkt vid det kyrkokritiska Sturehovet, och många biskopar hade under kriget varit hans fiender. Kyrkan hade som många andra varit långivare redan 1522 och 1523, men nu växte kraven steg för steg: 1524 begärde han bidrag till expeditionen mot Sören Norby på Gotland, 1525 fick han en andel av kyrkotiondet och rätt till borgläger i klostren, och 1526 krävde han två tredjedelar av kyrkans tionde under året.\n\nReformationens män kom honom till hjälp. Deras uppfattning att kyrkans pengar rätteligen var folkets gav honom den teoretiska motiveringen. Laurentius Andreae, som utsågs till kansler, blev hans närmaste man, och Olaus Petri blev stadsskrivare och predikant i Storkyrkan i Stockholm. Gustav hade också fått en maktpolitisk fördel av kriget: av 30 rådsherrar 1520 var bara nio kvar i livet inom landets gränser sommaren 1522. Han lade stora områden under kronans egen förvaltning, men från 1526 ändrade han politik och gav adeln större förläningar, i utbyte mot ett närmande till det världsliga frälset. Under tiden mötte han de första dalupproren, 1524 och 1527, där Sturemän ofta fanns i ledningen. Orsakerna var missväxt, dyrtid på grund av hans mynt och nya skatter för den lybska skulden."
     },
     {
-     "rubrik": "Familjen och testamentet",
-     "text": "Gustav gifte sig tre gånger. Första äktenskapet, 1531 med Katarina av Sachsen-Lauenburg, gav sonen [[erik-xiv|Erik]] (född 1533), men Katarina dog redan 1535. År 1536 gifte han sig med Margareta Leijonhufvud, som födde honom ett stort antal barn, bland dem [[johan-iii|Johan]] (1537), Magnus (1542) och [[karl-ix|Karl]] (1550). Margareta dog 1551, och 1552 gifte sig Gustav med den då sextonåriga Katarina Stenbock.\n\nI sitt testamente 1560 bestämde Gustav att Erik skulle ärva kronan och att hans yngre söner skulle få egna hertigdömen: Johan fick bland annat Finland, Magnus Östergötland och Karl Södermanland, Närke och Värmland. Tanken var att hålla ihop släkten, men hertigdömena gav i stället bröderna egna maktbaser. Konflikterna mellan Erik och hans bröder blev en av de dramatiska fortsättningarna på Gustavs styre."
+     "rubrik": "Västerås 1527 och kyrkan",
+     "text": "Våren 1527 sammankallade Gustav riksdagen i Västerås, intill upprorshärden i Dalarna. Adeln uppmanades att komma med väpnat följe. Från Lübeck hade samma vår kommit sändebud som krävde att skuldtabellen skulle godkännas och amorteringarna återupptas. Gustav lät ständerna själva förhandla med dem. I en välberäknad proposition, utformad med Laurentius Andreaes hjälp, beskrev han de svårigheter han mött och sade att han under sådana förhållanden inte längre ville vara kung. SBL beskriver tronavsägelsen som ett påtryckningsmedel, inte allvarligt menad. Riksdagsbeslutet, recessen, följde hans önskemål, och i en därefter utfärdad stadga, ordinantian, skärpte han beslutet till statens fördel.\n\nBiskoparnas slott och deras rätt att ta ut avgifter övergick i kungens hand, klostrens förvaltning anförtroddes åt adelsmän, den kyrkliga domsrätten upphävdes och biskoparna ingick inte längre självskrivna i riksrådet. Adeln fick också rätt att återfå gods som bevisligen övergått till kyrkan efter 1454. Ingen ny lära antogs, och ingenting stod om Rom eller om gudstjänsten. Men adel och allmoge ville att påbudet om att Guds ord skulle predikas rent skulle kompletteras med orden \"och förbliva vid goda gamla kristliga sedvänjor\". Gustav strök tillägget, mot riksdagsmajoritetens vilja, vilket enligt SBL gjorde riksdagen till en reformationsriksdag i praktiken.\n\nBeslutet stärkte kungens ekonomi avgörande. Kronan fick större penninginkomster, och Gustav kunde avlöna en armé som var beroende av honom. Kröningen hölls i Uppsala i januari 1528, och i kröningseden ändrades löftet till kyrkan: i stället för att skydda biskoparnas makt lovade han rättvisa och fred åt Guds kyrka och folket. När drottning Katarina vigdes och kröntes i september 1531 valdes Laurentius Petri till ärkebiskop, och eftersom han konsekrerades utan påvens medverkan hade den svenska kyrkan i praktiken brutit med Rom."
     },
     {
-     "rubrik": "Sista åren och döden",
-     "text": "Under sina sista år var Gustav fortsatt närvarande i alla delar av förvaltningen. Han förde 1555–1557 ett krig mot Ryssland som slutade utan större förändringar, och han fortsatte att befästa och bygga upp riket. Hälsan försämrades under 1560, och han avled den 29 september 1560 på Stockholms slott. Han gravsattes i Uppsala domkyrka, där hans grav ligger i Vasakoret."
+     "rubrik": "Uppror, Kristian II och Lübecks nederlag",
+     "text": "På kyrkomötet i Örebro i februari 1529 valde Gustav en försiktig medelväg i frågor om gudstjänsten, och ingen part blev nöjd. Västgötaherrarnas uppror 1529, med lagmannen Ture Jönsson, skarabiskopen Magnus Haraldsson och jönköpingsborgmästaren Nils Arvidsson i spetsen, hade både religiösa och ekonomiska orsaker, eftersom Gustav hårdnade mot Lübeck och ville släppa in holländarna i Östersjön. En medlingsdeputation fick förlikningsförslaget antaget i Broddetorp, och herrarna gav upp. Gustav ratificerade överenskommelsen men ändrade texten på en viktig punkt: han lovade bara att inte införa någon kättersk lära, och höll fast vid Västerås och Örebro.\n\nI Dalarna kom den avgörande pacificeringen först 1533, efter bland annat klockupproret 1531, när en skatt för att betala lybska skulden utlöste ny oro. Att Gustav dröjde berodde på att Kristian II:s befarade återkomst slogs ut mot Norden: Kristian landsteg i november 1531 på Norges västkust men gick sommaren 1532 för alltid i dansk fångenskap. Därefter gjorde Gustav upp med Dalarna i ett blodigt räfsteting våren 1533, och 1534 dömdes hans gamla vänner Måns Nilsson, Anders Persson och Ingel Hansson till döden. Grevefejden 1534–36 utlöstes när ett radikalare styre i Lübeck krävde att Norden skulle delta i stadens försök att med våld bryta holländarnas handel. Gustav upphävde ensidigt de lybska privilegierna och ingick en försvarsallians med den nye danske kungen Kristian III. Lübecks nederlag gav honom bara ett femårigt stillestånd, men förmynderskapet var slut: skulden var avbetald och privilegierna ogiltiga. Därmed hade han enligt SBL definitivt genomfört sitt befrielseverk."
     },
     {
-     "rubrik": "Eftermäle",
-     "text": "Gustav Vasa har länge setts som Sveriges grundare. Under 1800-talet, i takt med att den svenska nationalstaten byggdes ut, blev han en nationell hjälte, en bild som förstärktes av berättelserna om flykten genom Dalarna. Vasaloppet, som sedan 1922 går mellan Sälen och Mora, bygger på den traditionen. Sveriges nationaldag, 6 juni, anspelar bland annat på kungavalet 1523.\n\nModern forskning ger en mer nyanserad bild. Gustav var en skicklig statsbyggare men också en hård härskare som krossade motstånd, tog kyrkans egendom och belastade bönderna med tunga skatter. Hans arv är därför både en stark, centraliserad stat och en kunglig maktutövning som många av hans samtida upplevde som tvingande."
+     "rubrik": "Den tyska perioden och arvriket",
+     "text": "Efter grevefejden följde den så kallade tyska perioden. Gustav behöll utländska soldater i sin tjänst, och 1538 blev juristen Conrad von Pyhy, tidigare i habsburgsk tjänst, hans förtrogne kansler. Den pommerske teologen Georg Norman, som rekommenderats av Luther och 1539 anställts som prins Eriks lärare, blev snart landets kyrkominister. De förde in en ny statsidé: en absolut härskarmakt, en habsburgsk ämbetsmannaorganisation och de tyska furstarnas statskyrka. Bakgrunden var också starkt ökade resurser. Sala gruva gav sin högsta avkastning i mitten av 1530-talet, förvaltningen gav överskott, och 1539 lades en hänsynslös extraskatt.\n\nVid arvhyllningen i Örebro vid nyår 1540 proklamerades arvriket. Riksrådet omdanades under Pyhys ledning till ett hov- och regementsråd, krigsväsendet ställdes under ett överste krigsråd och förvaltningen byggdes ut med kammarråd. På kyrkans område blev det kris. Reformatorerna hade varit aktiva 1536–37, men Gustav såg nu faran i en självständig kyrka, och predikanterna, bland dem Olaus Petri, vågade öppet kritisera överheten. Vid årsskiftet 1539/40 dömdes Laurentius Andreae och Olaus Petri till döden, men domen verkställdes inte. För att själv ta ledningen utfärdade Gustav 1540 den första svenska kyrkoordningen, skriven av Georg Norman, och landsfurstekyrkan var införd."
+    },
+    {
+     "rubrik": "Dackefejden och Västerås 1544",
+     "text": "Reaktionen mot nyordningen och den hårdare ekonomiska politiken kom i Dackefejden 1542–43. År 1541 hade silverkonfiskationen gått fram över Smålands kyrkor, olika ekonomiska förbud hade utfärdats, och den ökade skattebördan träffade småbönderna och de allt fler nybyggarna i södra skogs- och gränsområden hårt. Gustav red ut stormen med skicklig propaganda, hård ekonomisk avspärrning och militära åtgärder som skulle fånga upp den hjälp Dacke tycks ha väntat sig från tronkrävarna hertig Albrekt av Mecklenburg och pfalzgreve Fredrik, och till och med från kejsaren. Segern 1543 blev avgörande. Lokalt rekryterade svenska knektar gav Gustav stöd mot nya uppror, och Värend lades under fast förvaltning med Kronoberg som centrum.\n\nUnder tiden hade kanslern slutit ett förbund med Frankrike och värvat stora ryttarskaror i Nordtyskland, men Gustav ville inte öppet gå in i det stora kriget, och han ville inte betala de värvade krigarna. Pyhy dömdes till livstids fängelse, och med honom föll det mesta av nyorganisationen. Riksrådet och biskoparna kom tillbaka, och i Västerås 1544 var det riksdagen, inte som i Örebro 1540 den maktfullkomlige suveränen, som stadfäste arvriket och sanktionerade den evangeliska reformationen i lära och ceremonier efter de svenska reformatorernas linje."
+    },
+    {
+     "rubrik": "Riksfadern i arbete",
+     "text": "Efter 1544 fortsatte Gustav bygga en fast rikshushållning, med enligt SBL utpräglad ekonomisk begåvning och otrolig arbetsförmåga. På 1540-talet började staten öka inkomsterna i varor och organisera kronohandeln i fasta former, med kronans varuhus och kungens köpmän. De adliga länen minskade och koncentrerades till den grupp av högfrälset som genom drottning Margareta var knuten till kungen, och fogdeförvaltningen växte. Själv var Gustav landets största godsägare, som prövade större jordbruksenheter på sina gårdar. Hans ord och omsorger gick enligt SBL till alla sidor av folkets dagliga liv, rådande, manande och bestraffande.\n\nHans rädsla för en alltför självständig kyrka släppte aldrig. Han ersatte till sist biskoparna med ordinarier och delade upp de gamla stiften, så att sju blev femton. För landets fria intellektuella liv hade han enligt SBL inget sinne: klosterbibliotek och gillen skövlades, katedralskolorna fick små anslag, Uppsala universitet återupprättades inte, och Olaus Petris svenska krönika kunde bara överleva i hemlighet. Utåt ville han trygga freden. Brömsebroförbundet med Danmark 1541 höll, och 1555 kom kriget med Ryssland. Gustav begav sig själv till Finland, men flottaktionen mot Nöteborg ledde inte till något resultat, och ryssarnas angrepp i januari 1556 mot Viborg och Nyslott slutade i flykt. Kriget pressade honom hårt: han var förgrymmad på livländarna, på sönerna Erik och Johan och, som alltid, på fogdarna, och utgifterna tycktes honom fasansfullt höga. På våren 1557 slöts ett stillestånd på fyrtio år."
+    },
+    {
+     "rubrik": "Familjen och de sista åren",
+     "text": "Gustav gifte sig tre gånger. Första gången gifte han sig i september 1531 med Katarina av Sachsen-Lauenburg, som dog i september 1535. Året därpå, den 1 oktober 1536, gifte han sig i Uppsala med Margareta Eriksdotter Leijonhufvud, som dog 1551 på Tynnelsö. Slutligen, den 22 augusti 1552, gifte han sig i Vadstena med Katarina Gustavsdotter Stenbock, som var systerdotter till Margareta. Enligt Kungliga slotten hade han sonen Erik med den första hustrun, tio barn, bland dem Johan och Karl, med den andra, och inga barn med den tredje.\n\nUnder sina sista år drabbades Gustav av bekymmer med barnen, framför allt en upprivande konflikt med Erik, och av krämpor. Synen började avta, och han fick svåra inflammationer i underkäken och vänstra lårbenet. Men med okuvlig viljestyrka fullföljde han sitt verk. På sin sista riksdag 1560 gav han riket en familjeakt med furstlig försörjning för alla barnen och en svensk grundlag: Erik skulle vara skyldig att i livsviktiga frågor söka enighet och stöd hos sina bröder, rådet och ständerna. Nationellt samarbete blev därmed hans politiska testamente. Gustav dog den 29 september 1560 på Stockholms slott och begravdes den 21 december samma år i Uppsala domkyrka."
+    },
+    {
+     "rubrik": "Människan och eftermälet",
+     "text": "Bilden som Gustav själv gav eftervärlden, och som den historieskrivning han inspirerade vidareförde, visar främst den unge frihetshjälten och den patriarkaliske riksfadern. Det stora bevarade materialet ger en mer nyanserad bild. Enligt SBL hade han praktisk begåvning, oerhörd arbetsförmåga och ett ovanligt minne, folklig vältalighet, personligt mod och envis seghet. Men vinnande charm och kärv humor växlade med beräknande hänsynslöshet, våldsamma vredesutbrott och ibland djup disharmoni.\n\nGustav Vasa räknas ofta som grundare av den moderna svenska staten. Enligt Kungliga slotten lämnade han efter sig ett fast etablerat rike under stark centralmakt. De mest äkta porträtten är enligt SBL Jacob Bincks målning från 1542 och en okänd mästares efter förlorad förlaga från 1550-talet. De visar att han på 1540-talet bar skägget relativt kort och tvärklippt men senare långt och kluvet. Han har blivit föremål för statyer och för Strindbergs stora drama \"Gustav Vasa\" (1899)."
     }
    ],
    "kallor": [
     {
-     "titel": "Svenskt biografiskt lexikon, artikel om Gustav I",
-     "utgivare": "Riksarkivet",
-     "url": "https://sok.riksarkivet.se/sbl/",
-     "kontrollerad": false
+     "titel": "Gustav I (artikel av Ivan Svalenius, band 17, 1967–69, sida 433)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13315",
+     "kontrollerad": true
     },
     {
-     "titel": "Nationalencyklopedin, uppslagsord Gustav Vasa",
-     "utgivare": "NE",
-     "url": "https://www.ne.se",
-     "kontrollerad": false
-    },
-    {
-     "titel": "Gustav I (Vasa)",
-     "utgivare": "Kungahuset.se",
-     "url": "https://www.kungahuset.se",
-     "kontrollerad": false
+     "titel": "Gustav Vasa, King of Sweden",
+     "utgivare": "Kungliga slotten (kungligaslotten.se)",
+     "url": "https://www.kungligaslotten.se/english/list-of-swedish-monarchs/gustav-vasa.html",
+     "kontrollerad": true
     }
    ],
    "portratt": {
@@ -109,11 +120,13 @@
     "kalla": "https://commons.wikimedia.org/wiki/File:Gustav_Vasa_by_Jacob_Binck_(copy_after_a_lost_original).jpg"
    },
    "fakta": [
-    "Vasaloppet, som sedan 1922 åker från Sälen till Mora, hänvisar till traditionen om att dalkarlarna åkte skidor efter Gustav för att hämta tillbaka honom.",
-    "Den första fullständiga svenska bibelöversättningen, 1541 års bibel, brukar kallas Gustav Vasas bibel.",
-    "Sveriges nationaldag 6 juni valdes bland annat till minne av att Gustav Vasa valdes till kung 6 juni 1523."
+    "Gustav var kung i nära 37 år men lämnade riket bara en enda gång, till kungamötet i Malmö 1524.",
+    "Av 30 rådsherrar 1520 var bara nio kvar i livet inom landets gränser sommaren 1522, enligt SBL. Det underlättade hans maktutövning.",
+    "Biskopsstiften ökade från sju till femton medan Gustav styrde, eftersom han delade upp de gamla."
    ],
-   "anm": "Exempeltext som visar hur en berättelse ser ut i appen. Texten är skriven som utkast och ska kontrolleras mot källorna."
+   "anm": "Berättelsen bygger på Svenskt biografiskt lexikon och är kontrollerad mot Kungliga slottens sida om Gustav Vasa. Där källorna är oeniga (till exempel födelseår och motiven bakom kungavalet) anges det i texten.",
+   "foddDatum": "1496-05-12",
+   "dodDatum": "1560-09-29"
   },
   {
    "id": "erik-xiv",
