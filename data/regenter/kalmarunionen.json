@@ -793,13 +793,87 @@
      1520
     ]
    ],
-   "fodd": 1493,
+   "fodd": 1492,
    "dod": 1520,
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Sten Sture den yngre blev riksföreståndare som tjugoåring efter sin far Svante Nilsson. Han tog makten från riksrådet och fällde ärkebiskop Gustav Trolle, men sårades dödligt vid Bogesund i början av 1520 när Kristian II angrep Sverige.",
+   "berattelse": [
+    {
+     "rubrik": "Fadern satsar på sonen",
+     "text": "Sten Svantesson Sture föddes 1492 eller 1493 som son till Svante Nilsson i dennes första äktenskap. Fadern satsade hårt på att sonen skulle efterträda honom och lät honom tidigt pröva både militära och diplomatiska uppgifter. Sten följde 1510 med på en svensk-lybsk sjöexpedition mot Danmark och utsågs samma höst till medlem av den delegation som under Hemming Gadh förhandlade med hanseaterna om ett förbund. Vid årsskiftet 1510–11 deltog han med fadern i försvaret av Västergötland mot danska angrepp. Året därpå utsåg Svante honom till ståthållare i Västergötland, och han fick ett omfattande länsområde med Örebro som bas. Den 16 november 1511 gifte han sig i Stockholm med Kristina Gyllenstierna, dotter till riksrådet Nils Eriksson Gyllenstierna och Sigrid Eskilsdotter Banér."
+    },
+    {
+     "rubrik": "Valet 1512",
+     "text": "Tvekampen mellan Svante Nilsson och riksrådet hade slutat med ett avtal om riksmöte i Arboga i januari 1512. Svante dog, och rådet valde snabbt Erik Trolle till riksföreståndare. Sten begärde lejd till mötet, en utmanande handling som visar att han var inställd på strid, och rådet gav honom lejd i ett brev formulerat med godmodig ironi, en antydan om att man inte tog honom riktigt på allvar. Resultatet ger ändå vid handen att han gått ut hårt och tvingat rådet att annullera valet av Erik Trolle. Rådets eftergift berodde på att slottsloven på alla rikets slott utom ett var ställd på Sten, ett verk av Svante. Rådet ändrade slottsloven så att den skulle stå till fyra rådsmedlemmar med ärkebiskop Jakob Ulvsson som främste, men Sten gjorde det verkningslöst genom att få försäkringar om absolut trohet från slottshövitsmännen och även från alla lägre befattningshavare i fataburen, till exempel häradshövdingar och fogdar. Genom dem kom han i kontakt med folkmenigheterna, som han själv systematiskt bearbetade genom att möta upp och propagera vid de stora marknaderna.\n\nRådet slöt sig inför ett möte i Stockholm vid midsommar samman i ett förbund för att fullfölja avtalet med kung Hans och hävda rådets rätt att \"skicka styrelse och regemente i riket som dem tycktes bäst och nyttigast\". Sten kom till mötet med ett stort uppbåd av anhängare, och i flera veckor pågick kraftmätningen, som ibland tog form av handgemäng med blanka vapen. Han utsågs den 23 juli 1512 till riksföreståndare men fick betala ett högt pris: han erkände rådets krav att alla riksvårdande ärenden skulle avgöras i rådet, rådet utsåg hans motståndare Nils Bosson Grip till innehavare av de viktiga slotten Viborg och Sankt Olofsborg, slottsloven skulle ställas till fyra rådsmedlemmar varav han var en, och kyrkan fick rätt till fria val. Hemming Gadh, som valts till biskop i Linköping 1500 men aldrig sökt påvlig konfirmation, kunde inte längre stödjas, och kapitlet valde Hans Brask."
+    },
+    {
+     "rubrik": "Viborg och en metod",
+     "text": "Eftergifterna betydde inte att Sten gett upp sina mål. Han handlade i övertygelse om att han genom regeringsmakten skulle nå det han inte nått förhandlingsvägen. Under sken av att organisera försvaret i Finland reste han genast efter valet dit för att omintetgöra rådets beslut om Viborg och Olofsborg: i största hemlighet erbjöd han änkan efter slottshövitsmannen på Viborg, Gunhild Johansdotter Bese, en bättre förläning om hon överlämnade slotten till honom, så att han kunde överlåta dem till hennes svärson Tönne Eriksson Tott. Nils Bosson fick vänta förgäves utanför slottet. SBL pekar på att detta var symptomatiskt: han framträdde inte själv utan handlade genom ombud. När biskop Matthias och Jakob Ulvsson hindrades av bönder från att utnyttja sina andelar i Sala silvergruva, var det tydligt att Sten stod bakom, för att inskärpa att läntagarna hade särskilda trohetsförpliktelser mot honom.\n\nFrågan om förhållandet till kung Hans skulle avhandlas vid ett herremöte i Vadstena, som Sten självrådigt tidssatte till marknaden i januari 1513. Hans död den 20 februari 1513 ändrade det utrikespolitiska läget radikalt. Sten sammankallade rådet först sent, efter påstötningar från ärkebiskop Jakob. Man enades om en uppskovslinje, men i recessen med danskarna kallades Kristian utvald kung till Sverige, vilket reducerade Malmöfredens två villkor till ett. Vid årsskiftet 1513–14 fick Sten ett kompromissanbud från Jakob Ulvsson: Sten skulle avstå från att söka stöd hos allmogen, och de politiska frågorna skulle avgöras i rådet. Vid rådsmötet i Södertälje i augusti 1514 och herremötet i Vadstena 1515 accepterade rådet att Tönne Eriksson övertagit Viborg och Olofsborg, vilket betydde att det erkände Stens rätt att ensam handha förläningspolitiken. Hans ställning som rikets styresman var nu erkänd av alla, och Kristian tvingades 1515 gå med på ytterligare stillestånd på två år."
+    },
+    {
+     "rubrik": "Gustav Trolle och Stäket",
+     "text": "Jakob Ulvsson avträdde sitt ämbete till förmån för Gustav Trolle, en kompensation till den grupp som betalat eftergifterna. Därmed aktualiserades frågan om Stäkets län: var det ett kronans län eller kyrklig egendom? Gustav Trolle utverkade i Rom påvliga bullor som styrkte kyrkans äganderätt och gav honom rätt att kalla den världsliga armén till hjälp, och lät vigas där. Sten förklarade att resignationen därmed var fullbordad och belade länet med kvarstad, en åtgärd som pressade både kanonisk och svensk rätt men gav honom övertag i processen. Han ville få definitivt slut på kyrkans anspråk och slå fast att länet var kronans, med rätt att kräva trohetsförsäkringar. Gustav Trolle ställde som villkor att Sten erkände kyrkans äganderätt.\n\nSten gick med en skara trogna rådsmedlemmar till ärkebiskopen i Uppsala domkyrka och krävde trohetsförsäkringar, och vidgade därmed konflikten till ärkebiskopens förhållande till rikets styresman. Vid ett rådsmöte i Södertälje sommaren 1516 fick han rådet med sig om förhållandet till Kristian, som inte längre kallades utvald kung. Men han fick inte rådet med sig i fördömandet av ärkebiskopen. Material fick han av den gamle fribytaren Sten Kristiernsson Oxenstierna, som han fångade när han överrumplande intog Nyköping, och som bekände att han inlett förhandlingar med Kristian och att Gustav och Erik Trolle varit med vid de landsförrädiska överläggningarna. Erik Trolle fängslades, och Sten inledde belägringen av Stäket. Samtidigt framställde han sig som förkämpe för det meniga bästa, medan hans motståndare anklagades för att ha rikets fördärv som mål.\n\nSten bearbetade rådet vid ett möte i Södertälje 1517, men fick bara ett beslut om att Gustav skulle lova att stå till rätta. Han skärpte kraven och begärde att ärkebiskopen skulle uppge Stäket, vilket vägrades. Situationen tillspetsades när Kristian i maj 1517 gick till militärt angrepp. En dansk eskader härjade längs Östersjökusten, och en häravdelning gick mot Stockholm men slogs tillbaka av Sten. Därmed var striden slut för Gustav Trolle, som ville kapitulera, men Sten vägrade förhandla. Vid riksmötet i Stockholm i november 1517 dömdes Gustav, då hans egna svenner vittnat mot honom, enigt av råd och riksmöte som skyldig till landsförräderi och förlustig sitt ämbete, och Stäket skulle brytas ned."
+    },
+    {
+     "rubrik": "Triumf och brist på resurser",
+     "text": "Sten kunde triumfera: makten var hans, råd och kyrka berövade självständighet, riksmötet ett lydigt redskap. Så stor var hans tro på sin makt att han i proklamationer pekade fram mot den dag då svenskarna skulle tåga mot danskarna och tvinga dem till fred. Men han hade inga sådana militära resurser. Förläningspolitiken hade gynnat läntagarna men missgynnat honom, och hans skatteintäkter minskade eftersom han efterskänkte skatt till strategiskt viktiga landskapsmenigheter som Dalarna. Han kunde inte värva utländska knektar, och inför slutuppgörelsen 1519 bortföll möjligheten helt sedan Kristian förmått hansestäderna att förbjuda svenska värvningar. Han organiserade ett försvar traditionsenligt med små förband av tränade knektar i samverkan med spontant uppbådad allmoge, vilket fungerade vid försvaret av Stockholm 1517 och 1518 men sämre mot den danska flottans härjningar. Det är en av förklaringarna till att det danska angreppet 1519 blev så framgångsrikt.\n\nPåven gav sin avlatskommissarie Johannes Angelus Arcimboldus i uppdrag att medla fred. Han kom till Sverige hösten 1518 och Sten stödde hans insamlingsverksamhet, men när Arcimboldus på våren 1519 for till Danmark försökte Kristian fängsla honom, och kungen lade beslag på de insamlade medlen. Stens arkiv för åren 1518–19 är inte bevarat, men hans försvar av Stockholm 1518 är känt: han besegrade tydligen Kristians invasionshär i slaget vid Brännkyrka. Kristian stannade flera månader i försök att locka honom till förhandling och begärde, när det misslyckades, en kvalificerad gisslan. Sten sände Hemming Gadh och fem frälsemän, bland dem Gustav Eriksson Vasa. Kristian avbröt då förhandlingarna och seglade hem med gisslan. Hemming Gadh misstänkliggjordes inför Sten, som berövade honom hans län och egendom, ett exempel på det stora inflytande som Peder Jakobsson sunnanväder hade på honom och som sannolikt gav hans sista år drag av folklig diktatur."
+    },
+    {
+     "rubrik": "Bogesund och döden",
+     "text": "Kristians angrepp hösten 1519 var omsorgsfullare planerat. Han hade fått ärkebiskop Birger i Lund att bannlysa Sten, och nu lyste Birger och biskop Lage Urne bann över Sten och en skara av hans anhängare och belade Sverige med interdikt, vilket gav Kristian moraliskt stöd. Han värvade vältränade knektar i Nordtyskland och skapade en imponerande invasionsarmé, och satsade på att nå Stockholm landvägen från Västergötland. Sten mötte danskarna vid Bogesund. På Åsundens is träffades han av en kanonkula och fördes svårt sårad mot Stockholm. Enligt Olaus Petris krönika träffade han i Strängnäs biskop Matthias och bad honom medla mellan sig och ärkebiskop Gustav, som sade sig vara villig att svära honom trohet. På den fortsatta färden mot Stockholm dog han, den 3 februari 1520 på Björkfjärden i Mälaren.\n\nGenom hans död blev Sverige herrelöst. Kristina Gyllenstierna försökte få någon i rådet att överta riksföreståndarskapet, men förgäves. Riksrådet ville nu äntligen genomföra sin fredspolitik, och ärkebiskop Gustav tackade i ett underdånigt brev Kristian för att han frälst honom från \"den hiskelige och omilde mannens\" välde. Kristina omgifte sig 1527 med riksrådet Johan Turesson Tre Rosor och dog 1559 på Hörningsholm."
+    },
+    {
+     "rubrik": "Bedömning",
+     "text": "SBL betonar Stens personliga insatser. Den tjugoårige riksföreståndaren agerade i riksrådet med konsekvent målmedvetenhet och ett självförtroende utan gräns. Han måste ha haft en personlig tjuskraft som fängslade både anhängare och folkmenigheter, men att upphöja honom till statsman kan man knappast, enligt SBL. Han förkroppsligar i Sverige det furstideal som i Machiavellis anda dominerade det politiska livet i Europa. Geijer kallade honom \"den ädlaste och ridderligaste av Sturarna\", en uppfattning som dominerade forskningen till sekelskiftet 1900 och i folklig föreställning gav en romantiserad ljusgestalt. Först 1929 kom en omvärdering med Gottfrid Carlssons karaktärsstudie, som med utgångspunkt i Johannes Magnus kritik tecknade honom som den mot sina fiender hårdaste och hänsynslösaste av de tre sturarna, och menade att statsmannagåvor måste den unge regenten ha ägt som så starkt kunde göra sin vilja gällande. Carlssons omvärdering slog genast igenom. Forskarna är oeniga om viktiga händelsesammanhang, men enligt SBL råder viss enighet om rådgivarna: Hemming Gadh var betydelsefull för Sten tills han fördes till Danmark, och därefter tog Peder Jakobsson hans plats och bär ansvaret för att de sista åren fick en diktatorisk prägel. SBL bygger framställningen på G. T. Westins avhandling Riksföreståndaren och makten (1957)."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sten Svantesson Sture (band 34, 2013–2019, sida 96)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34642",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "regeringstext": "riksföreståndare från 23 juli 1512 till sin död 3 februari 1520",
+   "foddCa": true,
+   "dodCa": false,
+   "dodDatum": "1520-02-03",
+   "dodsatt": "stupad",
+   "foralder": [
+    "svante-nilsson"
+   ],
+   "make": [
+    {
+     "namn": "Kristina Gyllenstierna",
+     "anm": "gift 1511; född 1494, död 1559; omgift 1527 med Johan Turesson (Tre Rosor)"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "kristian-ii",
+     "relation": "besegrad av honom 1520"
+    },
+    {
+     "id": "gustav-vasa",
+     "relation": "gisslan hos Kristian II 1518"
+    }
+   ],
+   "portratt": {
+    "fil": "Sture Sten Svantesson d.y. 1492-1520, och Kristina Gyllenstierna, 1494-1559 - Nationalmuseum - 15066.tif",
+    "beskrivning": "Sten Sture den yngre och Kristina Gyllenstierna, målning av okänd konstnär (ett senare porträtt)",
+    "kredit": "Okänd konstnär, Nationalmuseum",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Sture_Sten_Svantesson_d.y._1492-1520,_och_Kristina_Gyllenstierna,_1494-1559_-_Nationalmuseum_-_15066.tif"
+   },
+   "anm": "Sten föddes 1492 eller 1493, blev riksföreståndare 23 juli 1512 och dog 3 februari 1520 på Björkfjärden i Mälaren. Berättelsen bygger på SBL:s artikel i band 34, där han heter Sten Svantesson Sture. SBL:s arkiv för åren 1518–19 saknas.",
+   "fakta": [
+    "Sten Sture den yngre blev riksföreståndare som tjugoåring, efter sin far Svante Nilsson.",
+    "Det första riksdagsbeslutet i Sveriges historia, enligt SBL:s artikel om Kristian II, antogs vid riksmötet i Stockholm den 23 november 1517 och gällde den kyrkliga processen mot Gustav Trolle.",
+    "Gustav Vasa var en av de gisslan som Kristian II tog med sig 1518."
+   ]
   },
   {
    "id": "kristian-ii",
@@ -815,10 +889,97 @@
    "fodd": 1481,
    "dod": 1559,
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Kristian II krönades till svensk kung i Stockholm i november 1520, och några dagar senare lät han avrätta 82 personer vid Stockholms blodbad. Det raserade hans makt i Sverige, och 1523 flydde han från alla tre rikena. Han fängslades 1532 och dog 1559 i Kalundborg.",
+   "berattelse": [
+    {
+     "rubrik": "Kronprinsen",
+     "text": "Kristian föddes den 2 juli 1481 på Nyborgs slott som son till kung Hans och Kristina av Sachsen. Han fick en god fysisk träning och goda kunskaper i bland annat latin. Under faderns krig mot Sverige utmärkte han sig vid intagandet av Älvsborg 1502, och 1511 ledde han ett omfattande härnadståg i västra Sverige där Skara och Jönköping plundrades. Från 1506 styrde han som vicekonung i Norge, där han med kraft hävdade kungamakten, anknöt till holländarna i handelspolitiken och gynnade borgarståndet på aristokratins bekostnad. Han influerades av den rikt begåvade köpmansänkan Sigbrit Willemsdotter från Amsterdam, vars dotter Dyveke (lilla duvan) blivit hans älskarinna, och som han tycks ha varit uppriktigt hängiven. Vid faderns död 1513 tog han dem med sig till Köpenhamn."
+    },
+    {
+     "rubrik": "Kung i Danmark och Norge",
+     "text": "Högaristokratin ställde vid ett stort möte i Köpenhamn sommaren 1513, med mångfaldiga klagomål mot faderns övergrepp, villkor för hans erkännande. I sin handfästning måste han lova att följa Halmstads recess 1483, att inte införa arvriket och att godta riksrådet som garant för löftena. Han höll sig först inom ramen, och den 12 augusti 1515 gifte han sig i Köpenhamn med Isabella (Elisabet), kejsar Karl V:s syster, en hängiven drottning och tidens mäktigaste anförvantskrets, trots att han behöll Dyveke som älskarinna och hennes mor Sigbrit som rådgivare. Med Dyvekes plötsliga död 1517 ändrades bilden. Dunkla rykten sade att den mäktige och våldsamme slottshövitsmannen i Köpenhamn, Torben Oxe, låg bakom hennes död. Oxe fängslades, frikändes av riksrådet men fälldes och avrättades av en av kungen anordnad folkdomstol. Därmed inleddes en sammanstötning med riksrådet med upprepade övergrepp mot kyrka och högaristokrati, inspirerade av Sigbrit, som alltmer fick makt över honom."
+    },
+    {
+     "rubrik": "Erövringen av Sverige",
+     "text": "Vid mötet i Köpenhamn 1513 hade de närvarande svenska delegaterna avvisat Kristians rätt till Sverige och skyldighet att betala tribut. Ett vapenstillestånd avtalades, senare förlängt till påsken 1517, ett år som han använde för att förbereda ett återtagande med vapenmakt. I Sverige gick utvecklingen mot en våldsam konfrontation mellan Sten Sture den yngre, riksföreståndare sedan 1512, och Gustav Trolle, som 1514 blev ärkebiskop. Sten avvisade varje tanke på nordisk union, medan Gustav Trolle samlade högadeln och kyrkomännen kring sina särrättigheter. Sten inledde 1516 en belägring av ärkebiskopens slott Almarestäket, och ärkebiskopens hopp stod till Kristian.\n\nKristian förberedde sig diplomatiskt genom kontakter med Ryssland, handelspolitiskt genom en viss blockad av Sverige från hansestäderna, och propagandamässigt genom att sturepartiet bannlystes av ärkebiskopen i Lund. Han inledde anfallet i maj 1517 med en flotta under Joachim Trolle och amiralen Sören Norby, men trupperna drevs tillbaka vid Värtan. Följande midsommar gjorde han ett nytt försök, men trupperna jagades på flykten mellan Årsta och Brännkyrka, och han lämnade Sverige med en svensk gisslan, bland dem Hemming Gadh och Gustav Eriksson Vasa. Vid det tredje försöket lade han tyngdpunkten till lands under vintern. På nyåret 1520 gick den danska anfallsvågen in över det interdiktbelagda landet via Västergötland. Med riksföreståndarens död bröts det samlade motståndet, och i mars erkände riksrådet Kristian som Sveriges kung mot amnesti för alla. Sten Stures änka Kristina kapitulerade i Stockholm mot hans högtidligen sigillerade löfte om fullständig förlikning. Den 4 november krönte ärkebiskopen honom i Storkyrkan i Stockholm, inte i Uppsala, till Sveriges arvherre. Han syntes ha nått sitt mål."
+    },
+    {
+     "rubrik": "Stockholms blodbad",
+     "text": "Kröningsfesten på Stockholms slott, tillika en försoningsfest, slutade i en av de mest omdiskuterade händelserna i Sveriges historia. Den 7 november stängdes slottsportarna, och inför kungen och riksrådet krävde Gustav Trolle gottgörelse för den skada kyrkan lidit under krigsåren av Sten Sture, hans maka och hennes moder, 15 namngivna anhängare samt Stockholms borgmästare, råd och stad. Den bevarade akten har dessutom krav på straff över dem som uppenbara kättare, och betonar att någon förlikning inte var möjlig. En sådan utvidgning låg i Kristians intresse: mot kättare och bannsmänniskor behövde inga löften hållas, och deras gods tillföll kungen. När riksdagsbeslutet från november 1517, det så kallade sammansvärjelsebrevet, företeddes, fick Kristian nya möjligheter. Följande dag fick 14 andliga och rättslärda med ärkebiskopen i spetsen svara på om handlingarna var uppenbart kätteri. Svaret blev jakande och gällde \"herr Sten o andre benämnde\" och dem som anslutit sig till det okristliga förbundet, en opreciserad grupp. Någon slutlig dom var det inte.\n\nFörst avrättades Strängnäs- och Skarabiskoparna, som Trolle inte anklagat, fem eller sex världsliga riksråd, tre borgmästare och fjorton rådmän, sammanlagt 82 personer. Hårdast drabbades huvudstadens sturevänliga borgerskap. SBL anser att Gustav Trolle inte var den ledande kraften: Kristian själv och hans rådgivare, troligen främst Didrik Slagheck och bakom honom Sigbrit, styrde skenrättegången och avrättningarna efter sin önskan att tillintetgöra sturepartiet och dess demokratiska inslag. Blodbadet och de följande avrättningarna i Finland, där Hemming Gadh blev ett av offren, och kungens färd ner till Danmark kring årsskiftet 1520–21 väckte harm och avsky. Genom löftesbrotten och framfarten även mot män som arbetat för försoning raserade Kristian grunden för sin makt i Sverige och gav Gustav Eriksson ett enormt propagandavapen."
+    },
+    {
+     "rubrik": "Handelsplaner och lagar",
+     "text": "Redan i Stockholm drogs grundlinjerna upp för ett nordiskt handelskompani med Köpenhamn och Stockholm som centra och holländarna som främsta handelspartner. Den svenska bergshanteringen skulle integreras, och kontakt togs med det Lübeck-konkurrerande Fuggerhuset i Sydtyskland. Med hjälp av skickliga män i kansliet, inte minst malmöborgmästaren Hans Mikkelsen, utarbetades det stora lagkomplex som bär Kristians namn och som SBL kallar det verkligt ljusa inslaget i hans bild. I dessa riksomfattande stads- och landslagar, som byggde på inhemsk sedvanerätt men också på utländska mönster, skapades bättre skydd för köpmän, städer och allmoge. Men de brådstörtade nymodigheterna, myntförsämringen och det olidliga skattetrycket, främst orsakat av det av hansestäderna stödda och alltmer framgångsrika upproret i Sverige, väckte oro. Högadeln härmades över det växande antalet borgerliga länsmän och över hans allt tydligare avsikter att införa envälde och arvrike."
+    },
+    {
+     "rubrik": "Fallet och landsflykten",
+     "text": "I augusti 1522 gick Lübeck och Danzig till öppet krig med en förödande handelsblockad. På nyåret 1523 uppsade de jylländska riksråden kungen tro och lydnad och drog med sig hans farbror Fredrik av Holstein. Underligt förlamad och tveksam gav Kristian upp, och den 13 april 1523 lämnade han som flykting sina nordiska riken för att med maka och barn söka hjälp i Nederländerna. Han reste feberaktigt i jakt på hjälpare och krigsfolk men sjönk ibland ned i djup melankoli. Ett hårt slag var det när hans drottning avled 1526 och hans son och två döttrar togs ifrån honom för att uppfostras i katolsk tro, eftersom han i Wittenberg hade hört Luther och bytt troslära. Efter freden med Frankrike 1529 var kejsaren villig att hjälpa honom och hans son mot att han i februari 1530 inför påvens legat avsvor sig kätteriet. År 1531 landsteg han med sin här i Norge och vann landet utom de tre huvudfästena, men 1532 gick han ombord på den danska flottan för att personligen förhandla med kung Fredrik och riksrådet. Den högtidligen givna lejden bröts. Han satt fången på Sönderborgs slott 1532–1549 och därefter på Kalundborgs slott, där han dog den 25 januari 1559."
+    },
+    {
+     "rubrik": "Personen",
+     "text": "Naturen hade enligt SBL gett Kristian rika gåvor: en fysiskt välbyggd kropp, stor personlig charm, ett öppet sinne för det nya och renässansmänniskans aptit på det moderna. Han studerade Machiavelli, knöt kontakt med Erasmus av Rotterdam och reformatorerna i Wittenberg och lät översätta Nya testamentet till danska. De humana lagarna är till viss del hans verk och har ibland gett honom tillnamnet \"den gode\". Men i hans karaktär låg djup misstänksamhet, beräknande förställning och våldsam lidelse. Han saknade sansad klokhet och måtta, och makt och våld blev hans medel och gav honom tyrannens namn. Han har sin grav i Sankt Knuds kirke i Odense."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Kristian II (band 21, 1975–77, sida 566)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11768",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "regeringstext": "svensk arvkonung (krönt 4 november 1520, uppror januari 1521); dansk och norsk kung 1513–1523",
+   "foddCa": false,
+   "foddDatum": "1481-07-02",
+   "dodCa": false,
+   "dodDatum": "1559-01-25",
+   "dodsatt": "död i fångenskap",
+   "foralder": [
+    "hans",
+    {
+     "namn": "Kristina av Sachsen"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Isabella (Elisabet) av Österrike",
+     "anm": "gift 1515, död 1526; syster till kejsar Karl V"
+    }
+   ],
+   "barn": [
+    {
+     "namn": "Hans",
+     "anm": "son, död vid kejsarens hov 1532"
+    },
+    {
+     "namn": "Två döttrar"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "sten-sture-den-yngre",
+     "relation": "besegrade honom 1520"
+    },
+    {
+     "id": "gustav-vasa",
+     "relation": "motståndare"
+    }
+   ],
+   "portratt": {
+    "fil": "Jan Gossaert - Portrait of Christian II, King of Denmark - WGA09780.jpg",
+    "beskrivning": "Kristian II, porträtt av Jan Gossaert, cirka 1523",
+    "kredit": "Jan Gossaert",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Jan_Gossaert_-_Portrait_of_Christian_II,_King_of_Denmark_-_WGA09780.jpg"
+   },
+   "anm": "Kristian föddes 2 juli 1481 och dog 25 januari 1559 på Kalundborgs slott. Han var dansk och norsk kung 1513–1523 och krönt svensk arvkonung 4 november 1520. Berättelsen bygger på SBL.",
+   "fakta": [
+    "Vid Stockholms blodbad avrättades enligt SBL 82 personer, bland dem två biskopar, fem eller sex världsliga riksråd, tre borgmästare och fjorton rådmän.",
+    "Kristian II lät enligt SBL översätta Nya testamentet till danska och låta utarbeta de lagar som bär hans namn.",
+    "Kristian II satt fången i 27 år, 1532–1559, och har sin grav i Sankt Knuds kirke i Odense."
+   ]
   }
  ]
 }
