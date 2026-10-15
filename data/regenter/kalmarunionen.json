@@ -1,0 +1,223 @@
+{
+ "regenter": [
+  {
+   "id": "margareta",
+   "namn": "Margareta",
+   "titel": "Drottning",
+   "hus": "estridsen",
+   "perioder": [
+    [
+     1389,
+     1412
+    ]
+   ],
+   "fodd": 1353,
+   "dod": 1412,
+   "kon": "k",
+   "relaterade": [
+    {
+     "id": "erik-av-pommern",
+     "relation": "adoptivson"
+    }
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "erik-av-pommern",
+   "namn": "Erik av Pommern",
+   "titel": "Kung",
+   "hus": "pommern",
+   "perioder": [
+    [
+     1396,
+     1439
+    ]
+   ],
+   "fodd": 1381,
+   "dod": 1459,
+   "foddCa": true,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "kristofer-av-bayern",
+   "namn": "Kristofer av Bayern",
+   "titel": "Kung",
+   "hus": "bayern",
+   "perioder": [
+    [
+     1441,
+     1448
+    ]
+   ],
+   "fodd": 1416,
+   "dod": 1448,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "karl-knutsson-bonde",
+   "namn": "Karl Knutsson (Bonde)",
+   "titel": "Kung",
+   "hus": "bonde",
+   "perioder": [
+    [
+     1448,
+     1457
+    ],
+    [
+     1464,
+     1465
+    ],
+    [
+     1467,
+     1470
+    ]
+   ],
+   "fodd": 1408,
+   "dod": 1470,
+   "foddCa": true,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "kristian-i",
+   "namn": "Kristian I",
+   "titel": "Kung",
+   "hus": "oldenburg",
+   "perioder": [
+    [
+     1457,
+     1464
+    ]
+   ],
+   "fodd": 1426,
+   "dod": 1481,
+   "barn": [
+    "hans"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "sten-sture-den-aldre",
+   "namn": "Sten Sture den äldre",
+   "titel": "Riksföreståndare",
+   "hus": "sture",
+   "perioder": [
+    [
+     1470,
+     1497
+    ],
+    [
+     1501,
+     1503
+    ]
+   ],
+   "fodd": 1440,
+   "dod": 1503,
+   "foddCa": true,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "hans",
+   "namn": "Hans",
+   "titel": "Kung",
+   "hus": "oldenburg",
+   "perioder": [
+    [
+     1497,
+     1501
+    ]
+   ],
+   "fodd": 1455,
+   "dod": 1513,
+   "barn": [
+    "kristian-ii"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "svante-nilsson",
+   "namn": "Svante Nilsson",
+   "titel": "Riksföreståndare",
+   "hus": "sture",
+   "perioder": [
+    [
+     1504,
+     1512
+    ]
+   ],
+   "fodd": 1460,
+   "dod": 1512,
+   "foddCa": true,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "sten-sture-den-yngre",
+   "namn": "Sten Sture den yngre",
+   "titel": "Riksföreståndare",
+   "hus": "sture",
+   "perioder": [
+    [
+     1512,
+     1520
+    ]
+   ],
+   "fodd": 1493,
+   "dod": 1520,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "kristian-ii",
+   "namn": "Kristian II",
+   "titel": "Kung",
+   "hus": "oldenburg",
+   "perioder": [
+    [
+     1520,
+     1521
+    ]
+   ],
+   "fodd": 1481,
+   "dod": 1559,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
