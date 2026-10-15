@@ -1,0 +1,24 @@
+{
+ "regenter": [
+  {
+   "id": "albrekt-av-mecklenburg",
+   "namn": "Albrekt av Mecklenburg",
+   "titel": "Kung",
+   "hus": "mecklenburg",
+   "perioder": [
+    [
+     1364,
+     1389
+    ]
+   ],
+   "fodd": 1338,
+   "dod": 1412,
+   "foddCa": true,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
