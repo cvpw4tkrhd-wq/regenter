@@ -7,22 +7,75 @@
    "hus": "sverker",
    "perioder": [
     [
-     1130,
+     1132,
      1156
     ]
    ],
    "dod": 1156,
-   "dodCa": true,
+   "dodCa": false,
    "ca": true,
    "dodsatt": "mördad",
    "barn": [
-    "karl-sverkersson"
+    "karl-sverkersson",
+    {
+     "namn": "Johan (Jon jarl)",
+     "anm": "slogs ihjäl av en tingsmenighet"
+    }
    ],
    "palitlighet": "osäker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Sverker den äldre blev kung i början av 1130-talet och avslutade en orolig period av kortvariga kungar och uppror. Under hans tid tog kyrkan fast form i Östergötland, men 1156 mördades han av sin kammartjänare.",
+   "berattelse": [
+    {
+     "rubrik": "Kung efter en orolig tid",
+     "text": "Under medeltidens första århundraden hade kungamakten svårt att göra sig gällande i Svealandskapen, och det gällde även när Sverker var kung. Hans ätt hade stora jordegendomar i Götalandskapen och också större delen av sin politiska bas där. När han i början av 1130-talet valdes till kung avslutades enligt SBL en orolig period, ett halvsekel av kortvariga kungar, hedniska reaktioner och uppror. När han mördades 1156, efter ett kvartssekel som kung, var rikspolitiken åter på väg in i ett våldsamt skede.\n\nEnligt västgötalagens kungakrönika var Sverker den elfte kristne kungen efter Olof Skötkonung. Han kallas Sverker den gamle och var östgöte. Hans tillträde ska ha föregåtts av ett interregnum då landskapet styrdes av en god lagman, vilken flera har identifierat med den i krönikan hyllade Karle av Edsvära. Krönikan är daterad till 1240-talet och den äldsta inhemska källan om Sverker. I den hundra år äldre Roskildekrøniken förekommer han som svensk kung i samband med händelser 1135.\n\nSverkers ursprung är höljt i dunkel. I Saxos danska krönika från början av 1200-talet framställs han som en man av lågt ursprung, vilket troligen betyder att han inte kunde visa kunglig härkomst. Saxo skriver också att han i hast valdes till kung i stället för den danske tronpretendenten Magnus Nilsson, och ogillar att Sverker redan före den danske kungens död 1134 ska ha lockat dennes hustru Ulfhild att lämna sin make och gifta sig med honom."
+    },
+    {
+     "rubrik": "Kyrkan, klostren och ärkestiftet",
+     "text": "Enligt SBL är en kyrkovänlig politik ett kännetecken för Sverkers regering, och den var lyckosam både för honom och för påvekyrkans svenska etablering. En domkyrka byggdes färdig i anslutning till Liunga ting, nuvarande Linköping, strax söder om ätten Sverkers stamort Kaga, och ett stift började ta form under biskop Gisle. Cistercienserna grundade under hans tid kloster i Alvastra, Nydala och Varnhem, och förbindelserna med påvestolen formaliserades i viss mån.\n\nEn påvebulla daterad 27 maj 1133, adresserad till den svenske kungen, uppmanar honom att lyda ärkebiskopen i Hamburg. Kungen har antagits vara Sverker. Bullan hör ihop med flera liknande skrivelser till de nordiska kyrkoprovinserna samma dag och hänger ihop med påvens strid med motpåven. Beslutet följdes inte, och biskopen i Lund fortsatte kalla sig ärkebiskop. Frågan om de nordiska ländernas kyrkliga indelning kom att vila till 1152–53, då den påvlige legaten Nicolaus Breakspear först skilde ut ett norskt ärkesäte i Nidaros.\n\nI Sverige samlades ett kyrkomöte i Linköping för att diskutera med Sverker, stormännen och prelaterna var ett svenskt ärkesäte skulle placeras. Saxo berättar att svearna och götarna varken kunde enas om var biskopsstolen skulle ligga eller vem som skulle bli ärkebiskop. Legaten ansåg inte Sverige moget för en egen kyrkoprovins, och processen drog ut ytterligare ett drygt decennium innan biskopen i Gamla Uppsala utsågs till svensk ärkebiskop, med cisterciensmunken Stephanus från Sverkers kloster i Alvastra som förste innehavare. Mötet fattade ändå flera viktiga beslut: kyrkans frihet från lekmannaingripande fastslogs, svenska biskopar fick rätt att döma i mindre mål, äktenskap, rätten att bära vapen och gåvor till kyrkan reglerades, och den årliga skatten direkt till Rom, som kom att kallas peterspenningen, infördes. Redan den 28 november 1154 utfärdade påven Anastasius IV bullor till Sverker och rikets stormän om att årligen lämna den till biskoparna.\n\nEn uppgift om att Sverker 1138 skulle ha lagt grunden till Uppsala domkyrka bygger enligt SBL på en förfalskad källa. Medeltidens kungar hade inga egna kanslier utan använde domkapitlens och klostrens skrivkunnighet, vilket förklarar varför flera bullor ligger i Linköpings domkyrkas arkiv."
+    },
+    {
+     "rubrik": "Ledung och krig",
+     "text": "Troligen i början av Sverkers regering slöts ett avtal om medverkan vid ledung med gutarna, enligt Gutasagan efter att de helt antagit kristendomen och skaffat sig biskop och präster. De skulle följa svearnas kung i utlyst ledung med sju skepp mot hedniska länder, men inte mot kristna, och om ledungen var rätt utlyst kunde de välja mellan att komma med skepp och åtta veckors proviant eller att betala 40 mark året därpå. Avgiften kallades ledungslame och gjordes senast under andra hälften av 1200-talet om till en fast årlig skatt. Ett ledungståg är belagt under hans tid: 1142 kom svearnas \"furste\" med en biskop och 60 skepp till Novgorod och drabbade samman med främmande handelsmän. Svearna \"uppnådde intet\" och förlorade 150 man. Om furstens identitet är Sverker, var den medföljande prelaten troligen linköpingsbiskopen Gisle.\n\nSaxo och Knytlingasagan berättar om ytterligare krigshändelser, men Saxos skildring är så utsmyckad med inslag från klassisk litteratur att den knappast är trovärdig i detaljerna. Den danske kungen ska ha använt ett kvinnorov som förevändning för ett hämndkrig. Sverkers son Johan, kallad Jon jarl, hade enligt Saxo rövat bort två halländska kvinnor besläktade med den danska kungaätten, något som måste ha hänt omkring 1153, då den påvlige legaten Nicolaus Breakspear förgäves ska ha avrått danskarna från krigståget. Sverker var gammal och utan kamplust, skickade utan framgång delegationer för att få fred, flydde till en avsides plats och lät undersåtarna försvara sig själva. Danskarna väntade på vintern för att kunna utnyttja tillfrusna sjöar och mossar, men dukade så småningom under för kylan och småländska krigslister."
+    },
+    {
+     "rubrik": "Egendomar och ekonomi",
+     "text": "Sverkers ekonomiska bas fanns enligt SBL i trakten runt Linköping, områdena runt Omberg och Tåkern och på Visingsö. Eventuellt kan stora delar av häradet Kinda knytas till honom, och det finns tecken på att han hade domäner i Småland och på Öland. Vitskølberättelsens uppgifter om att han grundade ett kloster i Västergötland är de enda som tyder på att han hade jord i landskapet. Myntfynd i Lödöse har hävdats ha Sverker som myntherre, men det har mötts med tvekan, eftersom mynten har dubbelkors i stället för härskarbild och skarabiskopen därför har föreslagits som möjlig myntherre."
+    },
+    {
+     "rubrik": "Sista åren och mordet",
+     "text": "Sverkers sista år var turbulenta. Sonen Johan, som enligt Saxo var orsaken till det danska infallet i Småland, slogs ihjäl av en uppretad tingsmenighet en tid efter händelsen. Linköpingsmötet var ett annat bakslag, eftersom ärkesätet inte kunde placeras i staden. När den danske prinsen Knut Magnusson reste till Sverige för att fria till Sverkers dotter erbjöds han och hans släkting Valdemar, med förbigående av Sverkers egna barn, att bli hans arvingar. Knut var Sverkers styvson, eftersom hans mor Rikissa tidigare var gift med Sverkers gamle motståndare Magnus Nilsson. Även om uppgiften kommer från den partiske Saxo, behövde Sverker enligt SBL stöd och allianser.\n\nKällorna låter också ana en växande opposition. Forskningen har sammanställt det med uppgiften i flera svenska annaler att Erik den helige vid sin död varit kung i tio år, vilket skulle betyda att han tagit kunganamn redan omkring 1150, med bas i Västergötland. Konflikter vid Varnhems kloster under 1150-talets första år passar i mönstret.\n\nEtt påvebrev från 1208 uppger att Sverker mördades av sin kammartjänare och antyder att hans efterträdare Erik den helige var ansvarig. Även Saxo uppger att han mördades i sömnen av den tjänare som ansvarade för hans sovrum, och att mordet anstiftades av tronpretendenten Magnus Henriksson. Västgötalagens kungakrönika berättar att han mördades av sin hästesven när han skulle fara till julottan i kyrkan. Han dog enligt SBL den 25 december 1156 i Västra Tollstad i Östergötland och begravdes i Alvastra klosterkyrka, där han själv hade påbörjat uppbyggnaden av klostret, enligt Ericus Olai under en stor gravsten nära högaltaret."
+    },
+    {
+     "rubrik": "Familj",
+     "text": "Sverker var gift två gånger. Första hustrun var Ulfhild, dotter till den norske stormannen Håkon Finnsson och tidigare gift med den danske kungen Nils Svensson, som dog 1141 enligt Messenius. Andra hustrun var Rikissa, född 1116, dotter till den polske hertigen Boleslaw III och Salomea av Berg, tidigare gift med Magnus Nilsson och med fursten Volodar av Minsk. Hans son Karl blev kung efter honom, och Johan, kallad Jon jarl, dog före honom."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sverker den äldre (band 35, 2020–, sida 14)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34966",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "Sverker blev kung under 1130-talets första hälft och mördades 1156 efter ett kvartssekel som kung, enligt SBL. Inget samtida porträtt finns bevarat.",
+   "regeringstext": "från 1130-talets första hälft till 1156",
+   "dodDatum": "1156-12-25",
+   "make": [
+    {
+     "namn": "Ulfhild Håkansdotter",
+     "anm": "död 1141; tidigare gift med Nils Svensson"
+    },
+    {
+     "namn": "Rikissa",
+     "anm": "född 1116; tidigare gift med Magnus Nilsson"
+    }
+   ],
+   "fakta": [
+    "Sverker mördades enligt västgötalagen av sin hästesven när han skulle fara till julottan, och enligt Saxo av en tjänare som sov i hans rum.",
+    "Enligt SBL är uppgiften att Sverker 1138 grundade Uppsala domkyrka byggd på en förfalskad källa."
+   ]
   },
   {
    "id": "karl-sverkersson",
@@ -40,11 +93,59 @@
    "barn": [
     "sverker-den-yngre"
    ],
-   "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "palitlighet": "osäker",
+   "status": "verifierad",
+   "ingress": "Karl Sverkersson blev först östgötarnas kung och sedan kung över hela Sverige efter att ha besegrat Magnus Henriksson. Under hans tid fick Sverige sin första ärkebiskop och sitt äldsta bevarade kungasigill.",
+   "berattelse": [
+    {
+     "rubrik": "Östgötarnas kung",
+     "text": "Karl Sverkersson var son till Sverker den äldre och Ulfhild Håkansdotter. Enligt Ericus Olai valdes han till kung av östgötarna två år före Erik den heliges död, som enligt honom inträffade 1160. Att Karl blev östgötarnas kung redan omkring 1158 styrks av att påven Hadrianus IV, som dog 1159, enligt ett utdrag ur ett annars okänt brev ska ha skrivit om peterspenningen till honom som götarnas kung. Karl verkar därefter ha motarbetat Erik. Han var enligt en källa från 1400-talet, Prosaiska krönikan, \"i råd att S:t Erik vart slagen\", vilket kan stämma med Erikslegendens uppgift att Eriks baneman Magnus Henriksson hade stöd av en hövding i riket. Ännu i början av 1161 var Magnus enligt isländska uppgifter svensk kung."
+    },
+    {
+     "rubrik": "Kung över hela riket",
+     "text": "Karl dödade därefter Magnus Henriksson, vilket anges både i västgötalagens kungakrönika och hos Saxo. Enligt krönikan skedde det i Örebro, och en annalnotis dateras till 1161. Både i två påvebrev som kunnat dateras till 5 augusti 1164 och i ett odaterat inhemskt brev nämns Karl som svearnas och götarnas kung.\n\nEnligt påvebreven gavs pallium på Karls, de svenska biskoparnas och jarlen Ulfs begäran till Stefan, den förste ärkebiskopen i Uppsala, som tidigare var munk i det av Karls föräldrar grundade klostret i Alvastra. Det odaterade brevet är den äldsta i Sverige skrivna urkunden: ett brev av ärkebiskop Stefan för Viby kloster, beseglat av Karl med det äldsta bevarade svenska kungasigillet, som visar kungen på tronen. Kontrasigillet visar kungen till häst."
+    },
+    {
+     "rubrik": "Kyrkan och godsen",
+     "text": "En längd över Växjö stifts äldsta biskopar, som sannolikt tillkom i början av 1200-talet, uppger att Karl gav stiftet egen biskop sedan invånarna erbjudit honom pengar. Det har satts i samband med att Växjö inte nämns bland de svenska stiften när ärkebiskopen tillsattes 1164 och att den äldste kände växjöbiskopen kan beläggas tidigast 1170. Flera uppgifter från 1400-talet säger att han grundade Vreta kloster 1162, men det betyder troligen bara att han reorganiserade det. Enligt 1500-talsexcerpter ur en detaljerad donationsuppteckning grundades klostret redan av Inge den äldre, och Karl gav det jord i Naterstada i Slaka i Östergötland. Han ägde också jord i Frönäs på Öland och i Sunnerby i Vrigstad i Småland, som han enligt ett brev från början av 1200-talet bytte bort till linköpingsbiskopen Gisle."
+    },
+    {
+     "rubrik": "Utrikespolitik och död",
+     "text": "Första novgorodkrönikan nämner en misslyckad svensk framstöt mot Ladoga våren 1164, men om Karls roll där är inget känt. Den enda uppgiften om hans utrikespolitik är en notis hos Saxo att resterna av den 1163 avrättade norske tronpretendenten Sigurd Markusfostres anhängare flydde till honom och förgäves försökte få honom att ingripa i Norge. Karl gifte sig troligen 1163 med Kristina, dotter till den skånske stormannen Stig Hvitaledr och Margareta, syster till den danske kungen Valdemar den store.\n\nVästgötalagens kungakrönika, vars författare tycks ha sympatiserat med Karls släkt, prisar hans fridsamma och välvilliga styrelse. Den uppger att han dödades på Visingsö av Knut Eriksson och begravdes i Alvastra. Karl dog den 12 april 1167."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl Sverkersson (band 20, 1973–75, sida 621)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12369",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "Karl var östgötarnas kung från omkring 1158 och kung över hela Sverige från 1161 till sin död 1167. Inget samtida porträtt finns bevarat.",
+   "regeringstext": "från 1161 till 1167 (östgötarnas kung från omkring 1158)",
+   "dodCa": false,
+   "dodDatum": "1167-04-12",
+   "make": [
+    {
+     "namn": "Kristina Stigsdotter",
+     "anm": "gift troligen 1163"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "erik-den-helige",
+     "relation": "motståndare"
+    },
+    {
+     "id": "magnus-henriksson",
+     "relation": "besegrade honom"
+    },
+    {
+     "id": "knut-eriksson",
+     "relation": "dödade honom"
+    }
+   ]
   },
   {
    "id": "sverker-den-yngre",
@@ -62,11 +163,60 @@
    "barn": [
     "johan-sverkersson"
    ],
-   "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "palitlighet": "osäker",
+   "status": "verifierad",
+   "ingress": "Sverker den yngre växte upp i Danmark efter att hans far mördats, blev kung 1196 och förlorade kronan efter slagen vid Älgarås, Lena och Gestilren. Han stupade 1210.",
+   "berattelse": [
+    {
+     "rubrik": "Flykten till Danmark",
+     "text": "Sverker föddes troligen något av åren 1164–67. När hans far Karl Sverkersson mördades på Visingsö den 12 april 1167 var Sverker ett litet barn som hastigt fördes i säkerhet hos moderns släktingar i Danmark. Västgötalagens kungakrönika ger en dramatisk bild av en \"ömkelig\" flykt. I Danmark hade han ett starkt släktnätverk, med moderns morbror Valdemar den store i spetsen. Valdemar var sedan 1157 gift med Sofia av Minsk, vars mor Rikissa i sitt sista äktenskap varit gift med Sverkers farfar, Sverker den äldre. Därigenom innehade Valdemar en hel del av den sverkerska ättens stamgods i Sverige. Om modern Kristinas öden saknas uppgifter, och man vet inte om hon också flydde.\n\nFlykten var säkert befogad. Under åtminstone ett halvt decennium därefter utkämpades tronstrider mellan Knut Eriksson, som var ansvarig för mordet, och Sverkers östgötabaserade släktingar Burislev och Kol. En bit in på 1170-talet stod Knut som segrare. Förhållandet till Danmark var under resten av hans regering spänt, delvis på grund av Sverkers vistelse där. Danska flyktingar fick tillfälligt skydd i Sverige, men användes troligen som brickor i ett diplomatiskt spel. Saxo noterade att inget folk tog emot flyktingar villigare, eller avvisade dem snabbare, än svenskarna."
+    },
+    {
+     "rubrik": "Kung 1196",
+     "text": "Som en möjlig svensk tronpretendent med nära band till den danska kungafamiljen var Sverker antagligen väl sedd i Danmark. Uppgifter om hans vistelse där saknas utom i ett brev daterat Nyborg den 22 januari 1193, där han uppförs som nummer två i vittneslistan, efter kungens bror Valdemar. Han och Valdemar är de enda som har den latinska titeln dominus. Under tiden i Danmark fick han troligen en utomäktenskaplig son, Karl, som stupade i Norge 1198.\n\nNär Knut Eriksson avled i mitten av 1190-talet hade han minst fyra söner, av vilka flera antagligen var minderåriga. En av dem hade med samtycke av rikets stormän utsetts till tronföljare senast 1193. Det hindrade inte Sverker från att ta tronen, och dynastiskiftet verkar ha skett utan större turbulens. Birger brosa, den avlidne kungens jarl, behöll sin position. Giftermålet med jarlens dotter Ingegerd kan ha ingått i en överenskommelse. Ett brev från 1200 där Sverker donerar gods till Uppsala domkyrka har länge setts som grund för att han tidigt skulle ha infört kyrkans skattefrihet, men SBL visar att uttrycket i brevet bara avser böter, och en generell skattefrihet för kyrkan är inte trolig eftersom påvens krav på den kom in i kanonisk rätt först 1234."
+    },
+    {
+     "rubrik": "Konflikten med Knuts söner",
+     "text": "Konflikten började gro när Sverker vid jarlens död 1202 fick sin ettårige son utsedd till tronföljare. Det innebar en maktkoncentration till Sverkers familj och inledde några politiskt mycket turbulenta år. Man kan följa händelserna bara i stora drag, men det finns tre fasta hållpunkter, alla våldsamma: Älgarås, Lena och Gestilren.\n\nEnligt ett påvebrev hade Knut Erikssons söner vistats vid Sverkers hov efter faderns död. Att växa upp i en annan mans hushåll var vanligt bland stormannasöner och kunde bygga allianser, men också vara ett sätt att kontrollera dem. I november 1205 dödades tre av fyra kungasöner, enligt Sverker eftersom de eggats att göra uppror mot honom. Den överlevande sonen, Erik Knutsson, flydde till Norge där han levde i landsflykt i tre år. Våldsamheterna ägde rum i Älgarås i nordöstra Västergötland, och Ericus Olai skriver att upplänningarna blev upptända av stor ovilja mot Sverker."
+    },
+    {
+     "rubrik": "Lena och Gestilren",
+     "text": "Nästa hållpunkt är Lena, identifierat som Kungslena i nuvarande Tidaholms kommun, där en drabbning stod den 31 januari 1208. Sverker, som var dansk på mödernet och ingift i den mäktiga danska Hvideätten, hade hjälp av släktingar från Danmark. Erik Knutsson hade samlat folk utomlands, antagligen i Norge, och trängde med dem in i riket. Sverker mötte med en större här men led ett förödande nederlag. Bland de danska befälhavarna stupade hans svärfar Ebbe Sunesson och dennes bror Lars, och på Eriks sida stupade bland andra hans jarl Knut, Birger brosas son. Nederlaget innebar att Sverker var avsatt som kung.\n\nI juli 1210 försökte Sverker återta kronan i drabbningen vid Gestilren, men dödades. På motståndarsidan stupade kung Eriks jarl Folke och med honom många folkungar. Enligt kungalängden fick Sverker sitt banesår av sin egen måg, vilket kan betyda Folke jarl själv, som var bror till Sverkers första fru, eller Folkes son Sune, som var gift med Sverkers dotter. Striden stod enligt forskningen vid Gästre kungsby norr om Enköping. Efter slaget mäklades fred med Danmark, bekräftad genom giftermål mellan kung Erik och den danska prinsessan Rikissa. I november samma år kröntes Erik av ärkebiskop Valerius, som tillsammans med Sverker hade flytt till Danmark efter drabbningen vid Lena."
+    },
+    {
+     "rubrik": "Legender och eftermäle",
+     "text": "Slagen vid Älgarås, Lena och Gestilren utgjorde kulmen på tre generationers maktkamp och har lockat eftervärlden. Hur lite man än i realiteten vet har det inte hindrat att myter frodats. Den äldre versionen av Bǫglunga sǫgur, nedskriven strax efter 1208, har en passage där Oden fyra dagar före slaget vid Lena får sin häst omskodd av en norsk smed. En medeltida ballad, upptecknad först på 1600-talet, finns i både svensk och dansk version, och de skiljer sig påtagligt åt: den danska skildrar Sverker som en rättmätig kung och tonar ned de danska förlusterna, medan den svenska utförligt beskriver hur många danskar som stupade. År 1601 skapade Johan Bure berättelsen om att hans förfader Fale Bure räddade kung Erik vid Älgarås och förde honom till Norge.\n\nVästgötalagens kungakrönika, som visar sympati för Sverkers släkt, kallar honom en klok man och en god stridsman och uppger att han begravdes i Alvastra, liksom sin far och farfar. Sverker var gift först med Ingegerd, dotter till jarlen Birger brosa och Birgitta, dotter till den norske kungen Harald Gille, och senare med Benedicta, dotter till Ebbe Sunesson ur Hvideätten."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sverker den yngre (band 35, 2020–, sida 18)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34967",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "Sverker blev kung 1196, avsattes 1208 efter slaget vid Lena och stupade 1210 när han försökte återta kronan. Inget samtida porträtt finns bevarat.",
+   "fodd": 1165,
+   "foddCa": true,
+   "dodCa": false,
+   "dodDatum": "1210-07-17",
+   "foralder": [
+    "karl-sverkersson",
+    {
+     "namn": "Kristina Stigsdotter"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Ingegerd",
+     "anm": "dotter till Birger brosa"
+    },
+    {
+     "namn": "Benedicta Ebbesdotter",
+     "anm": "ur Hvideätten"
+    }
+   ]
   },
   {
    "id": "johan-sverkersson",
