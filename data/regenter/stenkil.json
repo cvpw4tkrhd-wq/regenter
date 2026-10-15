@@ -19,10 +19,59 @@
     "halsten",
     "inge-den-aldre"
    ],
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Stenkil är känd främst genom Adam av Bremens samtida krönika, som skildrar honom som kristendomens vän. Det mesta annat om honom kommer från sena sagor och är osäkert.",
+   "berattelse": [
+    {
+     "rubrik": "Källorna",
+     "text": "Huvudkällan till Stenkil är Adam av Bremens krönika Gesta Hammaburgensis ecclesiae pontificum, skriven av en man som levde samtidigt med honom. Betydligt yngre är västgötalagens kungakrönika, och mycket yngre är uppgifterna i några isländska sagor. Det mesta av det som skrivs om Stenkil är därför enligt SBL svårkontrollerat och har föranlett kombinationer vars värde är diskutabelt."
+    },
+    {
+     "rubrik": "Härkomst och familj",
+     "text": "Stenkils föräldrar anges bara i den isländska Hervararsagan, som är mycket yngre än hans tid: Ragnvald den gamle och Astrid Nialsdotter av Thjottaätten. Samma saga uppger att han var jarl innan han blev kung och möjligen gift med en dotter till kung Emund den gamle. Ragnvald den gamle har utan bevis identifierats med jarlen Ragnvald Ulfsson, som uppträder i början av 1000-talet. Adam av Bremen är osäker på hur Stenkil var släkt med kung Emund: på ett ställe skriver han att han inte vet om Stenkil var Emunds \"nepos\" eller \"privignus\", på ett annat använder han ordet \"nepos\" utan reservation. På svenska betyder det mestadels systerson men också brorson, och ibland barnbarn, medan \"privignus\" betyder styvson. Adams alternativa formulering har lett till gissningen att Stenkils mor gifte om sig med Emund."
+    },
+    {
+     "rubrik": "Kristendomen och Sigtuna",
+     "text": "Enligt Adam skall Stenkil under Emunds regering ha hjälpt de sändebud från ärkebiskopen av Bremen som skickats till Emund men avvisats på initiativ av den engelske missionsbiskopen Osmundus. Sedan Stenkil efterträtt Emund som svensk kung fortsatte han att stödja den bremiska missionen. Han medverkade genom sändebud till Bremen när ett biskopssäte upprättades i Sigtuna för Adalvard, men lyckades avstyra Adalvards plan att bränna ned det hedniska templet i Uppsala, eftersom den var för äventyrlig på grund av risken för hednisk reaktion."
+    },
+    {
+     "rubrik": "Stenkil i västgötalagens kungakrönika och sagorna",
+     "text": "Västgötalagens kungakrönika från 1200-talet uppger att Stenkil inte omedelbart efterträdde Emund, kallad Emund slemme, utan att Håkan Röde regerade emellan, trots att Håkan enligt såväl Adam som isländsk tradition regerade senare än Stenkil. Enligt krönikan älskade Stenkil västgötarna mer än alla andra undersåtar, och västgötarna gladdes så länge han levde. Den framhåller honom som en god och stark skytt och nämner från Levene socken i Viste härad, där Håkan Röde var född, tre skjutmål som härrör från Stenkil.\n\nDen isländska handskriften Morkinskinna från slutet av 1200-talet uppger att han var fet, tung och benägen att dricka. Enligt den ville Stenkil vara i stillhet och lät sina män sköta striderna mot den norske kungen Harald Hårdråde, vars fiende, jarlen Håkan Ivarsson, han stödde. Enligt Snorre Sturlasson hade Stenkil gett Håkan styrelsen i Värmland. Knytlingasagan uppger att Stenkil utan framgång anföll den danske kungen Sven Estridsson."
+    },
+    {
+     "rubrik": "Död och eftermäle",
+     "text": "Stenkil dog omkring 1066. Efter Stenkils död ska enligt Adam av Bremen två tronpretendenter med namnet Erik ha stupat omkring 1070, och en marginalanteckning tillägger att Stenkils son Halsten därefter blev kung men snart fördrevs. Västgötalagens kungakrönika nämner i stället Inge närmast efter Stenkil. Här går källorna alltså inte ihop om vem som regerade när."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Stenkil (band 33, 2007–11, sida 346)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=20139",
+     "kontrollerad": true
+    }
+   ],
+   "foralder": [
+    {
+     "namn": "Ragnvald den gamle",
+     "anm": "obestyrkt uppgift"
+    },
+    {
+     "namn": "Astrid Nialsdotter",
+     "anm": "obestyrkt uppgift"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Möjligen en dotter till Emund den gamle",
+     "anm": "osäkert"
+    }
+   ],
+   "anm": "Stenkil dog omkring 1066 enligt SBL, som inte anger när regeringstiden började. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "fakta": [
+    "Stenkils föräldrar nämns bara i den isländska Hervararsagan, som skrevs långt efter hans tid, och uppgiften är obestyrkt.",
+    "Enligt västgötalagens kungakrönika var Stenkil en väldig skytt, och västgötarna älskade honom mer än rikets övriga undersåtar."
+   ]
   },
   {
    "id": "halsten",
@@ -41,10 +90,36 @@
     "filip",
     "inge-den-yngre"
    ],
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Halsten var son till Stenkil och regerade omkring 1070, kanske tillsammans med sin bror Inge. Han minns i västgötalagens kungakrönika som hövisk och godlynt.",
+   "berattelse": [
+    {
+     "rubrik": "Vad som är känt",
+     "text": "Halsten var enligt SBL svensk kung omkring år 1070 och son till kung Stenkil. Hans regeringstid är dåligt belagd. Enligt Adam av Bremen, som skrev på 1070-talet, ska två tronpretendenter med namnet Erik ha stupat omkring 1070 efter Stenkils död, och en marginalanteckning tillägger att Stenkils son Halsten därefter blev kung men snart fördrevs.\n\nMer uppgifter ger västgötalagens kungakrönika, som anses ha tillkommit omkring 1240. Där nämns närmast efter Stenkil kung Inge och efter honom hans bror Halsten, som uppges ha varit hovsam och godlynt. Alla mål som kom inför honom bättrade han, och Sverige sörjde hans död. Efter Halsten nämns hans son Filip och därefter dennes bror Inge. Den likaledes från 1200-talet härrörande isländska Hervararsagan omtalar bara i förbigående Halsten som Stenkils son och samregent med sin bror Inge, som behandlas utförligt där, och som far till Filip och den andre Inge."
+    },
+    {
+     "rubrik": "Ett brev och ett drama",
+     "text": "Det har satts i samband med ett brev från början av 1080-talet i det påvliga registret, där västgötarnas båda kungar betecknas med initialerna I och A, alltså Inge och Halsten. Men A har också tolkats som \"Aquinus\" och ansetts kunna syfta på \"Haquinus\", det vill säga Håkan Röde i västgötalagens kungakrönika, som nämns i Adams marginalanteckning. Halsten dyker också upp i ett oväntat sammanhang i J. Rondeletius drama Judas Redivivus från 1614, där en person efter en strof ur Sturevisan erbjuder sig att kväda om kung Halsten."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Halsten (band 18, 1969–71, sida 69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12456",
+     "kontrollerad": true
+    }
+   ],
+   "foralder": [
+    "stenkil"
+   ],
+   "relaterade": [
+    {
+     "id": "inge-den-aldre",
+     "relation": "bror"
+    }
+   ],
+   "anm": "Halsten levde omkring 1070 enligt SBL, som inte anger några fler årtal. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat."
   },
   {
    "id": "hakan-rode",
