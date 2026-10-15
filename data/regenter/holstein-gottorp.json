@@ -1,0 +1,95 @@
+{
+ "regenter": [
+  {
+   "id": "adolf-fredrik",
+   "namn": "Adolf Fredrik",
+   "titel": "Kung",
+   "hus": "holstein-gottorp",
+   "perioder": [
+    [
+     1751,
+     1771
+    ]
+   ],
+   "fodd": 1710,
+   "dod": 1771,
+   "barn": [
+    "gustav-iii",
+    "karl-xiii"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "gustav-iii",
+   "namn": "Gustav III",
+   "titel": "Kung",
+   "hus": "holstein-gottorp",
+   "perioder": [
+    [
+     1771,
+     1792
+    ]
+   ],
+   "fodd": 1746,
+   "dod": 1792,
+   "dodsatt": "mördad",
+   "barn": [
+    "gustav-iv-adolf"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "gustav-iv-adolf",
+   "namn": "Gustav IV Adolf",
+   "titel": "Kung",
+   "hus": "holstein-gottorp",
+   "perioder": [
+    [
+     1792,
+     1809
+    ]
+   ],
+   "fodd": 1778,
+   "dod": 1837,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "karl-xiii",
+   "namn": "Karl XIII",
+   "titel": "Kung",
+   "hus": "holstein-gottorp",
+   "perioder": [
+    [
+     1809,
+     1818
+    ]
+   ],
+   "fodd": 1748,
+   "dod": 1818,
+   "relaterade": [
+    {
+     "id": "karl-xiv-johan",
+     "relation": "adoptivson",
+     "omvand": "adoptivfar"
+    }
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
