@@ -8,6 +8,7 @@ const $ = (s, e = document) => e.querySelector(s);
 const $$ = (s, e = document) => Array.from(e.querySelectorAll(s));
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const CROWN = '<svg viewBox="0 0 512 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M136 342 108 192l84 70 64-116 64 116 84-70-28 150z"/><rect fill="currentColor" x="132" y="356" width="248" height="46" rx="10"/><circle fill="currentColor" cx="108" cy="178" r="22"/><circle fill="currentColor" cx="256" cy="130" r="24"/><circle fill="currentColor" cx="404" cy="178" r="22"/></svg>';
+const TRE_KRONOR = '<svg viewBox="0 0 512 512" aria-hidden="true" focusable="false"><defs><g id="kr3"><path d="M136 342 108 192l84 70 64-116 64 116 84-70-28 150z"/><rect x="132" y="356" width="248" height="46" rx="10"/><circle cx="108" cy="178" r="22"/><circle cx="256" cy="130" r="24"/><circle cx="404" cy="178" r="22"/></g></defs><g fill="currentColor"><use href="#kr3" transform="translate(153 175) scale(.5) translate(-256 -254)"/><use href="#kr3" transform="translate(359 175) scale(.5) translate(-256 -254)"/><use href="#kr3" transform="translate(256 345) scale(.5) translate(-256 -254)"/></g></svg>';
 const CHECK = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m4 12.5 5 5L20 6.5" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 const FLAG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z" fill="currentColor"/></svg>';
 const PAL = {
@@ -194,8 +195,9 @@ function pHem() {
   return `
   <section class="hero" aria-labelledby="h1">
     <div class="hero-in">
-      <div class="hero-vert"></div>
-      <div class="hero-top"><h1 id="h1">Sveriges regenter</h1><div class="hero-krona" aria-hidden="true">${CROWN}</div></div>
+      <div class="hero-c11"><div class="hero-krona" aria-hidden="true">${TRE_KRONOR}</div></div>
+      <div class="hero-top"><h1 id="h1">Sveriges regenter</h1></div>
+      <div class="hero-c21"></div>
       <div class="hero-bot">
         <p>Tusen år av kungar och drottningar, och en berättelse om var och en.</p>
         <form id="hemsok" class="sokform" role="search"><input id="hemq" type="search" placeholder="Sök regent, händelse eller ord" aria-label="Sök"><button type="submit">Sök</button></form>
@@ -206,6 +208,7 @@ function pHem() {
     <section class="avd" style="margin-top:0">
       <div class="rubrikrad"><h2>Tusenårsbandet</h2><p class="mut" id="framsteg">${done} av ${tot} regenter lästa</p></div>
       ${band()}
+      <p class="bandtext">Varje block är en regents regeringstid. De smalare blocken på den nedre raden <i></i> är riksföreståndare, som styrde riket utan att vara kung. De ligger på en egen rad eftersom deras tid ofta överlappar kungarnas, till exempel Sten Sture den äldre 1470–1497 under Karl Knutsson, Kristian I och Hans. Luckorna visar tider utan kung.</p>
       <ul class="legend">${legend}</ul>
     </section>
     <div class="rader">
