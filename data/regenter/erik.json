@@ -153,19 +153,87 @@
    "hus": "erik",
    "perioder": [
     [
-     1167,
+     1173,
      1196
     ]
    ],
    "dod": 1196,
    "barn": [
-    "erik-knutsson"
+    "erik-knutsson",
+    {
+     "namn": "Tre andra söner",
+     "anm": "dödades vid Älgarås 1205"
+    }
    ],
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Knut Eriksson besegrade den sverkerska ätten och blev kung över hela Sverige. Under hans tid slöts Sveriges äldsta kända handelstraktat och den äldsta kända kontakten med England, och han är den förste svenske kung som kan beläggas ha utfärdat brev.",
+   "berattelse": [
+    {
+     "rubrik": "Kampen om kronan",
+     "text": "Knut Eriksson föddes senast på 1140-talet och var son till Erik den helige och Kristina av Danmark. Ett påvebrev, som numera kunnat dateras till 1193, uppger att Knut efter faderns död, 1159 eller 1160, blev besegrad och flydde. En uppgift från 1400-talet, i Prosaiska krönikan, att han var tre år i landsflykt i Norge saknas i de norska kungasagorna och beror sannolikt på en förväxling med hans son Erik Knutsson, om vilken västgötalagens kungakrönika uppger detsamma.\n\nEnligt kungakrönikan dödade Knut kung Karl Sverkersson på Visingsö. Flera annaler har samma ortsangivelse och dateringen 1167, och en av dem preciserar tidpunkten till den 12 april. Krönikan uppger också att han dödade kungarna Kol och Burislev, som sannolikt var Karl Sverkerssons brorsöner. Enligt en kungalängd från 1300-talet föll Kol i Bjälbo i Östergötland, och Messenius har en något utförligare uppgift om Burislev med årtalet 1169. Med de här tronstriderna har två påvebrev från 1171 eller 1172 sammanställts, men om det ena, som riktar sig till svearnas och götarnas kung \"K\", avser Knut eller Kol har forskare diskuterat. Knut var kung över hela Sverige senast från 1172 eller 1173. Enligt västgötalagens kungakrönika var han efter många segerrika strider en god kung i 23 år."
+    },
+    {
+     "rubrik": "Handel och diplomati",
+     "text": "I Birger jarls traktat med Lübeck omkring 1250 åberopas en annars okänd traktat mellan Knut, hans jarl Birger brosa och hertig Henrik Lejonet av Sachsen, tydligen ingången före 1180. Det är den äldsta kända handelstraktaten i svensk historia, och det har förmodats att ett svenskt stadsväsende i egentlig mening började komma till stånd vid denna tid. Två engelska räkenskapsnotiser från 1185–86 visar att kungen av \"Suaðede\" eller \"Suadedie\", tydligen Sverige, även skickat tre sändebud till England, som fick kläde och som gåvor från kung Henrik II hade med sig hem järnstövlar, en hjälm och ett bröstharnesk. Det är den äldsta kända diplomatiska kontakten mellan Sverige och England. Enligt Sverres saga skickade den nyblivne bysantinske kejsaren Alexios III 1195 brev till de tre nordiska ländernas kungar och bad om 90 krigsmän.\n\nFörhållandet till Danmark var spänt, eftersom Karl Sverkerssons minderårige son Sverker enligt västgötalagens kungakrönika hade fått tillflykt hos släktingar i det danska kungahuset. Till Birger brosa flydde enligt Saxo 1176 ärkebiskop Eskils dottersöner Karl och Knut Karlsson, som deltagit i en misslyckad sammansvärjning mot Valdemar I av Danmark. År 1182 stödde Knut och Birger enligt Saxo den danske kungaättlingen Haralds uppror i Skåne, och när det misslyckades flydde Harald till Sverige. År 1192 flydde en annan dansk kungaättling, biskop Valdemar av Slesvig, till Sverige. Till Norge var förhållandet gott efter Sverres seger. Sverre, som redan 1176 hade sökt stöd hos Birger brosa, gifte sig 1185 med Knuts syster Margareta. Sverresagan berättar också att Sverres bror Erik efter ett härjningståg till Estland blev väl mottagen av Knut, som gav honom ett långskepp. Den norske tronpretendenten Erling lät Knut enligt en längre version av Bǫglunga sǫgur sätta i fängelse på Visingsö, och därefter fick han tillnamnet steinvegg."
+    },
+    {
+     "rubrik": "Hedningar, torn och mynt",
+     "text": "Enligt annaler härjades Mälarens stränder 1187 av hedningar, som brände Sigtuna och dödade ärkebiskop Johannes vid Almarstäket. I Erikskrönikan anges fienderna som karelare. De runda försvarstornen som förekommer bland annat i Stockholm, Skå, Stegeborg, Stensö, Kalmar, Strömsrum och Borgholm har ansetts byggda under Knuts regering och sammanställts med liknande danska befästningar från Valdemar I:s tid. Påvebrevet från 1193 uppger att Knut ständigt kämpade mot hedningar för kyrkans utbredning. Den lettiske prästen Henriks krönika från 1220-talet nämner att den svenske jarlen, tydligen Birger brosa, med tyskar och gotlänningar begav sig på krigståg mot kurerna men blev vinddriven till östra Estland, där han efter tre dagars härjningar tvingade invånarna att döpa sig och betala tribut.\n\nMängder av mynt med inskriften KANVTVS REX eller KANVTVS har hittats. Eftersom mynten är av tysk typ har fynden sammanställts med handelstraktaten med Henrik Lejonet. Spår av svensk myntning saknas helt under hela århundradet före Knut. Det har förmodats att myntningen kom till eftersom Knut, genom sina tyska förbindelser, tog initiativ till malmbrytning. De stora myntfynden har ofta gjorts just i de trakter där försvarstornen byggdes, och därav har slutsatsen dragits att fientliga härjningar där orsakade både att skatter göms och att tornen uppfördes."
+    },
+    {
+     "rubrik": "Den förste som utfärdade brev",
+     "text": "Knut är den förste svenske kung som kan beläggas ha utfärdat brev. Nio av dem är bevarade i original i Riksarkivet, alla utom ett odaterade, och ett i avskrift. Åtta av originalbreven är utfärdade för klostret i Viby vid Sigtuna, grundat omkring 1160, som genom ett jordbyte med Knut, å kronans vägnar, flyttades till Säby i Julita i Södermanland. Till detta kloster donerade han sitt fädernearv Ängsö, kanske den senare så bekanta sätesgården vid Västerås, och flera kronogods. Knut har tidigare identifierats med den kung Knut som enligt Östgötalagen avskaffade nam, alltså självtäkt, och införde konungsräfst, men numera har man visat att denne kung i stället torde vara hans yngre namne Knut Långe."
+    },
+    {
+     "rubrik": "Äktenskapet och påvebrevet",
+     "text": "Påvebrevet från 1193, vars datering, adress och senare del blev kända först genom ett lyckligt fynd i en kopiebok i Sigüenza i Spanien för bara ett par decennier sedan, innehåller intressanta uppgifter om Knuts privatliv. Det ger ärkebiskopen i Uppsala i uppdrag att undersöka en framställning som Knut sänt till påven, och som refereras utförligt. Knut hade redan under sin fars livstid trolovat sin blivande hustru, vars namn inte nämns men som sades sakna sin like i hela landet. När Knut efter faderns död måste gå i landsflykt sattes hon in i ett kloster på grund av risken för övervåld. Efter hans seger gifte han sig med henne, och hon födde flera barn, av vilka en son utsågs till efterträdare med stormännens samtycke och val. Senare blev drottningen svårt sjuk och avlade i dödsångest ett löfte om avhållsamhet om hon tillfrisknade. Knut samtyckte för att inte bedröva henne. Nu var hon återställd men fortfarande i kloster, och Knut ville att påven skulle ge dem tillstånd att återuppta samlivet, särskilt eftersom han i kampen mot hedningarna måste samarbeta med hustruns släktingar och behövde skydd mot fienders förtal.\n\nUppgiften i den moderna diskussionen att drottningen hette Cecilia och var dotter till Sverker den äldre vilar enligt SBL på antaganden om missförstånd, och brevets uppgift om samarbete med hennes släktingar är ett indicium mot den uppfattningen, särskilt med hänsyn till fiendskapen mellan de båda familjerna."
+    },
+    {
+     "rubrik": "Död och efterträdare",
+     "text": "Knut dog hösten 1195 eller den 8 april 1196. Han var den förste svenske kung på åtminstone ett halvt sekel som inte blev dödad. Enligt västgötalagens kungakrönika begravdes han i Varnhem, men hans nuvarande gravsten där tillkom först på 1600-talet på M. G. De la Gardies initiativ. Enligt ett påvebrev från 1208 var Knuts söner vuxna när han dog, men trots uppgiften i brevet 1193 efterträddes han inte av en son utan av Sverker, son till den Karl Sverkersson han själv hade dödat. Enligt brevet behöll Sverker Knuts söner i sin närhet tills de började stämpla mot hans liv. Tre av dem dödades då i en strid vid Älgarås, medan sonen Erik Knutsson undkom till Norge och sedan berövade Sverker krona och liv och blev hans efterträdare."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Knut Eriksson (band 21, 1975–77, sida 383)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11661",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "Knut var kung över hela Sverige senast från 1172 eller 1173 och dog hösten 1195 eller 8 april 1196, enligt SBL. Inget samtida porträtt finns bevarat.",
+   "ca": true,
+   "regeringstext": "senast från 1172/73 till 1195/96",
+   "dodCa": true,
+   "dodsatt": "naturlig",
+   "foralder": [
+    "erik-den-helige",
+    {
+     "namn": "Kristina",
+     "anm": "av Danmark enligt SBL"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Okänd svensk kvinna av hög börd",
+     "anm": "levde ännu våren 1193"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "karl-sverkersson",
+     "relation": "dödade honom"
+    },
+    {
+     "id": "sverker-den-yngre",
+     "relation": "efterträddes av"
+    }
+   ],
+   "fakta": [
+    "Knut är den förste svenske kung som kan beläggas ha utfärdat brev. Nio av dem finns bevarade i original i Riksarkivet.",
+    "Den äldsta kända handelstraktaten i svensk historia ingicks under Knuts regering, och hans sändebud 1185–86 är den äldsta kända diplomatiska kontakten med England."
+   ]
   },
   {
    "id": "erik-knutsson",
@@ -180,13 +248,54 @@
    ],
    "dod": 1216,
    "barn": [
-    "erik-lispe-och-halte"
+    "erik-lispe-och-halte",
+    {
+     "namn": "Ingeborg",
+     "anm": "gift med Birger jarl"
+    },
+    {
+     "namn": "Sofia",
+     "anm": "gift med Henrik III av Rostock"
+    }
    ],
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Erik Knutsson flydde till Norge efter att hans bröder dödats vid Älgarås, besegrade Sverker den yngre vid Lena och Gestilren och blev den förste svenske kung som vi vet blev krönt.",
+   "berattelse": [
+    {
+     "rubrik": "Mot Sverker",
+     "text": "Eriks far, Knut Eriksson, hade i sin livstid låtit en av sina söner hyllas som efterträdare, men när han dog 1195 eller 1196 besteg ändå Sverker Karlsson tronen. Knuts söner hade uppenbarligen inte nått manbar ålder och stannade kvar i Sverige. Enligt det sverkerska partiets version ska Sverker ha uppfostrat dem. Erik vistades dock vintern 1204–05 i Norge, där han hade nära släktskap inom birkebeinarnas parti. Följande år deltog han i ett uppror mot Sverker, som krossade det i slaget vid Älgarås i november 1205. Tre av Knuts söner stupade, men Erik undkom till Norge, där han sammanlagt vistades tre år.\n\nUnder okända omständigheter lyckades han i slaget vid Lena i januari 1208 besegra Sverker, trots att denne fått stöd från Danmark, och antog kunganamn. Birger brosas son Knut jarl hade dött omedelbart före, i eller en tid efter slaget, och Erik tog jarl Folke, upphovsman till det 1210 för första gången omtalade folkungapartiet. På grund av källmaterialets brister går det inte att avgöra vilken roll folkungarna spelade för hans uppror, seger och upphöjelse."
+    },
+    {
+     "rubrik": "Påven, Gestilren och kröningen",
+     "text": "Medan Erik blev Sveriges herre flydde Sverker tillsammans med ärkebiskop Valerius till Valdemar av Danmark. Efter deras framställning ingrep påven Innocentius III i november 1208 och gav biskoparna i Linköping, Skara och ett okänt stift i uppdrag att förmå Erik att försona sig med Sverker och lämna honom i ostörd besittning av riket. Vägrade Erik skulle han straffas genom kyrklig censur. Någon åtgärd med anledning av den påvliga befallningen är inte känd. Sverker gjorde 1210 ett försök att återvinna sin krona, men Erik stöddes av folkungapartiet och vann segern vid Gestilren i juli 1210, där Sverker stupade.\n\nErik försonade sig därefter med de två makter som stött Sverker, kyrkan och Danmark. Redan 1210 gifte han sig med Rikissa, syster till den danske kungen Valdemar II, och i november samma år kröntes han av ärkebiskop Valerius. Han är den förste svenske kung som vi vet blev krönt."
+    },
+    {
+     "rubrik": "Korståg och död",
+     "text": "I april 1216 tog Innocentius III Erik och hans rike under sitt skydd, bekräftade honom i besittningen av riket och det land som hans företrädare vunnit eller som han själv kunde vinna av hedningarna, och gav rätt att insätta en eller två biskopar i nyvunnet land som skulle bli suffraganer under ärkebiskopen i Uppsala. Eriks planer kretsade uppenbarligen kring ett korståg i österled, men påvens brev nådde aldrig honom. Han dog den 10 april 1216 på Visingsö och begravdes i Varnhem. En kung Erik vars minnesdag firades den 8 februari i Lund och som skänkt en mark silver dit antas av paleografiska skäl vara Erik, men det kan också vara hans son.\n\nOm Eriks person och politik finns inga uppgifter. Västgötalagens kungakrönika berättar att han var en \"god årkonung\". Några enstaka dokument från hans kansli ger ingen upplysning om större vikt. Med Rikissa fick han döttrarna Ingeborg, gift med Birger jarl, och Sofia, gift med Henrik III av Rostock, samt den postume sonen Erik Eriksson."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Erik Knutsson (band 14, 1953, sida 257)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15401",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "Erik blev kung 1208, krönades i november 1210 och dog enligt en annal den 10 april 1216. Inget samtida porträtt finns bevarat.",
+   "dodCa": false,
+   "dodDatum": "1216-04-10",
+   "dodsatt": "naturlig",
+   "foralder": [
+    "knut-eriksson"
+   ],
+   "make": [
+    {
+     "namn": "Rikissa Valdemarsdotter",
+     "anm": "gift 1210, dotter till Valdemar den store"
+    }
+   ]
   },
   {
    "id": "erik-lispe-och-halte",
@@ -205,10 +314,66 @@
    ],
    "dod": 1250,
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Erik Eriksson, kallad läspe och halte, blev kung som sex- eller sjuåring och styrdes länge av andra. Han förlorade tronen till Knut Långe 1229, kom tillbaka efter några år och dog barnlös 1250.",
+   "berattelse": [
+    {
+     "rubrik": "Ett barn på tronen",
+     "text": "Erik föddes omkring 1216 och var son till Erik Knutsson och Rikissa Valdemarsdotter. Han var postum son: när Erik Knutsson dog 1216 valdes Johan Sverkersson till svensk kung, och änkedrottningen Rikissa reste till Danmark. Det är rimligt att Erik antingen föddes där eller följde sin mor dit. Säkert är att Eriks morbror Valdemar av Danmark vädjade hos påvestolen för att förhindra Johans kröning. Något påtagligt resultat gav appellationen inte, trots att Honorius III 1219 gav biskoparna av Lübeck, Schwerin och Ratzeburg i uppdrag att undersöka saken.\n\nJohans död vid ung ålder öppnade vägen till tronen för Erik. Mellan 1 augusti 1222 och 31 juli 1223 blev Erik svensk kung vid omkring sex års ålder, och redan den 31 juli 1223 kröntes han, troligen i Strängnäs av biskopen där, den utvalde ärkebiskopen Olof Basatömer."
+    },
+    {
+     "rubrik": "Förmyndarna",
+     "text": "Bland de män som genomdrev Eriks val och stödde honom märktes, förutom Olof Basatömer, kanslern biskop Bengt av Skara, biskop Robert av Västerås, kungens fosterfar Erengisle Vig och hans släktingar magister Stenar, herr Knut Kristinesson, Eriks syssling, och herr Knut Holmgersson, möjligen också Eriks syssling. De fyra sistnämnda och kanslern uppträdde i ett diplom, sannolikt utfärdat 1225, som handlande på den omyndige kungens vägnar. De kallade sig där hans consiliarii. Det har med mycket goda skäl antagits att dessa personer, som här är de första bärarna av den sedermera så betydelsefulla titeln rådsherre, bildade förmyndarstyrelse för Erik. Samma år togs Erik och hans rike i påvestolens skydd.\n\nKollegiet var inte att lita på. Lagman Eskil av Västergötland ska 1226 ha sagt till kung Håkon av Norge att få av rådgivarna var Erik trogna. Kretsen upplöstes raskt: 1226 drog Knut Kristinesson till Norge för att försöka vinna dess krona, och 1228 dog biskop Bengt."
+    },
+    {
+     "rubrik": "Folkungarna och Knut Långe",
+     "text": "Följande år ägde en stormannaresning rum av folkungapartiet. En strid utkämpades vid Olustra, Erik flydde till Danmark, och Knut Långe, sannolikt Knut Holmgersson, blev Sveriges kung. Enligt svenska och isländska annaler dog Knut 1234. En dansk annalnotis berättar att Erik återvände redan 1232, medan Erikskrönikan låter det ske först efter Knuts död. Det finns inga källor som klargör förhållandena vid och omedelbart efter hans återkomst. Tydligen försonade han sig med folkungapartiet och sökte anknytning till dem: jarl förblev under hans andra regering Ulf Karlsson Fase, som redan under Knut Långe nått ämbetet och som tillhörde folkungapartiet. Själv gifte sig Erik, enligt annaluppgifter 1243 eller 1244, med Katarina, dotter till stormannen Sune Folkesson och sondotter till folkungapartiets upphovsman Folke jarl samt dotterdotter till Sverker den yngre."
+    },
+    {
+     "rubrik": "Jarlarna styr",
+     "text": "Det är enligt SBL uppenbart att Erik inte spelade någon större politisk roll. De två stormän som efter varandra var jarlar, Ulf Karlsson och Birger Magnusson, kungens svåger, var rikets egentliga styresmän. Birger gjorde sig under 1240-talet alltmer gällande. Han motarbetade säkert Ulfs norskorienterade politik och ville, redan tidigt, stärka kungamakten genom att alliera den med kyrkan. När Birger blev jarl efter Ulfs död 1247 utbröt strid mellan folkungapartiet å ena sidan och Erik och Birger jarl å den andra, och slaget vid Sparrsätra hör sannolikt ihop med det. Erik och Birger blev situationens herrar. Av folkungarnas ledare avrättades 1248 Holmger Knutsson, son till Knut Långe, och hans styvfar och mäktigaste anhängare Filip Larsson drevs i landsflykt."
+    },
+    {
+     "rubrik": "Död och eftermäle",
+     "text": "Erik dog kort därefter. Enligt svenska annaler skedde det den 2 februari 1250. En notis om en kung Erik av Sverige som skänkt en mark silver till Lunds domkyrka, vars minnesdag firades där den 8 februari, anses komma från 1200-talets första tredjedel, och dagen pekar enligt SBL snarare mot Erik Eriksson än mot Erik Knutsson, eftersom Erik Eriksson vistades i Danmark under barndom och ungdom. Om hans person berättar Erikskrönikan att han var något \"läsper\" och att halta var hans sed, och därför kallas han traditionellt läspe och halte.\n\nDrottning Katarina var barnlös och testamenterade den 11 juni 1250 till Gudhems kloster, dit hon dragit sig tillbaka, en stor del av sin lösa och fasta egendom. En gravkista utan inskrift med en skulpterad krönt kvinna, ursprungligen i Gudhem och nu i Statens historiska museum, har av konsthistoriker daterats till mitten av 1200-talet och anses vara en bild av drottning Katarina. Erik efterlämnade inga ättlingar och efterträddes av sin systerson Valdemar Birgersson."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Erik Eriksson (band 14, 1953, sida 259)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15399",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "Erik blev kung mellan 1 augusti 1222 och 31 juli 1223, krönades 31 juli 1223, undanträngdes 1229–34 av Knut Långe och dog 2 februari 1250 enligt en annal. Inget samtida porträtt finns bevarat.",
+   "fodd": 1216,
+   "foddCa": true,
+   "dodCa": false,
+   "dodDatum": "1250-02-02",
+   "dodsatt": "naturlig",
+   "foralder": [
+    "erik-knutsson",
+    {
+     "namn": "Rikissa Valdemarsdotter"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Katarina Sunesdotter",
+     "anm": "gift 1243 eller 1244, dotter till Sune Folkesson"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "knut-lange",
+     "relation": "undanträngde honom 1229–34"
+    },
+    {
+     "id": "valdemar-birgersson",
+     "relation": "systerson och efterträdare"
+    }
+   ]
   },
   {
    "id": "knut-lange",
@@ -223,10 +388,65 @@
    ],
    "dod": 1234,
    "palitlighet": "osäker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Knut Långe blev kung när folkungarna segrade över Erik Erikssons anhängare. Han känns från ett enda bevarat brev, några mynt och sena sagor, och är sannolikt den kung Östgötalagen nämner som avskaffade självtäkten.",
+   "berattelse": [
+    {
+     "rubrik": "Kungavalet",
+     "text": "Knut Långe, död 1234, var enligt SBL sannolikt son till Holmger, kung Knut Erikssons \"nepos\", och kung av Sverige senast 1231. Tillnamnet förekommer i Sturla Tordssons saga om den norske kungen Håkon Håkonsson, i flera isländska annaler och i en svensk annal, och i berättelsen om dominikanernas ankomst till Norden. Enligt Erikskrönikan valdes Knut till kung sedan den minderårige Erik Eriksson flytt till Danmark efter sina anhängares nederlag mot folkungarna vid Olustra, troligen Östra i Sundby i Södermanland, i olika annaler daterat till den 29 eller 28 november, enligt denna artikel 1230. SBL:s artikel om Erik Eriksson anger i stället 1229 som året för folkungarnas resning.\n\nDen enda källuppgiften om Knuts patronymikon finns i en kungalängd från slutet av 1300-talet, där han kallas \"Joansson\", vilket har fått flera forskare att undra om han var son till Jon jarl, som dödades på Ekerö. SBL pekar på att det kan vara en ren kombination och att den inte styrks av namnen på de söner Sturla Tordsson nämner, Holmger och Filip. Han identifieras vanligen med en Knut Holmgersson, som bevittnade ett brev av Erik Eriksson 1224 och nämns som hans släkting och råd något av åren 1224–26, och därigenom har man hänfört honom till samma släkt som Erik Eriksson, den så kallade erikska ätten, vilket förklarar hans val."
+    },
+    {
+     "rubrik": "Brev, mynt och kloster",
+     "text": "Det enda kända brev Knut utfärdat är bevarat i avskrifter från 1300-talet och härrör från 1231. I det gav han, vars namn bara anges med begynnelsebokstaven, en tomt till \"ecclesia sancte Marie de Aros\", som länge identifierats med domkyrkan i Västerås men numera anses vara Vårfrukyrkan i Uppsala, förstörd i en brand 1543. Som vittnen fungerade bland andra ärkebiskop Olof Basatömer, folkungajarlen Ulf Fase och de äldsta kända lagmännen i Tiundaland och Attundaland.\n\nÄven mynt från Knuts regering är bevarade, bland annat ett med inskriften KANVTVS och en vapensköld med två smala bjälkar, nästan samma vapenbild som fädernevapnet på hans son Holmgers gravtäcke från slutet av 1400-talet i Statens historiska museum. Mynten hittades vid en schaktning på Eskilstuna kyrkogård på 1870-talet, tillsammans med ett mynt med inskriften VLFIARL, tydligen präglat på uppdrag av Ulf Fase. Enligt berättelsen om dominikanernas ankomst ska Knut redan 1220 ha upplåtit Sko, nuvarande Skokloster, åt de båda dominikanerna Simon från Sverige och Nils från Lund, när ärkebiskop Olof Basatömer hindrade dem från att slå sig ned i Sigtuna. Enligt Messenius ska han 1225 ha upplåtit Sko åt cistercienserinnor. Enligt en uppgift från 1500-talet begravdes han i Sko kloster."
+    },
+    {
+     "rubrik": "Östgötalagens Knut",
+     "text": "Östgötalagen uppger att fordringsägarens rätt till självtäkt, fornsvenska nam, hos gäldenären, efter att dom fällts, avskaffades på kung Knuts tid, och att konungsräfst samtidigt infördes vart tredje år. Denne Knut har tidigare identifierats med Knut Eriksson. Men eftersom nam förekom ännu i början av 1200-talet enligt äldre västgötalagen, och kyrkan förbjöd motsvarigheten på kontinenten vid konsilier 1215 och 1229, torde det enligt SBL vara Knut Långe som avses."
+    },
+    {
+     "rubrik": "Samregent med Erik?",
+     "text": "En uppgift i en sen dansk annalkompilation om en svensk kröning 1231 torde bero på ett missförstånd. En notis i Annales Lundenses säger att kung Erik Eriksson 1232 återkom till Sverige, medan Erikskrönikan låter honom återvända först efter Knuts död. Den annalnotisen har tillsammans med en korrupt notis hos Sturla Tordsson, att Knut var samkung med Erik Knutsson, och med att Ulf Fase fortsatte som jarl efter Knuts död, lett till slutsatsen att Knut och Erik Eriksson möjligen var samregenter under de sista åren av Knuts liv."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Knut långe (band 21, 1975–77, sida 387)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11662",
+     "kontrollerad": true
+    }
+   ],
+   "anm": "Knut Långe var kung senast 1231 och dog 1234, enligt SBL. Inget samtida porträtt finns bevarat.",
+   "ca": true,
+   "regeringstext": "1229/30 (senast 1231) till 1234",
+   "dodCa": false,
+   "dodsatt": "naturlig",
+   "foralder": [
+    {
+     "namn": "Holmger",
+     "anm": "sannolikt; \"nepos\" till Knut Eriksson"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Troligen en kvinna av Folkungaätten"
+    }
+   ],
+   "barn": [
+    {
+     "namn": "Holmger Knutsson",
+     "anm": "avrättades 1248"
+    },
+    {
+     "namn": "Filip Knutsson"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "erik-lispe-och-halte",
+     "relation": "efterträddes av"
+    }
+   ]
   }
  ]
 }
