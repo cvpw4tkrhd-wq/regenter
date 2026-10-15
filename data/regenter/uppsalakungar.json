@@ -15,10 +15,48 @@
    "dodCa": true,
    "ca": true,
    "palitlighet": "osäker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Erik Segersäll är den förste svenske kung som kan följas i flera oberoende källor, men nästan allt vi vet om honom är omstritt. Han lär ha härskat över Danmark en tid och segrat vid Fyrisvallarna, men flera av berättelserna är senare sagor.",
+   "berattelse": [
+    {
+     "rubrik": "Vem var Erik?",
+     "text": "Om Eriks börd finns inga uppgifter i trovärdiga källor. I isländsk litteratur sägs han vara son till en kung Björn, men det är enligt SBL historiskt omöjligt. I stället har forskare antagit att han var son till Emund Eriksson, som Adam av Bremen i sin krönika nämner som svensk kung omedelbart före Erik. Det finns inget som hindrar det, namnet Emund bars av Eriks sonson, men det finns heller inget som gör det sannolikt eller troligt. Att namnen bland Eriks ättlingar är desamma som bland hans företrädare gör det emellertid sannolikt att hans tronbestigning inte innebar något dynastiskifte.\n\nOm Erik finns mer uppgifter hos Adam och i den norsk-isländska sagalitteraturen än om någon tidigare svensk kung. Det gäller bland annat hans giftermål. De norsk-isländska författarna berättar att hustrun var Sigrid Storråda, dotter till den svenske hövdingen Skoglar Toste, medan Adam menar att hon var syster till Boleslav I av Polen. Eftersom den senare uppgiften bekräftas indirekt av andra, oberoende källor måste enligt SBL Sigrid Storråda utmönstras ur historien och betraktas som en sagofigur."
+    },
+    {
+     "rubrik": "Herravälde i Danmark?",
+     "text": "Adam och sagorna berättar om helt olika delar av Eriks regering. Enligt Adam ingick Erik allians med sin svåger Boleslav I av Polen och kämpade tillsammans med honom mot Danmark. Danmarks kung Sven Haraldsson, kallad Tveskägg, fördrevs av Erik, som blev Danmarks herre, enligt Adam i fjorton år och ända till sin död. Hans änka gifte sig sedan med Sven, som för en tid fördrevs igen av Eriks son Olof, kallad Skötkonung. Först sedan Sven omvänt sig till kristendomen fick han enligt Adam tillbaka sitt rike.\n\nMycket av den skildringen ställer enligt SBL sanningen på huvudet, och Eriks erövring av Danmark har därför med goda skäl betvivlats och till och med förnekats. Adams framställning är starkt påverkad av hans fientliga inställning till Sven Haraldsson, och han formade, efter mönster av Bibelns berättelse om Manasse, sin skildring av Sven till en uppbygglig betraktelse över synd och nåd. Medan Sven enligt Adam irrar omkring i Norge, England och Skottland på jakt efter en fristad, framträder han i de anglosaxiska källorna som en mäktig vikingahövding som hemsöker England med rov och brand. Ändå, menar SBL, rubbas inte värdet av de källor Adam använde. Redan Sven Estridssons muntliga berättelser, en av Adams källor, innehöll uppgiften om Eriks seger över Sven och hans herravälde i Danmark. Dessutom hörde Adam av andra personer att Erik kämpade mot Otto III och besegrades av honom, vilket nästan förutsätter att han styrde i Danmark. Eftersom Eriks välde i Danmark omtalas av två oberoende källor måste det enligt SBL anses vara historiskt styrkt.\n\nEn nordisk skaldedikt skulle få sin klaraste mening om den syftar på Sven Haraldssons vistelse i England. I så fall kan en av Eriks medhjälpare vid erövringen ha varit Styrbjörn, som spelar en så stor roll i sagolitteraturen. Tiden kan ungefär bestämmas av Adams uppgift att Sven fördrevs efter 988 och av de anglosaxiska annalernas berättelser från 994 och 995 om vikingatåg som Sven ledde i England. Adam uppger också, efter Sven Estridsson, att Erik i Danmark antog kristen tro men senare övergav den."
+    },
+    {
+     "rubrik": "Slaget vid Fyrisvallarna",
+     "text": "I den norsk-isländska litteraturen är Erik mest känd för sin seger i slaget vid Fyrisvallarna. Enligt sagorna regerade han först tillsammans med sin bror Olof, som efterlämnade en son, Styrbjörn. När Styrbjörn blev vuxen krävde han en del av riket, men det vägrades honom. Då for han till Jomsborg och blev jomsvikingarnas hövding. Efter en tid angrep han sin farbror Erik i Uppsala men besegrades av honom vid Fyrisvallarna.\n\nSedan historikern Lauritz Weibull visat att den skildringen saknar historisk grund, har forskningen försökt ge en ny bild utifrån några skånska runstenar från Torna Hällestad och Sjörup, som dateras till tiden strax före år 1000, och två strofer som tillskrivs skalden Thorvald Hjaltason, av vilka en uttryckligen nämner Eriks strid vid Fyrisvallarna. Enligt Curt Weibull skulle Erik då ha slagit en angripande plundrarhär, mest bestående av skåningar och ledd av Toke Gormsson. En yngre dansk runologisk riktning har dock hävdat att runstenarna är från ett senare skede än Eriks regering, och därför kan inskrifterna inte längre med säkerhet kopplas till slaget. Thorvald Hjaltasons strofer, eller åtminstone den ena, blir därmed de enda historiskt användbara källorna till segern vid Fyrisvallarna.\n\nEnligt en nytolkning av stroferna skulle de vikingar Erik besegrade ha kommit från trakten av en fjällälv, med Hunding som anförare. Men inte heller den tolkningen är enligt SBL oangripbar. Bara om man godtar att de två stroferna hör ihop kan det sagoberömda slaget karakteriseras som Eriks seger över vikingahövdingen Hunding. Avvisar man sambandet, vilket det finns skäl att göra, kan man bara säga att Erik besegrade okända motståndare vid Fyrisvallarna."
+    },
+    {
+     "rubrik": "Vad vi vet och inte vet",
+     "text": "Erik dog omkring år 995. Mer exakt än så går det inte att säga. Hans hustru, hans ursprung och hans krig är omstridda, och det mesta som berättas om honom kommer från källor skrivna långt efteråt, av utlänningar eller av sagoförfattare med egna syften. Han brukar ändå inleda kungalängden eftersom han är den förste svenske kung som omtalas i flera från varandra oberoende källor. Hans son Olof, kallad Skötkonung, blev hans efterträdare."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Erik Segersäll (band 14, 1953, sida 245)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15407",
+     "kontrollerad": true
+    }
+   ],
+   "barn": [
+    "olof-skotkonung"
+   ],
+   "make": [
+    {
+     "namn": "Okänd (enligt Adam av Bremen en syster till Boleslav I av Polen)",
+     "anm": "Sigrid Storråda är en sagofigur enligt SBL 1953"
+    }
+   ],
+   "anm": "Regeringstidens början är osäker; SBL anger bara att han dog omkring 995. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "fakta": [
+    "Sigrid Storråda, som sagorna gör till Eriks hustru, betraktas enligt SBL som en sagofigur.",
+    "Slaget vid Fyrisvallarna är känt främst från isländska sagor. Enligt SBL är sagans skildring historiskt haltlös, och bara en skaldestrof kan användas som källa."
+   ]
   },
   {
    "id": "olof-skotkonung",
@@ -36,16 +74,75 @@
    "ca": true,
    "barn": [
     "anund-jakob",
-    "emund-den-gamle"
+    "emund-den-gamle",
+    {
+     "namn": "Ingegerd"
+    },
+    {
+     "namn": "Astrid"
+    }
    ],
    "foralder": [
-    "erik-segersall"
+    "erik-segersall",
+    {
+     "namn": "Sigrid Storråda",
+     "anm": "omstridd enligt SBL"
+    }
    ],
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Olof Skötkonung är den tidigaste svenske kung som vi har samtida bevis för, genom mynt som han lät prägla i Sigtuna. Han försökte införa kristendomen, men det mesta annat vi vet kommer från sena eller utländska källor.",
+   "berattelse": [
+    {
+     "rubrik": "Mynten från Sigtuna",
+     "text": "Den samtida källan till Olof är i första hand hans mynt. Det finns några hundra bevarade mynt vars inskrifter nämner honom, flera myntmästare och prägelstaden Sigtuna, och vid utgrävningar i Sigtuna har man nyligen hittat ett dubbelsidigt blyavtryck från myntprägeln. Mynten är efterbildningar av anglosaxiska typer från slutet av 900-talet. De har satts i samband med att den Olof som år 994 tillsammans med Sven Tveskägg av Danmark enligt en anglosaxisk krönika anföll London kan vara den svenske Olof och inte, som man tidigare trott, den norske Olav Tryggvason.\n\nOlof är den förste svenske kung som kan beläggas ha låtit prägla mynt. Sådana finns också från hans son och efterträdare Anund Jakob, men den svenska myntningen verkar därefter ha avstannat och återupptogs först mot slutet av följande århundrade under kung Knut Eriksson."
+    },
+    {
+     "rubrik": "Familj och härkomst",
+     "text": "Enligt SBL föddes Olof senast i början av 980-talet och var son till Erik Segersäll och Sigrid Storråda. Den uppgiften är dock omstridd, och i SBL:s äldre artikel om Erik betraktas Sigrid Storråda som en sagofigur. Adam av Bremen anger att Olofs hustru var obotritiskan Estrid. Förutom Anund Jakob, Ingegerd och Astrid var Olof far till Emund, kallad slemme, som blev den siste kungen av hans ätt. Enligt Adam av Bremen föddes Emund av en frilla, enligt Snorre Sturlasson av en vendisk jarladotter vid namn Edla, som också ska ha varit Astrids mor."
+    },
+    {
+     "rubrik": "Danmark, England och Norge",
+     "text": "Adam av Bremen skrev på 1070-talet att Olofs far Erik besegrat Sven Tveskägg och ockuperat Danmark, att Sven tog tillbaka sitt rike efter Eriks död, och att Olof fördrev honom och erövrade Danmark men återinsatte Sven som kung efter att denne gift sig med Eriks änka. De uppgifterna har betvivlats och setts som uttryck för Adams kritiska inställning till Sven, men senare har det påpekats att de troligen härrör från Svens dotterson, kung Sven Estridsson. Adam uppger också att Olof var i förbund med Svens son Knut den store när denne erövrade England 1015.\n\nDen isländska litteraturen, som är betydligt yngre och därför osäkrare som källa, handlar mest om Olofs förhållande till Norge. Där sägs han ha deltagit i Sven Tveskäggs strid mot den norske kungen Olav Tryggvason, och efter Olavs fall ha fått halva Trøndelag, Nordmøre och Sunnmøre med Romsdalen samt hela Bohuslän. Dessa områden skulle hans systers make, jarlen Sven Håkansson, ha förvaltat åt honom. Sagorna skildrar också motsättningen till den följande norske kungen Olav Haraldsson, den helige, och berättar att bönderna tvingade Olof att sluta fred med Olav och lova honom dottern Ingegerd, men att han i stället gifte bort henne med den ryske storfursten Jaroslav, medan Olav fick nöja sig med Olofs utomäktenskapliga dotter Astrid."
+    },
+    {
+     "rubrik": "Kristendomen",
+     "text": "Enligt Adam av Bremen ville Olof riva ned det hedniska templet i Gamla Uppsala och grundade biskopssätet i Skara, sedan hans hedniska undersåtar kommit överens med honom om att han fick utöva sina kungliga befogenheter i det landskap han föredrog. Genom Thurgot, den förste biskopen i Skara, ska han ha skickat stora gåvor till ärkebiskop Unwan i Bremen.\n\nBetydligt yngre är västgötalagens kungalängd, som uppger att Olof blev döpt i Husaby av en biskop Sigfrid, enligt biskopslängden en engelsman, och att han gav hela byn till biskopsstolen. Sigfridslegenden, också sen, har fler detaljer, bland annat en straffexpedition till Värend. Den danske historieskrivaren Saxo uppger att engelsmannen som döpte Olof hette Bernard. Ett brev från ärkebiskop Bruno av Querfurt till kejsar Henrik II från 1008 har ansetts syfta på Olofs dop: Bruno skriver att han sänt en biskop som döpt \"seniorem suigiorum\", vars hustru redan var kristen, tillsammans med tusen personer och sju socknar. Det har dock bestritts att \"suigerna\" skulle vara svearna."
+    },
+    {
+     "rubrik": "Tillnamnet",
+     "text": "Hur Olof fick tillnamnet Skötkonung är oklart. Den isländska Hervararsagan förklarar att han som barn skulle ha burits i skötet, ett veck i klädnaden, när han blev kung, men enligt SBL är den uppgiften tydligen oriktig. Andra tolkningar utgår från namnformen skötkonung i betydelsen skattkonung, och har föreslagit att han skattlade jorden i svealandskapen, införde peterspenning till påven, betalade skatt till ärkebiskopen i Bremen eller var skattskyldig till sin son Anund Jakob eller till Sven Tveskägg. Andra tolkningar kopplar namnet till att han skänkte Husaby till biskopsstolen eller till inskriften \"sceat\" på några av hans mynt. Att \"skatt\" på flera fornspråk betyder mynt har också påpekats, men den betydelsen kan inte beläggas i fornsvenskan."
+    },
+    {
+     "rubrik": "Död och grav",
+     "text": "Olof dog troligen vintern 1021–22. Traditionen att han skulle vara begravd vid Husaby kyrka i Västergötland kan inte beläggas före 1740, och den utpekade graven anses vara från 1100-talet. Inte heller uppgifter från 1500-talet om att han skulle vara begravd i Linköping eller förmodan från 1600-talet om Skara har kunnat styrkas."
+    },
+    {
+     "rubrik": "Bedömning",
+     "text": "Tack vare källorna ovan är Olof den tidigaste svenske kung om vilken det finns någorlunda fylliga uppgifter, även om flera källors sena och osäkra karaktär fördunklar bilden. SBL konstaterar att det är oomtvistat att han bedrivit myntning, att han sökt införa kristendomen och att han regerat över åtminstone större delen av Svealand och Götaland, även om det inte är säkert att han samtidigt hade makten i båda områdena. De negativa uppgifterna om hans karaktär i den isländska litteraturen bör enligt SBL huvudsakligen ses som präglade av tendensen att ge hans motståndare, Olav den helige, rätt."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Olof \"skötkonung\" (band 28, 1992–94, sida 235)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7749",
+     "kontrollerad": true
+    }
+   ],
+   "fodd": 980,
+   "foddCa": true,
+   "make": [
+    {
+     "namn": "Estrid",
+     "anm": "obotritisk enligt Adam av Bremen"
+    }
+   ],
+   "anm": "Födelseåret är osäkert (SBL: senast i början av 980-talet) och han dog troligen vintern 1021–22. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "fakta": [
+    "Olof är den förste svenske kung som kan beläggas ha låtit prägla mynt. Några hundra mynt med hans namn finns bevarade.",
+    "Uppgiften att Olof ligger begravd i Husaby kan inte beläggas före 1740, och graven anses vara från 1100-talet."
+   ]
   },
   {
    "id": "anund-jakob",
@@ -62,10 +159,44 @@
    "dodCa": true,
    "ca": true,
    "palitlighet": "osäker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Anund Jakob var son till Olof Skötkonung och regerade omkring 28 år. Samtida källor säger lite, men hans förbund med Norge mot Knut den store, med sjöslaget vid Helgeå, och hans stöd till Ryssland syns i flera sagor och annaler.",
+   "berattelse": [
+    {
+     "rubrik": "Namn och födelse",
+     "text": "Anund Jakob var son till Olof Skötkonung och hans andra gemål. Han föddes något av åren 1007–09, enligt Snorre Sturlasson på Jakobsmässeaftonen den 24 juli, och dog omkring 1050. Dubbelnamnet bestyrks av Adam av Bremen. Jakob ska ha getts i dopet efter dagens helgon, men eftersom svearna inte var nöjda med ett så främmande namn lades det vanliga namnet Anund från Ynglingaätten till."
+    },
+    {
+     "rubrik": "Tronbestigningen och rykte",
+     "text": "Snorre berättar att Anund Jakob redan under faderns livstid, år 1019, skulle ha utropats till kung. SBL betvivlar det, eftersom Snorres skildring av striderna mellan Olof och hans folk förefaller osannolik på många punkter. Isländska annaler som inte beror av Snorre säger att han besteg tronen vid faderns död 1022. Adam av Bremen noterar att han, trots sin ungdom, överträffade alla sina föregångare i visdom, och att ingen svensk kung varit så älskad av folket. Av Adams många lovord drar SBL slutsatsen att Anund Jakob i missionsarbetet höll sig till ärkebiskopen i Bremen, i motsats till sin äldre bror och efterträdare, som tycks ha gynnat de engelska missionärerna."
+    },
+    {
+     "rubrik": "Utrikespolitik och kriget mot Knut den store",
+     "text": "Anund Jakobs utrikespolitik bestämdes främst av hans förhållande till de båda svågrarna, Olav i Norge och Jaroslav i Ryssland. När Olav hotades av Knut den store i England och Danmark ställde sig Anund Jakob på hans sida, förmodligen också för att han oroades av Knuts makt. Det nämns ett strandat försök från Knuts sida att sluta separatfred med honom.\n\nVid Helgeå kom det till ett sjöslag som gick Knut emot så till vida att hans flotta bragtes i oordning, sedan de förbundna dämt upp vattnet i ån och öppnat dammarna när Knut närmade sig. Men deras krafter räckte inte för att fullfölja fördelen. Spridda notiser berättar också om ett slag till lands vid Stångapelle, troligen nära Gårdstånga i Skåne. Det torde ha gått Anund Jakob emot, och i alla händelser måste Olav ta sig hem till Norge landvägen år 1027 (enligt engelska källor, troligen oriktigt, 1025). Knut gör på mynt och i en enstaka handling anspråk på att vara kung i Sverige. De hjälptrupper som Anund Jakob sände med Olav 1030 och med dennes son Magnus 1035 har knappast varit betydande.\n\nTill Ryssland gjordes under hans tid ett tåg under ledning av en viss Ingvar, troligen en medlem av kungafamiljen, och antagligen för att hjälpa Jaroslav. Den Ingvar som nämns på många runstenar och i en fantastisk saga ska ha stupat 1041."
+    },
+    {
+     "rubrik": "Kolbränna och myntningen",
+     "text": "En västgötsk källa beskriver Anund Jakob som sträng i sina räfster, med att bränna männens hus, och därför ska han ha fått tillnamnet Kolbränna. Uppgiften kan inte verifieras, annat än att det ännu 1335 i handlingar finns belägg för att man för vissa fall ansåg det lagligt att bränna en motsträvigs hus. På en viss inre styrka under hans tid tyder att han fortsatte faderns svenska myntning, som sedan avstannade fram till Knut Erikssons tid."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Anund Jakob (band 2, 1920, sida 74)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18741",
+     "kontrollerad": true
+    }
+   ],
+   "fodd": 1008,
+   "foddCa": true,
+   "foralder": [
+    "olof-skotkonung"
+   ],
+   "anm": "Födelseåret anges i SBL som något av åren 1007–09, och dödsåret som omkring 1050. Källorna är få och ofta sena, och där de motsäger varandra står det i texten. Inget samtida porträtt finns bevarat.",
+   "fakta": [
+    "Vid Helgeå dämde de förbundna enligt SBL:s skildring upp ån och öppnade dammarna när Knut den stores flotta närmade sig, så att den kom i oordning.",
+    "Anund Jakob lär ha fått tillnamnet Kolbränna för att han lät bränna ned motsträviga mäns hus, men uppgiften kan inte verifieras."
+   ]
   },
   {
    "id": "emund-den-gamle",
