@@ -402,15 +402,124 @@
    ],
    "fodd": 1550,
    "dod": 1611,
-   "anm": "Riksföreståndare från 1599; kung från 1604.",
+   "anm": "Karl blev riksföreståndare 1593 (erkänd av rådet), antog kunganamn 1603 och kröntes 1607. Kungliga slotten anger regeringstiden som 1604–1611, med tiden som riksföreståndare från 1599. Berättelsen bygger på Svenskt biografiskt lexikon och är kontrollerad mot Kungliga slottens sida om Karl IX.",
    "barn": [
-    "gustav-ii-adolf"
+    "gustav-ii-adolf",
+    {
+     "namn": "Katarina Vasa",
+     "anm": "mor till Karl X Gustav"
+    },
+    {
+     "namn": "Karl Filip"
+    }
    ],
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Karl IX var den yngste sonen till Gustav Vasa och styrde i decennier som hertig från Nyköping innan han blev kung. Han var en energisk, lagbunden och strängt religiös statsman som tvingade ned rådsaristokratin och Sigismund, men som lämnade riket i tre krig.",
+   "berattelse": [
+    {
+     "rubrik": "Barndom och hertigdöme",
+     "text": "Karl föddes den 4 oktober 1550 på Stockholms slott som son till Gustav Vasa och Margareta Leijonhufvud. Enligt faderns testamente fick han hertigdömet Värmland, större delen av Södermanland och Närke, vissa socknar i Västmanland och delar av Västergötland, men han var bara tio år när fadern dog 1560 och tillträdde formellt. Han uppfostrades dels vid styvmoderns hov, dels vid Erik XIV:s, och drabbades därför inte särskilt hårt av Arboga artiklar 1561. Furstendömet förvaltades för hans räkning av kungen, och som ung kom han alltmer att vistas i Eriks närhet.\n\nOm hans skolning är litet känt. Att den varit ringa har ofta antagits av hans senare grovkorniga och folkliga stil, men det motsägs delvis av vad man nu vet om hans bokinköp. Att utbildningen, liksom brödernas, var starkt inriktad på teologin är däremot oomtvistat och typiskt för en tid då religionen var så omstridd att befolkningens tro på många håll hängde direkt på furstens övertygelse.\n\nVad som fick Karl att delta i upproret mot Erik 1568 är enligt SBL inte utrett. Med tanke på hans senare dokumenterade lojalitet mot arvföreningen och testamentet är det rimligt att anta att han såg Eriks giftermål som ett brott mot arvföreningens anda. När Johan III kom till makten utökades Karls furstendöme något i västgötadelen, och han trädde fram som självständig regent. Vid en delning 1572 av Gustav Vasas arvegods fick han främst gods inom hertigdömet. Han uttryckte missnöje med uppdelningen men det ledde inte till konflikt med brodern."
+    },
+    {
+     "rubrik": "Hertig i Nyköping",
+     "text": "På 1570-talet kastade sig Karl med iver över förvaltningen av sitt furstendöme, och det är enligt SBL första gången man möter honom som en politiker med egen profil. Han styrde i det närmaste med full kunglig myndighet över förvaltning och inrikespolitik, med undantag av vissa extra skatter som tillkom kungen. Hans politik följde i huvudsak den europeiska merkantilismens mönster. Han grundade städer, bland dem Karlstad, Mariestad, Mariefred och Bro, och senare Kristinehamn, ivrade för uppodling av ny mark, främjade invandring av finnar och tyskar, och gav städerna skydd genom lättnader i exporttullar och skärpta transittullar. Samtidigt lät han adelsmän bedriva borgerlig näring i sin huvudstad Nyköping, vilket tyder på att hans merkantilism främst var praktisk och syftade till högre inkomster.\n\nHan satsade också på bergsbruk och på hantverk och småindustri som tillverkade militär utrustning, som vapen och kläde, och hertigdömets exporthamnar och industrier drog stor nytta av Johans krig i öster. Hans omsorg om livsmedelsproduktion hängde ihop med rustningarna. Under de här årtiondena var han nästan ständigt kvar i hertigdömet, utom på de långa utlandsresorna 1577–78 och 1579.\n\nSkattepolitiken var hård, och ibland gick han längre än vad som avtalats med Johan 1569. Bönderna fick bära extra pålagor till hertigens och hovets underhåll, som kostgärder, nattlägersgärder och knektgärder, ibland dubbelt både till honom och kungen, och i viss mån drabbades även stormännens arrendebönder, vilket låg bakom motsättningen till rådsadeln. Samtidigt bekräftade han adelns privilegier i hertigdömet i brev, men gav gåvor på behaglig tid, så att mottagarna band sig till honom."
+    },
+    {
+     "rubrik": "Kyrkan och liturgin",
+     "text": "När Johan III:s liturgiska planer hotade att bli kyrkliga stadgor lät Karl kalla ett prästmöte för furstendömet, där prästerna i september 1576 försäkrade att de skulle förkunna Guds ord rent och klart utan bilära och andra ceremonier, med hänvisning till Gustav Vasas tid. Det betydde att han motsatte sig liturgins införande i hertigdömet. När biskop Nils i Strängnäs 1577 skrev under beslutet om liturgin, gjorde han det med reservationen att det inte band Karl, men fick ändå en tillrättavisning. Biskopen fick stanna till 1582, då Karl suspenderade honom. Mindre avvisande var Karl till Nova Ordinantia, men han gjorde invändningar och begränsade senare dess användning till Strängnäs domkyrka. Han tillsatte också en särskild superintendent i Värmland, vilket i praktiken delade Skara stift.\n\nKarls hållning i kyrkopolitiken skiftade enligt SBL med hans svaga ställning i riket och hans oro för en rekatolisering om Sigismund skulle bli kung. Därför var han vid Vadstenamötet 1587 beredd till vissa eftergifter i ceremonierna, men inte i läran, för att undvika en brytning med Johan."
+    },
+    {
+     "rubrik": "Brodern Johan, Stockholmsstadgan och Kalmar stadga",
+     "text": "Karls självständiga styre ledde i början av 1580-talet till en konflikt med Johan III och till Stockholmsstadgan 1582, antagen i hans frånvaro och utarbetad av Hogenskild Bielke och Erik Sparre. Den reglerade de kungliga och furstliga rättigheterna helt till kungens förmån. Rådsadeln stödde kungen eftersom den själv drabbats av Karls politik. Först vid Vadstenamötet 1587 nåddes en kompromiss: Karl fick bekräftat att hans donationer skulle gälla så länge furstelinjen levde, men fick finna sig i att förhandlingar om extra skatter från frälsets bönder skulle ske med deras herrar.\n\nSenare samma år valdes Sigismund till polsk kung, och Johan blev mer beroende av rådsherrarna. De fick i Kalmar stadga, utfärdad utan att Karl tillfrågats, sin belöning: riket skulle i Sigismunds frånvaro styras av ett sjumannakollegium, där Karl bara fick tillsätta en av sju och i övrigt inte befatta sig med riksstyrelsen. Stadgan väckte hans utomordentliga vrede, och han såg den som en aktion mot hela Vasaätten.\n\nSituationen förändrades efter Revalmötet 1589, då Johan och rådet hamnade i en olöslig konflikt om Sigismunds hemkallande. Karl och Johan förliktes, och under Karls inflytande berövade Johan flera ledande rådsherrar deras förläningar och ämbeten, anklagade för stämplingar mot arvriket och Vasaätten. Kalmar stadga annullerades. Karls seger var fullständig, och under de följande åren fungerade han som Johans medregent."
+    },
+    {
+     "rubrik": "Hustrurna och barnen",
+     "text": "Karl gifte sig första gången den 11 maj 1579 i Heidelberg med Maria Anna av Pfalz, dotter till kurfurst Ludvig VI. Hon dog 1589 på Eskilstuna slott. Den 27 augusti 1592 gifte han sig i Nyköping med Kristina av Holstein-Gottorp, dotter till hertig Adolf. Enligt Kungliga slotten fick han med Maria dottern Katarina (1584–1638), som blev mor till Karl X Gustav, och flera barn som dog små. Med Kristina fick han bland andra Gustav Adolf (1594–1632), Maria Elisabet (1596–1618) och Karl Filip (1601–1622). SBL noterar att hans psykiska balans, som annars svajade kraftigt, stabiliserades i viss mån efter Gustav Adolfs födelse, då det gällde att trygga sonens arv."
+    },
+    {
+     "rubrik": "Riksföreståndare 1593–1597",
+     "text": "Efter Johans död inleddes förhandlingar mellan Karl och rådsadeln. Herrarna ville bara erkänna honom som den förnämste i regeringen, medan Karl krävde riksföreståndarskap med full kunglig myndighet. I januari 1593 nåddes en kompromiss: han erkändes som riksföreståndare men skulle styra med rådets råd och samtycke. Mötet i Uppsala, där han tidvis var närvarande, avskaffade helt enligt hans önskan Johans nymodigheter i kulten och läran.\n\nUnder Sigismunds vistelse i Sverige 1593–94 utspelades ett triangeldrama mellan kung, arvfurste och aristokrati. Rådet ville tillbaka till Kalmar stadga och det senmedeltida rådsväldet, Karl ville vara riksföreståndare i kungens ställe, och Sigismund ville ha fullt erkännande av en teokratisk absolutism. Sigismund lämnade Sverige utan att ha gett någondera parten tillfredsställande fullmakter, men efter att ha insatt kungatrogna ståthållare i Stockholm och flera stora län. Karl tog i praktiken över styret, men aktionen mot Sigismunds ståthållare belastade samarbetet med rådet.\n\nPå riksdagen i Söderköping 1595 ville Karl ha riksföreståndarskap med full kunglig myndighet, men Erik Sparre lyckades samla alla stånd mot honom, och Karl fick acceptera ett begränsat riksföreståndarskap. Riksdagsbeslutet utmynnade i en sammansvärjningsformel, troligen utformad av Sparre, som band ständerna mot Karls maktstävanden. Karl vände den senare mot herrarna och inledde en undersökning om kronans bortförlänta gods, som direkt drabbade rådsadeln. På riksdagen i Arboga 1597 kunde han trots hårt motstånd, lett av biskoparna, genomdriva vad han velat 1595. Hans folkliga agitation före mötet, särskilt vid vintermarknaderna, spelade på herrehat och på Klas Flemings hårdhänta hantering av upproret i Finland, det så kallade klubbekriget. Brytningen med Sigismund blev nu oåterkallelig."
+    },
+    {
+     "rubrik": "Kriget mot Sigismund 1598",
+     "text": "Herrarna hade övertygat Sigismund om att han måste handla. Rustningar i Polen vintern 1597–98 gav klart besked om hans avsikter, och i slutet av juli 1598 gick han över till Sverige, samtidigt som en kungatrogen styrka från Finland landsteg på Upplandskusten för att gå mot Stockholm. Karls rustningar kom sent i gång, men han lyckades hejda finnarna. Den polske magnaten Samuel Laski övertalade ståthållarna i Stockholm att ställa sig till Sigismunds förfogande. Efter en första skärmytsling vid Stegeborg och förhandlingar gick det inte att undvika en väpnad uppgörelse. Efter nederlaget vid Stångebro i sista veckan i september var Sigismund på grund av årstiden tvungen att återvända till Polen. Hans kungadöme bekräftades genom Karls trohetsförpliktelse, men de fem ledande i rådskretsen i hans läger överlämnades som gisslan i Karls händer. I Linköpingsfördraget fick Karl in en amnesti för alla händelser sedan Sigismunds avresa 1594.\n\nEfter Sigismunds avresa lyckades Karl genom husrannsakan få tag i de fängslade herrarnas brevväxling från de föregående åren. Breven andades enligt SBL förakt och hat mot honom, vilket gjorde honom rasande, men framför allt övertygade de honom om att herrarna genom att driva fram Sigismunds kungaval och söka tränga ut honom själv hade velat omintetgöra arvföreningen och göra sig fria från Vasaätten. Han stärkte sin ställning: genom ett skifte tog han en stor del av Gustav Vasas arvegods, genom ett krigståg lade han Finland under sig, och han lät ett ständermöte säga upp Sigismund lydnaden och erbjuda kronan åt prins Vladislav på villkor att han uppfostrades i Sverige. Han avvisade också ett försök från Sigismund att med en flotta invadera västkusten och ta Älvsborg. Nu kallade sig Karl regerande arvfurste, och för att kunna ta emot kronan avsatte han Abraham Angermannus från ärkebiskopsstolen i Uppsala."
+    },
+    {
+     "rubrik": "Linköping 1600 och vägen till kronan",
+     "text": "Den stora vändpunkten var riksdagen i Linköping 1600. Karl tog emot ett erbjudande om kronan, med undantag för Sigismunds halvbror hertig Johan, men avvisade det tills vidare. Viktigare var uppgörelsen med rådsaristokratin: de fångna riksråden ställdes inför en ständerdomstol där Karl själv var åklagare, med stöd av brevmaterialet som kommit i hans händer. Försvaret, som främst sköttes av Erik Sparre, var till en början så framgångsrikt att en fällande dom tycktes omöjlig, men Sparres försök att jäva domstolen, som öppna fiender till Karl, utnyttjades effektivt för att driva fram dödsdomarna.\n\nSBL avvisar tanken att detta bara var hämnd eller maktlust. Breven hade enligt Karl bevisat att herrarna stämplat mot Vasaätten och arvföreningen, och för honom var det högförräderi över allt annat. Det var också hänsynen till arvföreningen och testamentet som fick honom att så länge tveka inför att acceptera kungavalet, antog kunganamn först i augusti 1603 och till slut lät kröna sig."
+    },
+    {
+     "rubrik": "Kung under krig och nödår",
+     "text": "Karls ställning hotades efter Linköping av en ekonomisk kris med upprepade missväxter, svår hungersnöd och härjande farsoter, samt av kriget mot Polen i Estland och Livland. För att normalisera förhållandena och vinna tillbaka en del av den gamla rådsadeln återupprättade han riksrådet vid en riksdag i Stockholm 1602. När läget stabiliserats lät han i Norrköping 1604 reglera tronföljden genom en ny arvsordning. Han kröntes vid riksdagen i Uppsala den 15 mars 1607.\n\nEn viktig insats under de sista åren var arbetet med att revidera landslagen. Planerna var gamla, och 1602 hade han erbjudit den fångne Hogenskild Bielke att ta ledande del. När lagrevisionen drog ut på tiden lät han trycka ett antal medeltida lagar att användas i rättskipningen, och han bestämde att Mose lag, som den står i Bibeln, skulle följas i svensk rättskipning. Det var ett uttryck för hans religiöst grundade bundenhet vid Guds klara ord, men fick enligt SBL ödesdigra följder för svensk rättsutveckling."
+    },
+    {
+     "rubrik": "Utrikespolitik och de sista månaderna",
+     "text": "Karls utrikespolitik dominerades av den dynastiska frågan, det vill säga förhållandet till Polen. Han försökte engagera engelsmän och holländare, med hot om ett samarbete mellan Polen och Spanien. Med holländskt stöd anställde han 1601 greve Johan av Nassau som överbefälhavare i Livland, men det slutade i en konflikt mellan dem. Han engagerade sig också i oroligheter i Lübeck, med syftet att kunna blockera Riga, vilket belastade relationen till sjömakterna och Danmark. Själv deltog han i kriget i öster, i slaget vid Kirkholm 1605 under uppenbar livsfara, och blandade sig i den ryska oredan.\n\nHans rådgivare såg under de sista åren det danska problemet som viktigare. Kristian IV sökte utnyttja Karls inre svårigheter och planerade troligen redan 1600 att återupprätta den senmedeltida nordiska unionen. Dessutom ställde Karls kolonisation i Finnmarken och hans krav på svensk andel i höghetsrätten över delar av Atlantkusten Danmark mot honom. Karl hade en defensiv politik mot Danmark och litade på uppskovstaktik, och det danska anfallet 1611 kom därför som en fullständig överraskning och förbittrade hans sista månader. I sina yttersta dagar utmanade han Kristian IV på duell. Karl dog den 30 oktober 1611 på Nyköpings slott och begravdes i Strängnäs domkyrka."
+    },
+    {
+     "rubrik": "Människan Karl",
+     "text": "Enligt SBL hade Karl en stark, tidstypisk religiositet som i hans fall gick i reformert riktning utan att bryta med den svenska reformationen, och han ville i varje läge trygga sin religiösa integritet, så att han aldrig tvingades till en annan bekännelse än den han efter ingående studier funnit vara Guds vilja. Hans politiska tänkande behärskades av arvföreningen och Gustav Vasas testamente, och han var enligt SBL hårt lagbunden. Han hade starka teoretiska intressen och en bred europeisk orientering, förvärvad på långa resor i Tyskland, genom att förhöra resande och genom omfattande läsning i teologi och politik. Många berättelser berättar hur han kallade till sig köpmän, skeppare och legosoldater för att utfråga dem om europeisk politik.\n\nSBL varnar för bilden av honom som en bondekonung eller böndernas vän: hans skattepolitik och hans hårdhänta uttag av det som tillkom hertig eller kung visar något annat, men han förstod att utnyttja herrehat, bondekonservatism och rädslan för rekatolisering. Han var en driven talare och skribent, med en \"grym uppsluppenhet\" och en munter slagkraft också i allvarliga ögonblick, men också misstänksam, och hans aggressivitet kunde bli obehärskad. Han kunde å andra sidan vinna människor och fästa dem vid sig, och han väckte både förskräckelse och hat.\n\nHan var ständigt på resa och skrev ständigt. Som hertig daterade han omkring hundra brev om året, och från 1592 ökade antalet till det dubbla eller mer. Hans fysiska krafter var stora, men enligt SBL motsvarades de inte av psykisk balans: ohämmade vredesutbrott, häftiga svängningar och korta depressioner med handlingsoförmåga finns omvittnade under skilda delar av hans liv. SBL sammanfattar honom som en man med etisk förankring i en personligt upplevd religiositet, stark lagbundenhet, bred internationell orientering och okuvlig energi, men med en maniskt depressiv läggning med starka och snabba svängningar."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl IX (artikel i band 20, 1973–75, sida 630)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12354",
+     "kontrollerad": true
+    },
+    {
+     "titel": "King Karl IX",
+     "utgivare": "Kungliga slotten (kungligaslotten.se)",
+     "url": "https://www.kungligaslotten.se/english/list-of-swedish-monarchs/karl-ix.html",
+     "kontrollerad": true
+    }
+   ],
+   "foddDatum": "1550-10-04",
+   "dodDatum": "1611-10-30",
+   "dodsatt": "naturlig",
+   "foralder": [
+    {
+     "namn": "Margareta Leijonhufvud"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Maria Anna av Pfalz",
+     "anm": "gift 1579"
+    },
+    {
+     "namn": "Kristina av Holstein-Gottorp",
+     "anm": "gift 1592"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "erik-xiv",
+     "relation": "halvbror"
+    },
+    {
+     "id": "johan-iii",
+     "relation": "bror"
+    },
+    {
+     "id": "sigismund",
+     "relation": "brorson"
+    }
+   ],
+   "fakta": [
+    "Som hertig grundade Karl städerna Karlstad, Mariestad, Mariefred och Bro, och senare Kristinehamn.",
+    "Karl kallade till sig resande köpmän, skeppare och legosoldater för att förhöra dem om europeisk politik.",
+    "Som hertig daterade han omkring hundra brev om året, och från 1592 minst dubbelt så många."
+   ],
+   "portratt": {
+    "fil": "Karl IX, 1550-1611, kung av Sverige - Nationalmuseum - 16140.tif",
+    "beskrivning": "Karl IX, målning av okänd konstnär",
+    "kredit": "Okänd konstnär, Nationalmuseum",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Karl_IX,_1550-1611,_kung_av_Sverige_-_Nationalmuseum_-_16140.tif"
+   }
   },
   {
    "id": "gustav-ii-adolf",
