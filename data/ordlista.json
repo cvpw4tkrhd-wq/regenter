@@ -1,0 +1,59 @@
+{
+ "ord": [
+  {
+   "id": "riksforestandare",
+   "term": "Riksföreståndare",
+   "forklaring": "Den som styrde riket när det inte fanns någon kung, eller när kungen inte accepterades. Sturarna var riksföreståndare under unionstidens slut."
+  },
+  {
+   "id": "interregnum",
+   "term": "Interregnum",
+   "forklaring": "Mellanrum mellan två regenter då tronen är tom eller omstridd."
+  },
+  {
+   "id": "kalmarunionen",
+   "term": "Kalmarunionen",
+   "forklaring": "Unionen mellan Sverige, Danmark och Norge under en gemensam kung, formellt från 1397 till 1523."
+  },
+  {
+   "id": "riksrad",
+   "term": "Riksråd",
+   "forklaring": "Rådet av stormän, ofta biskopar och adelsmän, som rådgav kungen och ibland styrde i hans ställe."
+  },
+  {
+   "id": "riksdag",
+   "term": "Riksdag",
+   "forklaring": "Församling av ståndsrepresentanter som kallades samman av kungen. Den blev under 1500-talet en viktig del av statsstyret."
+  },
+  {
+   "id": "arvrike",
+   "term": "Arvrike",
+   "forklaring": "Ett rike där kronan går i arv inom en ätt. Sverige blev arvrike 1544."
+  },
+  {
+   "id": "valmonarki",
+   "term": "Valmonarki",
+   "forklaring": "Ett rike där kungen väljs. Under medeltiden valdes svenska kungar av riksföreträdare."
+  },
+  {
+   "id": "reformationen",
+   "term": "Reformationen",
+   "forklaring": "Den religiösa omvälvning på 1500-talet som i Sverige ledde till att den lutherska kyrkan ersatte den katolska."
+  },
+  {
+   "id": "stormaktstiden",
+   "term": "Stormaktstiden",
+   "forklaring": "Tiden då Sverige var en stormakt i Östersjöområdet, ungefär 1611–1718."
+  },
+  {
+   "id": "frihetstiden",
+   "term": "Frihetstiden",
+   "forklaring": "Tiden 1718–1772 då riksdagen hade störst makt och kungens makt var begränsad."
+  },
+  {
+   "id": "regeringsform",
+   "term": "Regeringsform",
+   "forklaring": "Grundlag som anger hur landet ska styras. Sverige har haft regeringsformer från 1634, 1719, 1720, 1772, 1809 och 1974."
+  }
+ ]
+}
