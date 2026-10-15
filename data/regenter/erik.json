@@ -1,0 +1,128 @@
+{
+ "regenter": [
+  {
+   "id": "erik-den-helige",
+   "namn": "Erik den helige",
+   "titel": "Kung",
+   "hus": "erik",
+   "perioder": [
+    [
+     1156,
+     1160
+    ]
+   ],
+   "dod": 1160,
+   "dodCa": true,
+   "ca": true,
+   "dodsatt": "mördad",
+   "barn": [
+    "knut-eriksson"
+   ],
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "magnus-henriksson",
+   "namn": "Magnus Henriksson",
+   "titel": "Kung",
+   "hus": "ovriga",
+   "perioder": [
+    [
+     1160,
+     1161
+    ]
+   ],
+   "dod": 1161,
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "knut-eriksson",
+   "namn": "Knut Eriksson",
+   "titel": "Kung",
+   "hus": "erik",
+   "perioder": [
+    [
+     1167,
+     1196
+    ]
+   ],
+   "dod": 1196,
+   "barn": [
+    "erik-knutsson"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "erik-knutsson",
+   "namn": "Erik Knutsson",
+   "titel": "Kung",
+   "hus": "erik",
+   "perioder": [
+    [
+     1208,
+     1216
+    ]
+   ],
+   "dod": 1216,
+   "barn": [
+    "erik-lispe-och-halte"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "erik-lispe-och-halte",
+   "namn": "Erik Eriksson läspe och halte",
+   "titel": "Kung",
+   "hus": "erik",
+   "perioder": [
+    [
+     1222,
+     1229
+    ],
+    [
+     1234,
+     1250
+    ]
+   ],
+   "dod": 1250,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "knut-lange",
+   "namn": "Knut Långe",
+   "titel": "Kung",
+   "hus": "ovriga",
+   "perioder": [
+    [
+     1229,
+     1234
+    ]
+   ],
+   "dod": 1234,
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
