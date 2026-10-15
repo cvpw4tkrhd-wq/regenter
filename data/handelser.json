@@ -1,0 +1,266 @@
+{
+ "handelser": [
+  {
+   "id": "engelbrektsupproret-1434",
+   "namn": "Engelbrektsupproret",
+   "ar": 1434,
+   "datum": null,
+   "text": "Engelbrekt Engelbrektsson ledde ett uppror mot Erik av Pommerns styre, som blev en viktig startpunkt för det svenska motståndet mot unionskungen.",
+   "regenter": [
+    "erik-av-pommern"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "kalmarunionen-1397",
+   "namn": "Kalmarunionen bildas",
+   "ar": 1397,
+   "datum": null,
+   "text": "Vid ett möte i Kalmar 1397 kröntes Erik av Pommern till kung över Sverige, Danmark och Norge. Margareta hade då redan i praktiken samlat de tre rikena under sitt styre. Unionen höll, med avbrott, fram till 1523.",
+   "regenter": [
+    "margareta",
+    "erik-av-pommern"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "brunkeberg-1471",
+   "namn": "Slaget vid Brunkeberg",
+   "ar": 1471,
+   "datum": null,
+   "text": "Sten Sture den äldre besegrade unionskungen Kristian I vid Brunkeberg utanför Stockholm.",
+   "regenter": [
+    "sten-sture-den-aldre",
+    "kristian-i"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "stockholms-blodbad-1520",
+   "namn": "Stockholms blodbad",
+   "ar": 1520,
+   "datum": "11-08",
+   "text": "Efter Kristian II:s kröning lät kungen avrätta ett stort antal av rikets ledande män på Stortorget i Stockholm i november 1520. Händelsen blev startskottet för resningen som förde Gustav Vasa till makten.",
+   "regenter": [
+    "kristian-ii",
+    "gustav-vasa",
+    "sten-sture-den-yngre"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "gustav-vasa-kung-1523",
+   "namn": "Gustav Vasa väljs till kung",
+   "ar": 1523,
+   "datum": "06-06",
+   "text": "Vid riksdagen i Strängnäs valdes Gustav Vasa till kung den 6 juni 1523, och den 17 juni tågade han in i Stockholm.",
+   "regenter": [
+    "gustav-vasa"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "vasteras-riksdag-1527",
+   "namn": "Västerås riksdag 1527",
+   "ar": 1527,
+   "datum": null,
+   "text": "Riksdagen i Västerås beslöt att kronan fick dra in en stor del av kyrkans egendom. Beslutet brukar ses som reformationens genombrott i Sverige.",
+   "regenter": [
+    "gustav-vasa"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "dackefejden-1542",
+   "namn": "Dackefejden",
+   "ar": 1542,
+   "datum": null,
+   "text": "Ett stort bondeuppror i Småland 1542–1543 under ledning av Nils Dacke. Det krossades av Gustav Vasas trupper.",
+   "regenter": [
+    "gustav-vasa"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "vasteras-arvforening-1544",
+   "namn": "Västerås arvförening",
+   "ar": 1544,
+   "datum": null,
+   "text": "Riksdagen beslöt att kronan skulle gå i arv inom Vasaätten, och Sverige blev ett arvrike.",
+   "regenter": [
+    "gustav-vasa"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "stangebro-1598",
+   "namn": "Slaget vid Stångebro",
+   "ar": 1598,
+   "datum": null,
+   "text": "Hertig Karl besegrade kung Sigismunds trupper vid Stångebro utanför Linköping, vilket var ett avgörande steg mot Sigismunds avsättning.",
+   "regenter": [
+    "karl-ix",
+    "sigismund"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "lutzen-1632",
+   "namn": "Slaget vid Lützen",
+   "ar": 1632,
+   "datum": null,
+   "text": "Gustav II Adolf stupade i slaget vid Lützen i Tyskland under trettioåriga kriget, men svenskarna vann slaget.",
+   "regenter": [
+    "gustav-ii-adolf"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "westfaliska-freden-1648",
+   "namn": "Westfaliska freden",
+   "ar": 1648,
+   "datum": "10-24",
+   "text": "Freden i Westfalen avslutade trettioåriga kriget. Sverige fick områden i norra Tyskland och stod på höjden av sin makt.",
+   "regenter": [
+    "kristina"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "kristinas-abdikation-1654",
+   "namn": "Kristina avstår tronen",
+   "ar": 1654,
+   "datum": null,
+   "text": "Drottning Kristina abdikerade 1654, och hennes kusin Karl X Gustav tog över kronan.",
+   "regenter": [
+    "kristina",
+    "karl-x-gustav"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "roskildefreden-1658",
+   "namn": "Freden i Roskilde",
+   "ar": 1658,
+   "datum": null,
+   "text": "Efter Karl X Gustavs tåg över isen på Bälten fick Sverige Skåne, Halland, Blekinge och Bohuslän av Danmark.",
+   "regenter": [
+    "karl-x-gustav"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "narva-1700",
+   "namn": "Slaget vid Narva",
+   "ar": 1700,
+   "datum": null,
+   "text": "Karl XII besegrade en betydligt större rysk armé vid Narva, en tidig seger i stora nordiska kriget.",
+   "regenter": [
+    "karl-xii"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "poltava-1709",
+   "namn": "Slaget vid Poltava",
+   "ar": 1709,
+   "datum": null,
+   "text": "Den svenska armén besegrades av Peter den store vid Poltava i Ukraina. Slaget ses ofta som vändpunkten i stora nordiska kriget.",
+   "regenter": [
+    "karl-xii"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "fredriksten-1718",
+   "namn": "Karl XII faller vid Fredriksten",
+   "ar": 1718,
+   "datum": null,
+   "text": "Karl XII dog vid belägringen av Fredriksten i Norge. Hans död ledde till att stormaktstiden tog slut.",
+   "regenter": [
+    "karl-xii",
+    "ulrika-eleonora"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "statskuppen-1772",
+   "namn": "Gustav III:s statskupp",
+   "ar": 1772,
+   "datum": "08-19",
+   "text": "Gustav III genomförde en statskupp som avslutade frihetstiden och återställde kungamakten.",
+   "regenter": [
+    "gustav-iii"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "attentatet-1792",
+   "namn": "Attentatet mot Gustav III",
+   "ar": 1792,
+   "datum": "03-16",
+   "text": "Gustav III sköts på en maskeradbal på Operan i Stockholm den 16 mars 1792 och avled några veckor senare.",
+   "regenter": [
+    "gustav-iii"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "gustav-iv-adolf-avsatts-1809",
+   "namn": "Gustav IV Adolf avsätts",
+   "ar": 1809,
+   "datum": "03-13",
+   "text": "Gustav IV Adolf arresterades den 13 mars 1809 och avsattes. Samma år antogs en ny regeringsform och Karl XIII blev kung.",
+   "regenter": [
+    "gustav-iv-adolf",
+    "karl-xiii"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "karl-johan-1810",
+   "namn": "Karl Johan väljs till kronprins",
+   "ar": 1810,
+   "datum": "08-21",
+   "text": "Riksdagen i Örebro valde den franske marskalken Jean-Baptiste Bernadotte till svensk kronprins. Han blev kung 1818 som Karl XIV Johan.",
+   "regenter": [
+    "karl-xiv-johan",
+    "karl-xiii"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "kielfreden-1814",
+   "namn": "Kielfreden",
+   "ar": 1814,
+   "datum": "01-14",
+   "text": "Sverige fick Norge genom Kielfreden, vilket ledde till unionen mellan Sverige och Norge.",
+   "regenter": [
+    "karl-xiv-johan"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "unionsupplosningen-1905",
+   "namn": "Unionsupplösningen",
+   "ar": 1905,
+   "datum": "10-23",
+   "text": "Unionen med Norge upplöstes genom överenskommelsen i Karlstad.",
+   "regenter": [
+    "oscar-ii"
+   ],
+   "status": "utkast"
+  },
+  {
+   "id": "regeringsformen-1974",
+   "namn": "Ny regeringsform",
+   "ar": 1974,
+   "datum": null,
+   "text": "Med 1974 års regeringsform förlorade kungen de sista politiska uppgifterna, och regeringsformen trädde i kraft 1 januari 1975.",
+   "regenter": [
+    "carl-xvi-gustaf"
+   ],
+   "status": "utkast"
+  }
+ ]
+}
