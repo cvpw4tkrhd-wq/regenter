@@ -30,10 +30,10 @@ const D = { hus: {}, epoker: [], R: [], byId: {}, H: [], hById: {}, O: [], oById
 async function getJSON(p) { const r = await fetch(p); if (!r.ok) throw new Error(p + ' ' + r.status); return r.json(); }
 const start = r => r.perioder[0][0];
 const slut = r => { const p = r.perioder[r.perioder.length - 1]; return p[1] ?? NOW; };
-const reignYears = r => r.perioder.reduce((s, [a, b]) => s + ((b ?? NOW) - a), 0);
+const reignYears = r => (r.osakerLangd ? 0 : r.perioder.reduce((s, [a, b]) => s + ((b ?? NOW) - a), 0));
 const isMon = r => r.titel !== 'Riksföreståndare';
 const eraFor = y => D.epoker.find(e => y >= e.fran && y < e.till) || D.epoker[D.epoker.length - 1];
-const reignText = r => r.perioder.map(([a, b]) => `${r.ca ? 'ca ' : ''}${a}–${b == null ? '' : b}`).join(' och ');
+const reignText = r => r.regeringstext ? r.regeringstext : r.perioder.map(([a, b]) => `${r.ca ? 'ca ' : ''}${a}–${b == null ? '' : b}`).join(' och ');
 const lifeText = r => {
   const f = r.fodd ? `${r.foddCa ? 'ca ' : ''}${r.fodd}` : '?';
   const d = r.levande ? '' : (r.dod ? `${r.dodCa ? 'ca ' : ''}${r.dod}` : '?');
@@ -318,7 +318,7 @@ function pRegent(id, P) {
       <section class="sidoruta"><h2>Fakta</h2><dl>
         <dt>Född</dt><dd>${r.fodd ? `${r.foddCa ? 'ca ' : ''}${r.fodd}` : '<span class="mut">Okänt</span>'}</dd>
         <dt>Död</dt><dd>${r.levande ? '<span class="mut">Lever</span>' : (r.dod ? `${r.dodCa ? 'ca ' : ''}${r.dod}${r.dodsatt ? ` <span class="mut">(${esc(r.dodsatt)})</span>` : ''}` : '<span class="mut">Okänt</span>')}</dd>
-        <dt>Regeringstid</dt><dd>${esc(reignText(r))}<span class="mut"> (${r.ca ? 'ca ' : ''}${reignYears(r)} år)</span></dd>
+        <dt>Regeringstid</dt><dd>${esc(reignText(r))}${reignYears(r) > 0 ? `<span class="mut"> (${r.ca ? 'ca ' : ''}${reignYears(r)} år)</span>` : ''}</dd>
         ${age != null ? `<dt>Ålder vid tillträde</dt><dd>${age} år</dd>` : ''}
         ${dage != null ? `<dt>Ålder vid döden</dt><dd>${dage} år</dd>` : ''}
         <dt>Ätt</dt><dd><a href="#/tidslinje?hus=${r.hus}">${esc(D.hus[r.hus].namn)}</a></dd>
