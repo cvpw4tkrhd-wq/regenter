@@ -1,5 +1,5 @@
 // Service worker: appskalet och datan fungerar offline. Höj VERSION när du har laddat upp nya filer.
-const VERSION = 'regenter-v2';
+const VERSION = 'regenter-v1';
 const BILDER = 'regenter-bilder';
 const SKAL = ['./', 'index.html', 'style.css', 'app.js', 'manifest.json',
   'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'data/index.json', 'data/handelser.json', 'data/ordlista.json'];
