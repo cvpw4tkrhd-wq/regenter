@@ -231,10 +231,59 @@
    ],
    "dod": 1222,
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Johan Sverkersson är den förste svenske kung vars födelseår är känt. Han var jarl som tolvmånaders barn, blev kung efter Erik Knutssons död och dog omkring 20 år gammal, kort efter ett krigståg till Estland. Han var den siste manlige medlemmen av den sverkerska ätten.",
+   "berattelse": [
+    {
+     "rubrik": "Jarl som spädbarn",
+     "text": "Johan Sverkersson föddes 1201, son till kung Sverker Karlsson och Ingegerd, dotter till Birger brosa. Han är enligt SBL den förste svenske kung vars födelseår är känt. En samtida isländsk notis berättar att han efter morfadern Birger brosas död blev jarl när han bara var en vinter gammal, med den spefulla kommentaren att svearna då hade en \"byxlös jarl\". Det har tolkats som en återklang av den harm som kan ha väckts i vissa kretsar över att Sverker gjorde sin späde son till den dominante Birger brosas efterträdare, tydligen för att säkra tronföljden inom sin släkt och minska jarlsämbetets betydelse. SBL ser häri en av orsakerna till den följande utvecklingen, då Johans morbröder, Birger brosas söner Knut och Folke, i Sverkers ställe hyllade Erik den heliges sonson Erik Knutsson, hos vilken de blev jarlar efter varandra."
+    },
+    {
+     "rubrik": "Kung efter Erik Knutsson",
+     "text": "När Johan några år senare, efter Erik Knutssons död 1216, blev svensk kung, ledde det till att den avlidnes svåger, den danske kungen Valdemar Sejr, protesterade hos påven mot att Johan med stöd av vissa ej namngivna stormän med våld bemäktigat sig Sverige och undanträngt Eriks postume son med samma namn, Valdemars systerson. Den uppgiften finns i ett påvebrev av den 7 augusti 1219, genom vilket påven efter Johans kröning gav de nordtyska biskoparna av Lübeck, Schwerin och Ratzeburg i uppdrag att undersöka om kröningen skett efter Valdemars protest. Samma dag fick de order att söka få till stånd en förlikning. År 1220 reste biskop Bengt av Skara, en av dem som assisterat vid kröningen, till Rom, vilket resulterade i inte mindre än 26 påvebrev om svenska förhållanden mellan den 3 november 1220 och den 25 mars 1221.\n\nDen dag då Johan kröntes, i början av 1219, utfärdade han ett privilegiebrev för de svenska biskoparna, som förnyade faderns brev från 1200 och i viss mån utvidgade det. Samtidigt gav han en gåva till Linköpingsbiskopen Karl, som han kallar sin kansler och släkting (cognatus), eftersom Karl var brorson till Johans morfar Birger brosa. Som vittnen nämns bland andra ärkebiskopen, tre biskopar och fem världsliga stormän, främst jarlen Karl den döve, som torde vara en bror till Birger brosa, hans son Ulf, senare känd som jarl Ulf Fase, och Karls bröder lagman Eskil och biskop Bengt. Det är alltså tydligt, menar SBL, att stormännen som gjort Johan till kung var hans släktingar på mödernet, den så kallade folkungaätten."
+    },
+    {
+     "rubrik": "Estland 1220 och döden",
+     "text": "Året efter Valdemar Sejrs bekanta korståg till Reval for Johan 1220, enligt den samtida lettiske prästen Henriks krönika, med jarlen Karl den döve, flera biskopar och en stor här till Estlands västkust, Rotalia. Där tog han sitt högkvarter på Leal, varifrån svenskarna trängde in i landet, döpte och byggde kyrkor. Sedan fredlig kontakt upprättats med danskarna i Reval återvände Johan till Sverige. Kort därpå erövrade öselborna Leal, och både jarlen och biskop Karl stupade, enligt svenska annaler den 8 augusti.\n\nJohan dog den 10 mars 1222 på Visingsö, omkring 20 år gammal. Västgötalagens kungakrönika, som anses ha tillkommit några decennier efter hans död och vars författare synes ha sympatiserat med hans släkt, uppger att han var mycket \"godvillig\" och att hela Sverige sörjde honom. Enligt samma källa begravdes han i Alvastra liksom sina förfäder. Han var den siste manlige medlemmen av sin släkt."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Johan Sverkersson (band 20, 1973–75, sida 181)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12098",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "regeringstext": "kung tidigast 1216, krönt i början av 1219, till sin död 1222",
+   "fodd": 1201,
+   "foddCa": false,
+   "dodCa": false,
+   "dodDatum": "1222-03-10",
+   "foralder": [
+    "sverker-den-yngre",
+    {
+     "namn": "Ingegerd Birgersdotter",
+     "anm": "dotter till Birger brosa"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "erik-knutsson",
+     "relation": "föregångare"
+    },
+    {
+     "id": "erik-lispe-och-halte",
+     "relation": "motkandidat, Erik Knutssons postume son"
+    }
+   ],
+   "anm": "Johan föddes 1201 och dog 10 mars 1222 på Visingsö. Han var den förste svenske kung vars födelseår är känt, och den siste manlige medlemmen av den sverkerska ätten. Berättelsen bygger på SBL. Inget samtida porträtt finns bevarat.",
+   "fakta": [
+    "Johan Sverkersson är den förste svenske kung vars födelseår, 1201, är känt.",
+    "Enligt en samtida isländsk notis blev han jarl som spädbarn, med kommentaren att svearna då hade en \"byxlös jarl\".",
+    "Kung Valdemar Sejr av Danmark protesterade hos påven mot Johans kröning, och påven gav 26 brev om svenska förhållanden 1220–1221."
+   ]
   }
  ]
 }
