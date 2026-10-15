@@ -1,0 +1,91 @@
+{
+ "regenter": [
+  {
+   "id": "erik-segersall",
+   "namn": "Erik Segersäll",
+   "titel": "Kung",
+   "hus": "uppsala",
+   "perioder": [
+    [
+     970,
+     995
+    ]
+   ],
+   "dod": 995,
+   "dodCa": true,
+   "ca": true,
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "olof-skotkonung",
+   "namn": "Olof Skötkonung",
+   "titel": "Kung",
+   "hus": "uppsala",
+   "perioder": [
+    [
+     995,
+     1022
+    ]
+   ],
+   "dod": 1022,
+   "dodCa": true,
+   "ca": true,
+   "barn": [
+    "anund-jakob",
+    "emund-den-gamle"
+   ],
+   "foralder": [
+    "erik-segersall"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "anund-jakob",
+   "namn": "Anund Jakob",
+   "titel": "Kung",
+   "hus": "uppsala",
+   "perioder": [
+    [
+     1022,
+     1050
+    ]
+   ],
+   "dod": 1050,
+   "dodCa": true,
+   "ca": true,
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "emund-den-gamle",
+   "namn": "Emund den gamle",
+   "titel": "Kung",
+   "hus": "uppsala",
+   "perioder": [
+    [
+     1050,
+     1060
+    ]
+   ],
+   "dod": 1060,
+   "dodCa": true,
+   "ca": true,
+   "palitlighet": "osäker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
