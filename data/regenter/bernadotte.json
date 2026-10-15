@@ -1,0 +1,157 @@
+{
+ "regenter": [
+  {
+   "id": "karl-xiv-johan",
+   "namn": "Karl XIV Johan",
+   "titel": "Kung",
+   "hus": "bernadotte",
+   "perioder": [
+    [
+     1818,
+     1844
+    ]
+   ],
+   "fodd": 1763,
+   "dod": 1844,
+   "barn": [
+    "oscar-i"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "oscar-i",
+   "namn": "Oscar I",
+   "titel": "Kung",
+   "hus": "bernadotte",
+   "perioder": [
+    [
+     1844,
+     1859
+    ]
+   ],
+   "fodd": 1799,
+   "dod": 1859,
+   "barn": [
+    "karl-xv",
+    "oscar-ii"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "karl-xv",
+   "namn": "Karl XV",
+   "titel": "Kung",
+   "hus": "bernadotte",
+   "perioder": [
+    [
+     1859,
+     1872
+    ]
+   ],
+   "fodd": 1826,
+   "dod": 1872,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "oscar-ii",
+   "namn": "Oscar II",
+   "titel": "Kung",
+   "hus": "bernadotte",
+   "perioder": [
+    [
+     1872,
+     1907
+    ]
+   ],
+   "fodd": 1829,
+   "dod": 1907,
+   "barn": [
+    "gustaf-v"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "gustaf-v",
+   "namn": "Gustaf V",
+   "titel": "Kung",
+   "hus": "bernadotte",
+   "perioder": [
+    [
+     1907,
+     1950
+    ]
+   ],
+   "fodd": 1858,
+   "dod": 1950,
+   "barn": [
+    "gustaf-vi-adolf"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "gustaf-vi-adolf",
+   "namn": "Gustaf VI Adolf",
+   "titel": "Kung",
+   "hus": "bernadotte",
+   "perioder": [
+    [
+     1950,
+     1973
+    ]
+   ],
+   "fodd": 1882,
+   "dod": 1973,
+   "relaterade": [
+    {
+     "id": "carl-xvi-gustaf",
+     "relation": "farfar",
+     "omvand": "sonson"
+    }
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "carl-xvi-gustaf",
+   "namn": "Carl XVI Gustaf",
+   "titel": "Kung",
+   "hus": "bernadotte",
+   "perioder": [
+    [
+     1973,
+     null
+    ]
+   ],
+   "fodd": 1946,
+   "levande": true,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
