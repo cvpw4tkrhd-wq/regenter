@@ -1,0 +1,251 @@
+{
+ "regenter": [
+  {
+   "id": "gustav-vasa",
+   "namn": "Gustav Vasa",
+   "titel": "Kung",
+   "hus": "vasa",
+   "perioder": [
+    [
+     1523,
+     1560
+    ]
+   ],
+   "fodd": 1496,
+   "dod": 1560,
+   "foralder": [
+    {
+     "namn": "Erik Johansson (Vasa)"
+    },
+    {
+     "namn": "Cecilia Månsdotter (Eka)"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Katarina av Sachsen-Lauenburg"
+    },
+    {
+     "namn": "Margareta Leijonhufvud"
+    },
+    {
+     "namn": "Katarina Stenbock"
+    }
+   ],
+   "barn": [
+    "erik-xiv",
+    "johan-iii",
+    "karl-ix",
+    {
+     "namn": "Magnus, hertig av Östergötland"
+    }
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "Gustav Vasa var gisslan, flykting och upprorsledare innan han blev Sveriges förste arvkung. Under hans styre stärktes kungamakten, kyrkan underordnades kronan och riket lämnade för gott unionen med Danmark.",
+   "berattelse": [
+    {
+     "rubrik": "Släkt och uppväxt",
+     "text": "Gustav Eriksson föddes 1496 i Uppland. Hans far, Erik Johansson, tillhörde den släkt som senare kom att kallas Vasa efter sitt vapen, en kärve (vase). Fadern var riksråd och stod på Sturepartiets sida, och modern, Cecilia Månsdotter, kom också ur en framstående adelsfamilj. Släkten var alltså väl förbunden med den politiska elit som sedan decennier försvarade Sveriges självständighet mot de danska unionskungarna.\n\nGustav växte upp i en tid då unionen med Danmark och Norge hade blivit en öppen stridsfråga. På ena sidan stod de som ville behålla unionen under en gemensam kung, på den andra de som, under ledning av riksföreståndarna ur Sturesläkten, ville ha Sverige styrt av svenskar. Som ung man kom Gustav i tjänst hos riksföreståndaren [[sten-sture-den-yngre|Sten Sture den yngre]] och fick tidigt se hur makten fungerade, och hur sårbar den var."
+    },
+    {
+     "rubrik": "Gisslan i Danmark och flykten",
+     "text": "Hösten 1518 sändes Gustav som gisslan till den danske unionskungen [[kristian-ii|Kristian II]] i samband med förhandlingar på Mälaren. I stället för att få komma hem fördes han till Danmark och hölls fången på slottet Kalø i Jylland. Under fångenskapen levde han som en ädling men utan frihet, och han lärde sig hur den danske kungen tänkte och vad han var beredd att göra.\n\nÅr 1519 lyckades Gustav fly. Han tog sig söderut till Lübeck, den mäktiga hansestaden, som hade egna skäl att vilja försvaga Danmarks kung. I maj 1520 kunde han med hjälp av Lübeck segla över Östersjön och landsätta vid Kalmar. Läget i Sverige var då i gungning. Sten Sture den yngre var på väg att besegras av Kristian II:s trupper, och Gustav stod själv utan armé och utan någon tydlig plats i striden."
+    },
+    {
+     "rubrik": "Stockholms blodbad och resningen i Dalarna",
+     "text": "I november 1520 kröntes Kristian II till kung i Stockholm. Några dagar senare, den 8 november, lät han avrätta ett stort antal av rikets ledande män på Stortorget, bland dem biskopar, riksråd och borgmästare. Händelsen kom att kallas [[h:stockholms-blodbad-1520|Stockholms blodbad]]. Bland de avrättade fanns Gustavs far, Erik Johansson. Gustavs mor och systrar fördes som fångar till Danmark, där de avled.\n\nGustav själv höll sig undan och tog sig i vintern 1520–1521 till Dalarna. Där försökte han först förgäves få bönderna med sig, och han var på väg mot norska gränsen när dalkarlarna, enligt traditionen, ångrade sig och skickade skidlöpare efter honom. Hur mycket av den berättelsen som är historia och hur mycket som är senare sägen är svårt att avgöra, eftersom de äldsta skildringarna skrevs ned flera decennier efteråt. Tydligt är däremot att resningen i Dalarna växte under 1521, att allt fler bygder anslöt sig och att Gustav fick den ledarroll han saknat."
+    },
+    {
+     "rubrik": "Befrielsekriget och kungavalet 1523",
+     "text": "I augusti 1521 valdes Gustav i Vadstena till [[o:riksforestandare|riksföreståndare]]. Under de följande två åren belägrade hans trupper Stockholm och andra fästen, samtidigt som Lübecks flotta hjälpte till på havet. Lübecks stöd var dyrt. Staden fick handelsprivilegier och Sverige blev skyldigt den stora summor, en skuld som Gustav under flera år kämpade med att betala av.\n\nUnder tiden föll Kristian II:s ställning även i Danmark, och våren 1523 lämnade han landet. Den 6 juni 1523 valdes Gustav till kung vid riksdagen i Strängnäs. Elva dagar senare, den 17 juni, tågade han in i Stockholm. Kalmarunionen var därmed i praktiken slut, och Sverige hade en kung som inte längre behövde svara inför en dansk överherre. Men kronan var tom, landet utarmat av krigen och stora delar av makten låg hos kyrkan och hos adeln."
+    },
+    {
+     "rubrik": "Reformationen och kyrkans gods",
+     "text": "Gustav behövde pengar, och en stor del av pengarna fanns hos kyrkan. På riksdagen i Västerås 1527 lyckades han, enligt traditionen efter att ha hotat med att lämna riket, få igenom att kronan fick dra in en stor del av kyrkans egendom och att evangeliskt, det vill säga reformatoriskt, predikande tilläts. Beslutet brukar ses som reformationens början i Sverige, men för Gustav var det i första hand ett sätt att stärka statens ekonomi och maktställning.\n\nReformationen genomfördes därför lugnt och steg för steg. Olaus Petri och hans bror Laurentius Petri satte sin prägel på den nya kyrkan, och 1531 blev Laurentius Petri ärkebiskop. År 1541 kom den första fullständiga bibeln på svenska. Förhållandet till reformatorerna var inte problemfritt. År 1540 dömdes Olaus Petri och Laurentius Andreae till döden för att ha känt till men inte avslöjat ett påstått sammansvärjningsförsök, men de benådades och fick betala böter. Kyrkan blev under Gustav i praktiken underordnad kronan."
+    },
+    {
+     "rubrik": "Staten, skatterna och Dackefejden",
+     "text": "Gustav Vasa byggde upp en kungamakt av ett slag som Sverige inte tidigare haft. Han införde en noggrann förvaltning med fogdar, räkenskaper och skriftlig kontroll, byggde om och befäste slott som Gripsholm, Vadstena och Kalmar och satsade på en armé som delvis bestod av tyska legosoldater. Skatterna höjdes, och bönderna fick bära en betydande del av bördan.\n\nMissnöjet tog sig uttryck i flera uppror under hans tid. Det största var Dackefejden 1542–1543 i Småland under ledning av Nils Dacke. Upproret hade flera orsaker: höga skatter, kyrkans förändrade ställning och kronans allt hårdare grepp om bygderna. Gustav lyckades krossa det med hjälp av legosoldater, och Dacke dödades 1543. Året därpå, 1544, fastslog riksdagen i Västerås att kungamakten skulle gå i arv inom Vasaätten, vilket gjorde Sverige till ett arvrike. Tidigare hade kungen formellt valts."
+    },
+    {
+     "rubrik": "Familjen och testamentet",
+     "text": "Gustav gifte sig tre gånger. Första äktenskapet, 1531 med Katarina av Sachsen-Lauenburg, gav sonen [[erik-xiv|Erik]] (född 1533), men Katarina dog redan 1535. År 1536 gifte han sig med Margareta Leijonhufvud, som födde honom ett stort antal barn, bland dem [[johan-iii|Johan]] (1537), Magnus (1542) och [[karl-ix|Karl]] (1550). Margareta dog 1551, och 1552 gifte sig Gustav med den då sextonåriga Katarina Stenbock.\n\nI sitt testamente 1560 bestämde Gustav att Erik skulle ärva kronan och att hans yngre söner skulle få egna hertigdömen: Johan fick bland annat Finland, Magnus Östergötland och Karl Södermanland, Närke och Värmland. Tanken var att hålla ihop släkten, men hertigdömena gav i stället bröderna egna maktbaser. Konflikterna mellan Erik och hans bröder blev en av de dramatiska fortsättningarna på Gustavs styre."
+    },
+    {
+     "rubrik": "Sista åren och döden",
+     "text": "Under sina sista år var Gustav fortsatt närvarande i alla delar av förvaltningen. Han förde 1555–1557 ett krig mot Ryssland som slutade utan större förändringar, och han fortsatte att befästa och bygga upp riket. Hälsan försämrades under 1560, och han avled den 29 september 1560 på Stockholms slott. Han gravsattes i Uppsala domkyrka, där hans grav ligger i Vasakoret."
+    },
+    {
+     "rubrik": "Eftermäle",
+     "text": "Gustav Vasa har länge setts som Sveriges grundare. Under 1800-talet, i takt med att den svenska nationalstaten byggdes ut, blev han en nationell hjälte, en bild som förstärktes av berättelserna om flykten genom Dalarna. Vasaloppet, som sedan 1922 går mellan Sälen och Mora, bygger på den traditionen. Sveriges nationaldag, 6 juni, anspelar bland annat på kungavalet 1523.\n\nModern forskning ger en mer nyanserad bild. Gustav var en skicklig statsbyggare men också en hård härskare som krossade motstånd, tog kyrkans egendom och belastade bönderna med tunga skatter. Hans arv är därför både en stark, centraliserad stat och en kunglig maktutövning som många av hans samtida upplevde som tvingande."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Svenskt biografiskt lexikon, artikel om Gustav I",
+     "utgivare": "Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/",
+     "kontrollerad": false
+    },
+    {
+     "titel": "Nationalencyklopedin, uppslagsord Gustav Vasa",
+     "utgivare": "NE",
+     "url": "https://www.ne.se",
+     "kontrollerad": false
+    },
+    {
+     "titel": "Gustav I (Vasa)",
+     "utgivare": "Kungahuset.se",
+     "url": "https://www.kungahuset.se",
+     "kontrollerad": false
+    }
+   ],
+   "portratt": {
+    "fil": "Gustav Vasa by Jacob Binck (copy after a lost original).jpg",
+    "beskrivning": "Gustav Vasa, kopia efter ett förlorat original av Jacob Binck",
+    "kredit": "Foto: Gotogo, Wikimedia Commons",
+    "licens": "CC0 (originalet är från 1500-talet)",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Gustav_Vasa_by_Jacob_Binck_(copy_after_a_lost_original).jpg"
+   },
+   "fakta": [
+    "Vasaloppet, som sedan 1922 åker från Sälen till Mora, hänvisar till traditionen om att dalkarlarna åkte skidor efter Gustav för att hämta tillbaka honom.",
+    "Den första fullständiga svenska bibelöversättningen, 1541 års bibel, brukar kallas Gustav Vasas bibel.",
+    "Sveriges nationaldag 6 juni valdes bland annat till minne av att Gustav Vasa valdes till kung 6 juni 1523."
+   ],
+   "anm": "Exempeltext som visar hur en berättelse ser ut i appen. Texten är skriven som utkast och ska kontrolleras mot källorna."
+  },
+  {
+   "id": "erik-xiv",
+   "namn": "Erik XIV",
+   "titel": "Kung",
+   "hus": "vasa",
+   "perioder": [
+    [
+     1560,
+     1568
+    ]
+   ],
+   "fodd": 1533,
+   "dod": 1577,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "johan-iii",
+   "namn": "Johan III",
+   "titel": "Kung",
+   "hus": "vasa",
+   "perioder": [
+    [
+     1568,
+     1592
+    ]
+   ],
+   "fodd": 1537,
+   "dod": 1592,
+   "barn": [
+    "sigismund"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "sigismund",
+   "namn": "Sigismund",
+   "titel": "Kung",
+   "hus": "vasa",
+   "perioder": [
+    [
+     1592,
+     1599
+    ]
+   ],
+   "fodd": 1566,
+   "dod": 1632,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "karl-ix",
+   "namn": "Karl IX",
+   "titel": "Kung",
+   "hus": "vasa",
+   "perioder": [
+    [
+     1604,
+     1611
+    ]
+   ],
+   "fodd": 1550,
+   "dod": 1611,
+   "anm": "Riksföreståndare från 1599; kung från 1604.",
+   "barn": [
+    "gustav-ii-adolf"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "gustav-ii-adolf",
+   "namn": "Gustav II Adolf",
+   "titel": "Kung",
+   "hus": "vasa",
+   "perioder": [
+    [
+     1611,
+     1632
+    ]
+   ],
+   "fodd": 1594,
+   "dod": 1632,
+   "dodsatt": "stupad",
+   "barn": [
+    "kristina"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "kristina",
+   "namn": "Kristina",
+   "titel": "Drottning",
+   "hus": "vasa",
+   "perioder": [
+    [
+     1632,
+     1654
+    ]
+   ],
+   "fodd": 1626,
+   "dod": 1689,
+   "kon": "k",
+   "relaterade": [
+    {
+     "id": "karl-x-gustav",
+     "relation": "kusin"
+    }
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
