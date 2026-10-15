@@ -129,10 +129,98 @@
    "fodd": 1533,
    "dod": 1577,
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Erik XIV var en bildad och ambitiös renässanskung med stora planer för Östersjön, men också en misstänksam och våldsam härskare. Hans liv slutade i fångenskap efter att hans bröder avsatt honom, och han är mest ihågkommen för Sturemorden 1567.",
+   "berattelse": [
+    {
+     "rubrik": "Barndom och uppfostran",
+     "text": "Erik föddes på Stockholms slott den 13 december 1533 som son till Gustav Vasa och hans första hustru, Katarina av Sachsen-Lauenburg. Födelsen var viktig: Vasaätten var ännu ung och osäker på sin plats, och nu fanns en son som kunde ta över. Moderna dog när Erik bara var två år, och ett år senare fick han en styvmor, Margareta Leijonhufvud. Så småningom växte en stor syskonskara upp runt honom. Senare berättelser, särskilt de som kom från brodern Johan efter bråket mellan dem, talar om motsättningar redan i barndomen. Det är troligt, men samtida belägg saknas.\n\nGustav Vasa började tidigt tänka på att göra riket till ett arvrike, och Erik uppfostrades med blicken fäst på kronan. Hans första lärare var den pommerske adelsmannen Georg Norman, som hade rekommenderats av Luther och Melanchthon, och som skrev en särskild hovordning för Erik och hans yngre bror Johan. Latin och teologi var grunden, men kroppsövningar och hövisk uppfostran fick också sin plats. Efter 1545 blev fransmannen Dionysius Beurreus, kalvinist, läkare, matematiker och astrolog, hans lärare. Genom honom kom Erik i kontakt med historia, geografi och astrologi, som på den tiden sågs som en allvarlig vetenskap. Han lärde sig också teckna, kanske också gravera, och han fick musikalisk bildning. Förutom latin talade han tyska och franska.\n\nÅr 1544 fastslog riksdagen i Västerås att kronan skulle gå i arv inom Vasaätten, och Erik utsågs till den som skulle ta över efter sin far. Därför kallas han ofta \"utvald konung\" i tidens handlingar. Två år senare bekräftades tronföljden på nytt i Arboga."
+    },
+    {
+     "rubrik": "Kungalärling och hertig av Kalmar",
+     "text": "Från sjutton års ålder utfärdade Erik brev i sin fars namn, framför allt i frågor om rusttjänst och försvar. Under sex eller sju år, 1550–1556, arbetade han sig in i förvaltningen: kronans slott, gårdar och magasin, krigsfolkets försörjning och inte minst Sala silvergruva. Redan 1552 syns han som föredragande i kansliets anteckningar, och 1555 nämns hans eget kansli. Han reste runt mellan slotten och fick då och då förhandla med adel eller bönder i faderns namn.\n\nMellan augusti 1555 och juli 1556 styrde han riket i faderns ställe medan Gustav Vasa befann sig i Finland under kriget mot Ryssland. Fadern gav honom noggranna instruktioner och sade tydligt att krigets utgång berodde på hur väl Erik skötte sitt uppdrag, och efteråt kritiserade Gustav indirekt sonens sätt att sköta styrelsen. Spänningen mellan far och son blev större. Erik längtade efter att få arbeta mer självständigt, inte minst sedan brodern Johan 1556 hade fått Finland som hertigdöme.\n\nUnder de åren läste Erik Johannes Magnus' historia om goternas och svearnas ärorika forntid, och boken gjorde starkt intryck. Den götiska historieromantiken förblev ett tema i hans liv, ända tills han i fängelset översatte krönikan. I december 1557 fick han Kalmar och Kronobergs län och Öland som län och tog sitt residens på Kalmar slott i maj 1558. Där byggde han upp ett hov med kapell och sångare, en nederländsk målare och skickliga hantverkare, och där omgav han sig med män som fransmannen Charles de Mornay och juristen Jöran Persson, som skulle bli hans närmaste rådgivare."
+    },
+    {
+     "rubrik": "Friaren från Sverige",
+     "text": "Frågan om Eriks giftermål blev en del av hans utrikespolitik. Den mest eftersökta kandidaten var Elisabet av England. Frieriet framfördes första gången 1558 av Beurreus och avvisades då av drottning Maria, men när Elisabet blev drottning i november 1558 såg läget bättre ut. Gustav Vasa var skeptisk, och Erik behövde hjälp. Den fick han av brodern Johan, som mot löfte om stöd för sina egna planer i Estland reste till England (september 1559 till april 1560) för Eriks räkning.\n\nUnder den tiden formades Eriks politiska idéer. Han började se hur han kunde kombinera Johans planer i Livland med sina egna: att ta Estland och därigenom få kontroll över en viktig väg för den ryska handeln, och att dra de engelska köpmännens Rysslandstrafik över Östersjön. Fadern var mer försiktig. Kring jul 1559 gjorde dessutom Erik ett taktlöst misstag. Han ledsagade sin syster Katarina och hennes make, greve Edzard av Ostfriesland, och när greven Johan, Edzards bror, under ett uppehåll i Vadstena nattetid klättrade in i ett av slottets gemak där systern Cecilia sov, lade sig Erik och Charles de Mornay på lur och grep honom. Det blev en skandal, och brytningen med Gustav blev allvarlig.\n\nErik lämnade Stockholm den 14 augusti 1560 för att fria i England, men kom aldrig längre. Beskedet om faderns död nådde honom, och han vände om. Efter en eriksgata genom landet och faderns begravning i Uppsala i december 1560 fortsatte frieriförsöken: 1562 vände han sig till Maria Stuart och samma sommar till Kristina av Hessen. Förhandlingarna med Maria rann ut av sig själva, och med Hessen avbröts de 1564 när ett brev där Erik försäkrade Elisabet om sin fortsatta kärlek hamnade hos lantgreven. Erik reste aldrig utanför sitt rike."
+    },
+    {
+     "rubrik": "Kung med stora planer",
+     "text": "Gustav Vasa dog den 29 september 1560, och Erik tog över. Han hade en mycket stark föreställning om kungens upphöjda ställning, förstärkt av vad han läst om tidens tankar om furstemakt. En av hans första åtgärder var att inrätta \"konungens nämnd\", en kunglig domstol där ofrälse jurister, en del med akademisk utbildning, satt som bisittare, och Jöran Persson blev kungens åklagare. På riksdagen i Arboga 1561 antogs Arboga artiklar, som tog ifrån hertigarna den halvt självständiga ställning som deras fars testamente hade givit dem. Den 29 juni 1561 kröntes han i Uppsala domkyrka med den ståt som europeiska hov förväntade sig. Vid kröningen delade han ut grevliga och friherrliga värdigheter, och samma år instiftade han Salvatorsorden.\n\nHans utrikespolitiska plan var storslagen: Sverige skulle kontrollera handeln på Ryssland genom Reval och Viborg och stänga ute västeuropeiska och hanseatiska köpmän från Narva. En kanal genom Sverige skulle kunna förbinda Finska viken med Västerhavet och undvika det danska Öresund. Reval anslöt sig frivilligt till Sverige sommaren 1561, och snart följde andra områden i Estland. Men planen byggde på att alla vågade chanser skulle lyckas. Ingripandet i Estland gjorde Polen till fiende, Danmark såg sin rivalitet i Östersjön hotad, och Lübeck drabbades av Narvapolitiken. Erik hade tänkt sig diplomatiskt stöd i Västeuropa och bakom Danmarks rygg, men det kom aldrig."
+    },
+    {
+     "rubrik": "Brodern Johan, Nordiska sjuårskriget och nervsammanbrottet",
+     "text": "Inom riket fanns en front till. Johan hade aldrig förlåtit att Erik hindrat hans planer på Estland, och han närmade sig Polen och gifte sig med kung Sigismund Augusts syster Katarina Jagellonica. Erik ställde ett ultimatum i februari 1563 och lät den 1 juni samma år Jöran Persson framlägga anklagelser mot brodern inför ständerna. Johan och hans medhjälpare dömdes, Eriks trupper intog Åbo, och Johan fördes som fånge till Gripsholm.\n\nSamtidigt exploderade den stora konflikten. Hösten 1563 gick Danmark och Lübeck till anfall, och det som kallas Nordiska sjuårskriget började. Danskarna intog Älvsborg i början av september. Erik, som med omsorgsfulla rustningar hade nått Söderköping, tog sig i slutet av oktober med sin här till Halmstad, men svårigheterna hopade sig: sjukdomar, dåliga förbindelser och rykten om att danskarna närmade sig. Den 6 november lämnade han lägret hastigt. SBL ser i episoden ett tecken på ett nervsammanbrott när teori mötte verklighet. Efter det ledde Erik aldrig mer armén i strid förrän i sin sista kamp om kronan fem år senare. Som organisatör och strateg fortsatte han däremot att styra krigföringen, vilket hans bevarade dagböcker och kanslibrev från 1566 och 1567 visar.\n\nUnder de åren byggde han också ut misstänksamheten mot adeln. De mäktigaste släkterna fick färre län: minskade med mer än hälften mellan 1562 och 1568. Nils Sture dömdes 1566 till döden för att inte ha fullgjort sina uppdrag, men benådades till ett skymfligt intåg i Stockholm. Parallellt höll Erik fast vid sina kulturella ambitioner: målare och musiker anställdes vid hovet, hans bibliotek växte, slottet smyckades och fester hölls. Tidens renässanshov, där förfining och råhet gick hand i hand, hade också sina våldsamma sidor."
+    },
+    {
+     "rubrik": "Karin Månsdotter",
+     "text": "I början av 1565 dyker en ung flicka av enkel börd upp i Eriks närmaste omgivning: Karin Månsdotter, dotter till en knekt vid namn Måns. Hon blev hans erkända älskarinna och trängde snart undan de andra. Hon följde honom på resor, fick ett eget litet hov, och i oktober 1566 födde hon dottern Sigrid. Erik hade vid flera tillfällen låtit rådet och ständerna bekräfta att han hade rätt att gifta sig med en svensk kvinna, oavsett stånd. Hennes starkare ställning väckte stor uppmärksamhet."
+    },
+    {
+     "rubrik": "Sturemorden 1567",
+     "text": "År 1567 beskrev Erik själv som sitt olyckligaste år, och det blev ett vändpunktsår. Misstänksamheten, den bristande självkontrollen och den plötsliga häftigheten, som tidigare anat sig i hans liv, slog samman med särskilda händelser. På våren anklagades flera av adelsmännen inför konungens nämnd för stämplingar mot kungen. De dömdes eller förhördes på Svartsjö, och tortyr användes. Den 19 maj lade Erik fram anklagelserna inför ständerna i Uppsala, och dagen därpå förde Jöran Persson åtalet vidare. Vilka verkliga hot som fanns bakom vittnesmålen går inte att veta.\n\nDen 29 maj gick kungen in till Svante Sture och Sten Eriksson Leijonhufvud och bad i en märklig scen om vänskap. Kort därefter, efter att ha talat med Jöran Persson och prästen Peder Carlsson, gick han in till Nils Sture, stötte sin dolk i hans arm, och hans drabanter dödade honom. Erik gav order om att döda de andra fångarna utom Sten Eriksson, och beordrade även att Beurreus, hans gamla lärare, skulle dödas. Själv försvann han och påträffades senare ute på landet. Då stod det klart att han var sinnessjuk.\n\nSturemorden har kommit att dominera bilden av Erik, vilket enligt SBL bara delvis är rättvist. Men gärningen belyser väl hans förföljelseidéer, hans nervösa våldsamhet och hans kamp mot adeln, särskilt mot Stureätten, som länge varit Vasarnas rival. Mentala sjukdomar förekom dessutom i hans släkt."
+    },
+    {
+     "rubrik": "Återhämtning, giftermål och fall",
+     "text": "Sommaren 1567 var Erik förvirrad, trodde sig förföljd, delade ut sina dyrbarheter och ansåg sig inte längre vara kung. Rådet styrde i hans namn. Han försonades med Johan på Väntholmen den 9 oktober och frigav honom. Under denna omtöcknade tid lät han viga sig vid Karin Månsdotter, med rådsherrarna närvarande. I december hade han tillfrisknat så mycket att han kunde ta över ledningen igen, och äktenskapet proklamerades den 28 december. Karin födde honom sonen Gustav i januari 1568, och den 4 juli hölls den officiella vigseln i Storkyrkan i Stockholm. Dagen därpå, den 5 juli 1568, kröntes Karin till drottning. Skandalen låg enligt Kungliga slotten inte i att kungen gift sig med en kvinna av enkel börd, utan i att han gjort henne till drottning och låtit kröna henne.\n\nBröllopet var en öppen utmaning mot bröderna och herrarna. Johan och Karl hade blivit inbjudna men kom inte. Den 18 juli fick Erik veta att de rest upprorsfana i Östergötland. Han tog själv befälet och drev hertigarnas trupper tillbaka med genomtänkta manövrer, men de gick runt Mälaren och flera av Eriks män anslöt sig. Den 17 och 18 september stred man norr om Stockholm. Då krävde knektarna att Jöran Persson skulle lämnas ut, och han avrättades på Brunkeberg den 22 september. Den 29 september släpptes hertigarna in i staden. Erik mötte dem med sina trogna på Stortorget, där Sten Eriksson Leijonhufvud nedstacks av en av hans drabanter, den sista akten i Sturemorden. Erik drog sig upp till slottet, bröt samman och gav sig fången till Karl. I januari 1569 hyllade riksdagen Johan som kung, och Erik dömdes från riket tillsammans med sina barn. Den 26 januari var han formellt avsatt."
+    },
+    {
+     "rubrik": "Åren i fångenskap",
+     "text": "Resten av Eriks liv bestod av fängelse. Först satt han på Stockholms slott i mild förvaring och försökte på hösten 1568 fly, varefter bevakningen skärptes. Under första hälften av 1570 fick hustrun Karin återvända till honom, och barnen fick komma. I juli 1570 fördes han till Åbo slott, där han en tid levde ganska gott, i augusti 1571 till Kastellholm på Åland och i november samma år till Gripsholm, där han stannade till juni 1573, med egen predikant och tillgång till böcker och skrivdon. I fängelset skrev han dagboksanteckningar i sina almanackor och kommenterade sin egen situation, och han översatte Johannes Magnus' krönika (översättningen är förlorad). Han arbetade också på logiska resonemang till sitt försvar och en tänkt försvarsskrift, \"Oratio pro liberatione\".\n\nJohan lät upprepade gånger skärpa bevakningen när det kom nya rykten om sammansvärjningar. I juni 1573 fördes Erik till Västerås slott, och kort därefter togs Karin och barnen ifrån honom. I oktober 1574 flyttades han till Örbyhus. Där blev anteckningarna allt färre, och han drog sig in i en självskapad fantasivärld som han tecknade och skrev om i marginalerna på två böcker. Samtidigt finns i samma anteckningar skickliga teckningar av landskap och knektar och utdrag ur komplicerade musikaliska kompositioner, vilket visar att hans själsliga förmåga inte var helt bruten. Men SBL pekar också på tvångstankar och förvirring, särskilt i slutet av 1575.\n\nJohan hade redan 1572 gett Eriks väktare fullmakt att ta hans liv genom gift eller åderlåtning om uppror skulle bryta ut, och 1575 dömde rådet honom formellt. I januari 1577 förnyades instruktionen. Erik insjuknade i februari 1577 och dog någon timme efter midnatt den 26 februari. Före döden hade två präster kallats, och han förklarade att han förlät dem som gjort honom orätt. Kroppen balsamerades och visades i tre dagar i Västerås domkyrka, så att alla kunde se att fångens dagar var över. Kungliga slotten uppger att undersökningar på 1950-talet stödjer slutsatsen att han förgiftats med arsenik, men SBL beskriver samtidigt att han föregående veckor insjuknade och att Johan hade gett väktarna order om att ta hans liv, så exakt hur han dog kan inte avgöras här."
+    },
+    {
+     "rubrik": "Familj och eftermäle",
+     "text": "Med Karin Månsdotter fick Erik fyra barn: Sigrid (1566–1633), Gustav (1568–1607), Henrik (1570–1574) och Arnold, som dog som späd. Dessutom hade han barn med två andra kvinnor: med Agda Persdotter döttrarna Virginia, Constantia och Lucretia, och med Karin Jakobsdotter ett barn som begravdes 1565. Karin Månsdotter överlevde honom och dog 1612 i Finland.\n\nDe anklagelseskrifter som Eriks bröder lät sprida 1569 formade bilden av honom i århundraden: som en galen och blodtörstig tyrann. Modern forskning ger en mer nyanserad bild av en bildad man med djärva, sammanhängande idéer om Östersjöområdet, om den starka kungamakten och om kulturen, som saknade realism om medel och mål och förlorade kontrollen över sina nerver. Hans öde har också inspirerat konsten, bland annat Strindbergs pjäs \"Erik XIV\" från 1899."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Erik XIV (artikel i band 14, 1953, sida 282)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15412",
+     "kontrollerad": true
+    },
+    {
+     "titel": "King Erik XIV",
+     "utgivare": "Kungliga slotten (kungligaslotten.se)",
+     "url": "https://www.kungligaslotten.se/english/list-of-swedish-monarchs/erik-xiv.html",
+     "kontrollerad": true
+    }
+   ],
+   "foddDatum": "1533-12-13",
+   "dodDatum": "1577-02-26",
+   "dodsatt": "död i fångenskap",
+   "foralder": [
+    {
+     "namn": "Katarina av Sachsen-Lauenburg"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Karin Månsdotter"
+    }
+   ],
+   "barn": [
+    {
+     "namn": "Sigrid Eriksdotter"
+    },
+    {
+     "namn": "Gustav Eriksson"
+    }
+   ],
+   "fakta": [
+    "Erik reste aldrig utanför Sverige, trots att han i åratal planerade att fria till Elisabet av England i person.",
+    "I fängelset översatte han Johannes Magnus' krönika om goternas och svearnas forntid. Översättningen är förlorad.",
+    "Hans nummer, XIV, bygger på Johannes Magnus' sagolika kungalängd, där det redan fanns tretton Erikar."
+   ],
+   "anm": "Berättelsen bygger på Svenskt biografiskt lexikon och är kontrollerad mot Kungliga slottens sida om Erik XIV.",
+   "portratt": {
+    "fil": "Erik XIV of Sweden by Steven van der Meulen 1561.jpg",
+    "beskrivning": "Erik XIV, målning av Steven van der Meulen 1561 (Gripsholms slott)",
+    "kredit": "Steven van der Meulen",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Erik_XIV_of_Sweden_by_Steven_van_der_Meulen_1561.jpg"
+   }
   },
   {
    "id": "johan-iii",
