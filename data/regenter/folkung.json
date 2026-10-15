@@ -1,0 +1,138 @@
+{
+ "regenter": [
+  {
+   "id": "valdemar-birgersson",
+   "namn": "Valdemar Birgersson",
+   "titel": "Kung",
+   "hus": "folkung",
+   "perioder": [
+    [
+     1250,
+     1275
+    ]
+   ],
+   "dod": 1302,
+   "relaterade": [
+    {
+     "id": "magnus-ladulas",
+     "relation": "bror"
+    }
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "magnus-ladulas",
+   "namn": "Magnus Ladulås",
+   "titel": "Kung",
+   "hus": "folkung",
+   "perioder": [
+    [
+     1275,
+     1290
+    ]
+   ],
+   "fodd": 1240,
+   "dod": 1290,
+   "foddCa": true,
+   "barn": [
+    "birger-magnusson"
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "birger-magnusson",
+   "namn": "Birger Magnusson",
+   "titel": "Kung",
+   "hus": "folkung",
+   "perioder": [
+    [
+     1290,
+     1318
+    ]
+   ],
+   "fodd": 1280,
+   "dod": 1321,
+   "dodsatt": "naturlig",
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "magnus-eriksson",
+   "namn": "Magnus Eriksson",
+   "titel": "Kung",
+   "hus": "folkung",
+   "perioder": [
+    [
+     1319,
+     1364
+    ]
+   ],
+   "fodd": 1316,
+   "dod": 1374,
+   "barn": [
+    "erik-magnusson",
+    "hakan-magnusson"
+   ],
+   "relaterade": [
+    {
+     "id": "albrekt-av-mecklenburg",
+     "relation": "systerson"
+    }
+   ],
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "erik-magnusson",
+   "namn": "Erik Magnusson",
+   "titel": "Kung",
+   "hus": "folkung",
+   "perioder": [
+    [
+     1356,
+     1359
+    ]
+   ],
+   "fodd": 1339,
+   "dod": 1359,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  },
+  {
+   "id": "hakan-magnusson",
+   "namn": "Håkan Magnusson",
+   "titel": "Kung",
+   "hus": "folkung",
+   "perioder": [
+    [
+     1362,
+     1364
+    ]
+   ],
+   "fodd": 1340,
+   "dod": 1380,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
