@@ -1,0 +1,23 @@
+{
+ "regenter": [
+  {
+   "id": "fredrik-i",
+   "namn": "Fredrik I",
+   "titel": "Kung",
+   "hus": "hessen",
+   "perioder": [
+    [
+     1720,
+     1751
+    ]
+   ],
+   "fodd": 1676,
+   "dod": 1751,
+   "palitlighet": "säker",
+   "status": "utkast",
+   "ingress": "",
+   "berattelse": [],
+   "kallor": []
+  }
+ ]
+}
