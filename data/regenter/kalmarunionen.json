@@ -546,7 +546,7 @@
    "hus": "sture",
    "perioder": [
     [
-     1470,
+     1471,
      1497
     ],
     [
@@ -554,14 +554,115 @@
      1503
     ]
    ],
-   "fodd": 1440,
+   "fodd": 1437,
    "dod": 1503,
    "foddCa": true,
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Sten Sture den äldre var riksföreståndare i 29 år och besegrade Kristian I vid Brunkeberg 1471. Han var en av Sveriges rikaste godsägare, lät resa Sankt Göransgruppen i Storkyrkan och blev för eftervärlden \"gamle herr Sten\", men han stred med riksrådet och avsattes 1497.",
+   "berattelse": [
+    {
+     "rubrik": "Släkt och unga år",
+     "text": "Sten Sture föddes senast 1437 som son till riksrådet Gustaf Sture och Birgitta Stensdotter (Bielke). Fadern dog 1444, och modern gifte snart om sig med Gustaf Karlsson Gumsehuvud. Hon var yngre halvsyster till Karl Knutsson, och den nye maken var genom sin syster Katarina Karls svåger. Sten framträder första gången 1461, då han tillsammans med sin äldre bror Anund och svågern Johan Kristiernsson Vasa beviljade modern och styvfadern ansvarsfrihet för förvaltningen av farsarvet. Båda bröderna var då riddare, sannolikt sedan Kristian I:s kröning 1457. Sten tillbringade sina unga år dels på moderns sätesgård Ekholmen i Trögd, dels på Kalmar slott, där styvfadern var hövitsman.\n\nBrodern Anund dog ogift 1463, och omkring samma tid dog modern, så Sten blev vid unga år arvinge till merparten av föräldrarnas egendom. Efter arvskiftena 1472 bestod godsinnehavet av två områden: i Södermanland kring fädernas sätesgård Rävsnäs, till vilken han skrev sig, jämte det tillbytta Gripsholm, och i östra Småland det stora Grönskoggodset i Emådalen med Strömserum. Sammanlagt ägde han vid den tiden inemot 400 gårdar, vilket gjorde honom till \"en av Sveriges rikaste godsägare\". Sturekrönikornas sena uppgift att han kämpade vid Kettil Karlssons sida mot Kristian I vid Haraker 1464 förtjänar inte tilltro, eftersom han inte hörde hemma i den oxenstiernska släktkonfederationen."
+    },
+    {
+     "rubrik": "Äktenskap och familj",
+     "text": "Sten framträdde i rikspolitiken först i samband med de unionella samtalen i Nyköping i september 1466, ett möte som dominerades av Axelssönerna. Där ingick Ivar Axelsson Tott äktenskap med Karl Knutssons dotter Magdalena och Arvid Trolle med Ivars dotter Beata. I samband med det skrev Sten två friarbrev till Åke Axelsson Tott på Varberg och hans hustru Märta Bengtsdotter om att få gifta sig med deras dotter Ingeborg, sedan hennes kusin Agneta Ivarsdotter, hans trolovade, hade dött. Äktenskapet ingicks snart, och bruden fick Strömserum i morgongåva. Det blev livslångt men, så vitt man vet, barnlöst. Ett enstaka bevarat brev från hans sista levnadsår om stora och små ting som skulle besörjas är riktat till fru Ingeborg, hans \"älskliga kära stallbroder\". Utom äktenskapet hade han dottern Birgitta, som 1485 intogs som syster i Vadstena kloster och dog där först 1536."
+    },
+    {
+     "rubrik": "Karl Knutssons systerson",
+     "text": "Sten var därmed intagen i Axelssönernas stora dansk-svenska släktkrets. Han följde Erik Axelsson från Nyköping till Stockholm, där denne tilltvingade sig riksföreståndarskapet av ärkebiskop Jöns Bengtsson, och räknades då till riksrådskretsen. Våren 1467 skedde en brytning mellan Kristian och Axelssönerna, och på hösten kallades Karl Knutsson tillbaka till tronen. Sten, hans systerson, blev nu högt betrodd med militära befäl. Han var hövitsman i Västergötland, slog tillsammans med Nils Sture vintern 1469–70 i Dalarna ned Erik Karlssons Vasas uppror, och besegrade sedan i ett överraskande anfall en av Kristian ledd här vid Öresten. Vid Karls död den 15 maj 1470 fanns han i Stockholm.\n\nKarl hade på sitt yttersta gift sig med sin frilla Kristina Abrahamsdotter och i ett testamente gett deras späda son dubbel arvslott, med Sten som målsman. Sten och Stockholms stad kungjorde dödsfallet för menigheten vid Eriksmässan i Uppsala den 18 maj: \"och han har mig befallt riket, besynnerliga Åbo och Örebro slott med Stockholms slott och stad\". Den 1 juni kallade han sig \"rikets föreståndare uppå denna tid\", ovisst med vilken ytterligare fullmakt. Kung Karls sista vilja sköts åt sidan, och de två döttrarna blev ensamma arvtagare. Svärsonen Ivar Axelsson hade vid herredagen i Örebro i mars 1468 fått fullmakt som Karls ställföreträdare och efter hans död rikets hövitsman till ett riksmöte, och det har hävdats att Sten tog makten genom en kupp. SBL menar att Ivars intresse av regentbefattningen sannolikt hade avtagit, och att inga misshälligheter är kända för den närmaste tiden. Stens situation var ändå osäker: han hade ännu ingen stark ställning i riksrådet, gränsfästena Kalmar, Borgholm och Älvsborg innehades av Kristianvänner, och hans egen faktiska maktbas var Stockholms slott och stad. En säker bundsförvant var vapenbrodern Nils Sture, vars Västerås slottslän omfattade Dalarna."
+    },
+    {
+     "rubrik": "Brunkeberg 1471",
+     "text": "I april 1471 förhandlade svenska och danska befälhavare i Kungsäters prästgård vid riksgränsen fram ett preliminärt fördrag, och i maj bekräftades Sten vid ett riksmöte i Arboga med brett socialt deltagande som riksföreståndare, nu inte längre \"uppå denna tid\". Kung Kristian anlände en månad försenad på sin krigsflotta, inte till Stegeborg eller Djurhamn som avtalat utan till Stockholms omedelbara närhet. Ett nytt stillestånd ingicks den 7 augusti 1471, men Kristian ökade trycket genom landstigning och tåg in i Uppland, medan rådet under den fredssinnade ärkebiskop Jakob Ulvssons ledning fortsatte förhandlingarna under protest. Sten lämnade Stockholm och samlade i Vadstena en bred ständerrepresentation från götalandskapen, som den 4 september förkastade Kristian som svensk kung och förklarade sig avse att följa Sten till Stockholm \"att avvärja vårt och rikets fördärv\".\n\nDen växande hären gick norrut genom Närke och Västmanland och mötte dalauppbådet under Nils Sture. Kungen hade befäst Brunkebergsåsen. Den 10 oktober gick Sten till angrepp, med huvudstyrkan under sig från väster, Nils Stures dalkarlar från nordöst och Knut Posses stockholmare från söder. SBL framhåller hans enastående förmåga att formera heterogena trupper till en slagkraftig här och att utkämpa en långvarig, länge oavgjord batalj. Sturekrönikan, den främsta källan till slaget, framhåller hans personliga insats och förbigår att många svenska herrar och uppländska bönder fanns på Kristians sida. Bernt Notkes Sankt Göransstod i Storkyrkan, invigd nyårsafton 1489, skulle erinra om slaget, och i en supplik till påven 1492 uppges att en procession varje år på helgonets dag gick till Brunkeberg. Sockeln är smyckad med Stens och fru Ingeborgs vapen, och Stens vapenbild, tre sjöblad, är intryckt i hästens länd.\n\nSegern befriade Sten från stämpeln som Axelssönernas man och gav riksföreståndarämbetet auktoritet. Vid kyrkomötet i Arboga på nyåret 1474 beslöts att utvidga ett 200-årigt statut om fördömande av tillfångatagande eller förjagande av krönt kung till att också gälla en enhälligt vald och edsvuren riksföreståndare. Sten kunde nu kallas vicerex, och hans hustru principissa."
+    },
+    {
+     "rubrik": "Unionsförhandlingar och Kalmar recess",
+     "text": "På 1470-talet fortsatte unionsförhandlingarna, där riksrådets kollektiva framträdande gör det svårt att urskilja Sten. Vid Kalmarmötet 1476 utarbetade svenska delegater ett förslag till en ny unionsakt på vars villkor Kristian kunde erkännas, och den framlades vid ett riksmöte i Strängnäs midsommaren 1477, där man också beslöt att inrätta ett studium generale i Uppsala. Förslaget förkastades. Man har spårat en fientlig agitation från Sten, men SBL pekar på att kungens ratifikation skilde sig avsevärt från det förslag som utarbetats, så avslaget kan hänföras till riksrådet. SBL anser Stens inställning i unionsfrågan svår att fixera. Som statsman insåg han ett isolerat Sveriges utsatta ställning mellan ett fientligt Danmark och i öster det hotfulla storfurstendömet Moskva. Han hade sedan 1471 underblåst unions- och danskfientlighet hos lågfrälse, bergsmän, borgare och bönder, men den var hans politiska vapen att använda vid behov, och han föredrog sannolikt ett tillstånd med pågående, icke förpliktande förhandlingar.\n\nKristians död 1481 verkade kunna lösa upp knutar. Sonen Hans namn var ännu fläckfritt, och på svenskt initiativ formulerades vid unionsmötet i Kalmar 1482 ett förslag till kungaförsäkran. Sten drabbades på väg till mötet i Halmstad nyåret 1483 av en ögonsjukdom som hindrade hans färd, och hans meddelegater vägrade uppträda utan honom, så Halmstad recess blev en dansk-norsk överenskommelse. Kalmar recess, ingången den 1 augusti 1483 på för kungamakten betydligt hårdare villkor, blev däremot dansk-svensk, och Sten medverkade med närvaro och besegling. Den inskränkte kungens makt gentemot rådet, och eftersom det kunde hävdas gälla riksföreståndaren var den för Sten ovälkommen: ett fyrmannautskott ur rådet skulle utgöra regering vid monarkens frånvaro, och rådsmedlemmarna var genom den så kallade republikanska rådseden förpliktade till inbördes solidaritet. Sten hävdade senare, 1495, att han \"nödd\" hade beseglat recessen. SBL menar att det inte går att påvisa att han skilde sig från riksrådets förhandlingslinje."
+    },
+    {
+     "rubrik": "Ivar Axelsson och makten",
+     "text": "Parallellt skedde uppgörelsen med Ivar Axelsson, som deltog i unionsförhandlingarna men samtidigt drev egna anspråk. Efter brodern Laurens död gick Sten i juni 1483 till offensiv, sökte upp Ivar på Gotland och förmådde honom att avstå Viborg med Nyslott samt Tavastehus mot Borgholm och Öland på livstid. Enligt krönikan försökte Ivar i september samma år få Sten avsatt och ersatt av hans svärson Arvid Trolle, men det misslyckades. År 1487 gick Sten under förebärande av att tillmötesgå holländska klagomål över Ivars kaperier till väpnat angrepp mot hans svenska slott Stegeborg, Borgholm och Raseborg. Ivar undkom till Visborg men måste ge sig villkorslöst under kung Hans, som var i samförstånd med Sten. Det tjugoåriga axelssonska länskomplexet var därmed förintat, men anspråken på Gotland sköts på framtiden. SBL ser i dessa år eminent politisk skicklighet."
+    },
+    {
+     "rubrik": "Höjdpunkt och friktion",
+     "text": "De närmast följande åren var höjdpunkten för Stens regim, med invigningen av Sankt Göransmonumentet 1489. Samma år skrinlades Katarina Ulfsdotter i Vadstena, där Sten, \"den ärade fursten\", trädde fram i spetsen för rikets råd \"klädd i brun sammet, fodrad med vitt hermelinskinn, som nådde ända ned på skorna\". Alltmer monarkiska handlingar störde dock förhållandet till rådet, bland annat resultatlösa ingripanden i ordensstatens inre strider. Förhållandet till kyrkans ledning försämrades när hans ombud Hemming Gadh 1491 fick rätt vid kurian för Sten att vid närmaste vakans utse innehavare av biskopsstolarna i Linköping, Strängnäs och Åbo. Hans ingripande i Hammerstaaffären, arvskiftet efter Erengisle Nilsson, ledde till konflikt med Uppsalakyrkan, eftersom hans köp 1494 för 10 000 mark från änkan Birgitta Olofsdotter var rättsligt diskutabelt. Grundandet av kartusianklostret Mariefred på Gripsholm 1493 kan ses som en försoningsgärd.\n\nVid rådsmötet i Tälje midsommaren 1493 blev konflikten öppen: Sten avsade sig riksföreståndarskapet men lät sig övertalas att stå kvar. På hösten for han till Tuna i Dalarna för att ta upp klagomål, vilket gjorde att Nils Sture, hans gamle vapenbroder, måste lämna Västerås län. Länet lades under fataburen, och Sten hade i bergsmännen och dalkarlarna funnit en framtida tillgång."
+    },
+    {
+     "rubrik": "Konflikten med riksrådet och kriget i Finland",
+     "text": "I Nya Lödöse avtalades 1494 ett möte i Kalmar för att åter försöka realisera 1483 års recess. Misstron mot Stens vilja tog sig uttryck i att rådet i Stockholm den 12 augusti ingick en \"sammansvärjning\" och bjöd in honom att ansluta sig, vilket han fann sig nödgad att göra, med förbehåll för sitt personliga förhållande till kungen. Han förnekade senare sin anslutning. Striden med rådet fördes under hösten 1494 och nyåret 1495, och i Uppsala domkapitel stod ärkebiskop Jakob Ulvsson och riksföreståndaren öga mot öga. Ärkebiskopen klandrade honom för talet om att man kunde få \"20 eller 30 tusen bönder att kasta upp en Engelbrekt riket över halsen\", och Sten dämpade det till \"7 eller 8 tusen\". När han försvarade sin ed sade han: \"Jag har med Guds hjälp intill denna dag fört i min sköld 3 sjöblad ärligen och som en rätt kristen riddare.\" Hans propaganda hade effekt: de finska herrarna fick veta att menigheternas företrädare hade uppdrag att avvisa kung Hans tillträde.\n\nBlickarna riktades nu österut, där ryska trupper gått över gränsen och inneslutit Viborg. Kung Hans hade 1493 slutit förbund med storfurst Ivan av Moskva. Sten förde själv undsättningen och kom efter en sträng vinter först vid julen 1495 till Åbo, där han fick beskedet att Knut Posse slagit tillbaka ett försök att storma Viborg. Han stannade i Åbo, inriktad på defensiven, men återvände i mars 1496, häftigt klandrad av ärkebiskopen. På hösten återvände han till Finland och hamnade i konflikt med befälhavarna han lämnat över till, främst Svante Nilsson, som hade haft framgång men begärde att bli avlösta och ersatta för sina kostnader. När Sten vägrade avreste de med sitt folk, vilket han betecknade som högmålsbrott. I mars 1497 ingicks fred för sex år på status quo-villkor, som SBL kallar helt tillfredsställande ur svensk synpunkt."
+    },
+    {
+     "rubrik": "Avsättningen 1497 och kung Hans",
+     "text": "När Sten i januari 1497 återkom till Stockholm kallades han till rådsmöte. Han begärde gisslan för att möta riksrådet i staden, och rådet beviljade honom lejd till ett möte i rådstugan. Där förklarades han avsatt som riksföreståndare och skyldig att överlämna slottsloven till ett fyrmannautskott. Han vägrade och sade att han i Arboga 1471 hade fått sitt uppdrag av \"meniga Sveriges inbyggare\" och bara kunde återställa det till dem. Samma dag, den 9 mars, förkunnade rådet hans avsättning för folket, och all hjälp åt honom föll under högmålsbalken. Kung Hans förklarade krig den 13 mars, och Sten drog till Dalarna. Ett landsting i Tuna uttalade i ett öppet brev lojalitet med sin hövitsman, och han formulerade själv sitt eftermäle: fädernesriket hade varit skingrat med slott och land men var nu samlat under ett, \"för vilket han har ofta vågat liv och gods\".\n\nLatent inre krig rådde. Sten lät sina knektar tåga mot Uppsala, bränna ärkebiskopsgården och innesluta Almarstäk, och ärkebiskopen lyste honom i bann. Hans hopp stod till Dalarnauppbådet, men det blev blodigt hejdat vid Rotebro norr om Stockholm, där han i ett utfall nästan blev kung Hans fånge. I det läget beslöt han att förhandla. I Klara kloster mötte han Hans den 6 oktober 1497, erkände honom som kung och avstod riksföreståndarskapet. Vid kungavalet och kröningen var han rikets hovmästare och Svante Nilsson dess marsk. Han behöll Nyköpings län, Rekarne och Svartsjö län, som låg nära hans privata gods, fick hela Åbo stift och Norrbotten på livstid och avstod Västerås län med Dalarna. I juni 1499 berövades han Åbo län och Viborgs län, med en årlig avgift för de finska länen, och fick i stället Gästrikland, Tuna län och Vadsbo härad. Kung Hans ålade honom stort skadestånd till ärkebiskopen."
+    },
+    {
+     "rubrik": "Tillbaka 1501–1503",
+     "text": "Hösten 1499 inleddes ett försiktigt närmande mellan Sten på Nyköpingshus och Svante Nilsson på Stegeborg, som hade fått byta Örebro län mot det svagare Stegeborg. Närmandet fick näring av kung Hans nederlag mot Ditmarschens bönder i februari 1500. Hemming Gadh återkom i september 1500 efter tjugo år i Rom och verkade för att förlika de båda. I augusti 1501 riktade Sten, Svante, Hemming Gadh med flera från Söderköping ett hotfullt brev till kung Hans om brott mot Kalmar recess, och fem dagar senare ingick de i Vadstena en sammansvärjning att störta honom. Sten reste dalkarlarna i Tuna och Mora, gick mot Västerås och Örebro, och Stockholm intogs snart, medan slottet försvarades av drottning Kristina. På ett rådsmöte i Stockholm den 12 november 1501 utsågs han än en gång till riksföreståndare.\n\nHans styrka låg i att han hade menighetens öra. Nyåret 1502 utlade han vid Enköpings marknad och Uppsalas disting det nationella budskapet och reste runt Mälaren. Den 6 maj 1502 gav drottningen upp Stockholms slott och gick i fångenskap, och kung Hans kunde med sin flotta inget uträtta. Sten fick ärkebiskop Jakob att säga upp sin ed till Hans, for till Finland och fick Viborgs hövitsman Erik Turesson Bielke på sin sida, och ledde i mars 1503 ett infall i Blekinge och övervakade belägringen av Kalmar och Borgholm. Det var denne \"gamle herr Sten\", rastlöst på väg mellan tingsplatser, rådstugor och härläger, som fäste sig i folkmedvetandet, på en gång krigshjälte och fredsgarant.\n\nPå hösten 1503 förbereddes drottningens hemfärd. Sten ledde hennes följe till gränsen och dog på återfärden i Jönköping den 14 december. Hemming Gadhs skildring till Svante Nilsson är berömd: han lät lägga liket i en fora med skinn och hudar, och en tjänare färdades i täcksläde iförd Stens kläder och emblem, allt för att främja efterträdaren. Kistan sattes först ned i rummet i Sankt Göransstodens underrede och fördes sedan i procession till Mariefred. När Gustav I lagt ned klostret 1525 överfördes den till Kärnbo kyrka och slutligen till Strängnäs domkyrka, där den nuvarande sarkofagen uppfördes 1774 på Gustav III:s bedrivande. Genom en riksrådsdom 1528 tillföll två tredjedelar av köpegods, lösöre och skulder Stens systersonson Gustav I, vars \"arv och eget\" till betydande del bestod av Stens forna gods."
+    },
+    {
+     "rubrik": "Statsmannen och eftermälet",
+     "text": "SBL konstaterar att det är svårt att fixera Stens statsmannagärning, eftersom hans arkiv saknas utöver ekonomiska handlingar. Konungabalken förutsåg inte en regim av riksråd tillsammans med riksföreståndare, och gränsen mellan deras maktområden förblev oklar. I länspolitiken visade han skicklighet i att vidga fataburen och knyta värdefulla krafter till sig genom förläningar. Någon egentlig centralförvaltning saknades: myntmästaren var rådets ende ämbetsman, och den dagliga kanslitjänsten delades mellan ärkebiskop och riksföreståndare. Utåt framstod han ändå som rikets regent, genom auktoritativt uppträdande vid ceremonier, folkligt tilltal under ett outtröttligt resande och en nimbus av segerherre och fredsfurste. Den närmaste eftervärlden daterade till \"gamle herr Stens tid\", och hans systersonson Gustav I såg sig som hans arvtagare.\n\nGenom den mot Axelssönerna fientliga Sturekrönikan (1452–87), länge okritiskt utnyttjad, sörjde Sten för bilden av sig själv. Den tidiga historieskrivningen visar två gestalter: hos Johannes Magnus den ridderlige, folklige och rättsinnige, hos Olaus Petri taktikern och demagogen. Dalin och senare historiker ärade honom som den nationella sakens upprätthållare, och Styffe satte 1875 in honom i en antiunionell, antiaristokratisk och antiklerikal tradition. Från dansk sida har framför allt den skicklige taktikern framhållits. Lönnroth såg 1938–40 den unge Sten som Axelssönernas man och den äldre som skaparen av ett förvaltnings- och finanssystem, men SBL kallar det en stimulerande hypotes. Palme tecknade 1950 en bild av Sten som blottad på ideella värden: det hade gällt hans egen politiska makt och materiella välfärd. Yrving, Lundholm och Carlsson ser honom snarast som den främste av sina likar i en tid av stark rörelse."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sten Sture (band 34, 2013–2019, sida 74)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34628",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "regeringstext": "riksföreståndare 1471–1497 och 1501–1503 (föreståndare från 1470, rikshovmästare 1499–1501)",
+   "dodCa": false,
+   "dodDatum": "1503-12-14",
+   "dodsatt": "naturlig",
+   "foralder": [
+    {
+     "namn": "Gustaf Sture"
+    },
+    {
+     "namn": "Birgitta Stensdotter (Bielke)"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Ingeborg Åkesdotter (Tott)",
+     "anm": "gift 1466, död 1507"
+    }
+   ],
+   "barn": [
+    {
+     "namn": "Birgitta",
+     "anm": "nunna i Vadstena kloster, död 1536"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "karl-knutsson-bonde",
+     "relation": "morbror"
+    },
+    {
+     "id": "kristian-i",
+     "relation": "besegrade honom vid Brunkeberg 1471"
+    },
+    {
+     "id": "svante-nilsson",
+     "relation": "efterträdare"
+    },
+    {
+     "id": "gustav-vasa",
+     "relation": "arvinge (systersonson i andra led)"
+    }
+   ],
+   "anm": "Sten Sture föddes senast 1437 och dog 14 december 1503 i Jönköping. Berättelsen bygger på SBL:s artikel i band 34. Inget säkert samtida porträtt finns bevarat; Bernt Notkes Sankt Göransgrupp i Storkyrkan hör till minnet av honom.",
+   "fakta": [
+    "Sten Sture ägde enligt SBL inemot 400 gårdar och var en av Sveriges rikaste godsägare.",
+    "Sankt Göransgruppen i Storkyrkan, invigd nyårsafton 1489, bär Stens vapenbild, tre sjöblad, intryckt i hästens länd.",
+    "Gustav Vasa ärvde två tredjedelar av Sten Stures köpegods, lösöre och skulder genom en riksrådsdom 1528."
+   ]
   },
   {
    "id": "hans",
@@ -593,17 +694,93 @@
    "perioder": [
     [
      1504,
-     1512
+     1511
     ]
    ],
-   "fodd": 1460,
-   "dod": 1512,
-   "foddCa": true,
+   "dod": 1511,
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Svante Nilsson var marsk under Hans och efter Sten Stures död 1503 riksföreståndare. Han var oförmögen att få rådet med sig, vände sig till allmogen och dog 1511, sjuk och försvagad, utan att ha avgjort striden med kung Hans.",
+   "berattelse": [
+    {
+     "rubrik": "Riksråd och Kalmar recess",
+     "text": "Svante tillhörde en gammal riksrådssläkt och disponerade ett betydande eget godsbestånd. Det var närmast självklart att han 1482 intogs i riksrådet, där hans far Nils hade en framträdande ställning. År 1483 utsågs han till ledamot i den delegation som rådet sände till Köpenhamn för att förhandla med de danska och norska riksråden om villkoren för att kung Hans skulle erkännas, villkor som sammanfattades samma år i Kalmar recess. Den gav riksrådet en dominerande maktställning och gjorde kungen helt beroende av det. Sten Sture förhindrade recessens fullföljande med förhalningstaktik, och Svante biträdde honom, sedan Sten knutit honom till sig med betydande och inkomstbringande förläningar.\n\nAvkastningen från frälsets arrendegårdar minskade under senare hälften av 1400-talet, och tilldelning av län blev därmed ett villkor för den som ville spela en roll i rikspolitiken. Det gällde särskilt Svante, som enligt SBL totalt saknade förmåga att anpassa sin livsföring efter sina ekonomiska tillgångar. Hans arkiv överflödar av dokument om godsförsäljningar, pantförskrivningar och lån, de flesta nödlösningar för att få fram kontanter."
+    },
+    {
+     "rubrik": "Finland och splittringen med Sten Sture",
+     "text": "Svante stödde Sten Sture i kampen att driva ut Ivar Axelsson Tott ur riket, säkert i hopp om politiska och ekonomiska vinster, och deltog i belägringen och erövringen av Ivars slott Stegeborg. Sten gav slottet till en annan frälseman, och Svante markerade avoghet mot sin far Nils genom att mot dålig ersättning dra in dennes bästa län. Det var därför inte i någon uttalad enighet som Sten och Svante 1495 seglade över till Finland, som angripits av det expanderande Moskva, med vars härskare kung Hans slutit förbund. Efter någon tid lämnade Sten Finland och överlät åt Svante och Knut Posse att försvara landet. De slog tillbaka de ryska angreppen och intog den nya ryska fästningen Ivangorod.\n\nSvante krävde ersättning för sina krigskostnader, men Sten avvisade kravet med att det var varje läntagares plikt att försvara landet. När Svante protesterade genom att lämna Finland anklagade Sten honom för att vara fältflyktig. Hemma anslöt sig Svante till riksrådet, som sagt upp Sten tro och löfte och inlett förhandlingar med kung Hans. När Sten kallade dalkarlarna till undsättning av Stockholm besegrades de vid Rotebro av kungens legoknektar, och Svante deltog med sina svenner i slaget på dansk sida, vilket dalallmogen hade svårt att förlåta honom."
+    },
+    {
+     "rubrik": "Marsk under Hans",
+     "text": "Hans erkändes som kung sedan han lovat hålla Kalmar recess, och Sten Sture avsade sig frivilligt riksföreståndarämbetet sedan kungen gett honom omfattande förläningar. Svante blev utan och fick nöja sig med att dubbas till riddare och få titeln rikets marsk, troligen ett erkännande av hans militära kapacitet. Kung Hans började sedan återkräva en del av Stens förläningar och gav dem till sina egna trogna, och missnöjet bland riksråden växte. År 1501 uppsade rådet honom tro och lydnad. Genom Hemming Gadhs medling försonades Sten och Svante, och denne gick med på att Sten återinsattes som riksföreståndare."
+    },
+    {
+     "rubrik": "Riksföreståndare 1504–1511",
+     "text": "Efter Stens död 1503 utsåg rådet Svante till riksföreståndare, men med villkoret att han i viktiga ärenden skulle höra rådet. Rådet beslöt också att sända delegater till Köpenhamn för att förhandla om fred, och man kom överens om ett möte i Kalmar 1505. Dit kom kung Hans med danska och norska riksråd och en ansenlig militär styrka, men några svenska förhandlare syntes inte till. Kungen konstituerade då sina riksråd som en domstol som dömde svenskarna som majestätsförbrytare och tillerkände kungen Sveriges rike. Domen stadfästes av både påve och kejsare men blev ett slag i luften eftersom Svante inledde en förhalningspolitik av samma typ som Sten Sture. Han hade själv tagit initiativ till ett rådsmöte om hur man skulle representeras i Kalmar, men sedan saboterat samlingen av delegaterna.\n\nI kriget som följde hade Svante först framgång: hösten 1506 kunde Hemming Gadh inta Kalmar stad. Situationen försämrades 1507 när kung Hans förmådde hanseaterna att avbryta all handel på Sverige, vilket gav den majoritet i riksrådet som leddes av Jakob Ulvsson argument för en uppgörelse. Efter förhandlingar 1507–09 accepterade rådsmajoriteten Hans krav: att antingen han eller hans son Kristian erkändes som kung, eller att svenskarna betalade en årlig tribut. Svante sökte vinna rådsmedlemmar genom förläningar, men saknade Stens karaktärsstyrka och goda ekonomi. Han var ofta villrådig, lättpåverkad och ombytlig, och han kunde inte få grepp om riksrådet."
+    },
+    {
+     "rubrik": "Mot allmogen och slutet",
+     "text": "Det återstod för Svante att vädja till allmogen, vilket hans rådgivare Hemming Gadh, hans sekreterare Peder Jakobsson sunnanväder och kyrkoherden i Mora Arvid Siggesson länge hade tillrått. Han bearbetade konsekvent vissa allmogegrupper, främst Dalarnas allmoge och Stockholms borgare, men hos dem fanns misstro mot honom på grund av hans handlande till förmån för Hans. Han kunde inte heller få sina fogdar att uppträda allmogevänligt. Att Hans reducerade sin hållning till tre krav gjorde propagandan lättare: allmogen ville varken veta av Hans eller Kristian och allra minst betala tribut. Hans ställning stärktes också av att Lübeck 1509 började krig med Danmark och sände undsättning, och 1510 erövrade han Kalmar slott och Borgholm.\n\nTrots framgångarna var hans ställning osäker på grund av krigets umbäranden. Oppositionen inom riksrådet hårdnade, och vid ett möte i Stockholm 1511 beslöt rådet att uppsäga honom tro och lydnad. Han svarade med att hänvisa till allmogens ställningstagande men var försvagad av sjukdom. Tvekampen slutade med en frostig förlikning om en slutuppgörelse vid ett möte i Arboga nyåret 1512, men innan dess avled Svante på Västerås slott på årets sista dag, sannolikt den 31 december 1511."
+    },
+    {
+     "rubrik": "Eftermälet",
+     "text": "En dansk 1800-talshistoriker, C. F. Allen, karakteriserade Svante som styrd av onda lidelser, hämndbegär, girighet, egennytta och maktbegär, och hans regeringstid som en rad nödår. Svenska historiker från samma tid har framhållit svagheter i hans karaktär, självrådighet, hetsighet, bristande ordhållighet och ombytlighet, men ursäktat honom med att Sveriges läge var utsatt och att han klarade att bevara landets självständighet. Några har tillerkänt honom betydande statsmannaegenskaper (Carlsson, Stensson). SBL anser att hans ryckiga, ofta av tillfälligheter styrda politik vid en jämförelse med företrädaren och efterträdaren knappast kan betecknas som statsmannalikt. Medicinsk forskning (Thyresson) har konstaterat att han åtminstone från 1499 var sjuk i syfilis och att hans död berodde på ett aortaaneurysm till följd av syfilis i tertiärstadiet."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Svante Nilsson Sture (band 34, 2013–2019, sida 93)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34641",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "regeringstext": "riksföreståndare från 28 januari 1504 till sin död",
+   "dodCa": true,
+   "dodDatum": "1511-12-31",
+   "dodsatt": "sjukdom",
+   "foralder": [
+    {
+     "namn": "Nils Sture"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Iliana Gädda",
+     "anm": "död 1495"
+    },
+    {
+     "namn": "Mette Iversdotter (Dyre)",
+     "anm": "gift 1504"
+    }
+   ],
+   "barn": [
+    "sten-sture-den-yngre"
+   ],
+   "relaterade": [
+    {
+     "id": "sten-sture-den-aldre",
+     "relation": "företrädare"
+    },
+    {
+     "id": "sten-sture-den-yngre",
+     "relation": "son och efterträdare",
+     "omvand": "far"
+    }
+   ],
+   "portratt": {
+    "fil": "Svante Sture.jpg",
+    "beskrivning": "Svante Nilsson Sture, porträtt från 1500-talet av okänd konstnär",
+    "kredit": "Okänd konstnär",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Svante_Sture.jpg"
+   },
+   "anm": "Svante Nilsson dog sannolikt 31 december 1511 i Västerås. Berättelsen bygger på SBL:s artikel i band 34, där han förekommer som Svante Nilsson Sture. Hans födelseår är inte känt.",
+   "fakta": [
+    "Svante Nilssons arkiv, Sturearkivet, innehåller en stor samling av hans och sonen Sten Stures d.y. koncept och mottagna brev.",
+    "Svante Nilsson dog enligt SBL sannolikt på årets sista dag 1511, på Västerås slott."
+   ]
   },
   {
    "id": "sten-sture-den-yngre",
