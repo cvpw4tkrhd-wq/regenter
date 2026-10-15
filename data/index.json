@@ -1,0 +1,200 @@
+{
+ "titel": "Sveriges regenter",
+ "version": 1,
+ "hus": [
+  {
+   "id": "uppsala",
+   "namn": "Uppsalakungarna (Munsöätten)",
+   "farg": "#8B5E3C",
+   "beskrivning": "Äldsta kända kungar i Svealand. Släktbandet och själva ättenamnet är omdiskuterade."
+  },
+  {
+   "id": "stenkil",
+   "namn": "Stenkilska ätten",
+   "farg": "#6A994E",
+   "beskrivning": "Kungaätt under 1000-talets andra hälft."
+  },
+  {
+   "id": "sverker",
+   "namn": "Sverkerska ätten",
+   "farg": "#9D2B3A",
+   "beskrivning": "Ätt som under 1100- och 1200-talen växelvis delade kronan med Erikska ätten."
+  },
+  {
+   "id": "erik",
+   "namn": "Erikska ätten",
+   "farg": "#D4A017",
+   "beskrivning": "Ätten efter Erik den helige."
+  },
+  {
+   "id": "ovriga",
+   "namn": "Övriga ätter",
+   "farg": "#7D8794",
+   "beskrivning": "Kortvariga kungar utan egen dynasti."
+  },
+  {
+   "id": "folkung",
+   "namn": "Folkungaätten",
+   "farg": "#E76F51",
+   "beskrivning": "Ätten som regerade 1250–1364."
+  },
+  {
+   "id": "mecklenburg",
+   "namn": "Mecklenburg",
+   "farg": "#7B3F98",
+   "beskrivning": "Albrekt av Mecklenburg, kung 1364–1389."
+  },
+  {
+   "id": "estridsen",
+   "namn": "Estridsen",
+   "farg": "#4C6A92",
+   "beskrivning": "Den danska ätten som Margareta kom från."
+  },
+  {
+   "id": "pommern",
+   "namn": "Pommern",
+   "farg": "#1B998B",
+   "beskrivning": "Erik av Pommern, unionskung."
+  },
+  {
+   "id": "bayern",
+   "namn": "Pfalz-Neumarkt (Bayern)",
+   "farg": "#5AA9E6",
+   "beskrivning": "Kristofer av Bayern."
+  },
+  {
+   "id": "bonde",
+   "namn": "Bondeätten",
+   "farg": "#6B8E23",
+   "beskrivning": "Karl Knutsson (Bonde), kung och riksföreståndare."
+  },
+  {
+   "id": "oldenburg",
+   "namn": "Oldenburg",
+   "farg": "#E4572E",
+   "beskrivning": "Danska unionskungar: Kristian I, Hans och Kristian II."
+  },
+  {
+   "id": "sture",
+   "namn": "Sturarna",
+   "farg": "#4A4E69",
+   "beskrivning": "Riksföreståndare under unionstidens sista decennier."
+  },
+  {
+   "id": "vasa",
+   "namn": "Vasaätten",
+   "farg": "#2D6A4F",
+   "beskrivning": "Ätten som regerade 1523–1654."
+  },
+  {
+   "id": "pfalz",
+   "namn": "Pfalz-Zweibrücken",
+   "farg": "#1D4E89",
+   "beskrivning": "Karl X Gustavs ätt, 1654–1720."
+  },
+  {
+   "id": "hessen",
+   "namn": "Hessen-Kassel",
+   "farg": "#8C6BB1",
+   "beskrivning": "Fredrik I, kung 1720–1751."
+  },
+  {
+   "id": "holstein-gottorp",
+   "namn": "Holstein-Gottorp",
+   "farg": "#0F8B8D",
+   "beskrivning": "Ätten 1751–1818."
+  },
+  {
+   "id": "bernadotte",
+   "namn": "Bernadotte",
+   "farg": "#006AA7",
+   "beskrivning": "Nuvarande kungahus sedan 1818."
+  }
+ ],
+ "epoker": [
+  {
+   "id": "vikingatid",
+   "namn": "Vikingatid och tidig medeltid",
+   "fran": 970,
+   "till": 1130,
+   "text": "Sverige är ännu inte ett enhetligt rike, och kristendomen får fäste långsamt. Källorna är få, ofta skrivna långt efteråt eller av utländska författare, så uppgifterna om de tidiga kungarna är osäkra."
+  },
+  {
+   "id": "sverker-erik",
+   "namn": "Sverkerska och Erikska ätterna",
+   "fran": 1130,
+   "till": 1250,
+   "text": "Två ätter strider om kronan och avlöser ofta varandra. Kyrkan organiseras, och ärkestiftet i Uppsala bildas 1164."
+  },
+  {
+   "id": "folkung",
+   "namn": "Folkungatiden",
+   "fran": 1250,
+   "till": 1389,
+   "text": "Kungamakten stärks, och Magnus Ladulås lagstiftning ger adeln särskilda rättigheter. Under Magnus Eriksson samlas lagen i landslagen."
+  },
+  {
+   "id": "kalmar",
+   "namn": "Kalmarunionen och sturarna",
+   "fran": 1389,
+   "till": 1523,
+   "text": "Sverige, Danmark och Norge ligger under samma krona, med avbrott. Motståndet mot unionskungarna leder till riksföreståndare och slutligen till Stockholms blodbad 1520."
+  },
+  {
+   "id": "vasa",
+   "namn": "Vasatiden",
+   "fran": 1523,
+   "till": 1654,
+   "text": "Gustav Vasa bryter unionen och inför reformationen. Sverige blir en europeisk stormakt under Gustav II Adolf, som griper in i trettioåriga kriget."
+  },
+  {
+   "id": "storamakt",
+   "namn": "Stormaktstiden",
+   "fran": 1654,
+   "till": 1718,
+   "text": "Sverige når sin största utbredning i Östersjöområdet. Det stora nordiska kriget slutar med att stormakten faller."
+  },
+  {
+   "id": "frihet",
+   "namn": "Frihetstiden",
+   "fran": 1718,
+   "till": 1772,
+   "text": "Riksdagen har makten och kungen är i huvudsak symbolisk. Perioden avslutas med Gustav III:s statskupp 1772."
+  },
+  {
+   "id": "gustaviansk",
+   "namn": "Gustavianska tiden",
+   "fran": 1772,
+   "till": 1809,
+   "text": "Upplysning, teater och kultur under Gustav III, men också inre konflikter och krig. Finland förloras 1809."
+  },
+  {
+   "id": "unionstid",
+   "namn": "1800-talet och unionen med Norge",
+   "fran": 1809,
+   "till": 1905,
+   "text": "Ny regeringsform 1809 och en fransk marskalk som kung. Sverige industrialiseras, och unionen med Norge varar till 1905."
+  },
+  {
+   "id": "modern",
+   "namn": "Den moderna monarkin",
+   "fran": 1905,
+   "till": 9999,
+   "text": "Demokratin genomförs, och kungens uppgifter blir successivt ceremoniella. Regeringsformen 1974 tar bort de sista politiska befogenheterna."
+  }
+ ],
+ "filer": [
+  "uppsalakungar.json",
+  "stenkil.json",
+  "sverker.json",
+  "erik.json",
+  "folkung.json",
+  "mecklenburg.json",
+  "kalmarunionen.json",
+  "vasa.json",
+  "pfalz.json",
+  "hessen.json",
+  "holstein-gottorp.json",
+  "bernadotte.json"
+ ]
+}
