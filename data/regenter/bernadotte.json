@@ -341,13 +341,104 @@
    "fodd": 1829,
    "dod": 1907,
    "barn": [
-    "gustaf-v"
+    "gustaf-v",
+    {
+     "namn": "Oscar Bernadotte"
+    },
+    {
+     "namn": "Carl"
+    },
+    {
+     "namn": "Eugen"
+    }
    ],
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Oscar II var sjöofficer, skald och översättare och blev kung 1872 efter sin bror. Han ville stå över partierna och motarbetade parlamentarismen, men bevittnade hur den svensk-norska unionen föll 1905. SBL kallar honom svag som statsman men skicklig som representant.",
+   "berattelse": [
+    {
+     "rubrik": "Sjöofficeren och dikten",
+     "text": "Oscar föddes den 21 januari 1829 på Stockholms slott som tredje son till Oscar I och Josefina. Han och hans äldre bröder uppfostrades av i stort sett samma personer: C. J. Boström var brödernas lärare 1833–37, och F. F. Carlson som lärare till 1846 skrev att Oscar var ytterligt svag för smicker och hade det teoretiska huvudets fel: distraktion, glömska, obeslutsamhet, envishet och ytterlig noggrannhet. Redan tidigt bestämdes att hans militära bana skulle vara flottan. Han gjorde en årslång kommendering på fregatten Eugenie i Östersjön och Medelhavet 1846–47 och förde 1849 för första gången fartygsbefäl. Han trivdes bättre med kamratumgänget i flottan än i studentkretsar.\n\nUnder hans uppväxt tydde ingenting på att han skulle bli regerande kung, men när brodern Gustav dog 1852 och tronföljaren Karls son Karl Oscar 1854, ändrades förhållandena. När Karl XV besteg tronen 1859 blev Oscar tronföljare i 13 år, men titeln kronprins fick han aldrig. Hans åsikter om flottan ledde honom i konflikt både med fadern och med brodern: han ville ha en sammanhållen flotta och motsatte sig sjöminister von Platens förslag, och han motarbetade monitorerna på 1860-talet och kunde sedan aldrig uppskatta John Ericsson. Hans minnesvärda ungdomskärlek var Camille af Harmens, men giftermål var otänkbart. Under sin grand tour 1856 träffade han Sofia av Nassau, och förlovning följde samma år och vigsel den 6 juni 1857. Alla hertigparets fyra söner, Gustaf, Oscar, Carl och Eugen, föddes innan han besteg tronen.\n\nHan började på allvar skriva dikter 1855, inspirerad av uppsalastudenten Fredrik Sander, och Ur svenska flottans minnen vann 1857 andra pris i Svenska Akademien. Han skrev också översättningar. SBL anser att hans litterära aktivitet hängde samman med att han inte fick utlopp för sin verksamhetslust i flottan."
+    },
+    {
+     "rubrik": "Kung 1872: kompromissen och de stora frågorna",
+     "text": "När Oscar besteg tronen i september 1872 var han knappast varmt välkomnad i Sverige. Olikheterna mellan bröderna var påtagliga, och han lät snabbt ändra på slottet sådant som påminde om Karl XV. Han lät flagga på Stockholms slott, vilket först väckte kritik men bidrog till att göra den svenska flaggan känd och populär. Han beslöt att låta sig krönas, trots en viss opinion för att han skulle avstå. Det viktigaste beslutet under hans första år var riksdagens så kallade kompromiss 1873 om de stora frågorna: indelningsverket fick avskaffas bara samtidigt som grundskatterna avskrevs. SBL ser kompromissen som en hårdknut, som paralyserade frågorna i mer än ett decennium. Att Oscar medvetet deltog i ett dubbelspel är enligt SBL inte bevisat och knappast troligt. För grundskatteproblemen intresserade han sig mycket litet, men försvarsfrågorna ägnade han uppsatser och anonyma tidningsartiklar: utbildningen han hade var officerens.\n\nHan bemöttes med större välvilja i Norge, där han 1873 sanktionerade stortingets beslut att avskaffa ståthållarämbetet. Vid 1874 års riksdag fick han första gången agera som regeringsbildare, och försökte med en koalition under Louis De Geer och Arvid Posse. Det slutade med att Edvard Carleson blev justitiestatsminister, och förhållandet till De Geer blev ansträngt. Oscar ville ha en arbetsduglig ministär med majoritet, men regeringsbildningen fick inte innebära något erkännande av parlamentarismen, som han ansåg osvensk och skadlig. År 1876 ersattes justitiestatsministerposten med ett statsministerämbete. SBL beskriver hans roll i de följande årens försvarsstrider som inkonsekvent: han insåg värdet av ökad värnplikt för kungamakten och var personligen intresserad av flottans upprustning. Våren 1885 spelade han en roll vid Themptanders blygsamma reform som äntligen medförde en uppluckring, och en promemoria 1884 från honom framhöll att de stora frågorna skulle ordnas successivt och inte i ett enda beslut."
+    },
+    {
+     "rubrik": "Tyskvänlig utrikespolitik",
+     "text": "Utrikespolitiken var ett av hans stora intressen. Han var kunnig, berest och hade betydande konversationstalanger, men hans känslosamhet och brist på verklighetssinne kunde hindra en klar bedömning. Han betraktade tidigt Ryssland som arvfienden, och hade danska vänner och en form av skandinavism: under kriget 1863–64 förordade han ingripande på den danska sidan och funderade på att själv gå som frivillig. Efter det fransk-tyska kriget omorienterade han sig i tyskvänlig riktning, och hans resa 1875 till Berlin betraktade han som en stor framgång. Medan Frankrike var besmittat av republikanism stod det wilhelminska Tyskland för ordning och konservativ stabilitet, och för Bismarck hyste han stor beundran. Anknytningen till det tyska kejsardömet blev central för honom under resten av regeringstiden. På högsommaren 1875 besökte han även Ryssland, där han framhöll att han representerade en fredlig granne."
+    },
+    {
+     "rubrik": "Norge och riksrätten 1884",
+     "text": "Svårigheter av mer komplicerat slag mötte honom i Norge. Tre storting hade beslutat, senast 1880, att statsråden skulle få delta i stortingsdebatterna, men Oscar vägrade varje gång sanktion, och frågan blev om kungen hade absolut veto i grundlagsfrågor. Vänstern under Johan Sverdrup drev igenom att ministären ställdes inför riksrätt, och domen blev fällande: i februari 1884 avsattes statsminister Selmer och de flesta statsråden. Oscar lät bilda en högerministär men tvangs redan i juni acceptera Sverdrup som statsminister, och därmed var parlamentarismen klart accepterad i Norge. SBL menar att dessa år var svåra för honom: han ansåg att det var hans oavvisliga plikt att vidmakthålla unionen, och statsminister Selmer var en av hans närmaste politiska vänner. Björnstjerne Björnsons agerande väckte hans starka motvilja och han var närmast maniskt fientlig mot honom. Stundom tänkte han på abdikation, stundom på ett tyskt ingripande i Norge. Vid ett tillfälle yttrade han: \"Är jag då den ende som skall försvara unionen?\""
+    },
+    {
+     "rubrik": "Tullstrider och försvarsreformen 1892",
+     "text": "I Sverige avlöste tullstriderna under senare delen av 1880-talet de stora frågorna. Personligen var Oscar frihandlare, men han ingrep inte med engagemang. Regeringskrisen i februari 1888, då Themptander avgick, var långdragen och präglades av stark kunglig aktivitet; Gillis Bildt blev statsminister, men Oscar hade inte särskilt stora valmöjligheter eftersom tullvännerna dominerade riksdagen. Efter Bildt kom Gustaf Åkerhielm och 1891 E. G. Boström, och under den långa protektionistiska dominansen sköts tullfrågorna i bakgrunden. Det öppnade möjligheten för ministären att vid en urtima riksdag hösten 1892 genomföra försvarsreformen som slutgiltigt löste de stora frågorna: indelningsverket och grundskatterna avskaffades och allmän värnplikt infördes. Oscars glädje var uppriktig, och han avtog sitt eget blå band och löste serafimerstjärnan från bröstet och lämnade båda till Boström."
+    },
+    {
+     "rubrik": "Unionens upplösning 1905",
+     "text": "Förhållandena i Norge var betänkligare. Vänstern vann stortingsvalet 1891 på ett program med krav på norsk likställighet i utrikespolitiken och ett eget konsulatväsen, och stämningen var 1895 så upphetsad att man inte uteslöt att problemen skulle avgöras med vapenmakt. Oscar var hårt pressad: i hans egen familj var kronprinsen och prins Carl aktivister, medan drottningen och prins Eugen var modererande, och kejsar Wilhelm menade att Sverige borde ingripa militärt. Själv lekte han med tanken att bege sig till Fredrikshald och marschera mot Kristiania med en kungatrogen norsk ministär. Förhandlingarna i en unionsrevisionskommitté 1895–98 slutade resultatlösa. I december 1898 inträffade flaggkrisen: han förelades ett tredje beslut av stortinget om att stryka unionsmärket ur den norska handelsflaggan och tvingades av den norska statsrådsavdelningen i Stockholm utfärda flagglagen utan sanktion men med sin namnteckning. Det blev ett av de obehagligaste sammanträden han deltog i, och han talade om att abdikera. Han insjuknade i en nervös åkomma, och drottningen ingrep för att få Boström att stanna.\n\nEn unionskommitté arbetade första halvåret 1902 på konsulatfrågan, och initiativet kom från utrikesminister Alfred Lagerheim, som stod kungen nära. I slutet av 1904 skärptes situationen när svenska regeringen framlade förslag till likalydande konsulatlagar som den norska regeringen inte kunde acceptera, och förhandlingarna avbröts i januari 1905. SBL anger att Oscar inte insåg att ett sammanbrott verkligen kunde leda till att unionen upphörde, och att han med ovanlig konsekvens rentav inspirerade Boström. Kronprinsen uppfattade krisläget vid sitt besök i Kristiania i mars 1905 och gick in för en omorientering. Unionsbrottet den 7 juni 1905 gick så fort att varken Oscar eller svenskarna hann reagera, och han tycks ha brutit samman. Han bad Boström ställa upp som statsminister, men denne avböjde. Det så kallade Bernadotte-anbudet, att en svensk prins skulle bli Norges kung, avvisade han med stor bestämdhet. Politiken under sommaren 1905 var defensiv: unionen skulle avvecklas så hedersamt som möjligt för Sverige. Han abdikerade formellt som norsk kung den 26 oktober 1905 och ändrade sitt valspråk till Sveriges väl."
+    },
+    {
+     "rubrik": "Parlamentarismen och de sista åren",
+     "text": "Under hans sista år gick parlamentarismen, som han så ivrigt motarbetat, stegvis in. Karl Staaffs första ministär hösten 1905 efterträdde koalitionsregeringen och var det första fullständiga regeringsskiftet sedan 1809. Oscar gav Staaff fria händer att utse ministrar. När Staaff 1906 begärde att andra kammaren skulle upplösas efter nederlaget i rösträttsfrågan vägrade kungen, och Staaff avgick och ersattes av Arvid Lindman, med vilken Oscar hade ett gott förhållande. Åren efter sekelskiftet besvärades han av svaghet och bristande koncentrationsförmåga. Han insjuknade 1906 en längre tid men tillfrisknade. Efter några dagar i sjuksängen dog han 78 år gammal på Stockholms slott den 8 december 1907, med åderförkalkning angiven som dödsorsak."
+    },
+    {
+     "rubrik": "Poet, översättare och mecenat",
+     "text": "Oscar uttryckte sig gärna i bunden form, som Oscar Fredrik, och anlitade vänner som kritiker, främst Snoilsky och Sander. Hans poetiska ideal var den romantiska efterklangens, och dikterna är stundom talangfulla men inte av en art som överlevt. Han översatte Goethe och Herder och var enligt SBL bättre som översättare än som diktare. Han brevväxlade med författare som Snoilsky, Topelius, Rydberg, Lie och Ibsen, men för de så kallade radikala skribenterna, främst Strindberg och Björnson, hyste han enbart avsky, och han kunde inte acceptera realismen i litteratur och konst. Som Svenska Akademiens beskyddare lät han sina personliga preferenser påverka valen på ett sätt som snarast skadade akademiens anseende: hans vän Sander utsågs, men Henrik Schück kunde inte väljas förrän efter hans död. På hans initiativ restaurerades Stockholms slott grundligt kring sekelskiftet, och omkring 1880 lät han på Bygdøy utanför Oslo arrangera ett friluftsmuseum, ett decennium före Skansen. Han framställdes som Europas lärdaste monark, och hans memoarer utgavs först på 1960-talet."
+    },
+    {
+     "rubrik": "Familjen och bedömningen",
+     "text": "Giftermålet med Sofia av Nassau var ett klokt val: hon blev en god och lojal hustru, med ett modererande och besinningsfullt politiskt inflytande. Hon var den överseende hustrun, eftersom Oscar enligt SBL ingalunda var trogen, men han dolde sina utomäktenskapliga affärer så väl att de först sent blev allmänt kända. Han gjorde på 1880-talet flera försök att förbättra sönernas möjligheter till meningsfull verksamhet. I slutet av 1887 inträffade en djup familjekris när prins Oscar ville gifta sig med Ebba Munck, första gången en svensk prins ville ingå äktenskap med en enskild mans dotter, och prins Eugens konstnärliga kallelse accepterade han slutgiltigt först i slutet av 1890-talet.\n\nSBL beskriver honom som svag som statsman men utomordentligt skicklig i att fullgöra representativa plikter, ungefär som Gustav III. Han erkände aldrig parlamentarismens principer, eftersom det skulle vara ett accepterande av kungamaktens begränsningar. Partiväsendet såg han som något ont och betraktade sig som stående över partierna, och särskilt under senare år drev han tesen att han medlade mellan dem. Hans ställning stärktes på det emotionella planet under 1890-talet genom den estetiska och nationella rörelse som gynnade rojalismen, med jubileumsåret 1897 och Stockholmsutställningen som höjdpunkt. Hans verbala förmåga låg honom som politiker snarast i fatet, eftersom han lätt tog till bombastiska och tvärsäkra uttalanden som han inte kunde fullfölja. Han var ombytlig och kunde byta åsikt från en dag till en annan. Vid kriser blev han lätt nervös, och det finns exempel på att han lade sig sjuk när påfrestningarna blev för stora. SBL konstaterar att det nästan är tragiskt att han vädjade till eftervärlden att frikänna honom, medan en senare tid knappt kan tillerkänna honom en stor statsmans egenskaper."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Oscar II (band 28, 1992–94, sida 377)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7812",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "regeringstext": "kung av Sverige och Norge 1872–1907 (abdikerade som Norges kung 26 oktober 1905)",
+   "foddCa": false,
+   "foddDatum": "1829-01-21",
+   "dodCa": false,
+   "dodDatum": "1907-12-08",
+   "dodsatt": "sjukdom",
+   "foralder": [
+    "oscar-i",
+    {
+     "namn": "Josefina av Leuchtenberg"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Sofia av Nassau",
+     "anm": "gift 1857, död 1913"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "karl-xv",
+     "relation": "bror och företrädare"
+    }
+   ],
+   "portratt": {
+    "fil": "Oscar II of Sweden painted by Oscar Björck in 1893.jpg",
+    "beskrivning": "Oscar II, målning av Oscar Björck, 1893",
+    "kredit": "Oscar Björck",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Oscar_II_of_Sweden_painted_by_Oscar_Björck_in_1893.jpg"
+   },
+   "anm": "Oscar II föddes 21 januari 1829 på Stockholms slott och dog 8 december 1907 där. Han blev kung 18 september 1872 och kröntes 12 maj 1873 i Stockholm och 18 juli 1873 i Trondheim. Berättelsen bygger på SBL (band 28).",
+   "fakta": [
+    "Oscar II abdikerade den 26 oktober 1905 som Norges kung, och ändrade då sitt valspråk till Sveriges väl.",
+    "Hösten 1892 avtog Oscar II sitt blå band och sin serafimerstjärna och gav dem åt Boström som tack för försvarsreformen som avskaffade indelningsverket.",
+    "Omkring 1880 lät Oscar II arrangera ett friluftsmuseum på Bygdøy, ett decennium före Skansen."
+   ]
   },
   {
    "id": "gustaf-v",
@@ -366,10 +457,73 @@
     "gustaf-vi-adolf"
    ],
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Gustaf V blev kung 1907 efter att ha varit den verklige regenten i flera år. Han var kung i 43 år och genomlevde unionsupplösningen, borggårdskrisen 1914 och två världskrig. Han började som motståndare till parlamentarismen och blev en lojal statschef i en parlamentarisk demokrati.",
+   "berattelse": [
+    {
+     "rubrik": "Tronföljare 1872",
+     "text": "Gustaf föddes den 16 juni 1858 på Drottningholms slott som äldste son till Oscar II och Sofia av Nassau. I dopet fick han namnen Oscar Gustaf Adolf och skulle kallas Gustaf. När Karl XV dog 1872 och fadern besteg tronen blev han tronföljare. Den skolgång han påbörjat 1869 i Beskowska skolan, där han var kamrat med bland andra Hjalmar Branting och Verner von Heidenstam, fick avbrytas, och den så kallade palais-skolan inrättades för utbildningen av den blivande kungen. Huvudlärare var Carl Lundberg, och F. F. Carlson undervisade i statskunskap. Modern utövade det största inflytandet på hans uppfostran. Han var klen som barn, verkade blyg och osäker och visade ingen framträdande studiebegåvning, men sökte uppfylla kraven efter bästa förmåga. Hösten 1878 gjorde han en årslång utlandsresa som blev av stor betydelse. Det var på hans eget initiativ som resan i december 1878 utsträcktes till Rumänien och Turkiet, och han förbehöll sig att få bestämma färdvägen själv. På hemvägen såg han prinsessan Victoria av Baden, dotterdotter till den tyska kejsaren, och vid ett nytt möte 1881 uppstod en ömsesidig böjelse. Bröllopet ägde rum på hösten 1881."
+    },
+    {
+     "rubrik": "Faderns medhjälpare och unionens slutskede",
+     "text": "Tyngdpunkten i utbildningen låg på det militära området, men han fick tidigt som faderns medhjälpare och som regent i hans frånvaro genomgå en hård politisk skola, framför allt vid de täta unionspolitiska konflikterna. Redan i riksrättskrisen 1884 uppträdde han med ett välgörande lugn och en klar blick för realiteterna, och han visade sig under tullstriderna vara en ovärderlig medarbetare. Han hade utvecklats sent men började göra sig alltmer gällande. Statsrådet P. A. Bergström skrev 1889 att han visst inte var så begåvad som fadern men tillförlitligare och mer ingivande förtroende. Han var ordförande i bestyrelsen för 1897 års stora konst- och industriutställning och fungerade i ett tiotal år som preses i Musikaliska akademien. Hans lust för utlandsresor vållade ibland irritation, men en bidragande orsak var kronprinsessans sjuklighet.\n\nUnder unionens slutskede blev hans roll vid den åldrande kungens sida allt betydelsefullare, men hans egen inställning förändrades. År 1895 företrädde han den svenska kraftpolitiken som fick norrmännen till en temporär reträtt, och synes inte ha varit främmande för tanken att med vapenmakt tvinga Norge till revision av riksakten. År 1905 gjorde han däremot en betydelsefull insats för unionens upplösning i godo. Under sitt regentskap i Kristiania våren 1905 fann han situationen alldeles hopplös, och ett samtal med den nye norske statsministern Christian Michelsen övertygade honom om att alla vägar för ett vidare samliv var stängda. Han försökte förgäves få riksdagens hemliga utskott att låta Sverige ta initiativet till en skilsmässa. När stortinget bröt unionen den 7 juni 1905 var han på besök i Berlin, och de sonderingar han gjorde där och i London befäste hans uppfattning om nödvändigheten av en snabb och fredlig avveckling. Han avvisade vänligt men bestämt Edvard VII:s démarche om ett svenskt förhandserkännande av den danske prinsen Carl, och ställde sig helt bakom politiken som ledde till unionens upplösning under värdiga former."
+    },
+    {
+     "rubrik": "Kung 1907 och konflikten med Staaff",
+     "text": "När Gustaf vid faderns död 1907 blev kung hade han redan i flera år varit den verklige regenten. Han var vid trontillträdet ganska okänd i vidare kretsar och åtnjöt inte den popularitet som fadern fått under senare år. På högerhåll hade man svårt att förlika sig med hans hållning 1905, och vänstergrupper som krävde parlamentarism eller republik blev inte blidkade av hans beslut att avstå från kröning. Den Lindmanska regeringen 1906–11 hade hans fasta förtroende, och han var ganska passiv i inrikespolitiken. Med den liberala ministär som tillträdde efter högerns valnederlag hösten 1911 kom han snart i konflikt. Striden mellan honom och Karl Staaff är ett av de mest omskrivna kapitlen i nyare svensk historia. Från början hyste han ingen aversion mot Staaff, men det skar sig politiskt och personligt under Staaffs första statsministerperiod, och när Staaff krävde upplösning av andra kammaren ställde han sig avvisande.\n\nSBL anger att orsakerna till brytningen 1914 var av principiell, saklig och personlig art. Det rådde en djupgående skiljaktighet i åsikter om monarkens ställning i statslivet, och i försvarsfrågan gick meningarna från början isär. När regeringen i december 1911 genomdrev slopandet av F-båten vidtog han den uppseendeväckande åtgärden att reservera sig mot kungens egna beslut. Krisen kulminerade i hans tal till bondetåget i februari 1914, borggårdstalet, och den Staaffska regeringens avgång. SBL anger att han klarare än sina rådgivare bedömde den storpolitiska situationen, men att försvarsfrågan på längre sikt kunde ha vunnit på en mindre konfliktbetonad lösning. Hans ställning hade blivit kritisk om inte världskriget brutit ut sommaren 1914. Han förebrådde själv året efter några högermän för deras rädsla och frågade: \"Vem var det som fick rätt?\" Lindman svarade: \"Ja, Ers Majestät hade en sabla tur.\""
+    },
+    {
+     "rubrik": "Första världskriget och parlamentarismen",
+     "text": "Under kriget stödde han den Hammarskjöldska ministären, som han ansåg bäst garanterade en pålitlig utrikeskurs. Hans tyskvänlighet tog sig stundom oförsiktiga uttryck, men han vägrade konsekvent att binda sig för en krigisk utrikespolitik. I det skandinaviska samarbetet gjorde han betydande personliga insatser: trekungamötet i Malmö 1914 initierades av utrikesminister Wallenberg, men hans uppträdande där och vid besöket i Kristiania 1917 bidrog till försoning mellan Norge och Sverige. Han engagerade sig hårt för en svensk lösning av Ålandsfrågan. Regimskiftet hösten 1917 accepterade han, motvilligt, sedan han försäkrat sig om att den nye statsministern Edén inte ämnade överge neutralitetspolitiken. Med den liberalsocialistiska regeringen hade han erkänt parlamentarismen och följde sedan lojalt dess spelregler. Starkt oroad av den revolutionära vågen i Europa stödde han ivrigt regeringen under författningsfrågan 1918 och bearbetade högerledningen att ge vika, medan Hjalmar Branting avvände anloppet mot monarkin.\n\nEfter kriget växte han in i rollen som statschef i en parlamentarisk demokrati. Vid 1920-talets täta ministärskiften fungerade han som opartisk medlare, och i inrikespolitiken lät han majoriteten råda. Den enda fråga som medförde allvarliga meningsbrytningar var försvarsfrågan: inför nedrustningsbeslutet 1925 reagerade han häftigt och övervägde att vägra sanktion och upplösa riksdagen, men högerledningen kunde inte stödja honom, och han måste resignera. På åttioårsdagen, då han visade sin spänstighet genom att rida i galopp över Gärdet, hyllades han som folkkonung och fredskonung."
+    },
+    {
+     "rubrik": "Andra världskriget",
+     "text": "Andra världskriget ställde honom inför hårda prov och gav honom tillfälle till personliga insatser. I samråd med utrikesminister Sandler tog han initiativ till statschefsmötet i Stockholm i oktober 1939 som skulle stödja det hotade Finland. Under regeringskrisen efter det ryska anfallet på Finland använde han hela sitt inflytande för att få till stånd en verklig samlingsregering med deltagande även av högern. Våren 1940 fastslog han i brev till Hitler sitt och regeringens beslut att åt alla håll försvara rikets gränser. Det mest omstridda ingripandet gällde Tysklands begäran att få transitera trupper från Norge till Finland efter midsommaren 1941. Han stödde utrikesminister Günthers bifallslinje, och statsminister Hansson använde kungens \"abdikationshot\" för att bryta motståndet inom sitt eget parti. SBL anger att det aldrig kan klarläggas om kungen använde ordet abdikation: enligt vad han själv försäkrade sin bror Eugen hade han bara sagt att konsekvenserna av ett nej skulle bli allvarliga.\n\nHan och regeringen hade hela tiden ett mål: att med bevarad självständighet hålla landet utanför kriget. I ett nytt \"borggårdstal\" på 85-årsdagen 1943 deklarerade han att en konstitutionell kung under vanliga förhållanden inte bör uppträda som ledare i en riktning, men att han under den rådande världskrisen ansett det vara sin oavvisliga plikt att söka hjälpa landet ur stundens svårigheter. Hans initiativ skedde i regel i samförstånd med regeringen, och regeringen sökte i flera fall stöd i kungens auktoritet."
+    },
+    {
+     "rubrik": "De sista åren och bedömningen",
+     "text": "Med krigsslutet var hans politiska roll i stort sett utspelad, och åldern tog ut sin rätt. Sommaren 1945 yttrade han att Norge och sedan två världskrig var för mycket. De sista åren präglades av tilltagande ålderdomssvaghet, svåra familjesorger och oro för kommunismens frammarsch. Han dog på Drottningholms slott den 29 oktober 1950.\n\nSBL anser att det ännu inte är möjligt att i detalj klarlägga och värdera hans personliga insatser från riksrättskrisen 1884 till andra världskrigets slut. Något stadigvarande inflytande på samhällsutvecklingen har han knappast haft, eftersom både faktiska maktbefogenheter och personliga förutsättningar saknades, och han kunde visa en indolens som irriterade hans mer dådkraftiga gemål. Men vid kritiska tillfällen har han ingripit, och han fungerade med växande erfarenhet som sina rådgivares rådgivare. Han var föga intellektuell och alls inte boksynt, men en stor och kunnig samlare av svenskt silversmide, och musik intresserade honom. Hans fritid ägnades åt jakt, friluftsliv och spel, särskilt bridge. Som tennisspelare var han framstående också på äldre dagar, och hans stöd betydde oerhört mycket för tennissportens utveckling i Sverige. Han ägde världserfarenhet, personkännedom och taktkänsla, ett kallblodigt lugn och ett sunt omdöme, och han var enkel och flärdlös i sitt framträdande."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav V (band 17, 1967–69, sida 482)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13319",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "foddCa": false,
+   "foddDatum": "1858-06-16",
+   "dodCa": false,
+   "dodDatum": "1950-10-29",
+   "dodsatt": "sjukdom",
+   "foralder": [
+    "oscar-ii",
+    {
+     "namn": "Sofia av Nassau"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Victoria av Baden",
+     "anm": "gift 20 september 1881, död 1930"
+    }
+   ],
+   "portratt": {
+    "fil": "Gustaf V of Sweden 1922.jpg",
+    "beskrivning": "Gustaf V, målning av Philip de László, 1922",
+    "kredit": "Philip de László",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Gustaf_V_of_Sweden_1922.jpg"
+   },
+   "anm": "Gustaf V föddes 16 juni 1858 på Drottningholms slott och dog 29 oktober 1950 där. Han blev kung 8 december 1907 och avstod från kröning. SBL:s namnform är Gustav V; kungen skrev sig Gustaf. Berättelsen bygger på SBL (band 17, 1967–69).",
+   "fakta": [
+    "Gustaf V avstod från att kröna sig, ett beslut som vänstergrupper som krävde parlamentarism eller republik inte blev blidkade av.",
+    "Gustaf V höll borggårdstalet till bondetåget i februari 1914, som ledde till Staaffs avgång.",
+    "Gustaf V var en kunnig samlare av svenskt silversmide och en framstående tennisspelare."
+   ]
   },
   {
    "id": "gustaf-vi-adolf",
