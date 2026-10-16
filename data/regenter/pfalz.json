@@ -329,7 +329,7 @@
    "hus": "pfalz",
    "perioder": [
     [
-     1718,
+     1719,
      1720
     ]
    ],
@@ -337,10 +337,92 @@
    "dod": 1741,
    "kon": "k",
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Ulrika Eleonora den yngre var Karl XII:s yngsta syster och blev regerande drottning efter hans död 1718. Hon gick med på att avstå från enväldet och överlät 1720 kronan till sin make Fredrik I. Hennes regeringstid markerar inledningen på frihetstiden.",
+   "berattelse": [
+    {
+     "rubrik": "Yngst av Karl XI:s barn",
+     "text": "Ulrika Eleonora föddes den 23 januari 1688 som yngsta barn till Karl XI och Ulrika Eleonora den äldre. Föräldrarna fick sju barn, men bara tre nådde vuxen ålder: Hedvig Sofia, Karl och Ulrika Eleonora. Hennes mor dog när hon var fem och fadern när hon var nio, varefter brodern Karl övertog regeringen som Karl XII. Han tillbringade större delen av sin regeringstid i fält utomlands, medan Ulrika Eleonora och Hedvig Sofia blev kvar i Sverige. Hon undervisades i bland annat religion, språk och musik, men fick bara en översiktlig utbildning i historia, geografi, förvaltning och författning: hon utbildades inte för statsärenden. Hon deltog däremot i jakt och fiske. Hon brevväxlade flitigt med sin storebror och hölls så uppdaterad om fälttågen."
+    },
+    {
+     "rubrik": "Förlovningen och äktenskapet",
+     "text": "Eftersom Karl XII varken var gift eller hade barn växte Ulrika Eleonoras utsikter att bli drottning. Positionen gjorde henne till ett gott parti, och i maj 1710 fick hon ett första förlovningsbrev från arvprins Fredrik av Hessen-Kassel. Kommunikationen gick delvis genom prinsessans förtrogna Emerentia von Düben, som avancerat från kammarpiga till nära vän. Enligt SBL tog hon emot hans närmanden med välbehag, men eftersom avgörandet inte låg i hennes hand ville hon att frågan skulle behandlas försiktigt, och hon förmådde änkedrottning Hedvig Eleonora att skriva till Karl XII i Turkiet. Efter att kungen gett sitt godkännande gifte hon sig med Fredrik den 24 mars 1715.\n\nBrevväxlingen mellan dem visar att paret föreställde sig en framtid som regentpar i Sverige: Ulrika Eleonora skulle ärva kronan efter Karl XII och sedan dela makten med Fredrik. Situationen kompliceras av att systersonen Karl Fredrik, hertig av Holstein, var en annan tronpretendent. Ulrika Eleonora hade erfarenhet av att leda landet: från 1713 fungerade hon som kungens ställföreträdare i rådet. I maj 1718 fick hon en promemoria som Fredrik låtit sammanställa om hur de skulle gå tillväga om kungen dog."
+    },
+    {
+     "rubrik": "Drottning efter Karl XII",
+     "text": "När budet om Karl XII:s död nådde henne agerade Ulrika Eleonora snabbt och utropade sig till drottning. Rådet erkände inte positionen utan överlät beslutet åt ständerna. Efter långa förhandlingar beslöt riksdagen att om hon avstod från sin arvsrätt skulle de välja henne. Beslutet gjorde klart att hennes ställning berodde på ständernas välvilja. Hon måste också avge en försäkran att aldrig återinföra enväldet, och riksdagen antog en regeringsform som ogiltigförklarade envälde och gav riksdag och råd större inflytande. SBL beskriver att prinsessan mot löftet att avstå från suveräniteten nästan omedelbart fick rådet att erkänna henne som drottning, och att hon valdes av ständerna 1719.\n\nVid kröningen i Uppsala domkyrka den 17 mars 1719 utropades hon enligt traditionen till \"Sveriges, Götes och Vendes konung\". Det har förklarats med att regentpositionen var manligt präglad och att kröningsceremonin lyfte fram hennes politiska ställning som kung. Under hennes korta regeringstid avslutades det stora nordiska kriget, och hyllningsdikter framhåller hennes fredsälskande roll som landsmoder. Hennes politiska handlande är enligt SKBL i övrigt ännu bristfälligt utforskat."
+    },
+    {
+     "rubrik": "Avsägelsen 1720",
+     "text": "Hennes önskan att dela makten med sin make godkändes aldrig av riksdagen. I stället tvingades hon abdikera till hans förmån: enligt SKBL avsade hon sig kronan den 29 februari 1720, och Fredrik valdes den 24 mars 1720 till kung. Vid Fredriks kröning den 3 maj samma år insisterade hon dock på att bära riksregalierna, för att tydliggöra att kronan skulle gå tillbaka till henne om kungen dog. Enligt Kungliga slotten hade hon tänkt regera tillsammans med sin make, vilket riksdagen inte godkände."
+    },
+    {
+     "rubrik": "Drottninggemål 1720–1741",
+     "text": "Äktenskapet blev barnlöst. Som drottninggemål ägnade Ulrika Eleonora sig åt läsning, andakt, musik och dans, och hon tycks också ha haft ett intresse för numismatik. Hon efterlämnade Bromelius' myntkabinett med önskan att samlingen skulle göras publik, och den önskan uppfylldes av Fredrik I 1744, då mynten lade grunden till Kungliga Myntkabinettet. Hon dog 1741, enligt Kungliga slotten i smittkoppor, och är begravd i det Karolinska gravkoret i Riddarholmskyrkan."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Ulrika Eleonora d.y., drottning (artikel av Sari Nauman, 2018)",
+     "utgivare": "Svenskt kvinnobiografiskt lexikon (SKBL)",
+     "url": "https://www.skbl.se/sv/artikel/UlrikaEleonoradydrottning",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Queen Ulrika Eleonora the Younger",
+     "utgivare": "Kungliga slotten (kungligaslotten.se)",
+     "url": "https://www.kungligaslotten.se/english/list-of-swedish-monarchs/ulrika-eleonora.html",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Fredrik I (band 16, 1964–66, sida 463)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14443",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Karl XII (band 20, 1973–75, sida 655)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12357",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "regeringstext": "regerande drottning från december 1718 (vald av ständerna 1719, krönt 17 mars 1719) till 1720",
+   "foddCa": false,
+   "foddDatum": "1688-01-23",
+   "dodCa": false,
+   "dodDatum": "1741-11-24",
+   "dodsatt": "smittkoppor",
+   "foralder": [
+    "karl-xi",
+    {
+     "namn": "Ulrika Eleonora av Danmark"
+    }
+   ],
+   "make": [
+    "fredrik-i"
+   ],
+   "barn": [],
+   "relaterade": [
+    {
+     "id": "karl-xii",
+     "relation": "bror och företrädare"
+    }
+   ],
+   "portratt": {
+    "fil": "Martin van Meytens d.y. - Ulrika Eleonora the Younger, Queen of Sweden - NMB 1571 - Nationalmuseum.jpg",
+    "beskrivning": "Ulrika Eleonora d.y., målning av Martin van Meytens d.y., 1730–1731",
+    "kredit": "Martin van Meytens d.y., Nationalmuseum",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Martin_van_Meytens_d.y._-_Ulrika_Eleonora_the_Younger,_Queen_of_Sweden_-_NMB_1571_-_Nationalmuseum.jpg"
+   },
+   "anm": "Ulrika Eleonora föddes 23 januari 1688 (Kungliga slotten anger 25 januari) och dog 24 november 1741. Hon har ingen egen SBL-artikel; berättelsen bygger på Svenskt kvinnobiografiskt lexikon (Sari Nauman), Kungliga slottens sida om henne och SBL:s artiklar om Fredrik I och Karl XII.",
+   "fakta": [
+    "Vid kröningen 1719 utropades Ulrika Eleonora till \"Sveriges, Götes och Vendes konung\".",
+    "Hon efterlämnade ett myntkabinett som Fredrik I 1744 gjorde till grunden för Kungliga Myntkabinettet.",
+    "Hennes regeringstid markerar enligt SKBL inledningen på frihetstiden."
+   ]
   }
  ]
 }
