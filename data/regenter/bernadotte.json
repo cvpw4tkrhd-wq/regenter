@@ -126,13 +126,108 @@
    "dod": 1859,
    "barn": [
     "karl-xv",
-    "oscar-ii"
+    "oscar-ii",
+    {
+     "namn": "Gustaf"
+    },
+    {
+     "namn": "Eugénie"
+    },
+    {
+     "namn": "August"
+    },
+    {
+     "namn": "Två söner med Emilie Högqvist",
+     "anm": "utom äktenskapet"
+    }
    ],
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Oscar I var son till Karl XIV Johan och Désirée Clary och föddes i Paris med Napoleon som gudfader. Han var kronprins i 26 år och kung 1844–1859. SBL ser honom som en reformvänlig men vankelmodig kung: han förde nya lagar om folkskola, fattigvård och näringsfrihet, men efterlämnade en försvagad kungamakt.",
+   "berattelse": [
+    {
+     "rubrik": "Uppväxt mellan Paris och Stockholm",
+     "text": "Oscar föddes den 4 juli 1799 i Paris, kort efter att fadern utnämnts till krigsminister. På moderns begäran hade Napoleon Bonaparte utsetts till hans gudfader. Pojken var föräldrarnas enda barn och levde i nära gemenskap med moderns släkt Clary. Barndomen tillbringade han under furstliga former på landgodset La Grange sydost om Paris eller i familjens bostad vid rue d'Anjou, en personlig gåva från Napoleon. När fadern 1810 valdes till svensk tronföljare var Oscars existens en förutsättning för valet, enligt kungamakaren Otto Mörner. Han och modern kom till Sverige nyåret 1811, men Désirée, som vantrivdes svårt, lämnade snart landet, och de återsågs först vid Oscars giftermålsresa 1822.\n\nKarl Johans avsikt var att göra honom till svensk, och stor möda lades ned på hans uppfostran, där Berzelius var en av lärarna. Han kunde så småningom svenska så bra att han kunde biträda fadern som tolk, och han deltog i det norska fälttåget 1814. Den vackre, allvarsamme och förståndige Oscar vann snabbt popularitet, även om mer kritiska iakttagare fann honom bortskämd och lillgammal. Under de första kronprinsåren hölls han utanför regeringsbestyren och ägnade sig åt studier, representationsresor och ett lättsinnigt ungkarlsliv. I Uppsala var han en ambitiös student med Geijer och Atterbom som lärare och blev högt uppburen i de akademiska kretsarna."
+    },
+    {
+     "rubrik": "Äktenskap, musik och teater",
+     "text": "Frågan om Oscars giftermål intresserade Karl Johan mycket, eftersom dynastins fortlevnad och förankring bland Europas furstehus var viktig. Redan 1810 började förhandlingar med det preussiska hovet, men när Oscar 1822 gav sig ut på friarfärd var frågan olöst. Resan blev besvärlig, men han genomförde uppdraget med diplomatisk skicklighet, och valet föll på Josefina av Leuchtenberg. Hon gifte sig med honom genom ombud den 22 maj 1823 i München, och vigseln hölls den 19 juni 1823 i Stockholms storkyrka. Barnen blev Carl (Karl XV), Gustaf, Oscar (II), Eugénie och August. Hemmet utstrålade en atmosfär av trygghet och borgerlig familjelycka som befordrade hans popularitet.\n\nHans konstnärliga intressen spelade en viktig roll. Som bildkonstnär nådde han knappast över dilettantens nivå, men han framgick bättre i musik och uppträdde gärna som sångare och pianist i trängre kretsar. Han efterlämnade ett tjugotal kompositioner, och tillsammans med läraren A. F. Lindblad fullbordade han musiken till operan Ryno. Han drogs starkt till teatern och engagerade sig i regi, spel och kostymer vid uppsättningar inom hovet. Genom hans förbindelse med skådespelerskan Emilie Högqvist, där två söner föddes, fick hans anknytning till teatervärlden en extra dimension, och förhållandet blev snabbt en offentlig hemlighet."
+    },
+    {
+     "rubrik": "Kronprins under en despotisk far",
+     "text": "Från 1824 fick Oscar regelbundet bevista statsrådsberedningen, och som vicekonung i Norge 1824 gavs han första gången möjlighet till politiskt agerande. Hans uppgift var att få stortinget att godta ett kungligt absolut veto i lagfrågor, men han kom i kläm mellan faderns och stortingets motstridiga viljor. Följande år drogs han som tillförordnad ordförande i regeringen in i skeppshandeln, där han modererade fadern men höll sig lojal med statsrådet. Det sena 1820-talet och det tidiga 1830-talet kan beteckna hans konservativa och russofila period, med ett besök hos tsar Nikolaus I 1830. Han stödde Karl Johans hårda linje mot Norge 1828 och bearbetade oppositionella parlamentariker i anslagsfrågor.\n\nRedan på 1820-talets början gav han uttryck för en vag anslutning till liberala idéer, och efter julirevolutionen 1830 fick den tendensen fastare form. Han avstyrde faderns högmålsprocesser mot förment gustavianska officerare, blev tidigt medlem i nykterhetsföreningen och bedrev välgörenhet. När det politiska läget i Sverige skärptes 1838 blev hans position vansklig. Under regentskapet första halvåret 1839 stärkte han sin ställning hos de liberala, blev \"Framtiden\" för reformvännerna och skrev i Statstidningen en artikel Om folkskolor. Han utgav 1840 anonymt skriften Om straff och straffanstalter, kallad \"gula boken\", skriven med fångvårdschefen Clas Livijn, där han ville avskaffa kroppsstraffen och ersätta gemensamhetsfängelser med cellfängelser med återanpassning som mål. Boken fick stort genomslag och översattes. Under riksdagen 1840–41 höll han sig passiv, och förhållandet till fadern beskrivs som en böljegång av misstro och försoning."
+    },
+    {
+     "rubrik": "Kung 1844 och representationsfrågan",
+     "text": "Oscar tillträdde den 8 mars 1844, kröntes den 28 september och valde valspråket Rätt och Sanning. Han tog uppgiften på djupaste allvar och blev snabbt legendarisk för sin hängivenhet, pliktkänsla och detaljsinne. Ministärbildningen blev utdragen, och han bildade ett splittrat statsråd med honom tillgivna medlemmar, vilket gjorde det oförmöget att motsätta sig hans ledning. Som \"morgongåva\" till Norge lät han bryta ut norska särönskemål om flaggor och vapen ur unionsrevisionen, vilket SBL kallar ett uttryck för en tendens till kortsiktigt populära beslut. Hans strävan vid kröningsriksdagen 1844–45 att med samlingspolitik återupprätta kungamaktens anseende fick en allvarlig knäck redan vid utskottstillsättningen.\n\nDen verkliga prövostenen under de första åren blev frågan om nationalrepresentationens ombildning. Oscar var inställd på ett tvåkammarsystem med en övre kammare till hälften utsedd av kungen, vilket väckte häftigt motstånd hos de flesta liberaler och även i ministären. Våren 1847 framtvingade han ett betänkande som nära anslöt sig till hans idéer, men det saknade förutsättningar att antas. Konflikten mellan liberala synsätt, med parlamentarism som centralt inslag, och hans maktanspråk hade varit latent sedan tronskiftet, och brytningen tog formen av en långsam avkylning, eftersom hans politik på andra områden tillgodosåg viktiga liberala önskemål."
+    },
+    {
+     "rubrik": "Reformer under 1840-talet",
+     "text": "Efter tronskiftet skedde en accelererad verklighetsanpassning av lagar och institutioner, där Oscar verkade pådrivande och satte sin prägel på detaljutformningen. Fattigvårdsförordningen 1847 brukar betecknas som hans eget verk. Under påverkan av en humanitär fransk tradition lyckades han mildra effekterna av strömningar som ville förneka rätten till fattigvård, och förordningen utökade det offentligas förpliktelser. Förordningarna om friare näringslagstiftning 1846 utarbetades av honom tillsammans med civilministern, och han var i vissa avseenden den mest liberaliseringsvänliga parten. Han såg liksom i gula boken näringsfriheten som lösningen på massfattigdom och kriminalitet. En ny strafflag var en annan av hans hjärtefrågor, men hans ansträngningar var klart otillräckliga, och reformen genomfördes inte fullt ut under hans livstid.\n\nDet politiskt mest kontroversiella reformbeslutet togs våren 1845: lika arvsrätt på landsbygden för son och dotter. Lagändringen var till kvinnornas fördel men diskuterades knappast som en kvinnofråga, utan som en fråga om arvsrättens politiska betydelse, särskilt adelns överlevnad. Oscar sanktionerade reformen mot adelns votum och trots att halva statsrådet avstyrkt, och drog på sig en storm av kritik från de konservativa."
+    },
+    {
+     "rubrik": "1848 och vändningen",
+     "text": "Det var en isolerad Oscar som mötte 1847–48 års ständer. Samlingspolitiken hade blivit en balanspolitik som inte tillfredsställde någon, och han blev allt mer vacklande. Vid februarirevolutionen 1848 i Paris och marsoroligheterna i Stockholm visade han personligt mod genom att rida ut och tala till folkmassorna, men det var också han som gav trupperna order om eldgivning och därmed bar det högsta ansvaret för de många dödsoffren. Händelserna gjorde djupt intryck, och han omorganiserade regeringen i en aprilministär med ett relativt stort liberalt inslag. Hans representationsförslag 1848 var radikalare än kommitténs, men uppfyllde hans mål att mota ett hotande bondevälde.\n\nEfter 1848 greps han av den konservativa reaktionen. Bitter och desillusionerad övergav han sin tro på medelklassen som samhällets kärna och tydde sig till aristokratin, och senare till Napoleon III:s idéer om en auktoritär styrelseform. Han undvek att stödja det kungliga representationsförslaget inför riksdagens avgörande 1850, och gjorde klart att ett underkännande var önskvärt. Han stödde regeringsvänliga tidningar ekonomiskt och oskadliggjorde socialistinfluerade blad genom mutor till utgivarna. En begränsning av tryckfriheten efter napoleonskt mönster föreslogs först vid riksdagen 1853–54 och mötte våldsamt motstånd."
+    },
+    {
+     "rubrik": "Utrikespolitiken: Slesvig, Krim och skandinavismen",
+     "text": "Oscar hade sedan ungdomen ett starkt intresse för utrikespolitiken och höll på detta område till stor del själv trådarna. När Danmark 1848 hamnade i nöd genom tronföljdskris och tysknationellt uppror i Slesvig-Holstein övergav han sin neutrala hållning: svensk-norska trupper överfördes till Fyn, och efter hans förmedling överenskoms vapenvila i Malmö. Han fick erkännanden från skilda håll, och i Petersburg framstod han som en diplomat av rang. När Krimkriget 1853–56 utbröt intog han en västmaktsvänlig hållning och utfärdade en neutralitetsförklaring som var till Rysslands nackdel. Med den norsk-finska gränskonflikten som lockbete lyckades han få en defensivallians med västmakterna: novembertraktaten 1855 gav dem garanti för Sverige-Norges territorium. Han närde hopp om en återerövring av Finland men planerna omintetgjordes av det snabba fredsslutet. Ålandskonventionen blev den offensiva kungadiplomatins enda och snöpliga resultat.\n\nFör att motverka isoleringen efter Krimkriget satsade han på en dynamisk skandinavism och en svensk-dansk försvarsallians, med mål att han själv eller kronprins Karl skulle bli unionskung. I juni 1856 hälsade han på Drottningholm det nordiska studentmötets deltagare med orden att krig skandinaviska bröder emellan hädanefter var omöjligt. I mars 1857 erbjöd han Danmark en defensivallians för det egentliga Danmark och Slesvig, men den avvisades eftersom den inte omfattade Holstein. Han lät kamarillan, hemliga redskap, påverka opinionen och förbigick ofta yrkesdiplomater, till exempel genom att låta operachefen Knut Bonde sondera Napoleon III. Planer på en rojalistisk statskupp skall ha diskuterats i hans omgivning efter novembertraktaten, men SBL anser det aldrig fullt klarlagt. Vid riksdagen 1856–57 förenades konservativa och liberaler i kravet på konstitutionella garantier inom utrikespolitiken, vilket kan ses som ständernas dom över en alltför självsvåldig kungadiplomati."
+    },
+    {
+     "rubrik": "Sjukdom och död",
+     "text": "Oscar led hela sitt liv av dålig hälsa, och den hjärntumör som förde honom i döden kan han ha fått tidigt. En svår kris inträffade redan 1821 och en annan 1852–53, då prins Gustafs bortgång bidrog. Under en lång period hade han tillfälliga minnesförluster, och våren 1857 blev situationen ohållbar. I juni utsågs kronprins Karl till ordförande i en tillförordnad regering, och i september inrättades, mot grundlagens bud, ett regentskap för kronprinsen som varade till hans död. Under sina sista år befann sig Oscar i ett ömkligt tillstånd som djupt grep alla berörda. Han dog på Stockholms slott den 8 juli 1859."
+    },
+    {
+     "rubrik": "Bedömning",
+     "text": "SBL konstaterar att Oscar speglade sin samtid men inte satte sin prägel på någon epok, och att han inte brukar räknas till de stora kungarna. Kontrasten mellan hans vankelmod och Karl Johans dådkraft är slående, och han efterlämnade en försvagad kungamakt. Med sitt veka, förfinade men högdragna väsen nådde han inte den folkliga Karl XV:s breda popularitet. Det resultatlösa handhavandet av representationsfrågan och 1850-talets äventyrliga, delvis illusionsbaserade utrikespolitik bidrar till den negativa värderingen. Sedan historieskrivningens intresse förskjutits från krig, utrikespolitik och grundlagar till ekonomiska och sociala problem har bilden blivit ljusare och mer balanserad. Genom sina insatser för 1840-talets reformverk, låt vara inom ramen för anakronistiska ansatser till upplyst despoti, bidrog han tveklöst till betydande och långsiktiga förändringar av det svenska samhället."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Oscar I (band 28, 1992–94, sida 368)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7811",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "regeringstext": "kung av Sverige och Norge 1844–1859 (sonen Karl styrde som regent från 25 september 1857)",
+   "foddCa": false,
+   "foddDatum": "1799-07-04",
+   "dodCa": false,
+   "dodDatum": "1859-07-08",
+   "dodsatt": "sjukdom",
+   "foralder": [
+    "karl-xiv-johan",
+    {
+     "namn": "Désirée Clary"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Josefina av Leuchtenberg",
+     "anm": "gift 1823, död 1876"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "karl-xv",
+     "relation": "son och efterträdare"
+    }
+   ],
+   "portratt": {
+    "fil": "Oskar I, 1799-1859, konung av Sverige och Norge (Carl Staaff) - Nationalmuseum - 15081.tif",
+    "beskrivning": "Oscar I, målning av Carl Staaff",
+    "kredit": "Carl Staaff, Nationalmuseum",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Oskar_I,_1799-1859,_konung_av_Sverige_och_Norge_(Carl_Staaff)_-_Nationalmuseum_-_15081.tif"
+   },
+   "anm": "Oscar I föddes 4 juli 1799 i Paris (SBL anger att Girod de l'Ain anger 6 juli) och dog 8 juli 1859 på Stockholms slott. Han blev kung 8 mars 1844 och kröntes 28 september 1844. Berättelsen bygger på SBL (band 28).",
+   "fakta": [
+    "Napoleon Bonaparte var Oscar I:s gudfader, efter moderns önskan.",
+    "Oscar I utgav 1840 anonymt \"gula boken\", Om straff och straffanstalter, som översattes till flera språk.",
+    "Reformen 1845 med lika arvsrätt för son och dotter på landsbygden sanktionerade han mot adelns votum."
+   ]
   },
   {
    "id": "karl-xv",
@@ -148,10 +243,89 @@
    "fodd": 1826,
    "dod": 1872,
    "palitlighet": "säker",
-   "status": "utkast",
-   "ingress": "",
-   "berattelse": [],
-   "kallor": []
+   "status": "verifierad",
+   "ingress": "Karl XV var den förste Bernadotte som föddes i Sverige. Han var kung 1859–1872, en av de mest folkkära, men förlorade greppet om utrikespolitiken och kämpade förgäves för skandinavismen. 1865 genomfördes representationsreformen som ersatte ståndsriksdagen med tvåkammarriksdag.",
+   "berattelse": [
+    {
+     "rubrik": "Förste svenskfödde Bernadotte",
+     "text": "Karl föddes den 3 maj 1826 på Stockholms slott som son till Oscar I och Josefina. Han var den förste i Sverige födde av ätten Bernadotte och mottogs med höga förväntningar: i den nationella romantikens anda hyllades han som en blivande krigarkonung i Karl XII:s och Karl XIV Johans efterföljd. Hans uppfostran innehöll mycket som tog sikte på militära uppgifter, men skolutbildningen försummades inte. Från sju års ålder hade han ett strängt lektionsprogram med tonvikt på historia, geografi och språk, och hans främste lärare, F. F. Carlson, betonade fredliga ideal. Efter farfaderns död 1844 blev han kronprins och utnämndes till kansler för Uppsala och Lunds universitet, vilket väckte kritik i den liberala pressen. I Uppsala hörde han Geijer och Atterbom, och deras götiska romantik gjorde djupt intryck på honom, vilket syns i hans egen fornnordiska diktning: Fosterbröderne 1848, Heidi, Gylfes dotter 1852, En vikingasaga 1855 och En samling dikter 1863. Han lärde sig också gluntsångens värld och studentskandinavismens ideal, som färgade hans livsstil och ideologi. Han målade också, med J. C. Boklund som lärare, och understödde många konstnärer."
+    },
+    {
+     "rubrik": "Infanteriofficer och partiman",
+     "text": "Efter studierna ägnade han sig åt militärlivet och uppfattade sig själv främst som infanteriofficer. Brodern Oscar II skrev i sina memoarer att Karl var en militärisk natur som troligen blivit en framstående fältherre om han levat under andra förhållanden. Mot slutet av 1840-talet började Oscar I använda honom i det riksdagspolitiska spelet, där hans kontakter med yngre officerare och andra adelsmän kunde utnyttjas. Under riksdagen 1850–51 deltog han i försök att ge den liberala pressen konkurrens genom så kallade skandalblad, socialt radikala men monarkiskt sinnade tidningar, och han var med och organiserade det nykonservativa junkerpartiet. SBL jämför det med Disraelis tories: motståndare till medelklassliberalismen men socialt och ekonomiskt reformvänliga. Samarbetet med junkrarna satte stämpeln på honom och gjorde honom misstänkt bland liberalerna.\n\nHan intresserade sig ännu mer för utrikespolitik. Under dansk-tyska kriget 1848–50 följde han spänt de möjligheter kriget kunde öppna för en skandinavisk dynastisk union under huset Bernadotte. När Krimkriget utbröt 1854 såg han med iver fram emot att som överbefälhavare få leda ett svenskt anfall mot Ryssland, och hans öppet deklarerade rysshat vann honom sympatier långt in i det liberala lägret. Av de stolta planerna blev nästan intet: novembertraktaten 1855 gav visst stöd, men Parisfreden 1856 gjorde slut på revanschplanerna. Han hade en ovanlig förmåga att svälja förtret och acceptera nederlag. Han gifte sig den 19 juni 1850 med Lovisa av Nederländerna."
+    },
+    {
+     "rubrik": "Vicekung i Norge och regent",
+     "text": "Våren 1856 utsågs han till vicekonung i Norge, och försökte spela partiledarens roll genom att mobilisera ett unionsvänligt parti, men politiken vann få framgångar, bara järnvägsfrågan gick i lås. Samtidigt var han nära vän med Fredrik VII av Danmark, och hoppades att han själv, inte tronföljaren Kristian av Glücksburg, skulle efterträda honom. Under en resa till Köpenhamn blev han livligt hyllad, och han försäkrade ledande skandinaver att både fadern och han ville driva liberal politik i Sverige för att göra Bernadotte möjliga som det förenade Nordens kungaätt. Förhandlingarna ledde i mars 1857 till Oscar I:s erbjudande om en allians, som Danmark avvisade. Kort därpå förvärrades Oscar I:s sjukdom, och i september 1857 övertog Karl styrelsen som de förenade rikenas regent.\n\nRegentskapet innebar i vissa avseenden en verklig regimförändring: Karl hade inte faderns auktoritet och ihärdighet, och lät sig i stort sett ledas, inte minst i utrikespolitiken, av de män han satte in i statsrådet, som Henning Hamilton och utrikesministern Manderström. När han i juli 1859 vid faderns död blev unionskung började ministären få anseende som reformvänlig och han själv som konstitutionell monark."
+    },
+    {
+     "rubrik": "Ståthållarstriden och De Geer",
+     "text": "I Norge tycktes utsikterna ljusa, och han gick med på att ur Grundloven rensa bort en paragraf som tillät en svensk att bli ståthållare i Norge. De ledande svenska statsråden hade på förhand inga invändningar, men när stortinget hösten 1859 beslöt i enlighet därmed restes i den svenska riksdagen och pressen en opinionsstorm mot nya eftergifter. De Geer gick över på den svenska nationalismens sida, och Karl tvangs till slut vägra sanktion. Händelsen skadade både unionen och hans ställning. Det initiativ han förlorade under ståthållarstriden 1860 lyckades han aldrig återta, hur mycket han än försökte driva en egen politik i de två frågor som dominerade resten av årtiondet: skandinavismen och representationsfrågan.\n\nSommaren 1861 meddelade De Geer att han tänkte lägga fram ett förslag om tvåkammarriksdag med samfällda val, vilket stred mot Karls tänkesätt och vad han ansåg vara kungamaktens intressen. Men han såg sig som realpolitiker, och kom, inte minst efter en resa till England och Frankrike, till uppfattningen att reformfrågan och skandinavismen kunde kombineras. När reformpropositionen lades fram i januari 1863 hade han inte lyckats påverka vare tidpunkt eller innehåll. Förslaget fick ändå den beräknade effekten på opinionen, och i allmänhetens ögon var han från och med nu reformkungen, \"Nordens Viktor Emanuel\"."
+    },
+    {
+     "rubrik": "Danmark 1863–64 och reformen 1865",
+     "text": "Våren 1863 stod Karl i förbindelse med kejsar Napoleon med tanke på ett svenskt deltagande i en västmaktsintervention mot Ryssland, och återupptog förbindelserna med ledande skandinaver. I juli 1863 bjöd han den danske konseljpresidenten Hall en allians till försvar mot tyska angrepp, och förhandlingarna togs om hand av Henning Hamilton, som förmådde Manderström att gå med på en traktat som band Sverige-Norge till militärt ingripande vid gränsen mellan Holstein och Slesvig. Vid en konferens i september 1863 på Ulriksdal genomdrev Gripenstedt, De Geer och norske statsministern Sibbern att saken sköts upp för hänvändelse till Storbritannien och Frankrike, vilket i verkligheten blev allianspolitikens förolyckande. Karl lovade i december 1863 att komma till Danmark i spetsen för 22 000 svensk-norska soldater, men det blev klart att statsråden, inte kungen, regerade. Det danska nederlaget mot Tyskland 1864 innebar slutet för skandinavismen som praktisk politik.\n\nKarl fick steg för steg ge upp motståndet mot representationsreformen, som slutligen vann i december 1865. Hans roll vid reformens seger kan inte fastställas i alla detaljer men var knappast avgörande, och hans \"avfall\" bevisligen fick några få att lägga ned sin röst eller rösta ja. Efteråt fick han ingenting ut av reformen för skandinavismens räkning. En unionskommitté lade 1867 fram förslag till en ny föreningsakt, men stortinget förkastade hela förslaget 1871."
+    },
+    {
+     "rubrik": "Försvarsfrågan och slutet",
+     "text": "På det inrepolitiska planet upptogs Karls sista år till stor del av försvarsfrågan. Han var en varm anhängare av indelningsverket, och av de värnpliktiga skulle bara en mindre del tas ut genom lottdragning, med kraftigt ökad övningstid. Förslagen fälldes 1869 av lantmannapartiet, och vid riksdagarna 1871 försökte han och krigsminister Abelin på nytt, i förhoppning att Frankrikes nederlag mot Tyskland skulle ha klargjort behovet. Det parlamentariska läget omöjliggjorde resultat, och han misstänktes för att vilja kasta Sverige i krig på Frankrikes sida, en misstanke SBL kallar ogrundad, även om han liksom majoriteten av folket var starkt profransk.\n\nKarl tvangs flera gånger av sjukdom dra sig undan regeringsarbetet. Det var fråga om tarmtuberkulos, men varken han eller samtiden insåg sjukdomens art och allvar. Efter drottning Lovisas död våren 1871 var han upptagen av planer på ett nytt giftermål, utan tvivel i hopp om att få en tronarvinge, eftersom hans son med Lovisa hade dött som späd. Sommaren 1872 reste han till Aachen för att bada sig frisk, men bröts ned av sjukdomen och hann nätt och jämnt beträda svensk mark innan han dog på residenset i Malmö den 18 september."
+    },
+    {
+     "rubrik": "Folkkung och eftermäle",
+     "text": "Många av samtidens ansvariga politiker bedömde Karl övervägande negativt: de tillerkände honom hurtig charm men ansåg honom opålitlig, ointresserad av allvarligt arbete, bunden vid föråldrade ideal och föga skickad att upprätthålla kungamaktens anseende. Hos de breda lagren av folket blev han däremot oerhört populär, säkert en av de mest folkkära kungarna i vår historia. SBL förklarar det med det ståtliga och åtminstone till synes enkelt rättframma i hans uppträdande, hans slarvigt dolda mänskliga svagheter och en sorts ödmjukhet mitt i kungligheten. Han umgicks gärna i en borgerlig krets med inslag av bild- och scenkonstnärer, särskilt under somrarna på Ulriksdal.\n\nKarl har lockat fler levnadstecknare än de flesta svenska monarker, och nästan alla tecknar hans bild med en stundom medlidsam kärlek. SBL konstaterar att han näppeligen på någon punkt påverkade utvecklingen i Sverige och Norden i en riktning som överensstämde med hans egna ideal: han befann sig nästan monotont på den förlorande sidan. Kungamakten var svagare när han dog än när han blev regent, långt ifrån bara men till någon del på grund av hans personliga egenskaper. Men det är inte bara segrare som fascinerar. SBL ansluter sig till Erikssons omdöme att han är mer intressant ur psykologisk synpunkt än ur historisk."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XV (band 20, 1973–75, sida 700)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12360",
+     "kontrollerad": true
+    }
+   ],
+   "ca": false,
+   "regeringstext": "kung av Sverige och Norge 1859–1872 (regent från 25 september 1857)",
+   "foddCa": false,
+   "foddDatum": "1826-05-03",
+   "dodCa": false,
+   "dodDatum": "1872-09-18",
+   "dodsatt": "sjukdom",
+   "foralder": [
+    "oscar-i",
+    {
+     "namn": "Josefina av Leuchtenberg"
+    }
+   ],
+   "make": [
+    {
+     "namn": "Lovisa av Nederländerna",
+     "anm": "gift 19 juni 1850, död 1871"
+    }
+   ],
+   "barn": [
+    {
+     "namn": "Son som dog som späd"
+    }
+   ],
+   "relaterade": [
+    {
+     "id": "oscar-ii",
+     "relation": "bror och efterträdare"
+    }
+   ],
+   "portratt": {
+    "fil": "Karl XV, 1826-1872, kung (Johan Fredrik Höckert) - Nationalmuseum - 39171.tif",
+    "beskrivning": "Karl XV, målning av Johan Fredrik Höckert, 1861",
+    "kredit": "Johan Fredrik Höckert, Nationalmuseum",
+    "licens": "Public domain",
+    "kalla": "https://commons.wikimedia.org/wiki/File:Karl_XV,_1826-1872,_kung_(Johan_Fredrik_Höckert)_-_Nationalmuseum_-_39171.tif"
+   },
+   "anm": "Karl XV föddes 3 maj 1826 på Stockholms slott och dog 18 september 1872 i Malmö. Han blev kung 8 juli 1859 och kröntes 3 maj 1860 i Stockholm och 5 augusti 1860 i Trondheim. Berättelsen bygger på SBL.",
+   "fakta": [
+    "Karl XV var den förste i Sverige födde av ätten Bernadotte, och han gav ut egna dikter.",
+    "Representationsreformen genomfördes i december 1865 och ersatte ståndsriksdagen med en tvåkammarriksdag.",
+    "Karl XV dog 18 september 1872 i Malmö, 46 år gammal, av tarmtuberkulos."
+   ]
   },
   {
    "id": "oscar-ii",
