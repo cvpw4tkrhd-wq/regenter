@@ -208,8 +208,8 @@ function pHem() {
     <div class="hero-in">
       <div class="hero-vbar"></div><div class="hero-hbar"></div>
       <div class="hero-krona" aria-hidden="true">${TRE_KRONOR}</div>
-      <div class="hero-top"><h1 id="h1">Sveriges regenter</h1></div>
-      <div class="hero-bot"><p>Tusen år av kungar och drottningar, och en berättelse om var och en.</p></div>
+      <h1 id="h1" class="sr-only">Sveriges regenter</h1>
+      <div class="hero-top"><p>Tusen år av kungar och drottningar, och en berättelse om var och en.</p></div>
     </div>
   </section>
   <div class="sida">
