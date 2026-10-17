@@ -44,7 +44,13 @@ const words = r => (r.berattelse || []).reduce((s, x) => s + x.text.split(/\s+/)
 const readMins = r => Math.max(1, Math.round(words(r) / 190));
 const pages = r => Math.max(1, Math.round(words(r) / 450));
 const accession = r => start(r);
-const ageAtAcc = r => (r.fodd ? accession(r) - r.fodd : null);
+const ageAtAcc = r => {
+  if (r.foddDatum && r.tilltradeDatum) {
+    const f = new Date(r.foddDatum), d = new Date(r.tilltradeDatum);
+    if (!isNaN(f) && !isNaN(d)) { let y = d.getFullYear() - f.getFullYear(); if (d.getMonth() < f.getMonth() || (d.getMonth() === f.getMonth() && d.getDate() < f.getDate())) y--; return y; }
+  }
+  return r.fodd ? accession(r) - r.fodd : null;
+};
 const ageAtDeath = r => {
   if (r.foddDatum && r.dodDatum) {
     const f = new Date(r.foddDatum), d = new Date(r.dodDatum);
