@@ -1,53 +1,286 @@
 {
  "handelser": [
   {
-   "id": "engelbrektsupproret-1434",
-   "namn": "Engelbrektsupproret",
-   "ar": 1434,
+   "id": "olof-skotkonungs-dop-1008",
+   "namn": "Olof Skötkonungs dop",
+   "ar": 1008,
    "datum": null,
-   "text": "Engelbrekt Engelbrektsson ledde 1434 en resning av dalkarlar och bergsmän som växte till ett uppror mot Erik av Pommern i hela riket.",
+   "text": "Olof Skötkonung brukar räknas som den förste svenske kung som blev kristen, omkring år 1008. Men vad som verkligen hände vet vi bara genom källor som skrevs långt senare, och forskarna är oeniga om detaljerna.",
    "regenter": [
-    "erik-av-pommern"
+    "olof-skotkonung"
    ],
-   "status": "verifierad",
    "berattelse": [
     {
-     "rubrik": "Bakgrund: fogden och kriget",
-     "text": "Engelbrekt Engelbrektsson var enligt SBL både frälseman och bergsman från Norbergs bergslag, född i slutet av 1300-talet. Upproret började som en klagan över fogden Jösse Eriksson på Västerås slott, som enligt Karlskrönikan pressade Dalarnas bönder. Engelbrekt red som böndernas ombud ned till Danmark och klagade inför kung Erik, troligen 1431 eller 1432. Det svenska riksrådet undersökte saken och gav honom rätt, men kungen vägrade ingripa mot sin fogde. SBL pekar på en djupare orsak: Erik av Pommerns långa krig mot Hansan och holsteinarna hade lamslagit gruvbygdens handel, eftersom hanseaternas blockad stoppade sjötransporterna av koppar och järn."
+     "rubrik": "Vad som är säkert",
+     "text": "Samtida källor om Olof Skötkonung är få. SBL nämner några hundra mynt med inskrifter som nämner honom, flera myntmästare och präglingsorten Sigtuna, samt ett blyavtryck från samma myntprägling som hittats vid utgrävningar. Mynten är efterbildningar av anglosaxiska typer från slutet av 900-talet. Olof är den förste svenske kung som kan beläggas ha låtit prägla mynt. Han var enligt SBL svensk kung från omkring 995, son till Erik Segersäll och Sigrid Storråda, och dog troligen vintern 1021–22."
     },
     {
-     "rubrik": "Två första resningar",
-     "text": "Hösten 1432 tågade dalkarlarna mot Västerås för att driva bort Jösse, men hejdades av svenska rådsherrar. Våren 1433 reste sig allmogen igen, intog Borganäs fäste vid Kopparberget och belägrade Västerås. Rådsherrarna medlade, och Jösse avgick, medan greve Hans av Everstein övertog slottet. Det blev lugnt ett år."
+     "rubrik": "Berättelserna om dopet",
+     "text": "Dopet själv beskrivs bara i senare källor. Adam av Bremen, som skrev på 1070-talet, uppger att Olof grundade biskopssätet i Skara genom Thurgot, den förste biskopen där, och skickade stora gåvor till ärkebiskop Unwan i Bremen. Enligt Adam ville Olof också riva det hedniska templet i Gamla Uppsala, men hans hedniska undersåtar avtalade med honom att han fick utöva sina kungliga befogenheter i det landskap han föredrog. Västgötalagens kungalängd, som är betydligt yngre, säger att Olof döptes i Husaby av en biskop Sigfrid, en engelsman, och att han gav hela byn till biskopsstolen. Den danske historieskrivaren Saxo kallar den engelske missionären Bernard. Sigfridslegenden är sena utbyggnader, bland annat om ett straffåg till Värend."
     },
     {
-     "rubrik": "Sommaren 1434",
-     "text": "Det stora upproret började i juni 1434. Dalfolket marscherade till Köpingshus, vars hövitsman flydde, och sedan vidare mot Västerås, som kapitulerade snabbt. Här anslöt sig frälsemän, bland dem Upplandslagmannen Nils Gustavsson, vars son Erik Puke blev Engelbrekts svurne broder. I Uppsala flydde kungens ärkebiskopskandidat, och Engelbrekt förstärkte sin här med uppländska bönder mot att skatten sänktes med en tredjedel. Därefter lade han läger vid Stockholm. Fogden Hans Kröpelin, som kände honom från bergshanteringen, slöt vapenvila fram till Mårtensmäss, och Engelbrekt kunde fortsätta söderut.\n\nI mitten av augusti kom han till Vadstena, där en del stormän och tre biskopar var samlade. Han tvingade dem att den 16 augusti utfärda ett uppsägelsebrev till kung Erik. Därmed var rikets högre skikt vunna för resningen. Han tog Västergötland och gick till Halland, men återvände när Erik kom med flotta till Stockholm. I november slöt kungen ett stillestånd som gällde alla fronter fram till Mårtensmäss 1435."
+     "rubrik": "Brevet från 1008",
+     "text": "Dopet har ofta knutits till ett brev som den tyske missionären ärkebiskop Bruno av Querfurt skrev 1008 till kejsar Henrik II. Där säger Bruno att han sänt en biskop till \"suigerna\", som döpt deras äldste herre, vars hustru redan var kristen, tillsammans med tusen personer och sju socknar. Brevet har ansetts syfta på Olof. SBL redovisar dock att det har bestritts att suigerna skulle vara svearna."
     },
     {
-     "rubrik": "Från upprorsman till rikshövitsman",
-     "text": "Vid ständermötet i Arboga i januari 1435 erkändes Engelbrekts ställning officiellt. Han blev riksråd och valdes till rikshövitsman, med ansvar för rikets försvar. Efter en ny förlikning med kungen hösten 1435 bröt striden ut igen i början av 1436, nu tillsammans med marsken Karl Knutsson, och de blev gemensamt rikshövitsmän. Engelbrekt mördades enligt SBL troligen den 4 maj 1436 på en ö i Hjälmaren. Upproret avslutades inte med hans död: det ledde till att Erik av Pommern avsattes 1439."
+     "rubrik": "Hur man bör läsa det",
+     "text": "SBL framhåller att isländsk litteratur är betydligt yngre och därför osäker som källa, och att uppgifterna hos Adam av Bremen delvis kan spegla Adams kritiska inställning till Sven Tveskägg. Kristnandet av Sverige var en lång process och inte en enda händelse: biskopssätet i Skara och kungens mynt visar att kristendomen fanns vid maktens centrum redan under Olofs tid, men tempelkulten i Gamla Uppsala levde enligt Adam kvar långt efter honom. Uppgiften att Olof ligger begravd vid Husaby kyrka är en traditionsuppgift. Årtalet 1008 ska därför läsas som en riktpunkt snarare än ett säkert datum."
     }
    ],
    "kallor": [
     {
-     "titel": "Engelbrekt Engelbrektsson (band 13, 1950)",
+     "titel": "Olof Skötkonung (band 28, 1992–94)",
      "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
-     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16127",
-     "kontrollerad": true
-    },
-    {
-     "titel": "Erik av Pommern (band 14, 1953)",
-     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
-     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15392",
-     "kontrollerad": true
-    },
-    {
-     "titel": "Karl Knutsson (Bonde) (band 20, 1973–75)",
-     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
-     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12366",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7749",
      "kontrollerad": true
     }
-   ]
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "erik-den-heliges-dod-1160",
+   "namn": "Erik den heliges död",
+   "ar": 1160,
+   "datum": null,
+   "text": "Erik den helige dog omkring 1160 en våldsam död och blev Sveriges nationalhelgon. Det mesta som berättas om honom vet vi bara från senare legender.",
+   "regenter": [
+    "erik-den-helige"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Vad vi vet",
+     "text": "Om Erik den helige finns enligt SBL inga uppgifter från hans egen livstid. Den enda säkra hållpunkten i hans kronologi är att han omkring 1158 var kung i Västergötland. Han nämns som kung i ett brev från sonen Knut Eriksson, och Västgötalagens kungakrönika berättar att han led en våldsam död, vilket bekräftas av en påvebulla till Knut. Han begravdes i Gamla Uppsala. En dansk klosterkrönika berättar att hans gemål Kristina oroade munkarna i Varnhem, men att makarna sedan blev mildare mot dem."
+    },
+    {
+     "rubrik": "Dödsåret och dråpet",
+     "text": "Annalerna anger den 18 maj 1160 som hans dödsdag, men SBL kallar den uppgiften osäker. Traditionen säger att han föll i strid mot Magnus Henriksson, men SBL anser att alla uppgifter om hans tronbestigning, dödsår, krigståg till Finland, lagstiftning och död i ett slag mot Magnus Henriksson kan vara medeltida konstruktioner. Det var en orolig tid, från Sverker den äldres död omkring 1155 fram till Knut Erikssons slutgiltiga seger på 1170-talet, och källorna är motsägelsefulla: Saxo påstår att Magnus Henriksson inspirerade mordet på Sverker, medan den sverkerska släkttraditionen anklagar Eriks föregångare."
+    },
+    {
+     "rubrik": "Helgonet",
+     "text": "Eriks betydelse beror enligt SBL inte på hans kungagärning utan på hans ställning som dynastigrundläggare och nationalhelgon. Hans kvarlevor överfördes troligen i juli 1273 till Uppsala, där hans skrin finns bakom högaltaret i domkyrkan. Hans helgondagar var 18 maj (dödsdagen) och 24 januari (translationen). Redan ärkebiskop Folke Ängel gjorde uppteckningar om järtecken i samband med Erik, och Israel Erlandsson fick i uppdrag att samla uppgifter om sådana, ett arbete som torde ha avslutats 1311. Det skedde i avsikt att utverka hans kanonisation, men bemödandena fullföljdes inte. Erikslegenden skrevs tidigast på 1270-talet, och standardlegenden finns bevarad i en handskrift från 1344. SBL beskriver den som ytterligt schablonmässig."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Erik den helige (band 14, 1953)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15396",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "magnus-ladulas-mora-1275",
+   "namn": "Magnus Ladulås tar kronan",
+   "ar": 1275,
+   "datum": "07-22",
+   "text": "Den 22 juli 1275 avsade sig Valdemar Birgersson kronan på Mora äng, och hans bror Magnus Ladulås togs till kung. Kungavalet följde på en strid mellan bröderna, som avgjordes vid Hova på Tiveden i juni 1275.",
+   "regenter": [
+    "magnus-ladulas",
+    "valdemar-birgersson"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bröderna och riket",
+     "text": "Birger jarl hade 1255 med påvligt skydd gett sina söner \"vissa andelar i riket\", och Valdemar blev kung 1250 medan Magnus blev jarl. Brevmaterialet 1267–73 visar att Valdemar nu ensam representerar riket, medan Magnus framträder som hans bror eller som den främste av stormännen. Redan 1274 skedde en förändring i Magnus ställning. Påvebreven från Lyon den 9 januari 1275 tillkom på Valdemars begäran, och han kallade sina män under straffhot till Vadstena vid palmsöndagen 1275. Förmodligen hade stormännen redan beslutat att kungamakten skulle delas mellan kung och hertig, eller att Magnus skulle ha faderns ställning."
+    },
+    {
+     "rubrik": "Danskt stöd och slaget",
+     "text": "Magnus och brodern Erik sökte stöd hos den danske kungen Erik Klipping. Genom ett avtal på Sönderborg på Als ställdes hundra krigare med följen, enligt Erikskrönikan 700 danska och tyska ryttare, till deras förfogande mot 6 000 mark silver, och en borg i Sverige sattes i pant. Mot en sådan styrka hade Valdemar inga utsikter. Vid Hova på Tiveden den 14 eller 15 juni 1275 bröts hans motstånd. Valdemar flydde västerut mot Norge men återvände och greps av Magnus folk. Enligt Erikskrönikan hölls ett hov i Västergötland där Valdemar fick behålla Västergötland med Dal och Värmland samt Småland. SBL anser att Magnus personliga roll vid Sönderborg och Hova är oklar."
+    },
+    {
+     "rubrik": "Mora äng",
+     "text": "Den 22 juli 1275 ägde ceremonin rum på Mora äng, där Valdemar avsade sig kronan och Magnus togs till kung. Redan samma dag tronsattes Magnus i Uppsala domkyrka i närvaro av biskoparna. Brodern Erik antog titeln hertig och övertog jarladömet, men dog plötsligt den 17 december 1275 och fick ingen efterträdare i det för kungamakten farliga ämbetet."
+    },
+    {
+     "rubrik": "Kröning och följder",
+     "text": "Magnus kröntes på pingstdagen 1276 i Uppsala, med löften till biskoparna om att skilja kyrkans rättigheter från kronans. Valdemar gav inte upp: han gick över den norska gränsen för att med sin svåger den norske kungen kräva hela riket. Vid fredsmötet i Horsaberg den 26 juni 1276 erbjöd Magnus honom Hälsingland, Värmland och Dal samt 300 mark årligen, ett bud som Valdemar uppfattade som en skymf. Efter ett möte i Skänninge vintern 1277/78 skrev sig Valdemar \"förre kung\", och efter augusti 1280 påträffas han inte längre i Sverige. SBL beskriver Magnus första fem kungaår som en utdragen kamp för att hävda makten över riket."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Magnus Birgersson (band 24, 1982–84)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10148",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Birger Magnusson, jarl (band 4, 1924)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18238",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "alsnostadgan-1280",
+   "namn": "Alsnöstadgan",
+   "ar": 1280,
+   "datum": null,
+   "text": "Alsnöstadgan, utfärdad sannolikt den 27 september 1280 på Adelsön i Mälaren, gav frälse åt alla som tjänade kungen med häst och räknas som grunden till det svenska frälset.",
+   "regenter": [
+    "magnus-ladulas"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund: fem svåra år",
+     "text": "Magnus Ladulås första kungaår var en kamp för att hävda makten. Upproret i Skara under Johan Filipsson och Filip Finvidsson, där kung Magnus svärfar greve Gerhard tillfångatogs, krossades: Johan och Birger Filipssöner och deras systerson Johan Karlsson avrättades på Stockholms slott 1280, fällda för sina stora och märkliga brott. Det var i skuggan av denna oro som Magnus utfärdade stadgan."
+    },
+    {
+     "rubrik": "Mötet på Adelsön",
+     "text": "Stadgan utfärdades vid ett möte i det kungliga palatset på Adelsön, sannolikt den 27 september 1280. Den innehåller en stadga om gästning med förbud mot våldsgästning och en detaljerad reglering av böndernas skyldighet mot vägfarande. Den bekräftar faderns fridsstadganden. Den tredje punkten, som främst väckt eftervärldens intresse, fritar från all kunglig rätt kungens och brodern Bengts män samt biskoparnas svenner, och samma frälse beviljas alla som tjänar med stridshäst, vem de än tjänar. Den fjärde förbjuder länsinnehavare och länsmän att självrådigt ta ut prestationer av bönderna."
+    },
+    {
+     "rubrik": "Vad SBL ser i stadgan",
+     "text": "SBL ser stadgan som kungamaktens reaktion på de senaste årens laglöshet och ett försök att forma den samhällspyramid som börjat bildas. Alla krigsmän skulle direkt eller indirekt vara kungens män. Frälset var knutet till personen, inte till egendomen, och det var sannolikt i viss utsträckning fråga om en legalisering av praxis. Tillnamnet Ladulås förekommer först från början av 1400-talet, och Lilla rimkrönikan förklarar det med att han bad folk sätta lås för ladan, vilket knyter det till stadgans bestämmelser om gästning."
+    },
+    {
+     "rubrik": "Följder",
+     "text": "Året därpå, den 29 juli 1281, fick kyrkan sitt stora privilegiebrev, och tillsammans med Skänningestadgan 1284 formade stadgan en ny samhällsordning. Ett brev av Bengt 1282 åberopar \"den juliska majestätslagen\", och SBL ser här en ingående kännedom om romersk rätt som saknar tidigare svensk motsvarighet. Magnus lade därmed grunden för ett frälse och en kungamakt som formade Sverige under hela medeltiden."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Magnus Birgersson (band 24, 1982–84)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10148",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "nykopings-gastabud-1317",
+   "namn": "Nyköpings gästabud",
+   "ar": 1317,
+   "datum": null,
+   "text": "Hösten 1317 lät kung Birger fängsla sina bröder hertigarna Erik och Valdemar vid ett gästabud på Nyköpings slott. De dog i fångenskapen 1318, och Birger förlorade tronen.",
+   "regenter": [
+    "birger-magnusson",
+    "magnus-eriksson"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bröder i strid",
+     "text": "Birger Magnusson var kung men styrdes länge av marsken Torgils Knutsson, och striden med hans bröder, hertigarna Erik och Valdemar, bröt ut 1304. Efter Torgils fall 1306 överrumplades Birger på Håtuna kungsgård och fördes till Nyköpings slott. Han tvingades 1308 avstå större delen av riket, men erkändes 1310 genom fredsfördraget i Helsingborg åter som Sveriges kung, med bara vissa delar av norra och östra Sverige under egen förvaltning. Hertig Erik utvidgade därefter sin makt i alla tre skandinaviska riken."
+    },
+    {
+     "rubrik": "Gästabudet",
+     "text": "Birger kunde enligt SBL inte glömma att han med list och våld berövats större delen av sitt rike. Närmaste impuls till handling var att hertig Erik och den norska prinsessan Ingeborg 1316 fick en son, vilket gjorde att hertigdynastin syntes tryggad. På hösten 1317 kom Erik och Valdemar som kungens inbjudna gäster till Nyköpings slott. De fick ett ståtligt mottagande, men blev förrädiskt överrumplade och kastades som fångar i tornet. Rimkrönikan skildrar kungens glädje: han slår ihop händerna, skrattar högt och säger till sin drots att han nu har Sverige i sin hand."
+    },
+    {
+     "rubrik": "Hämnden",
+     "text": "Glädjen blev inte långvarig. Hertigarnas anhängare samlades överallt, och deras utländska bundsförvanter rustade för att hjälpa dem. Birgers son Magnus kom till Sverige med en större ryttarstyrka, men kungens trupper blev slagna i flera småstrider. Birger flydde med drottning Märta till Gotland, efter att ha lämnat sonen som befälhavare på Stegeborg. De båda fångna hertigarna dog sommaren 1318, sannolikt dödade på kungens befallning."
+    },
+    {
+     "rubrik": "Följder",
+     "text": "Nyköping och Stegeborg kapitulerade, och den unge hertig Magnus togs till fånga. År 1319 steg Magnus Eriksson, hertig Eriks son, upp på både Sveriges och Norges tron, och 1320 fördes Birgers son Magnus Birgersson till stupstocken. Birger lämnade Gotland med sin gemål och begav sig till Danmark, där han dog 1321. Nyköpings gästabud är ett av de mest kända exemplen på de brödrastrider som präglade Folkungaätten."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Birger (band 4, 1924)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18234",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Magnus Eriksson (band 24, 1982–84)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10153",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "skane-koebes-1332",
+   "namn": "Skåne köps",
+   "ar": 1332,
+   "datum": null,
+   "text": "I november 1332 överläts Skåne i pant till Sveriges kung för 34 000 mark silver. År 1343 köpte Magnus Eriksson landskapen slutgiltigt genom freden i Varberg.",
+   "regenter": [
+    "magnus-eriksson"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Pantaffären",
+     "text": "I november 1332 gjordes den märkliga pantöverlåtelsen till Sveriges kung av Skåne, med undantag för Bjäre och Norra Åsbo härader, av Blekinge samt av Lister och Ven. Den slöts mellan hertig Valdemar av Jylland och grevarna Gerhard och Johan av Holstein å ena sidan och Magnus Eriksson, ärkebiskopen av Lund med flera å den andra. Lösensumman, 34 000 mark silver, skulle betalas i fastställda terminer, men återlösningsrätten bevarades. Affären var troligen förberedd främst av ärkebiskopen i Lund och de svenska stormän som i början av 1330-talet tycks ha haft rikets styrelse. Sommaren 1332 hade skåningarna avgett tro- och huldhetsbrev till Magnus."
+    },
+    {
+     "rubrik": "Kriget och freden i Varberg",
+     "text": "När Valdemar Atterdag valdes till dansk kung 1340 bekräftade han i januari 1341 Magnus innehav av Skåne, Blekinge, Lister och Ven och sålde honom södra Halland samt Bjäre och Norra Åsbo. Motsättningarna ledde ändå 1342 till krig, där Magnus fick hjälp av holsteinska furstar och Valdemar av de vendiska städerna med Lübeck i spetsen. Fred slöts 1343. Den 18 november reglerades i Varberg förhållandet mellan Magnus och Valdemar, som nu förklarade sig ha sålt hela Skåne, hela Halland och Blekinge samt Lister och Ven till Magnus för sammanlagt 49 000 mark, den tidigare lösensumman inräknad."
+    },
+    {
+     "rubrik": "Priset",
+     "text": "Skåneköpet försvagade enligt SBL den svenska statsekonomin hårt, och Magnus kom av många att anses ensam ansvarig för det. Man sökte lånen på många håll, bland annat hälften av den svenska kyrkotionden i januari 1333, och åtskilliga svenskar lämnades som gisslan. I ett brev 1336 skriver Magnus att han inte disponerade en mark vid regeringstillträdet och tvingats pantsätta stora delar av riket. Han skuldsatte sig hårt till Albrekt av Mecklenburg och Henrik av Holstein, och 1358 bannlystes han av kurian för obetalda lån."
+    },
+    {
+     "rubrik": "Följder",
+     "text": "Magnus hade nått en position som få nordiska monarker fått, men Valdemar Atterdag planlade enligt SBL från hösten 1350 konsekvent att återta de förlorade områdena. År 1360 erövrade han Skåne med militär styrka, och Magnus förlorade landskapet han hade köpt. Skåne förblev danskt till freden i Roskilde 1658, när Karl X Gustav fick det av Danmark."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Magnus Eriksson (band 24, 1982–84)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10153",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Karl X Gustav (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12355",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "aasle-1389",
+   "namn": "Slaget vid Åsle",
+   "ar": 1389,
+   "datum": null,
+   "text": "I februari 1389 besegrade Margaretas trupper Albrekt av Mecklenburg vid Åsle mosse i Västergötland. Albrekt tillfångatogs, och Margareta behärskade Sverige utom Stockholm och Gotland.",
+   "regenter": [
+    "margareta",
+    "albrekt-av-mecklenburg"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund: stormännen och kungen",
+     "text": "Albrekt av Mecklenburg hade blivit svensk kung 1364, men enligt SBL höll i praktiken riksrådet makten. Riksdrotsen Bo Jonsson Grip sköt kungen helt åt sidan, och konungaförsäkringar 1371, 1375, 1378 och 1383 lämnade kungamakten nästan fullständigt tillintetgjord. Efter Bo Jonssons död hösten 1386 ingrep Albrekt med kraft mot de herrar som Bo i sitt testamente utsett till fullföljare, och planerade en genomgripande reduktion av det kronogods som hamnat i frälsets händer."
+    },
+    {
+     "rubrik": "Dalaborg",
+     "text": "De förbittrade stormännen trädde i förbindelse med drottning Margareta. I mars 1388 erkändes hon vid ett möte på Dalaborgs slott i Dalsland som Sveriges rikes fullmäktiga fru och rätta husbonde. Överenskommelsen innebar att stormännen behöll två av Bo Jonssons viktiga pantlän och att hon skulle ge väpnad hjälp mot Albrekt."
+    },
+    {
+     "rubrik": "Slaget",
+     "text": "Det militära avgörandet föll mellan Albrekts tyska adelsrytteri och den härsmakt som Margaretas riken satt upp, ledd av den mecklenburgske kondottiären Henrik Parow. I ett slag vid och på Åsle mosse på Falan i Västergötland, i februari 1389, blev Albrekt totalt besegrad och själv tillfångatagen, tillsammans med sonen Erik. Margareta behärskade därmed Sverige så när som på Stockholm och Gotland."
+    },
+    {
+     "rubrik": "Efter slaget",
+     "text": "Mecklenburgarna fortsatte kriget med en stark sjökrigsmakt av vitalianer, sjörövare, och först en fredsuppgörelse på Lindholms slott i Skåne 1395 under hanseatisk förmedling bilade striden. Albrekt och Erik frigavs mot att de avstod från Sverige, och Stockholm lämnades 1398 till Margareta. Det var också hon som hade valt Erik av Pommern som efterträdare, och som lät honom krönas i Kalmar 1397. Albrekt dog i Mecklenburg 1412, samma år som Margareta."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Margareta (band 25, 1985–87)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=9097",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Albrekt (band 1, 1918)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5648",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "kalmarunionen-1397",
@@ -80,6 +313,10 @@
     {
      "rubrik": "Följderna",
      "text": "Kalmarmötet ger därför en något annan bild än den traditionella: unionen byggde inte på ett fördrag utan på en gemensam monark och på stormännens trohetslöften. Margareta styrde som fullmäktig fru till sin död 1412, och först därefter blev Erik av Pommern ensam härskare. Hans försök att göra unionen till ett nordiskt östersjövälde slutade i krig mot Hansan och ett svenskt uppror, och unionen fortsatte med avbrott till 1523."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Margareta (1353–1412) var fullmäktig fru och rätt husbonde i alla tre rikena och styrde i praktiken. Erik av Pommern föddes som Bogislav 1381 eller 1382, fick namnet Erik 1389 och kröntes 1397 vid cirka 15 års ålder. Albrekt av Mecklenburg var svensk kung till 1389 och besegrades vid Åsle. De svenska och norska stormännen gav trohetsförsäkran men ville också sätta gränser för maktens omfattning."
     }
    ],
    "kallor": [
@@ -96,6 +333,154 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "engelbrektsupproret-1434",
+   "namn": "Engelbrektsupproret",
+   "ar": 1434,
+   "datum": null,
+   "text": "Engelbrekt Engelbrektsson ledde 1434 en resning av dalkarlar och bergsmän som växte till ett uppror mot Erik av Pommern i hela riket.",
+   "regenter": [
+    "erik-av-pommern"
+   ],
+   "status": "verifierad",
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund: fogden och kriget",
+     "text": "Engelbrekt Engelbrektsson var enligt SBL både frälseman och bergsman från Norbergs bergslag, född i slutet av 1300-talet. Upproret började som en klagan över fogden Jösse Eriksson på Västerås slott, som enligt Karlskrönikan pressade Dalarnas bönder. Engelbrekt red som böndernas ombud ned till Danmark och klagade inför kung Erik, troligen 1431 eller 1432. Det svenska riksrådet undersökte saken och gav honom rätt, men kungen vägrade ingripa mot sin fogde. SBL pekar på en djupare orsak: Erik av Pommerns långa krig mot Hansan och holsteinarna hade lamslagit gruvbygdens handel, eftersom hanseaternas blockad stoppade sjötransporterna av koppar och järn."
+    },
+    {
+     "rubrik": "Två första resningar",
+     "text": "Hösten 1432 tågade dalkarlarna mot Västerås för att driva bort Jösse, men hejdades av svenska rådsherrar. Våren 1433 reste sig allmogen igen, intog Borganäs fäste vid Kopparberget och belägrade Västerås. Rådsherrarna medlade, och Jösse avgick, medan greve Hans av Everstein övertog slottet. Det blev lugnt ett år."
+    },
+    {
+     "rubrik": "Sommaren 1434",
+     "text": "Det stora upproret började i juni 1434. Dalfolket marscherade till Köpingshus, vars hövitsman flydde, och sedan vidare mot Västerås, som kapitulerade snabbt. Här anslöt sig frälsemän, bland dem Upplandslagmannen Nils Gustavsson, vars son Erik Puke blev Engelbrekts svurne broder. I Uppsala flydde kungens ärkebiskopskandidat, och Engelbrekt förstärkte sin här med uppländska bönder mot att skatten sänktes med en tredjedel. Därefter lade han läger vid Stockholm. Fogden Hans Kröpelin, som kände honom från bergshanteringen, slöt vapenvila fram till Mårtensmäss, och Engelbrekt kunde fortsätta söderut.\n\nI mitten av augusti kom han till Vadstena, där en del stormän och tre biskopar var samlade. Han tvingade dem att den 16 augusti utfärda ett uppsägelsebrev till kung Erik. Därmed var rikets högre skikt vunna för resningen. Han tog Västergötland och gick till Halland, men återvände när Erik kom med flotta till Stockholm. I november slöt kungen ett stillestånd som gällde alla fronter fram till Mårtensmäss 1435."
+    },
+    {
+     "rubrik": "Från upprorsman till rikshövitsman",
+     "text": "Vid ständermötet i Arboga i januari 1435 erkändes Engelbrekts ställning officiellt. Han blev riksråd och valdes till rikshövitsman, med ansvar för rikets försvar. Efter en ny förlikning med kungen hösten 1435 bröt striden ut igen i början av 1436, nu tillsammans med marsken Karl Knutsson, och de blev gemensamt rikshövitsmän. Engelbrekt mördades enligt SBL troligen den 4 maj 1436 på en ö i Hjälmaren. Upproret avslutades inte med hans död: det ledde till att Erik av Pommern avsattes 1439."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Engelbrekt Engelbrektsson var frälseman och bergsman från Norberg, upprorsledare 1434 och riksråd och rikshövitsman 1435. Erik av Pommern var unionskung och mötte upproret med stillestånd. Jösse Eriksson var fogden på Västerås slott vars styre började resningen. Karl Knutsson (Bonde) var marsk och blev 1436 Engelbrekts medhövitsman. Erik Puke, Nils Gustavssons son, var Engelbrekts svurne broder och spred upproret till områdena öster om Bottenhavet."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Engelbrekt Engelbrektsson (band 13, 1950)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16127",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Erik av Pommern (band 14, 1953)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15392",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Karl Knutsson (Bonde) (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12366",
+     "kontrollerad": true
+    }
+   ]
+  },
+  {
+   "id": "erik-av-pommern-avsatts-1439",
+   "namn": "Erik av Pommern avsätts",
+   "ar": 1439,
+   "datum": null,
+   "text": "Erik av Pommern avsattes som dansk kung den 23 juni 1439 och som svensk kung vid herredagen i Tälje omkring 29 september samma år. Hans systerson Kristofer av Bayern blev ny unionskung.",
+   "regenter": [
+    "erik-av-pommern",
+    "kristofer-av-bayern",
+    "karl-knutsson-bonde"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund: planen för Pommern",
+     "text": "Erik av Pommern ville göra Margaretas arv till ett imperium och ville att unionskungadömet alltid skulle innehas av en pommersk hertig. I Sverige väckte det motstånd, eftersom det stred mot rikenas valförfattning. Han tillsatte tyskar och danskar som slottsfogdar, och upproret 1432–36 gjorde honom svag. Efter att ha sagts upp i alla riken drog han sig 1436 förbittrad tillbaka till Gotland. Ändå var han fast besluten: hertig Bogislav, som han betraktade som sin universalarvinge, skulle efterträda honom."
+    },
+    {
+     "rubrik": "1437–38: Gotland och de danska öarna",
+     "text": "I april 1437 utfärdade han från Visborg ett brev där Malmö för all framtid skulle föra ett grip huvud i sitt sigill, som en erinran om trohet mot honom och Bogislav. På hösten 1437 seglade han med Bogislav till de danska öarna, där han insatte pommerska slottshövdingar och lät Själlands bönder hylla Bogislav. Danska riksrådet föreslog en kompromiss som han avvisade. Vid midsommartiden 1438 återvände han plötsligt till Gotland med alla klenoder från riksskattkammaren på Kalundborg."
+    },
+    {
+     "rubrik": "Kristofer av Bayern",
+     "text": "Då hade danska riksrådet kallat Eriks systerson Kristofer av Bayern, som han sedan länge var i delo med just på grund av den pommerska planen. Den 28 oktober 1438 skickade danska riksrådet inbjudan, och Kristofer var dansk riksföreståndare senast den 25 juli 1439. Erik uppsades i Danmark den 23 juni 1439, och i Sverige av herredagen i Tälje omkring den 29 september, efter ett misslyckat försök att under våren och sommaren 1439 invadera det svenska fastlandet från Gotland."
+    },
+    {
+     "rubrik": "Följder",
+     "text": "Karl Knutsson, som sedan oktober 1438 var svensk riksföreståndare, hade i slutet av 1439 och första hälften av 1440 undanröjt nästan allt som återstod av Eriks välde. Kristofer hyllades som dansk kung 1440, som svensk kung 1441 och som norsk kung 1442. Erik behöll Gotland och bedrev kapartrafik därifrån. Efter Kristofers död 1448 avstod han 1449 Visborg till Kristian I, flyttade till Pommern och dog 1459. SBL varnar för att bedöma honom efter slutet: bilden av honom som en oduglig regent är enligt SBL falsk."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Erik av Pommern (band 14, 1953)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15392",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Kristofer (band 21, 1975–77)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11775",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Karl Knutsson (Bonde) (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12366",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "karl-knutsson-flyr-1457",
+   "namn": "Karl Knutsson flyr och Kristian I väljs",
+   "ar": 1457,
+   "datum": "06-23",
+   "text": "I början av 1457 lämnade Karl Knutsson Stockholm för Preussen när ärkebiskop Jöns Bengtsson reste sig mot honom. Den 23 juni 1457 valdes Kristian I till svensk kung.",
+   "regenter": [
+    "karl-knutsson-bonde",
+    "kristian-i"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Karl Knutssons fall",
+     "text": "Karl Knutsson hade varit kung sedan 1448 och försökte stärka sin ställning med myntordning, tullstadga och en räfst 1453–54 som drog in kyrkogods. Olyckliga omständigheter undergrävde honom: missväxt 1455 och 1456, mordet på hans duktigaste krigshövitsman Tord Bonde i maj 1456, strandade förhandlingar med hansan och Öland i dansk hand. Ärkebiskop Jöns och tre av hans suffraganer hade i januari 1454 protesterat mot räfstens ingrepp i den andliga jurisdiktionen. Karls jordförvärv sågs med stigande ovilja av högfrälset, särskilt Oxenstiernor och Vasar."
+    },
+    {
+     "rubrik": "Landsflykten",
+     "text": "I början av 1457 gick ärkebiskopen till öppen strid mot Karl, som inför det hotande upproret avseglade från Stockholm till Preussen i slutet av februari. Där fick han som brukspant slottet och staden Putzig. Kristian valdes i Sverige den 23 juni 1457 till kung, hyllades vid Mora sten den 2 juli och kröntes i Uppsala den 3 juli. Den 30 maj 1458 fällde Sveriges riksråd dom över Karl: han hade förstört den kärliga sambindelsen mellan Nordens riken och dömdes förlustig sina egendomar."
+    },
+    {
+     "rubrik": "Kristians sju år",
+     "text": "Kristian tog hänsyn till grupperna som stött honom: Ture Turesson Bielke blev marsk och Erik Axelsson Tott hovmästare, och den 21 januari 1458 beslöt riksrådet att sonen Hans skulle erkännas som tronföljare. Men hans ekonomi blev allt mer ansträngd efter att han 1460 blivit landsherre i Slesvig och Holstein, och hans skattepolitik i Sverige blev hårdare. Våren 1463 utskrev han en skeppsskatt, och när upplandsbönderna reste sig lät han i augusti fängsla ärkebiskop Jöns. I januari 1464 gick Kettil Karlsson Vasa till motanfall, och Kristian besegrades vid Harakers kyrka den 17 april 1464 och lämnade Sverige vid midsommar."
+    },
+    {
+     "rubrik": "Karls återkomst",
+     "text": "Karl kom tillbaka omkring 1 augusti 1464, bruten av landsflykten men fortfarande betydelsefull. Han avsade sig tronen den 30 januari 1465 och kallades åter 1467, tills han dog 1470. Kristian I försökte återta Sverige och besegrades vid Brunkeberg 1471. Sju år i Sverige, 1457–1464, och Karl Knutssons tre kungadömen visar hur skör den svenska kungamakten var i unionstiden."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl Knutsson (Bonde) (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12366",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Kristian I (band 21, 1975–77)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11767",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "brunkeberg-1471",
@@ -120,6 +505,10 @@
     {
      "rubrik": "Följder och minne",
      "text": "Segern gav Sten en auktoritet som riksföreståndare han tidigare saknat, och befriade honom från stämpeln som Axelssönernas man. Den 2 juli 1472 slöts fred och förbund i Kalmar. På kyrkomötet i Arboga 1474 utsträcktes ett gammalt statut om att fördöma tillfångatagande av krönt kung till att gälla också en vald riksföreståndare. Slaget blev ett nationellt minne: Bernt Notkes Sankt Göransgrupp i Storkyrkan, invigd nyårsafton 1489, skulle erinra om det, och sockeln bär Stens och fru Ingeborgs vapen. Sturekrönikan, den främsta källan, framhåller hans personliga insats, men förbigår att många svenska herrar och uppländska bönder stod på Kristians sida. Kristian gav inte upp sina anspråk och sökte efter 1471 få Sverige tillbaka med diplomati, men det lyckades inte."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Sten Sture den äldre var riksföreståndare och ledde slaget. Kristian I var unionskung och sårades vid Brunkeberg. Nils Sture ledde dalkarlarna från nordost. Knut Posse ledde stockholmarna från söder. Jakob Ulvsson, ärkebiskop i Uppsala, ledde de fredssinnade rådsherrarna och fortsatte förhandla under protest. Bernt Notke skapade senare Sankt Göransgruppen i Storkyrkan."
     }
    ],
    "kallor": [
@@ -165,6 +554,10 @@
     {
      "rubrik": "Följderna",
      "text": "Gustav Eriksson Vasa hade fått inbjudan och amnesti men vägrat infinna sig, vilket räddade honom. Hans far och svåger och flera andra manliga anförvanter miste livet, och hans mor och tre systrar fängslades. Modern och två av systrarna dog snart i fångenskapen, och släktens egendom konfiskerades. Genom löftesbrotten och framfarten även mot män som arbetat för försoning raserade Kristian grunden för sin makt i Sverige, och han fick Gustav Eriksson som ett enormt propagandavapen. Redan vid årsskiftet 1520–21 hade smålänningarna rest sig, och 1523 var Kristian avsatt och Gustav Vasa kung."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Kristian II var kung och ledde rättegången. Gustav Trolle, ärkebiskop i Uppsala, riktade anklagelsen. Didrik Slagheck och Sigbrit, Kristians rådgivare, styrde enligt SBL skenrättegången. Kristina Gyllenstierna höll Stockholm efter maken Sten Sture den yngres död. Gustav Eriksson Vasa, som vägrade infinna sig, blev Sveriges kung tre år senare. Hemming Gadh, som varit rådgivare åt Sten Sture, avrättades i Finland."
     }
    ],
    "kallor": [
@@ -210,6 +603,10 @@
     {
      "rubrik": "De första åren",
      "text": "De första kungaåren blev en ständig kamp för att bevara ställningen. Gustav var helt beroende av Lübeck, vars penningkrav och tullfria handelsmonopol i Sverige han fick uppleva på det svensk-danska kungamötet i Malmö 1524, hans enda utlandsbesök som kung. Fred med Danmark gav den så kallade Malmö recess, men Gotlandsexpeditionen mot Kristians man Sören Norby hade lybeckarna spelat honom ur händerna. För att vinna självständighet måste han frigöra sig från Lübeck, och det krävde att hans egna resurser ökade, vilket förde in honom på vägen mot kyrkans egendom. Han kröntes i Uppsala domkyrka den 21 januari 1528."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Gustav Vasa valdes till kung vid riksdagen i Strängnäs. Kristian II hade lämnat Norden den 13 april 1523. Fredrik, Kristians farbror, hade valts till dansk kung. Lübecks två ledande rådsherrar var enligt flera forskare de egentliga kungamakarna. Laurentius Andreae blev 1524 Gustavs närmaste förtrogne och kansler."
     }
    ],
    "kallor": [
@@ -247,6 +644,10 @@
     {
      "rubrik": "Reformation utan ny lära",
      "text": "SBL betonar att mötet i Västerås blev mer än en reduktionsriksdag, men ingen ny lära antogs, och inget sades i ordinantian om förhållandet till Rom. Den kyrkliga organisationen bibehölls med munkväsende och celibat, eftersom Gustav inte fick riksdagens stöd för sådana reformer. Adel och allmoge ville tvärtom att recessen skulle kompletteras med orden att man skulle förbli vid goda gamla kristliga sedvänjor. Men Gustav strök, mot riksdagsmajoritetens vilja, det tillägget, och påbudet att Guds ord skulle predikas rent kom därmed att skapa förutsättningen för reformatorernas fortsatta arbete. Riksdagen blev i praktiken en reformationsriksdag. Besluten stärkte också Gustavs maktposition ekonomiskt: de förra kyrkliga slotten och gårdarna bortlänades till adeln eller utarrenderades, och kronan fick genom skatteöverenskommelser och indragen tionde stora inkomster."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Gustav Vasa lade fram propositionen och hotade med tronavsägelse. Laurentius Andreae utformade tillsammans med kungen propositionen. Olaus Petri var reformator och stadsskrivare i Stockholm. Lübecks sändebud framfördes av kungen som påtryckning mot ständerna. Biskoparna förlorade sina slott och sin självskrivna plats i riksrådet."
     }
    ],
    "kallor": [
@@ -284,6 +685,10 @@
     {
      "rubrik": "Slutet",
      "text": "Gustav Vasa såg stilleståndet som en tidsfrist. Rustningar sattes i gång, och ett vinterfälttåg beslutades i Örebro i slutet av januari 1543, delvis eftersom rapporterna om tyska planer oroade honom. Efter motgångar på slättlandet i februari försökte Dacke i stället erövra Kalmar, kanske för att skapa en landstigningsplats åt utländska hjälpare. Slaget stod i mars, troligen vid sjön Hjorten i Virserums socken, och bondehären led ett fullständigt nederlag. Dacke sårades i båda låren och gömdes av trogna. I maj dök han upp igen, men allmogen följde honom inte längre. Han överraskades i slutet av juli 1543 på Rödeby skog nära Flaka och sköts ihjäl vid flyktförsöket, och liket fördes till Kalmar. En sägen att den dödade inte var den verklige Dacke bedömer SBL som helt osannolik.\n\nSBL betonar också att Dackeupproret inte i första hand var ett uppror mot adeln. De rödklädda som man ville slå ihjäl var fogdarna och deras tjänare, och uppfattningen om en social motsättning mellan adel och bönder härrör enligt SBL från Gustav Vasa själv, som ville sätta fart på adelns rusttjänst."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Nils Dacke var upprorsledare, gränsbo från Småland och Blekinge. Gustav Vasa var kung och ledde fälttåget 1543. Jon Andersson var Dackes stallbroder, som tillsammans med honom dräpte Inge Arvidsson 1536. Jakob Bagge ledde 700 man från Kalmar och förföljde Dacke i juli 1543. Germund Svensson ledde med kraft försvaret av Kalmar mot bondehären."
     }
    ],
    "kallor": [
@@ -323,6 +728,10 @@
     {
      "rubrik": "Betydelsen",
      "text": "SBL sammanfattar Gustav Vasas väg som en väg mot en självständig arvmonarki, över unionen och Lübeck, över kyrkan och bygdemenigheterna. Efter 1544 fortsatte han arbetet med en fast rikshushållning, med nya drag i statsförvaltningen: staten ökade sina inkomster i varor och organiserade kronohandeln i fasta former, och länen koncentrerades till den grupp av högfrälset som genom drottning Margareta var knuten till kungen. Själv var Gustav landets störste godsägare. Arvföreningen blev grunden för Vasaätten, även om successionen senare ändrades när Sigismund avsattes 1599 och Norrköpings arvförening 1604 flyttade tronföljden till Karl IX:s linje."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Gustav Vasa var kung och fick riksdagen att stadfästa arvriket. Pyhy var den som lett förvaltningen 1538–42 och som måste gå i livslångt fängelse. Riksrådet och biskoparna kom tillbaka som maktfaktorer. Drottning Margareta knöt enligt SBL högfrälset till kungen."
     }
    ],
    "kallor": [
@@ -333,6 +742,50 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "uppsala-mote-1593",
+   "namn": "Uppsala möte",
+   "ar": 1593,
+   "datum": "03-20",
+   "text": "Uppsala möte den 20 mars 1593 förkastade Johan III:s liturgi och gjorde den augsburgska bekännelsen till grund för Svenska kyrkan. Mötet skedde före kung Sigismunds ankomst.",
+   "regenter": [
+    "sigismund",
+    "karl-ix"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund: en katolsk arvinge",
+     "text": "Sigismund var polsk kung och katolik, uppfostrad av sin katolska mor och jesuiterna. När fadern Johan III dog i november 1592 övertog hans farbror hertig Karl omedelbart riksstyrelsen. I början av januari 1593 kom en uppgörelse med riksrådet till stånd om samfälld regering med hertigen som den förnämste. Sigismund godkände det på förhand genom ett öppet brev den 9 januari, där han försäkrade undersåtarna om fri religion."
+    },
+    {
+     "rubrik": "Mötet",
+     "text": "Uppsala möte den 20 mars 1593 förkastade Johan III:s liturgi och gjorde den augsburgska bekännelsen till en av Svenska kyrkans bekännelseskrifter, och Abraham Angermannus valdes till ärkebiskop. Hertig Karl hade skapat en enig front mot Sigismund innan han hunnit infinna sig. Sigismund vägrade stadfästa beslutet: SBL anger att hans vägran var konstitutionellt betingad, eftersom en arvkonung inte kunde underkastas inskränkande villkor för att få kronan."
+    },
+    {
+     "rubrik": "Kröningen och försäkran",
+     "text": "Sigismund reste i augusti 1593 med en talrik delegation, bland annat nuntien Malaspina, och landade i Stockholm. Rådet krävde en försäkran före kröningen. På kröningsriksdagen i Uppsala som samlades den 1 februari 1594 gav han vika den 16 februari och undertecknade den 19 februari en försäkran där han bland annat lovade iaktta Uppsala mötes beslut och inte bruka några av annan religion i rikets ämbeten. Samma dag kröntes han. Dagen före avgav han på Malaspinas begäran en hemlig protest."
+    },
+    {
+     "rubrik": "Följder",
+     "text": "Mötet gav Svenska kyrkan en luthersk grund och blev i praktiken startpunkten för striden mellan Sigismund och hertig Karl. Efter riksdagen i Söderköping 1595 erkändes Karl som riksföreståndare, och konflikten slutade i slaget vid Stångebro 1598. Den svenska grundlagens krav att kungen ska vara av den rena evangeliska läran går i dag fortfarande tillbaka på Uppsala möte 1593: i successionsordningen hänvisar man till den oförändrade augsburgska bekännelsen och Uppsala mötes beslut."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sigismund (band 32, 2003–06)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5908",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Statschefens konstitutionella ställning",
+     "utgivare": "De Lege, Uppsala universitet",
+     "url": "https://journals.uu.se/DeLege/article/download/616/543/1490",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "stangebro-1598",
@@ -361,6 +814,10 @@
     {
      "rubrik": "Följderna",
      "text": "Den 11 oktober steg Sigismund i stället ombord på sitt skepp för att återvända till Polen med prinsessan Anna och rev därmed upp villkoren i Linköpingsfördraget. SBL kallar beslutet svårt att tolka rationellt, och han förlorade det mesta av sitt stöd. Kalmar slott föll efter ett halvt års belägring i maj 1599, och vid riksdagen i Stockholm i juli 1599 fullbordades hans avsättning. Ständerna förklarade sig lösta från trohetseden, eftersom han brutit sin ed och försäkran. Vid den blodiga riksdagen i Linköping 1600 halshöggs flera av de fångna rådsherrarna. Striden mellan Vasahusets två grenar blev ett nästan 30-årigt krigstillstånd mellan Sverige och Polen-Litauen."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Sigismund var kung av Sverige och Polen och landade i Kalmar den 31 juli 1598. Hertig Karl samlade sina styrkor vid Linköping. Erik Sparre, Gustaf och Sten Banér, Ture Bielke och Jöran Posse var riksråden som utlämnades till hertigen, och flera av de fångna rådsherrarna halshöggs vid riksdagen i Linköping 1600. Abraham Angermannus blev ärkebiskop vid Uppsala möte 1593."
     }
    ],
    "kallor": [
@@ -398,6 +855,10 @@
     {
      "rubrik": "Följderna",
      "text": "Gustav Adolfs död fick enligt SBL återverkningar över hela Europa, vars politiska system han varit på väg att omgestalta. Frågan var om hans efterföljare skulle kunna bevara den stormaktsställning han fört Sverige till, och problemet gällde också regeringsmakten och kungadömets framtid. Lösningen blev det förslag till regeringsform som Axel Oxenstierna lade fram kort efter kungens död: regeringsmakten lades under förmyndartiden i händerna på de fem höga riksämbetsmännen. Kungens dotter Kristina blev drottning som sexåring, och Sverige fortsatte kriget under Oxenstiernas ledning."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Gustav II Adolf stupade i slaget. Albrecht von Wallenstein ledde den kejserliga armén. Gottfried Pappenheim kom med kavalleriet och blev dödligt sårad. Bernhard av Sachsen-Weimar tog befälet över den svenska armén när kungen stupat. Axel Oxenstierna lade kort efter kungens död fram förslaget till regeringsform."
     }
    ],
    "kallor": [
@@ -447,6 +908,10 @@
     {
      "rubrik": "Följderna",
      "text": "Freden var höjdpunkten av svensk stormaktstid. Freden gav Sverige en stark ställning vid Östersjön och i det tyska riket. Kristina använde freden för att vända sig mot riksrådet: på riksdagarna 1649 och 1650 genomdrev hon att hennes kusin Karl Gustav utsågs till tronföljare och arvfurste. SBL beskriver att den tidigare vasatidens starka kungamakt därmed återupprättades och arvriket säkerställdes."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Kristina var drottning och påskyndade freden för att stärka kungamakten. Axel Oxenstierna var rikskansler, och SBL beskriver Kristinas strid med honom om kungamakten. Mazarin var Frankrikes ledande minister och byggde enligt Encyclopedia.com upp Brandenburg som motvikt till Sverige. Kejsaren och de tyska furstarna förhandlade i Osnabrück."
     }
    ],
    "kallor": [
@@ -491,6 +956,10 @@
     {
      "rubrik": "Kristinas vidare väg",
      "text": "Direkt efter abdikationen reste hon till de spanska Nederländerna och övergick julafton 1654 i Bryssel till katolicismen. Hon höll sitt intåg i Rom den 23 december 1655, där påven Alexander VII mottog henne i högsta hänryckning. Hon bodde i Rom i nära 30 år, bland annat i Palazzo Riario, och blev en ledande kraft i stadens kulturliv. Hon dog 1689 och fick på påvens befallning sin grav i S:t Peterskyrkan. Karl X Gustav stod under tiden inför de två stora frågorna för sin regering: reduktionen 1655 av adelns och kronans gods och krigen mot Polen och Danmark."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Kristina avsade sig kronan den 6 juni 1654 och övergick julafton 1654 till katolicismen. Karl X Gustav, hennes kusin, utropades till regent. Axel Oxenstierna avrådde henne 1651. Antonio Macedo var jesuitpatern som hon sände till Rom 1651. Alexander VII var påven som mottog henne i Rom 1655."
     }
    ],
    "kallor": [
@@ -534,6 +1003,10 @@
     {
      "rubrik": "Andra kriget",
      "text": "Freden blev inte långvarig. Karl planerade ett angrepp i Tyskland mot Brandenburg eller Österrike, men Sverige riskerade att bli isolerat, och ett nytt krig mot Danmark kunde synas som den bästa lösningen. I augusti 1658 öppnade han det genom att segla över från Kiel till Själland. Det andra kriget blev fyllt av motgångar: nederländska flottan undsatte Köpenhamn, Sverige förlorade Trondheims län, Bornholm och Fyn, och stormningen av Köpenhamn i december 1659 misslyckades. Karl X Gustav dog i Göteborg i februari 1660. SBL konstaterar att han genom krigen mot Danmark tillförde kronan stora och bestående vinster."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Karl X Gustav ledde tåget över Bält och slöt freden. Fredrik III var dansk kung och brutit freden i juni 1657. Erik Dahlbergh nämns i den långa debatten om vem som planerade tåget över isen. Cromwell var den engelske ledaren som Karl förgäves bad om flottans hjälp. Franska och engelska medlare spelade en viktig roll i förhandlingarna."
     }
    ],
    "kallor": [
@@ -544,6 +1017,92 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "slaget-vid-lund-1676",
+   "namn": "Slaget vid Lund",
+   "ar": 1676,
+   "datum": null,
+   "text": "Den 4 december 1676 vann Karl XI slaget vid Lund i skånska kriget. Seger blev vändpunkten i kriget och i kungens eget liv.",
+   "regenter": [
+    "karl-xi"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund: kriget",
+     "text": "Karl XI hade blivit kung vid fyra års ålder och övertog själv regeringen 1672. Strax före hans trontillträde hade förmyndarregeringen ingått ett förbund med Frankrike, och det i sig obetydliga nederlaget vid Fehrbellin i juni 1675 framkallade krigsförklaringar från Holland, kejsaren och Danmark. När den norske överbefälhavaren Gyldenløve ryckte in i Bohuslän i oktober 1675 drog Karl emot honom. I maj 1676 mönstrade han i Malmö sina dåligt beväpnade soldater, och från kyrktornet i Trelleborg följde han den 26 maj den för Sverige olyckliga sjöstriden."
+    },
+    {
+     "rubrik": "Katastroferna",
+     "text": "Därefter följde katastroferna slag i slag: den danska landstigningen vid Råå, de skånska fästningarnas kapitulation och bondeuppbåden mot svenska ryttare i göingeskogarna. Karl var djupt deprimerad under den panikartade reträtten. Genom Erik Lindschölds förmedling kallades riksrådet Johan Gyllenstierna till armén, och han blev Karls mäktige rådgivare. Den 17 augusti 1676 slog Karl en dansk styrka som sänts att belägra Halmstad, vilket var militärt betydelselöst men gav soldaterna nytt mod. I slutet av oktober öppnade han vinterfälttåget i Skåne."
+    },
+    {
+     "rubrik": "Slaget",
+     "text": "Den 4 december 1676 stod slaget vid Lund. Karl förde befälet över högra flygeln, förföljde den besegrade motståndaren för långt men kom i sista stund tillbaka och undsatte sin hårt trängda center och vänstra flygel. Han var enligt SBL den dominerande gestalten i slaget, vändpunkten i kriget och i hans eget liv. Han blev inte någon stor taktiker, och riskerade ibland sin armé, men han förde kriget till ett lyckligt slut."
+    },
+    {
+     "rubrik": "Följder",
+     "text": "Genom Ludvig XIV:s ingripande slöts freden i Lund 1679 med oförändrade gränser. I december 1679 bestämde Karl att en örlogsstation skulle byggas på Trossö, och den nya fästningsstaden skulle heta Karlskrona. Förbittrad på danskarna accepterade han ändå förbundet med Danmark, som beseglades genom hans giftermål den 6 maj 1680 med den danska prinsessan Ulrika Eleonora. Efter kriget kom 1680 års omvälvning."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XI (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12356",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "enaldet-1680",
+   "namn": "1680 års omvälvning",
+   "ar": 1680,
+   "datum": null,
+   "text": "Vid riksdagen 1680 genomdrevs reduktionen av de adliga godsen, indelningsverket och ständerförklaringen som gjorde kungen enväldig.",
+   "regenter": [
+    "karl-xi"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Vad som beslutades",
+     "text": "Vid 1680 års riksdag skedde enligt SBL den stora omvälvningen. Då genomdrevs reduktionen av de adliga godsen, då genomfördes indelningsverket och upprustningen av flottan, och då utfärdades ständerförklaringen som bröt rådets makt och gjorde kungen enväldig. De nyförvärvade gårdarna bildade grunden till det nya indelningsverket, som Karl ägnade sina främsta krafter. Han byggde ständigt upp den karolinska armén: han drog upp linjerna för mobiliseringsverket, prövade nya organisationsformer och vapen och skrev instruktioner och reglementen."
+    },
+    {
+     "rubrik": "Plan eller omständigheter?",
+     "text": "Det har debatterats om detta skedde efter en uppgjord plan eller genom omständigheternas makt. Enligt Rosén fanns ett verkligt aktionsprogram som Gyllenstierna och Karl utarbetat redan i det skånska högkvarteret, men det delas inte av alla forskare. SBL konstaterar att Karl uppenbarligen var den drivande kraften tack vare sin av alla erkända moraliska auktoritet. Övergången till enväldet var inte så våldsam som man föreställt sig, eftersom minnena av 1650-talets ståndsstrider var levande och han kunde räkna med gensvar hos de ofrälse stånden."
+    },
+    {
+     "rubrik": "Ett enväldigt men lagbundet styre",
+     "text": "Karl var enligt SBL ingen despot: han stod under lagen, ämbetsmännen erinrades om skyldigheten att vägra olagliga order, alla beslut var lagligt grundade och riksdagen konfirmerade dem. Besluten blev avgörande: bönderna räddade sin frihet, statsfinanserna och försvaret fick fast grund, och en stark ämbetsmannakår växte fram som en gång själv skulle göra slut på enväldet. Statsnyttan var hans enda ledstjärna, och i frågor som förmyndarräfsten och reduktionen var han hård och hänsynslös."
+    },
+    {
+     "rubrik": "Reduktionens förhistoria",
+     "text": "Reduktionen hade en lång förhistoria. Redan vid riksdagen 1655 hade Karl X Gustav fått ett reduktionsbeslut med fyra huvuddrag, men reduktionen avstannade från hösten 1656 eftersom kungen inte själv kunde leda genomförandet och kriget krävde inrikespolitiska hänsyn. Under Kristinas tid hade kronans gods sålts och donerats till adeln, och SBL anser att ansvaret i högre grad faller på Axel Oxenstierna. Karl XI genomförde alltså slutligen vad hans far inlett. Enligt SBL gick det karolinska enväldet i graven med Karl XII 1718."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XI (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12356",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Karl X Gustav (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12355",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Kristina (band 21, 1975–77)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11773",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "narva-1700",
@@ -571,6 +1130,10 @@
     {
      "rubrik": "Följderna",
      "text": "Segern vid Narva blev inledningen till kungens långa fälttåg österut och söderut. Karl XII valde inte att jaga tsaren: på nyåret 1702 ryckte han från Kurland in i Polen, fast besluten att framtvinga August II:s avsättning. SBL beskriver hans skäl som fullgoda: August var rent militärt hans farligaste fiende, farligare än tsar Peter med sin ännu outvecklade krigsmakt, och så länge han satt kvar kunde ingen fred nås. SBL avvisar bilden av att Karl av ärelystnad gav sig ut i kriget: det var påtvingat Sverige, och hans operationer syftade enligt SBL inte till erövringar utan till ett militärt avgörande som kunde tvinga fram en acceptabel fred. Ryssland fick därmed tid att bygga ut sin krigsmakt, och nio år senare mötte han den vid Poltava."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Karl XII var kung och deltog själv i striden med sina drabanter. Carl Gustaf Rehnskiöld gjorde bataljplanen i samråd med kungen. Tsar Peter inledde belägringen av Narva på hösten 1700. Hans Wachtmeister var amiralgeneral i Karlskrona och ville undvika sjöstrid i Sundet. Stuart ledde landstigningen på Själland och övergången av Düna."
     }
    ],
    "kallor": [
@@ -581,6 +1144,43 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "altranstadt-1706",
+   "namn": "Freden i Altranstädt",
+   "ar": 1706,
+   "datum": null,
+   "text": "Den 14 september 1706 tvingade Karl XII August II till fred i Altranstädt i Sachsen. August avsade sig Polens krona och lämnade förbundet med tsaren.",
+   "regenter": [
+    "karl-xii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Fälttåget i Polen",
+     "text": "På nyåret 1702 ryckte Karl från Kurland in i Polen, fast besluten att framtvinga August II:s avsättning. Hans rådgivare rekommenderade förhandlingar och att snarast avsluta kampen mot Ryssland, och äldre forskning har betraktat fälttåget som planlöst irrande. SBL menar däremot att han hade fullgoda skäl: August var rent militärt hans farligaste fiende, och så länge han satt kvar kunde ingen fred nås. Sedan August avsatts 1704 och en svenskvänlig regent utsetts slöts Warszawatraktaten den 28 november 1705."
+    },
+    {
+     "rubrik": "Angreppet på Sachsen",
+     "text": "Sommaren 1706 beslöt Karl att tvinga August till fred genom ett direkt angrepp på Sachsen. Den 22 augusti gick armén in i Schlesien, och den 11 september stod den i byn Altranstädt. Genom freden den 14 (24) september 1706 avsade sig August Polens krona, erkände Stanislaw och lämnade förbundet med tsaren. Den svenska armén om 20–22 000 man skulle få vinterkvarter och underhåll i Sachsen."
+    },
+    {
+     "rubrik": "Kontributionen",
+     "text": "Karl utfärdade en förordning om trupperna: allt skulle betalas, ingen fick tilltvinga sig något av befolkningen. Han fördubblade i stort sett den kontribution som Stenbock föreslagit, till 500 000 thaler i månaden, och fastslog att alla samhällsklasser skulle betala. Att ockupationen kostade Sachsen mycket är säkert, men Augusts uppgift om 23 miljoner thaler är enligt SBL överdriven, och en tysk forskare har stannat vid högst 14–15 miljoner."
+    },
+    {
+     "rubrik": "Protestanterna i Schlesien",
+     "text": "Sommaren 1707 hotade Karl kejsaren med att låta sina trupper rycka in i Schlesien om protestanterna där inte fick tillbaka sina rättigheter. Altranstädtfördraget den 22 augusti (1 september) 1707 förpliktade kejsaren att återlämna kyrkor, skolor och sjukhus. Karl lämnade därefter Sachsen och gick österut mot Ryssland, och fälttåget slutade med Poltava 1709."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XII (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12357",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "poltava-1709",
@@ -608,6 +1208,10 @@
     {
      "rubrik": "Perevolotjna och Bender",
      "text": "I byn Perevolotjna samlades omkring 16 000 man, varav en tredjedel sjuka och sårade. Karl övertalades att med en stark eskort gå över Dnjepr och förbereda härens mottagande, medan Lewenhaupt fick befälet, men en rysk styrka under Mensjikov besatte höjderna, och Lewenhaupt underskrev den 1 juli en kapitulation. Karl kom som flykting, inte som ledare av en operationsduglig armé, till Bender i det osmanska riket. Redan på vägen befallde han rådsregeringen i Stockholm att nyuppsätta de förlorade regementena, och Sverige hade snart en slagfärdig armé på benen igen, men han stannade i Turkiet till 1714."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Karl XII skadades i foten den 17 juni och kunde inte leda striden. Rehnskiöld ledde slaget och blev enligt SBL förvirrad. Adam Ludvig Lewenhaupt underskrev kapitulationen i Perevolotjna den 1 juli. Ivan Mazepa var kosackhövdingen som Karl räknade med men som ryssarna förekom. Mensjikov besatte höjderna vid Dnjepr. Tsar Peter vann slaget."
     }
    ],
    "kallor": [
@@ -618,6 +1222,43 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "kalabaliken-i-bender-1713",
+   "namn": "Kalabaliken i Bender",
+   "ar": 1713,
+   "datum": null,
+   "text": "I februari 1713 gjorde turkiska trupper slut på Karl XII:s vistelse i Bender med våld. Han fördes som fånge till Demotika, och först 1714 kunde han resa hem.",
+   "regenter": [
+    "karl-xii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Fem år i Turkiet",
+     "text": "Efter Poltava kom Karl som flykting till Bender, och hans intresse för hemfärden svalnade snart: han beslöt stanna i Turkiet och utnyttja motsättningen mellan Ryssland och Turkiet. Hans vistelse 1709–14 tedde sig för samtiden som ett mysterium, eftersom få var invigda i planerna och postgången var dålig. Den turkiska krigsförklaringen den 20 november 1710 följdes av Prutfälttåget, där tsaren blev kringränd den 10/20 juli 1711, men freden i Prut den 12/22 juli grusade hoppet. Turkarna betraktade kriget som sin egen angelägenhet och tänkte inte engagera sig i Karls storpolitiska spel."
+    },
+    {
+     "rubrik": "Kalabaliken",
+     "text": "SBL skriver att det i längden brukar vara utsiktslöst att segra genom andras åtgöranden och inte genom egen styrka. De ledande kretsarna tröttnade på honom, och kalabaliken i Bender i februari 1713 gjorde slut på spelet. Efter en period av febril aktivitet följde kroppslig utmattning och djup depression. Karl vistades som fånge i Demotika och slottet Timurtasch och låg länge till sängs."
+    },
+    {
+     "rubrik": "Depressionen",
+     "text": "Sommaren 1713 fick han frossa, förmodligen malaria, men huvudorsaken till hans sjukdom torde enligt SBL ligga på det psykologiska planet: nervsystemet sviktade under trycket av olyckorna sedan hösten 1708. På flykten till Turkiet hade han fått beskedet att hans älsklingssyster Hedvig Sofia hade dött och brast ut i häftig gråt. Stenbocks kapitulation vid Tönningen i maj 1713 torde ha fört honom till botten av depressionen."
+    },
+    {
+     "rubrik": "Hemresan",
+     "text": "I Sverige växte missnöjet med kungens frånvaro, och den 2 november 1713 tog prinsessan Ulrika Eleonora på rådets anhållan säte i regeringen. I slutet av 1713 tycks Karl ha återvunnit hälsan, och den 20 september (1 oktober) 1714 lämnade han Demotika. Efter att ha lämnat sällskapet den 27 oktober gjorde han under antaget namn en snabbritt genom kejsarens länder och Tyskland till Stralsund, dit han kom natten den 11 (21) november. SBL beskriver honom som påtagligt åldrad och mer dämpad men med obruten motståndskraft."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XII (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12357",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "fredriksten-1718",
@@ -646,6 +1287,10 @@
     {
      "rubrik": "Följderna",
      "text": "SBL skriver att ingen svensk kungs död har fått så vittgående följder: det karolinska enväldet och stormaktsställningen gick med honom i graven. Ständerna antog en regeringsform som ogiltigförklarade envälde och gav riksdag och råd större inflytande, och 1719 valdes Ulrika Eleonora till drottning. Fredrik I och Arvid Horn eftersträvade fred, som kom i Nystad 1721 med stora territoriella förluster. Karl XII gravsattes den 26 februari 1719 i Riddarholmskyrkan. En silverknapp som i debatten 1940 föreställdes vara den projektil som fällt kungen fick Nils Ahnlund att med detaljerad kritik visa att beviset saknades."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Karl XII träffades av kulan. Fredrik I, arvprinsen, lät häkta Görtz och handlade rådigt. Ulrika Eleonora utropade sig till drottning. Georg Heinrich von Görtz var den holsteinske ministern som stod i gunst hos kungen. André Sicre skickades i sporrsträck till Stockholm och pekas ut i mordteorierna. Armfelt ledde kåren mot Trondheim som gick under i de jämtländska fjällen."
     }
    ],
    "kallor": [
@@ -668,6 +1313,56 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "frihetstidens-regeringsform-1720",
+   "namn": "Frihetstidens regeringsform",
+   "ar": 1720,
+   "datum": null,
+   "text": "Efter Karl XII:s död 1718 avskaffades envälde, och 1720 års regeringsform lade makten hos riksdag och råd. Fredrik I blev kung och Ulrika Eleonora lämnade tronen.",
+   "regenter": [
+    "ulrika-eleonora",
+    "fredrik-i"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Kampen om makten efter 1718",
+     "text": "När Karl XII stupade stod dragkampen mellan arvprinsparet, Fredrik och Ulrika Eleonora, som ville bevara så mycket av kungamakten som möjligt, och den civila ämbetsmannavärlden och militären, som ville ha en fri författning. Mot löftet att avstå från suveräniteten fick prinsessan nästan omedelbart rådet att erkänna henne som drottning. Vid armén krävde det ledande krigsbefälet att enväldet skulle avskaffas och ständerna sammankallas. Ständerna antog en regeringsform som ogiltigförklarade envälde och gav riksdag och råd större inflytande."
+    },
+    {
+     "rubrik": "Ulrika Eleonora väljs",
+     "text": "Ulrika Eleonora valdes av ständerna 1719 och kröntes i Uppsala den 17 mars 1719, där hon enligt traditionen utropades till \"Sveriges, Götes och Vendes konung\". Under hennes korta regeringstid avslutades det stora nordiska kriget. Hennes önskan att dela makten med sin make godkändes aldrig av riksdagen. Redan på 1719 års riksdag sträckte Fredrik ut handen efter kronan, men försöket tillbakavisades med skärpa."
+    },
+    {
+     "rubrik": "Avsägelsen",
+     "text": "Efter hovets bearbetning slog stämningen om året därpå: enligt Svenskt kvinnobiografiskt lexikon avsade hon sig kronan den 29 februari 1720, och Fredrik valdes den 24 mars 1720 till Sveriges konung och kröntes den 3 maj. Vid Fredriks kröning insisterade hon på att bära riksregalierna, för att tydliggöra att kronan skulle gå tillbaka till henne om kungen dog. Värdigheten måste enligt SBL köpas med de betydande inskränkningar som kodifierades i 1720 års regeringsform."
+    },
+    {
+     "rubrik": "Ett nytt styrelsesätt",
+     "text": "Fredrik och kanslipresident Arvid Horn eftersträvade freden och orienterade sig mot England-Hannover och västmakterna. Fred slöts med Hannover 1719 och med Preussen och Danmark 1720, och i Nystad 1721 med stora territoriella förluster. Efter fredssluten ville Fredrik bryta de fjättrar som regeringsformen lagt på honom, men på 1723 års riksdag gjorde han ett försök som ständerna tillbakavisade. En sekret kommission inrättades, och de hemliga ministerbreven från utlandet skulle ställas till kanslipresidenten. Frihetstiden varade till Gustav III:s statskupp 1772."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Fredrik I (band 16, 1964–66)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14443",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Ulrika Eleonora d.y., drottning (Sari Nauman)",
+     "utgivare": "Svenskt kvinnobiografiskt lexikon",
+     "url": "https://www.skbl.se/sv/artikel/UlrikaEleonoradydrottning",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Gustav III (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13317",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "statskuppen-1772",
@@ -695,6 +1390,10 @@
     {
      "rubrik": "Den nya regeringsformen",
      "text": "Kungamakten ökade starkt: kungen utnämnde ensam sitt råd, som riksdagen inte kunde utkräva ansvar av, var herre över utrikespolitiken men fick inte börja anfallskrig eller pålägga nya skatter utan ständernas samtycke. Ständerna behöll beskattningsrätten och del i lagstiftningen, men saknade kontroll över statsfinanserna och fick inte sammankomma på bestämda tider. Någon ministeransvarighet fanns inte, så styrelsesättet kunde inte kallas konstitutionellt. Gustav satte genast igång åtgärder för att stärka försvaret och avhjälpa hungersnöden och utarbetade redan den 8 september 1772 en arbetsordning med konseljer fem dagar i veckan. Hans maktställning utvidgades ytterligare 1789 genom Förenings- och säkerhetsakten."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Gustav III ledde kuppen och höll talet den 21 augusti. Johan Sprengtporten skulle starta resningen i Finland. Överjägmästare Toll skulle starta upproret i Skåne. Vergennes var Frankrikes minister som gav honom pengar. Carl Fredrik Scheffer var hans guvernör och rådgivare, och bröderna Scheffer stimulerade honom."
     }
    ],
    "kallor": [
@@ -705,6 +1404,80 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "foreningsakten-1789",
+   "namn": "Förenings- och säkerhetsakten",
+   "ar": 1789,
+   "datum": "02-21",
+   "text": "Den 21 februari 1789 lade Gustav III fram Förenings- och säkerhetsakten för riksdagen. Akten gjorde honom nära enväldig och förbättrade böndernas ställning.",
+   "regenter": [
+    "gustav-iii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund: kriget",
+     "text": "Efter motgångarna i kriget mot Ryssland 1788 hade Anjalaförbundet av 112 officerare, som SBL kallar myteri, skickat kungen en föreningsakt om krigets olaglighet. Gustav III bevarade huvudet kallt, och när Danmark gick in i kriget kunde han återvända som Sveriges försvarare, bland annat genom en resa till Mora. I december 1788 kallade han ständerna, som samlades den 2 februari 1789. Inom de ofrälse stånden rådde en nästan kompakt adelsfientlighet."
+    },
+    {
+     "rubrik": "Kuppen mot adeln",
+     "text": "Gustav beslöt att splittra oppositionen genom att tillmötesgå de ofrälses viktigaste önskemål. Han avskaffade pastoratshandeln, frigav åter husbehovsbränningen mot arrendeavgifter och uppgav tobaksmonopolet. Den 17 februari lät han adeln åhöra ett strafftal och befalla den att avlägsna sig, och tre dagar senare lät han häkta nitton av oppositionens mest inflytelserika medlemmar. Förenings- och säkerhetsakten föredrogs den 21 februari, antogs av de ofrälse stånden men förkastades av adeln, och kungen genomdrev sin vilja i ståndet genom en ny kupp av revolutionär karaktär. Den 28 april avblåstes riksdagen."
+    },
+    {
+     "rubrik": "Aktens innehåll",
+     "text": "Akten gav kungen rätt att börja krig, tog ständernas initiativ i lagfrågor, lade statsförvaltningen helt i hans hand, gav honom rätt att bestämma antalet rådsmedlemmar, vilket gjorde att rådet försvann, och full förfoganderätt över ämbetena. Han blev dock inte helt enväldig: ständerna behöll del av lagstiftningsrätten och fick vidgade statsfinansiella befogenheter. SBL konstaterar att han nått sitt mål med förkastliga medel, inte bara olagligheter utan också påtryckning och undandöljande av sanningen."
+    },
+    {
+     "rubrik": "Adeln och bönderna",
+     "text": "Adelns privilegier inskränktes kraftigt: endast de högsta ämbetena förbehölls ståndet, rådet ersattes av konseljer och dess dömande makt övertogs av Konungens högsta domstol med hälften ofrälse ledamöter. Epokgörande var förbättringen i böndernas ställning: alla stånd fick lika rätt att köpa frälsejord, utom ypperligt frälse, och allmogens rätt att köpa kronojord och få den förvandlad till skatte erkändes. SBL, med hänvisning till Sten Carlsson, kallar 1789 ett mycket viktigt årtal i svensk socialhistoria. Missnöjet i adelskretsarna bidrog till sammansvärjningen som kulminerade i attentatet 1792."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav III (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13317",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "svensksund-1790",
+   "namn": "Slaget vid Svensksund",
+   "ar": 1790,
+   "datum": "07-09",
+   "text": "Den 9 juli 1790 vann Gustav III en lysande seger över den ryska skärgårdsflottan vid Svensksund, och fred slöts i Värälä den 14 augusti.",
+   "regenter": [
+    "gustav-iii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Kriget 1788–1790",
+     "text": "Kriget mot Ryssland hade börjat med motgångar. Sjöslaget vid Hogland den 17 juli 1788 slutade oavgjort, förråd och krigskassa saknades, och Anjalaförbundet hotade. Kriget fortsatte 1789 och 1790, då Gustav sammanlagt ett år vistades i Finland."
+    },
+    {
+     "rubrik": "Viborgska viken",
+     "text": "I maj 1790 tog han själv överbefälet över skärgårdsflottan och begick det strategiska misstaget att låta både örlogs- och skärgårdsflottan löpa in i Viborgska viken, där ryska flottan lade sig utanför. Den 3 juli lyckades den svenska flottan bryta sig ut med stora förluster, och Gustav följde i en öppen slup med kungsflaggan mitt i kulregnet."
+    },
+    {
+     "rubrik": "Svensksund",
+     "text": "Skärgårdsflottan samlades i Svensksund, och trots att befälet tillrådde reträtt beslöt Gustav att ta upp striden. Den 9 juli vann han den lysande segern vid Svensksund."
+    },
+    {
+     "rubrik": "Freden i Värälä",
+     "text": "Fred slöts i Värälä den 14 augusti 1790 utan gränsförändring men med den påtagliga vinsten att Ryssland inte längre kunde ta sig rätt att kontrollera det svenska styrelsesättet. Gustav III hade gått in i kriget för att återhävda Sverige som en makt att räkna med och bryta de ryska hemliga förbindelserna med den svenska oppositionen. Freden gav honom en ställning som han utnyttjade till planer på ett fursteförbund mot revolutionära Frankrike, och i oktober 1791 slöt han ett vänskaps- och försvarsförbund med Ryssland. Planerna avbröts av attentatet i mars 1792."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav III (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13317",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "attentatet-1792",
@@ -732,6 +1505,10 @@
     {
      "rubrik": "Följderna",
      "text": "Faderns död för mördarhand, när Gustav IV Adolf var tretton år gammal, fick enligt SBL en avgörande inverkan på hans personliga och politiska utveckling: dådet var i hans ögon ett utslag av den gudlöshet som följt i upplysningens, den franska revolutionens och jakobinismens spår. Hertig Karl (sedermera Karl XIII) övertog regeringen som den unge kungens förmyndare och handlade enligt SBL med ovanlig snabbhet: på dödsbädden hade Gustav III sökt utestänga brodern från regeringen genom en kodicill, men Karl fick den ogiltigförklarad. Gustav III:s planer mot revolutionära Frankrike övergavs, domarna över dem som varit inblandade i mordkomplotten var uppseendeväckande milda, och Reuterholm fick den verkliga makten."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Gustav III sköts på Operan. Jacob Johan Anckarström avlossade skottet och röjdes av pistolerna han tappade. Pechlin var generalen i vars hem sammansvärjningen planerades. Claes Horn och Adolf Ribbing deltog i sammansvärjningen. Lilliehorn skrev den anonyma varningen. Polismästare Liljensparre lät gripa ett stort antal."
     }
    ],
    "kallor": [
@@ -786,6 +1563,10 @@
     {
      "rubrik": "Eftermäle",
      "text": "Gustav IV Adolfs avsättning var ett verk av handlingskraftiga ämbetsmanna- och officerskretsar som framför allt ogillade hans utrikespolitik. Hans historia dikterades länge av hans segrande vedersakare, som skildrade honom som en vettvilling eller löjlig, sinnessvag Don Quijote. Först Sam Clason 1909–1913 gjorde en verklig revision och påvisade propagandainslagen i den gängse bilden. Gustav IV Adolf levde därefter i landsflykt, bland annat under namnet överste Gustafsson, och dog 1837 i S:t Gallen."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Gustav IV Adolf var kung i 17 år. Georg Adlersparre ledde värmländska fördelningen mot Stockholm. Carl Johan Adlercreutz avvärjde inbördeskriget och ledde arresteringen den 13 mars. Hertig Karl, kungens farbror, övertog regeringen och blev Karl XIII. Von Greiff grep honom på borggården."
     }
    ],
    "kallor": [
@@ -830,6 +1611,10 @@
     {
      "rubrik": "Följderna",
      "text": "Hans politik, i svensk historieskrivning kallad 1812 års politik, innebar att Sverige i stället sökte Norge som ersättning för Finland. Efter förbund med Ryssland och Storbritannien 1812 deltog Sverige i kriget mot Napoleon 1813, och Karl Johan blev i praktiken Sveriges ledare under Karl XIII:s sista år. Som kung 1818–1844 blev han stamfader för det kungahus som regerar i dag."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Jean Baptiste Bernadotte blev tronföljare och antog namnet Karl Johan. Karl XIII adopterade honom. C. O. Mörner var löjtnanten som erbjöd honom efterträdarskapet den 25 juni 1810. Fabian Wrede stödde kandidaturen. Fournier var Bernadottes agent som lockade i Örebro. Napoleon var inte avvisande men fick inget löfte om att Bernadotte aldrig skulle bära vapen mot Frankrike."
     }
    ],
    "kallor": [
@@ -873,6 +1658,10 @@
     {
      "rubrik": "Unionen",
      "text": "Stortinget beslöt den 20 oktober 1814 att Norge som ett fritt rike skulle förenas med Sverige, och den 4 november valdes Karl XIII till Norges kung. För Sverige, som önskat Norge som ekvivalent för Finland, blev \"erövringen\" enligt SBL inget tillskott i makt och resurser, och man hade önskat en realunion, men för Karl Johan syntes personalunionen tillräcklig. Karl Johan som kung försökte sedan hålla Norge i ordning med bland annat en riksståthållare, och striderna rörde flagga, riksvapen och firandet av den 17 maj. Unionen varade till 1905."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Karl Johan ledde nordarmén och kriget mot Norge. Kristian Fredrik valdes den 17 maj 1814 till kung i Norge. Von Vegesack vann slaget vid Rakkestad den 6 augusti. Karl XIII valdes den 4 november 1814 till Norges kung. Den danske kungen avträdde Norge i Kiel."
     }
    ],
    "kallor": [
@@ -883,6 +1672,86 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "marsoroligheterna-1848",
+   "namn": "Marsoroligheterna 1848",
+   "ar": 1848,
+   "datum": null,
+   "text": "Under februarirevolutionens eko i Europa uppstod i mars 1848 oroligheter i Stockholm. Oscar I red ut och talade till folkmassorna, men trupper sköt, och oroligheterna kostade många människoliv.",
+   "regenter": [
+    "oscar-i"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund: reformkungen och representationsfrågan",
+     "text": "Oscar I hade vid tronskiftet 1844 gett uttryck för liberala idéer och drivit på reformer som fattigvårdsförordningen 1847 och näringsfriheten 1846. Den verkliga prövostenen under de första åren blev frågan om nationalrepresentationens ombildning, där han var inställd på ett tvåkammarsystem med en övre kammare till hälften utsedd av kungen. Våren 1847 framtvingade han ett betänkande som nära anslöt sig till hans idéer, men det saknade förutsättningar att antas. Det var en isolerad Oscar som mötte 1847–48 års ständer."
+    },
+    {
+     "rubrik": "Mars 1848",
+     "text": "Vid februarirevolutionen 1848 i Paris och marsoroligheterna i Stockholm visade han personligt mod genom att rida ut och tala till folkmassorna. Det var också han som gav trupperna order om eldgivning och därmed bar det högsta ansvaret för de många dödsoffren. Händelserna gjorde djupt intryck."
+    },
+    {
+     "rubrik": "Vändningen",
+     "text": "Efter oroligheterna omorganiserade Oscar regeringen i en aprilministär med ett relativt stort liberalt inslag, och hans representationsförslag 1848 var radikalare än kommitténs, men uppfyllde hans mål att mota ett hotande bondevälde. Därefter greps han av den konservativa reaktionen: bitter och desillusionerad övergav han sin tro på medelklassen som samhällets kärna och tydde sig till aristokratin, och senare till Napoleon III:s idéer om en auktoritär styrelseform. Han undvek att stödja det kungliga representationsförslaget inför riksdagens avgörande 1850, och gjorde klart att ett underkännande var önskvärt."
+    },
+    {
+     "rubrik": "Kring revolutionsåret",
+     "text": "Samma år skedde ett omslag i Oscars utrikespolitik: när Danmark hamnade i nöd genom tronföljdskris och tysknationellt uppror i Slesvig-Holstein övergav han sin neutrala hållning, svensk-norska trupper överfördes till Fyn, och efter hans förmedling överenskoms vapenvila i Malmö. Representationsfrågan löstes först under hans son Karl XV 1865."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Oscar I (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7811",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "representationsreformen-1865",
+   "namn": "Representationsreformen 1865",
+   "ar": 1865,
+   "datum": null,
+   "text": "I december 1865 avskaffades ståndsriksdagen och ersattes av en tvåkammarriksdag. Reformen kom efter 1863 års proposition och var en seger för reformkungen Karl XV:s regering.",
+   "regenter": [
+    "karl-xv"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund",
+     "text": "Frågan om representationens ombildning hade drivits sedan 1840-talet. Under Oscar I hade representationsförslagen 1847, 1848 och 1850 strandat. Karl XV:s minister Louis De Geer meddelade sommaren 1861 att han tänkte lägga fram ett förslag om tvåkammarriksdag med samfällda val, vilket stred mot Karls tänkesätt och vad han ansåg vara kungamaktens intressen."
+    },
+    {
+     "rubrik": "1863 års proposition",
+     "text": "Karl såg sig som realpolitiker, och kom, inte minst efter en resa till England och Frankrike, till uppfattningen att reformfrågan och skandinavismen kunde kombineras. När reformpropositionen lades fram i januari 1863 hade han inte lyckats påverka vare tidpunkt eller innehåll. Förslaget fick ändå den beräknade effekten på opinionen, och i allmänhetens ögon var han från och med nu reformkungen, \"Nordens Viktor Emanuel\"."
+    },
+    {
+     "rubrik": "Beslutet",
+     "text": "Karl fick steg för steg ge upp motståndet mot representationsreformen, som slutligen vann i december 1865. Hans roll vid reformens seger kan enligt SBL inte fastställas i alla detaljer men var knappast avgörande, och hans \"avfall\" bevisligen fick några få att lägga ned sin röst eller rösta ja."
+    },
+    {
+     "rubrik": "Följder",
+     "text": "Karl fick ingenting ut av reformen för skandinavismens räkning, efter det danska nederlaget mot Tyskland 1864, som innebar slutet för skandinavismen som praktisk politik. En unionskommitté lade 1867 fram förslag till en ny föreningsakt, men stortinget förkastade hela förslaget 1871. På det inrepolitiska planet upptogs hans sista år till stor del av försvarsfrågan, där lantmannapartiet 1869 fällde hans förslag."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XV (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12360",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Oscar I (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7811",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "unionsupplosningen-1905",
@@ -910,6 +1779,10 @@
     {
      "rubrik": "Karlstad",
      "text": "Förhandlingarna i Karlstad följde i augusti och september 1905, med fyra delegater från varje land. Enligt SBL tycks Oscar inte ha spelat någon större roll där, eftersom avgörandena låg i de folkvalda politikernas händer. Statsministrarna löste de svåraste knutarna i enrum, och överenskommelsen undertecknades den 23 september 1905. Riksdagen godkände den i oktober och upphävde riksakten, och Oscar II abdikerade formellt som Norges kung den 26 oktober och ändrade sitt valspråk till Sveriges väl. I Sverige räknas den 26 oktober som dagen då Norge blev ett självständigt rike."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Oscar II var kung av Sverige och Norge och abdikerade som norsk kung. Gustaf, kronprinsen, förde enligt SBL kungamaktens talan. Christian Michelsen var norsk statsminister. E. G. Boström var svensk statsminister som avböjde att ställa upp 1905. Alfred Lagerheim var utrikesminister och initiativtagare till konsulatkommittén 1902."
     }
    ],
    "kallor": [
@@ -940,6 +1813,184 @@
    ]
   },
   {
+   "id": "borggardstalet-1914",
+   "namn": "Borggårdstalet och borggårdskrisen",
+   "ar": 1914,
+   "datum": null,
+   "text": "I februari 1914 höll Gustaf V ett tal till bondetåget på Stockholms slotts borggård, som ledde till den liberala regeringen Staaffs avgång. Händelsen blev en av de mest omskrivna i svensk konstitutionell historia.",
+   "regenter": [
+    "gustaf-v"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Kungen och Staaff",
+     "text": "Efter högerns valnederlag hösten 1911 tillträdde en liberal ministär under Karl Staaff, och Gustaf V kom snart i konflikt med den. Striden mellan honom och Staaff är ett av de mest omskrivna kapitlen i nyare svensk historia. Från början hyste han ingen aversion mot Staaff, men det skar sig politiskt och personligt. Det rådde en djupgående skiljaktighet i åsikter om monarkens ställning i statslivet, och i försvarsfrågan gick meningarna från början isär. När regeringen i december 1911 genomdrev slopandet av F-båten vidtog han enligt SBL den uppseendeväckande åtgärden att reservera sig mot ”kungens egna beslut”."
+    },
+    {
+     "rubrik": "Talet",
+     "text": "Krisen kulminerade i hans tal till bondetåget i februari 1914, borggårdstalet, och den Staaffska regeringens avgång. SBL anger att orsakerna till brytningen var av principiell, saklig och personlig art. SBL anger att han klarare än sina rådgivare bedömde den storpolitiska situationen, men att försvarsfrågan på längre sikt kunde ha vunnit på en mindre konfliktbetonad lösning."
+    },
+    {
+     "rubrik": "Utgången",
+     "text": "Hans ställning hade blivit kritisk om inte världskriget brutit ut sommaren 1914. Han förebrådde själv året efter några högermän för deras rädsla och frågade: \"Vem var det som fick rätt?\" Lindman svarade: \"Ja, Ers Majestät hade en sabla tur.\" Under kriget stödde han den Hammarskjöldska ministären, som han ansåg bäst garanterade en pålitlig utrikeskurs."
+    },
+    {
+     "rubrik": "Långsiktiga följder",
+     "text": "Borggårdstalet kom att ses som exemplet på att kungen inte skulle lägga sig i dagspolitiken. I artikeln om statschefens konstitutionella ställning pekar författarna på talet som en av orsakerna till att monarkins förhållande till det demokratiska styrelseskicket ifrågasattes. Efter 1917 följde han sedan lojalt parlamentarismens spelregler, och 1974 års regeringsform tog bort kungens sista politiska uppgifter. Gustaf V höll 1943 ett nytt \"borggårdstal\" på sin 85-årsdag, där han förklarade att han under världskrisen ansett det vara sin plikt att söka hjälpa landet."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav V (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13319",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Statschefens konstitutionella ställning",
+     "utgivare": "De Lege, Uppsala universitet",
+     "url": "https://journals.uu.se/DeLege/article/download/616/543/1490",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "parlamentarismen-1917",
+   "namn": "Parlamentarismens genombrott",
+   "ar": 1917,
+   "datum": null,
+   "text": "Hösten 1917 accepterade Gustaf V att regeringen måste ha riksdagens förtroende, efter att den liberalsocialistiska regeringen Edén tillträtt.",
+   "regenter": [
+    "gustaf-v"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Vägen dit",
+     "text": "Efter borggårdskrisen 1914 hade Gustaf V stött den Hammarskjöldska ministären under första världskriget. Hösten 1917 skedde ett regimskifte. Han accepterade det, motvilligt, sedan han försäkrat sig om att den nye statsministern Nils Edén inte ämnade överge neutralitetspolitiken. Med den liberalsocialistiska regeringen hade han erkänt parlamentarismen och följde sedan lojalt dess spelregler."
+    },
+    {
+     "rubrik": "1918: författningsfrågan",
+     "text": "Starkt oroad av den revolutionära vågen i Europa stödde han ivrigt regeringen under författningsfrågan 1918 och bearbetade högerledningen att ge vika, medan Hjalmar Branting avvände anloppet mot monarkin. Enligt artikeln om statschefens konstitutionella ställning fattades 1918 principbeslutet att en grundlagsreform skulle genomföras, vilket förde till 1974 års regeringsform."
+    },
+    {
+     "rubrik": "Kungen som statschef",
+     "text": "Efter kriget växte Gustaf V in i rollen som statschef i en parlamentarisk demokrati. Vid 1920-talets täta ministärskiften fungerade han som opartisk medlare, och i inrikespolitiken lät han majoriteten råda. Den enda fråga som medförde allvarliga meningsbrytningar var försvarsfrågan: inför nedrustningsbeslutet 1925 reagerade han häftigt och övervägde att vägra sanktion och upplösa riksdagen, men högerledningen kunde inte stödja honom, och han måste resignera."
+    },
+    {
+     "rubrik": "Skandinavien och kriget",
+     "text": "I det skandinaviska samarbetet gjorde han betydande insatser: trekungamötet i Malmö 1914 initierades av utrikesminister Wallenberg, men hans uppträdande där och vid besöket i Kristiania 1917 bidrog till försoning mellan Norge och Sverige. På åttioårsdagen, då han visade sin spänstighet genom att rida i galopp över Gärdet, hyllades han som folkkung och fredskonung."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav V (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13319",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Statschefens konstitutionella ställning",
+     "utgivare": "De Lege, Uppsala universitet",
+     "url": "https://journals.uu.se/DeLege/article/download/616/543/1490",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "asine-expeditionen-1922",
+   "namn": "Asine-expeditionen",
+   "ar": 1922,
+   "datum": null,
+   "text": "Den svenska arkeologiska expeditionen till Asine på Peloponnesos grävde 1922–1930. Kronprins Gustaf Adolf var ordförande i kommittén bakom den och deltog själv i grävningarna hösten 1922.",
+   "regenter": [
+    "gustaf-vi-adolf"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Kronprinsen som arkeolog",
+     "text": "Gustaf Adolf var känd för sin kunskapstörst, och arkeologin var hans främsta uppgift vid sidan av representationen. Hans intresse började enligt Encyclopaedia Britannica under studierna vid Uppsala universitet, och han deltog under 1920-talet i expeditioner i Grekland, Italien och på Cypern. Det tidskriften Le Nord skrev 1944 var att Asine-expeditionen sattes igång på hans direkta initiativ och att han var ordförande i den kommitté som gav den ekonomiskt stöd och rådgivning."
+    },
+    {
+     "rubrik": "Utgrävningen",
+     "text": "Enligt Uppsala universitets Gustavianum grävde expeditionen, under ledning av A. W. Persson och O. Frödin, ut boplatsen vid Asine 1922–1930, och kronprinsen deltog själv i utgrävningarna hösten 1922. Under fyra månader 1926 frilades flera tusen kvadratmeter av den undre staden, med upp till 50 personer i arbetet. Fyndmaterialet bevaras i Uppsala. Kommittén upplöstes först 1938, när den sista vetenskapliga publikationen kom."
+    },
+    {
+     "rubrik": "Mer än en kunglig hobby",
+     "text": "Expeditionen var ett sätt att kompensera att Sverige saknade permanenta forskningsinstitut i Grekland och Italien. Forskaren Frederick Whitling, som skrivit boken Kulturkungen. Gustaf VI Adolf från A till Ö (2023), beskriver honom som en internationellt anlitad specialist och en drivande kraft i museivärlden. Han var också ordförande i Kinakommittén, ägde en av världens största privata samlingar av asiatisk keramik och deltog vid 88 års ålder i utgrävningar vid de etruskiska lämningarna i Acquarossa i Italien."
+    },
+    {
+     "rubrik": "Kung 1950–1973",
+     "text": "Som kung från 1950 blev han den siste svenske monarken med verklig politisk makt enligt Britannica, men Kungliga slotten beskriver honom som en kung som fullt ut godtog parlamentarismen. Hans insats som kung var i hög grad ett sätt att uppträda: Kungliga slotten framhåller att han alltid fullgjorde sina representativa plikter felfritt."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Asinesamlingen",
+     "utgivare": "Uppsala universitet, Gustavianum",
+     "url": "https://www.uu.se/gustavianum/om-museet/vara-samlingar/historiska-samlingar/klassisk-arkeologi/asinesamlingen",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Gustav VI Adolf",
+     "utgivare": "Encyclopaedia Britannica",
+     "url": "https://www.britannica.com/biography/Gustav-VI-Adolf",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Swedish Archaeological Work in Greece (Le Nord, 1944)",
+     "utgivare": "Le Nord",
+     "url": "https://timarit.is/page/7725867",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Kulturkungen. Gustaf VI Adolf från A till Ö (bokbeskrivning)",
+     "utgivare": "Frederick Whitling, 2023",
+     "url": "https://eui.academia.edu/FrederickWhitling/Books",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "midsommarkrisen-1941",
+   "namn": "Midsommarkrisen 1941",
+   "ar": 1941,
+   "datum": null,
+   "text": "Efter midsommar 1941 begärde Tyskland att få transitera trupper från Norge till Finland. Regeringen gick med på det, och Gustaf V:s roll i beslutet är omstridd.",
+   "regenter": [
+    "gustaf-v"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Kungen under andra världskriget",
+     "text": "Andra världskriget ställde Gustaf V inför hårda prov och gav honom tillfälle till personliga insatser. I samråd med utrikesminister Sandler tog han initiativ till statschefsmötet i Stockholm i oktober 1939 som skulle stödja det hotade Finland. Under regeringskrisen efter det ryska anfallet på Finland använde han hela sitt inflytande för att få till stånd en verklig samlingsregering med deltagande även av högern. Våren 1940 fastslog han i brev till Hitler sitt och regeringens beslut att åt alla håll försvara rikets gränser."
+    },
+    {
+     "rubrik": "Transiteringen",
+     "text": "Det mest omstridda ingripandet gällde Tysklands begäran att få transitera trupper från Norge till Finland efter midsommaren 1941. Han stödde utrikesminister Günthers bifallslinje, och statsminister Hansson använde kungens \"abdikationshot\" för att bryta motståndet inom sitt eget parti."
+    },
+    {
+     "rubrik": "Abdikationshotet",
+     "text": "SBL anger att det aldrig kan klarläggas om kungen använde ordet abdikation: enligt vad han själv försäkrade sin bror Eugen hade han bara sagt att konsekvenserna av ett nej skulle bli allvarliga. Han och regeringen hade hela tiden ett mål: att med bevarad självständighet hålla landet utanför kriget."
+    },
+    {
+     "rubrik": "Borggårdstalet 1943",
+     "text": "I ett nytt \"borggårdstal\" på 85-årsdagen 1943 deklarerade han att en konstitutionell kung under vanliga förhållanden inte bör uppträda som ledare i en riktning, men att han under den rådande världskrisen ansett det vara sin oavvisliga plikt att söka hjälpa landet ur stundens svårigheter. Hans initiativ skedde i regel i samförstånd med regeringen, och regeringen sökte i flera fall stöd i kungens auktoritet. Med krigsslutet var hans politiska roll i stort sett utspelad. Han dog 1950."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav V (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13319",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "regeringsformen-1974",
    "namn": "Ny regeringsform",
    "ar": 1974,
@@ -965,6 +2016,10 @@
     {
      "rubrik": "Ikraftträdande och betydelse",
      "text": "Regeringsformen trädde i kraft den 1 januari 1975, två år efter att Carl XVI Gustaf besteg tronen. Kungl. Hovstaterna beskriver hans uppdrag i dag som att öppna riksmötet, leda informationskonseljer och utrikesnämnden och ackreditera ambassadörer. Författarna till en artikel i De Lege (Uppsala universitet) anser att den uttryckliga inriktningen på att kungens makt och uppgifter är starkt begränsade paradoxalt nog har gjort hans symboliska position stark. De noterar att Carl XVI Gustaf 2023 hade suttit längst på den svenska tronen, förbi Magnus Eriksson, och att kriser som Estonia-katastrofen, covid-19 och hotet mot Sverige har stärkt hans ställning som en samlande symbol."
+    },
+    {
+     "rubrik": "Nyckelpersoner",
+     "text": "Carl XVI Gustaf är statschef enligt regeringsformen. Gustaf VI Adolf var kungen vars död 1973 gjorde 1971 års lagstiftning gällande. Gustaf V höll borggårdstalet 1914. Thomas Bull och Anna-Sara Lind har skrivit en rättsvetenskaplig analys av statschefens ställning. Torekovskompromissen, som avförde monarkifrågan från den politiska agendan, har fått sitt namn efter orten Torekov."
     }
    ],
    "kallor": [
@@ -993,6 +2048,61 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "kungajubileet-2023",
+   "namn": "Kungajubileet 2023",
+   "ar": 2023,
+   "datum": "09-15",
+   "text": "År 2023 firade Carl XVI Gustaf 50 år på tronen, samtidigt som Sverige firade 500 år sedan Gustav Vasa valdes till kung. Kungafamiljen genomförde 982 programpunkter och besökte alla 21 län.",
+   "regenter": [
+    "carl-xvi-gustaf"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Ett dubbelt jubileum",
+     "text": "Kungen firade 2023 femtio år som statschef. Enligt Kungl. Hovstaternas verksamhetsberättelse var det ett dubbelt jubileumsår, eftersom Sverige också firade 500 år sedan Gustav Vasa valdes till kung. Kungafamiljen genomförde 982 programpunkter, och kungaparet besökte samtliga 21 län. På nationaldagen besökte de Strängnäs, där Gustav Vasa valdes 1523."
+    },
+    {
+     "rubrik": "Jubileumsveckan",
+     "text": "Den 15 september höll kungen ett tal till svenska folket i Blå salongen på slottet, där han sade att han hoppades få fortsätta tjäna Sverige \"i både med- och motgång\". Jubileumsveckan i Stockholm omfattade mottagningar, en TV-sänd bankett, ett hästkortege och en konsert på Norrbro. Kungen hade då enligt De Lege (Uppsala universitet) suttit längre på den svenska tronen än någon annan regent, förbi Magnus Eriksson, som regerade i 44 år."
+    },
+    {
+     "rubrik": "Ett vanligt år i ämbetet",
+     "text": "Under samma år öppnade kungen riksmötet, ledde informationskonseljer och tog emot 30 nya utländska ambassadörer vid högtidliga audienser. Han genomförde ett utgående statsbesök till Estland och tog emot bland andra Ukrainas president Volodymyr Zelenskyj, och deltog tillsammans med kronprinsessan i kung Charles III:s kröning i London och i statsbegravningen av Finlands förre president Martti Ahtisaari. Han besökte jordskredsområdet i Stenungssund, uppmärksammade gängkriminaliteten genom möten med politiska företrädare och rättsvårdande myndigheter, och en fredsbön hölls i Slottskyrkan på grund av kriget i Ukraina."
+    },
+    {
+     "rubrik": "Därefter",
+     "text": "I mars 2024 deltog han i ceremonierna för Sveriges anslutning till Nato, och 2024 genomfördes fem statsbesök, tre inkommande och två utgående. Den 30 april 2026 fyllde han 80 år, och Finlands presidentkansli beskrev honom i samband med firandet som den längst regerande monarken i landets historia. Hans regeringstid pågår, så den här händelsens följder är ännu inte avslutade."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Verksamhetsberättelse 2023",
+     "utgivare": "Kungl. Hovstaterna",
+     "url": "https://www.kungahuset.se/download/18.50182eb18ec1a9cdda77713/1713889836859/Verksamhetsberattelsen2023.pdf",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Verksamhetsberättelse 2024",
+     "utgivare": "Kungl. Hovstaterna",
+     "url": "https://www.kungahuset.se/download/18.5f23dee419613aad3ee97d24/1745401587150/Verksamhetsberattelsen2024.pdf",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Statschefens konstitutionella ställning",
+     "utgivare": "De Lege, Uppsala universitet",
+     "url": "https://journals.uu.se/DeLege/article/download/616/543/1490",
+     "kontrollerad": true
+    },
+    {
+     "titel": "The presidential couple celebrated the 80th birthday of the King of Sweden",
+     "utgivare": "Finlands presidents kansli (2026)",
+     "url": "https://www.presidentti.fi/en/the-presidential-couple-celebrated-the-80th-birthday-of-the-king-of-sweden/",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   }
  ]
 }
