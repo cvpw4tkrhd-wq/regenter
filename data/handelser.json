@@ -1,6 +1,452 @@
 {
  "handelser": [
   {
+   "id": "forsta-manniskorna-i-sverige",
+   "namn": "De första människorna i Sverige",
+   "ar": -11000,
+   "ca": true,
+   "datum": null,
+   "text": "När istidens inlandsis drog sig tillbaka för omkring 13 000 år sedan följde grupper av jägare och samlare efter och slog sig ned längs de nya kusterna. Därmed börjar Sveriges historia.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Isen drar sig tillbaka",
+     "text": "Stenåldern i Sverige börjar enligt Västmanlands läns museum för omkring 13 000 år sedan, när istidens stora inlandsis, som täckt hela norra Europa, började smälta av och dra sig tillbaka. Där isen tidigare legat förvandlades landskapet. Enligt ett läromaterial från Region Halland blev Sverige helt fritt från is först kring 6500 f.Kr., och människor tog land i besittning allteftersom isen drog sig undan. Länsstyrelsen i Skåne anger äldre stenålder som tiden 11000–4000 f.Kr."
+    },
+    {
+     "rubrik": "Jägare och samlare",
+     "text": "När isen drog sig tillbaka följde grupper av jägare och samlare efter och slog sig ned vid tillfälliga boplatser. Människorna bosatte sig framför allt längs kusterna, där havet gav mat och där det var lätt att ta sig fram, och Östersjön genomgick under stenåldern många olika faser. Efterhand blev människorna enligt museet mer och mer bosatta, men helt bofasta tror man inte att de blev under stenåldern. Länsstyrelsen i Skåne noterar att några av de äldsta kända gravarna i landskapet hör till den här tiden."
+    },
+    {
+     "rubrik": "Ett landskap i rörelse",
+     "text": "Landet höjde sig ur havet när trycket från isen försvann, och landhöjningen ändrade kustlinjer och bosättningsplatser under hela stenåldern. Mot mitten och slutet av stenåldern började landhöjningens effekter visa sig tydligare, och i Sveriges norra delar höjer sig landet fortfarande."
+    },
+    {
+     "rubrik": "Vad vi vet och inte vet",
+     "text": "De första människorna lämnade få spår, och stenåldern kan bara läsas ur föremål, boplatser och gravar. Därför är början av Sveriges historia i hög grad en fråga om tolkning: årtal anges som ungefärliga, och olika källor ger lite olika gränser. Nästa stora förändring var jordbruket, som kom omkring 4000 f.Kr."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Geografi på stenåldern",
+     "utgivare": "Västmanlands läns museum",
+     "url": "https://vastmanlandslansmuseum.se/wp-content/uploads/2022/01/geografi_pa_stenaldern.pdf",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Trosföreställningar under förhistorien",
+     "utgivare": "Länsstyrelsen i Skåne",
+     "url": "https://www.lansstyrelsen.se/skane/besoksmal/kulturmiljoprogram/kulturmiljoprogram-skanes-historia-och-utveckling/kulturmiljoprogram-religiosa-landskap/trosforestallningar-under-forhistorien.html",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Läromaterial: Förhistorisk tid och stenåldern",
+     "utgivare": "Nationalencyklopedin, läromedel",
+     "url": "https://laromedel-cdn.ne.se/assets/ne/file/2020-03-09_14-19-38533475.pdf",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Stenåldersboplats i Ysby (lärmaterial)",
+     "utgivare": "Region Halland",
+     "url": "https://regionhalland.se/download/18.4288834418e65aed20f2835/1711459589007/L%C3%A4rmaterial-boplats-Ysby-L1996.7134-tg.pdf",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "jordbruket-kommer-4000-fkr",
+   "namn": "Jordbruket och de första bönderna",
+   "ar": -4000,
+   "ca": true,
+   "datum": null,
+   "text": "Omkring 4000 f.Kr. började människor i södra Sverige hålla boskap och odla säd. Det var början på yngre stenåldern och på de första fasta byarna och de stora stengravarna.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Från jakt till odling",
+     "text": "Yngre stenåldern räknas av Länsstyrelsen i Skåne som tiden 4000–1800 f.Kr. Enligt ett läromaterial från Region Halland började man i södra Sverige då hålla boskap och odla, och de första byarna uppstod. Arkeologer har diskuterat varför människor gick från jakt till odling. Genom kontakt med andra människor utanför Norden fick man enligt samma material nya kunskaper. I Mellansverige finns spår av tidiga jordbrukare: vid Vrå i Södermanland, som enligt Sörmlands museum är omkring 6000 år gammal, har man hittat brända sädeskorn och malstenar, och ben av getter, får och svin."
+    },
+    {
+     "rubrik": "Trattbägarkulturen",
+     "text": "Vrå räknas till trattbägarkulturen, som var en av flera kulturer under yngre stenåldern. Sörmlands museum beskriver tolkningen av platsen som inte självklar, eftersom den inte liknar andra kända boplatser från samma tid. Människorna där anses vara bland de tidigaste jordbrukarna i Mellansverige."
+    },
+    {
+     "rubrik": "Gravar, palissader och stridsyxor",
+     "text": "Från den här tiden finns stora gravar av sten, megalitgravar, där man har hittat olika slags offer. I Skåne finns enligt Länsstyrelsen hällkistor, uppbyggda av kantställda stenhällar, och tre kända palissadanläggningar, i Dösjebro, Hyllie och Bunkeflo. Palissaderna dateras till övergången mellan trattbägarkultur och stridsyxekultur (3000–2500 f.Kr.) och till stridsyxekulturen (2800–2300 f.Kr.), som utmärker sig särskilt."
+    },
+    {
+     "rubrik": "Invandring eller idéer?",
+     "text": "Frågan om jordbruket spreds genom att idéer färdades eller genom att nya människor kom har diskuterats länge. Vetenskapsradion sa 2009 att forskningen då tydde på att stenålderns jägare och samlare delvis blev utkonkurrerade av ett invandrande folk som förde med sig kunskapen om jordbruk. Hur det gick till är alltjämt en fråga för forskningen, och den gamla jägar- och samlarkulturen levde enligt Historien om Sverige vidare, framför allt i norr."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Stenåldern (lärmaterial om fornlämning)",
+     "utgivare": "Region Halland",
+     "url": "https://regionhalland.se/download/18.37d59ee18f0f78423b42273/1714044078768/L-rmaterial-boplats-Boshult-L1998-8554.pdf",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Vrå fornby",
+     "utgivare": "Sörmlands museum",
+     "url": "https://sormlandsmuseum.se/globalassets/historien-i-sormland/pdf-er/HistorieniSormland-Vra.pdf",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Trosföreställningar under förhistorien",
+     "utgivare": "Länsstyrelsen i Skåne",
+     "url": "https://www.lansstyrelsen.se/skane/besoksmal/kulturmiljoprogram/kulturmiljoprogram-skanes-historia-och-utveckling/kulturmiljoprogram-religiosa-landskap/trosforestallningar-under-forhistorien.html",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Sveriges historia skrivs om",
+     "utgivare": "Sveriges Radio, Vetenskapsradion (2009)",
+     "url": "https://www.sverigesradio.se/avsnitt/om-det-svenska-filmmanusets-historia",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Episod 1: Stenåldern",
+     "utgivare": "Historien om Sverige, Västsverige.com",
+     "url": "https://www.vastsverige.com/skaraborg/historien-om-sverige/episoder-historien-om-sverige/",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "bronsaldern-borjar-1800-fkr",
+   "namn": "Bronsåldern börjar",
+   "ar": -1800,
+   "ca": true,
+   "datum": null,
+   "text": "Omkring 1800 f.Kr. börjar bronsåldern i Sverige. Stora gravrösen, hällristningar och skeppet som symbol visar en värld som var full av föreställningar och långväga kontakter.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Tidsgränserna",
+     "text": "Bronsåldern räknas i Sverige enligt Länsstyrelsen i Skåne som tiden 1800–500 f.Kr. Riksantikvarieämbetets tidsskala, som används i arkeologiska rapporter, sätter gränserna vid 1800 f.Kr. för bronsålderns början och 500 f.Kr. för äldre järnålderns början."
+    },
+    {
+     "rubrik": "Skeppet och graven",
+     "text": "Enligt Länsstyrelsen i Skåne har skeppet en central roll i bronsålderns föreställningsvärld och återfinns både på hällristningar och som gravform. Hällristningslokalerna i Skåne är framför allt koncentrerade i sydost, vid Simris och Järrestad, medan hällristningarna i Tanum i Bohuslän omfattar minst 1 500 kända lokaler. De flesta gravarna på Gotland från den här tiden är rösen, till skillnad från högar som är täckta med torv. Under rösetiden begravdes människor obrända."
+    },
+    {
+     "rubrik": "Ett gravhögslandskap",
+     "text": "Bjärs hög i Norrlanda på Gotland, som är den största högen där, anges av Länsstyrelsen i Gotlands län vara en grav från bronsåldern, omkring 1800 f.Kr., och den är inte undersökt. De stora gravarna ingav enligt Länsstyrelsen respekt åt den som kom utifrån och visade att här var upptaget land. Mest känt är Kiviksgraven i Skåne, som är 75 meter i diameter."
+    },
+    {
+     "rubrik": "Vad som följde",
+     "text": "Bronsåldern ledde fram till järnåldern omkring 500 f.Kr. Två platser från bronsåldern är särskilt välkända och beskrivs i egna händelser här: Kiviksgraven omkring 1400 f.Kr. och hällristningarna i Tanum, som UNESCO tog upp på världsarvslistan 1994."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Trosföreställningar under förhistorien",
+     "utgivare": "Länsstyrelsen i Skåne",
+     "url": "https://www.lansstyrelsen.se/skane/besoksmal/kulturmiljoprogram/kulturmiljoprogram-skanes-historia-och-utveckling/kulturmiljoprogram-religiosa-landskap/trosforestallningar-under-forhistorien.html",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Norrlanda Bjärs hög",
+     "utgivare": "Länsstyrelsen i Gotlands län",
+     "url": "https://www.lansstyrelsen.se/gotland/besoksmal/kulturmiljoer/norrlanda-bjars-hog.html",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Spår efter de första jordbrukarna vid Kvisterhult (tidsskala)",
+     "utgivare": "Riksantikvarieämbetet, Sörmlands Arkeologi AB (2023)",
+     "url": "https://pub.raa.se/dokumentation/0de10210-0ad3-42b1-add9-3448bae4f160/original",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "tanums-hallristningar-1700-fkr",
+   "namn": "Hällristningarna i Tanum",
+   "ar": -1700,
+   "ca": true,
+   "datum": null,
+   "text": "Hällristningarna i norra Bohuslän gjordes mellan omkring 1700 och 500 f.Kr. och är ett av världens främsta exempel på bronsålderskonst. UNESCO tog upp dem på världsarvslistan 1994.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Bilder i berget",
+     "text": "Hällristningarna i Tanum i norra Bohuslän är enligt UNESCO en unik konstnärlig prestation, inte bara för sina rika motiv utan också för sin kulturella och kronologiska enhet. Motiven föreställer människor, djur, vapen, båtar och andra ämnen. Enligt ett UNESCO-dokument från 2026 finns minst 1 500 kända ristningslokaler, och bilderna är huvudsakligen från nordisk bronsålder, omkring 1700–500 f.Kr. De är gjorda genom att hacka och slipa i den blottade graniten."
+    },
+    {
+     "rubrik": "Världsarvet",
+     "text": "UNESCO tog upp hällristningarna i Tanum på världsarvslistan 1994. I motiveringen står att de är ett enastående exempel på bronsåldersskonst av högsta klass och att bildernas många motiv ger exceptionell kunskap om många sidor av livet i Europas bronsålder. Kontinuiteten i bosättning och jordbruk, som illustreras av ristningarna, arkeologiska lämningar och dagens landskap, visar enligt UNESCO en anmärkningsvärd stadga under åttatusen år av mänsklig historia."
+    },
+    {
+     "rubrik": "Skeppet",
+     "text": "Många av bilderna föreställer båtar. Enligt Länsstyrelsen i Skåne har skeppet en central roll i bronsålderns föreställningsvärld och förekommer både på ristningar och som gravform. Det knyter Tanum till de stora gravarna och till långväga kontakter längs kusten."
+    },
+    {
+     "rubrik": "Skötsel och besök",
+     "text": "Enligt UNESCO:s dokument om världsarvsvolontärer 2026 sköts området bland annat genom underhåll av hällristningarna och landskapet, och Tanums hällristningsmuseum i Underslös är en av partnerna. Hällristningarna visar att människor i dagens Sverige redan för tretusen år sedan berättade om sina liv i bild, långt före runor och skrivna källor."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Rock Carvings in Tanum",
+     "utgivare": "UNESCO, världsarvscentret",
+     "url": "https://whc.unesco.org/en/list/557/",
+     "kontrollerad": true
+    },
+    {
+     "titel": "World Heritage Volunteers: Rock Carvings in Tanum (2026)",
+     "utgivare": "UNESCO",
+     "url": "https://whc.unesco.org/document/225963",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Trosföreställningar under förhistorien",
+     "utgivare": "Länsstyrelsen i Skåne",
+     "url": "https://www.lansstyrelsen.se/skane/besoksmal/kulturmiljoprogram/kulturmiljoprogram-skanes-historia-och-utveckling/kulturmiljoprogram-religiosa-landskap/trosforestallningar-under-forhistorien.html",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "kiviksgraven-1400-fkr",
+   "namn": "Kiviksgraven",
+   "ar": -1400,
+   "ca": true,
+   "datum": null,
+   "text": "Kiviksgraven i Skåne, byggd omkring 1400 f.Kr., är Nordens största gravröse. Hällkistan i mitten har ristade bilder av människor, skepp och djur.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Ett röse av jättemått",
+     "text": "Kiviksgraven, kallad Kungagraven eller Bredarör, ligger vid Kivik på Österlen i Skåne. Länsstyrelsen i Skåne beskriver den som Nordens största gravröse, med 75 meters diameter. I graven påträffades tio stenhällar, varav åtta var ristade. Enligt kulturguiden Allmogens byggdes röset under tidig bronsålder omkring 1400 f.Kr."
+    },
+    {
+     "rubrik": "Hällkistan och bilderna",
+     "text": "Hällkistan byggdes enligt arkeologiska undersökningar omkring 1400 f.Kr., men platsens historia går längre bakåt: människor bodde där i tusentals år innan graven byggdes. Stenhällarnas sidor visar människor, skepp, djur och symboler som solkorset, som tros ha haft stor betydelse. Det som gör Kiviksgraven unik är att den enligt beskrivningen är den enda bronsåldersgraven i Norden med en hällkista täckt av hällbilder."
+    },
+    {
+     "rubrik": "Datering och tolkning",
+     "text": "Enligt den engelskspråkiga Wikipedia, som här bara bör ses som en sekundär källa, visar kol-14-dateringar att gravläggningarna skedde vid minst tre olika tillfällen mellan omkring 1400 och 800 f.Kr."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Trosföreställningar under förhistorien",
+     "utgivare": "Länsstyrelsen i Skåne",
+     "url": "https://www.lansstyrelsen.se/skane/besoksmal/kulturmiljoprogram/kulturmiljoprogram-skanes-historia-och-utveckling/kulturmiljoprogram-religiosa-landskap/trosforestallningar-under-forhistorien.html",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Kiviksgraven",
+     "utgivare": "Allmogens, kulturguide",
+     "url": "https://allmogens.se/en/place/kiviksgraven/",
+     "kontrollerad": true
+    },
+    {
+     "titel": "The King's Grave",
+     "utgivare": "Wikipedia (sekundär källa)",
+     "url": "https://en.wikipedia.org/wiki/The_King%27s_Grave",
+     "kontrollerad": false
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "vendel-och-valsgarde-550",
+   "namn": "Båtgravarna i Vendel och Valsgärde",
+   "ar": 550,
+   "ca": true,
+   "datum": null,
+   "text": "Rika båtgravar i Uppland, upptäckta vid Vendel 1881 och Valsgärde 1928, visar ett maktcentrum kring Gamla Uppsala under vendeltiden, före vikingatiden.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Vendeltiden får sitt namn",
+     "text": "Redan 1881 undersöktes ett stort båtgravfält vid Vendels kyrka i Uppland. Fyndet gav enligt Uppsala universitet namn åt vendeltiden, perioden närmast före vikingatiden. Gravarna innehåller rik utrustning, bland annat hjälmar och vapen, och djuroffer. De kallas båtgravar eftersom den döde lades i en båt."
+    },
+    {
+     "rubrik": "Valsgärde",
+     "text": "Valsgärde ligger tre kilometer norr om Gamla Uppsala. Arkeologer från Uppsala universitet undersökte gravfältet vid flera tillfällen mellan 1928 och 1952, under ledning av professor Sune Lindqvist 1928–1936. Det blev berömt för sina 15 oplundrade båtgravar. Under 1928–1936 grävdes åtta båtgravar från vendel- och vikingatid, och sammanlagt har man funnit 15 båtgravar, 15 andra gravar och 62 brandgravar. Forskningsprojektet Vikingafenomenet har Valsgärde som utgångspunkt."
+    },
+    {
+     "rubrik": "Gamla Uppsala",
+     "text": "Enligt en artikel i The SAA Archaeological Record var Gamla Uppsala det stora regionala och kungliga centrumet och Valsgärde ligger bara drygt två kilometer därifrån. Senare delen av 500-talet förvandlades Gamla Uppsala till en monumental plats, med en stor by och gravfält som täckte omkring 60 hektar. Valsgärde har av många sett som gravplatsen för krigarna i Gamla Uppsala."
+    },
+    {
+     "rubrik": "Kontakter och förändring",
+     "text": "Vendeltidens gravar visar enligt Uppsala universitet tydliga förbindelser med öst, ända till den asiatiska stäppen och Tangdynastins Kina. Enligt SAA-artikeln började människorna i både Gamla Uppsala och Valsgärde överge sina spektakulära uttryck för status och rikedom några decennier innan vikingatågen börjar på 790-talet. De rika båtgravarna är ett av våra viktigaste vittnesbörd om hur ett rike växte fram i Mälardalen."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Valsgärde",
+     "utgivare": "Uppsala universitet, Gustavianum",
+     "url": "https://www.uu.se/en/gustavianum/about-the-museum/our-collections/the-historical-collections/nordic-archeology/valsgarde",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Boat grave culture",
+     "utgivare": "Uppsala universitet, Vikingafenomenet",
+     "url": "https://www.uu.se/en/research/the-viking-phenomenon/research-clusters/boat-grave-culture",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Gamla Uppsala and Valsgärde: Deconstructing the Vendel-Viking Transition",
+     "utgivare": "The SAA Archaeological Record (2018)",
+     "url": "https://onlinedigeditions.com/article/Gamla+Uppsala+And+Valsg%C3%A4rde%3A+Deconstructing+The+Vendel-Viking+Transition/3089136/496953/article.html",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "birka-vikingatidens-handelsstad-800",
+   "namn": "Birka, vikingatidens handelsstad",
+   "ar": 800,
+   "ca": true,
+   "datum": null,
+   "text": "Birka på Björkö i Mälaren var under 800- och 900-talen ett nav i vikingatidens handelsnät. Platsen finns på UNESCO:s världsarvslista sedan 1993.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Staden vid vattnet",
+     "text": "Birka och Hovgården ligger cirka 30 kilometer väster om Stockholm på öarna Björkö och Adelsö i Mälaren. UNESCO beskriver dem som fullständiga och exceptionellt välbevarade arkeologiska lämningar från vikingatiden. Birka låg ypperligt till vid flera viktiga vattenvägar och var enligt UNESCO nav i ett vittgrenat handelsnät som skandinaverna byggde upp under vikingatiden."
+    },
+    {
+     "rubrik": "Bebyggelsen",
+     "text": "Birka var enligt UNESCO bebott under 800- och 900-talen. Det är ett av de mest kompletta och ostörda exemplen på en vikingatida handelsplats från 700- till 900-talen. De synliga delarna omfattar en borg, stadsvallen, gravhögar i gravfälten kring den så kallade Svarta jorden och platsen för bosättningen. UNESCO:s område omfattar 226 hektar."
+    },
+    {
+     "rubrik": "Hovgården",
+     "text": "På grannön Adelsö ligger Hovgården, ett kungsgårdsområde. Enligt UNESCO:s underlag är Hovgården en kunglig egendom från vikingatid och medeltid, och efter Birkas nedgång upprättades där en kunglig egendom. Tillsammans ger de två platserna en bild av hur makt och handel hängde ihop."
+    },
+    {
+     "rubrik": "Världsarvet",
+     "text": "UNESCO tog upp Birka och Hovgården på världsarvslistan 1993. Platsen är också känd för att där grundades enligt UNESCO den första kristna församlingen i Sverige, år 831, av Ansgar. Det är en av anledningarna till att Birka ofta nämns i berättelsen om kristnandet av Sverige."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Birka and Hovgården",
+     "utgivare": "UNESCO, världsarvscentret",
+     "url": "https://whc.unesco.org/en/list/555",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Birka and Hovgården: Statement of Outstanding Universal Value",
+     "utgivare": "UNESCO",
+     "url": "https://whc.unesco.org/document/216930",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "ansgar-birka-831",
+   "namn": "Ansgar och den första kristna församlingen",
+   "ar": 831,
+   "ca": false,
+   "datum": null,
+   "text": "Enligt UNESCO grundades den första kristna församlingen i Sverige vid Birka år 831 av Ansgar, som kallas Nordens apostel.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Missionären",
+     "text": "Ansgar föddes 801 och dog 3 februari 865. Han kallas enligt SBL Nordens apostel och blev både ärkebiskop och helgon. Han hade varit munk och lärare i klostret Corbie i Picardie och flyttades 822 till dotterklostret Korvey vid Weser, som anlades som stödjepunkt för kristendomen i det ännu halvhedniska Sachsen. Därifrån leddes han in på uppgiften att missionera i norr."
+    },
+    {
+     "rubrik": "Birka 831",
+     "text": "UNESCO uppger att Birka var platsen för den första kristna församlingen i Sverige, som grundades 831 av Ansgar. Birka var vid den tiden en handelsplats vid Mälaren. Det var början på en lång process: kristendomen tog hundratals år på sig att bli rikets religion."
+    },
+    {
+     "rubrik": "Vad man vet om honom",
+     "text": "Nästan omedelbart efter sin död blev Ansgar ansedd som helgon. Hans lärjunge och efterföljare Rimbert skrev hans levnadsteckning, Vita Anskarii, som SBL kallar utförlig och pietetsfull. I Sverige levde enligt SBL ingen inhemsk tradition kvar om honom, eftersom ett stort tomrum ligger mellan honom och kristendomens seger, men man lärde känna honom genom senare missionärer och firade hans dag den 4 februari under medeltiden."
+    },
+    {
+     "rubrik": "Från Birka till Sigtuna",
+     "text": "När Birka förlorade sin betydelse flyttades handeln och makten till nya platser. Omkring 980 grundades Sigtuna, nästan 150 år efter Ansgar, och Olof Skötkonung brukar räknas som den förste kristne svenske kungen."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Ansgar (band 2, 1920)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18733",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Birka and Hovgården",
+     "utgivare": "UNESCO, världsarvscentret",
+     "url": "https://whc.unesco.org/en/list/555",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad",
+   "personer": [
+    "ansgar"
+   ]
+  },
+  {
+   "id": "sigtuna-grundas-980",
+   "namn": "Sigtuna grundas",
+   "ar": 980,
+   "ca": true,
+   "datum": null,
+   "text": "Omkring år 980 grundades Sigtuna vid Mälaren, enligt traditionen av Erik Segersäll. Staden blev Sveriges första medeltidsstad och platsen för landets första mynt.",
+   "regenter": [
+    "erik-segersall",
+    "olof-skotkonung"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "En ny stad",
+     "text": "Sigtuna beräknas enligt Sigtuna kyrkliga historia ha grundats av kung Erik Segersäll i slutet av 900-talet. Sigtuna museum anger att staden anlades omkring 980. Svenska Dagbladets sammanfattning av museets forskning beskriver hur drygt hundra långsmala tomter, cirka 8 meter breda och 25 meter långa, lades ut på varsin sida om en långgata, och mitt i staden kungsgården. Det var Sveriges första medeltidsstad."
+    },
+    {
+     "rubrik": "Vem grundade den?",
+     "text": "Det är omstritt vem som grundade Sigtuna. Vissa källor anger Erik Segersäll, andra Olof Skötkonung. Sigtuna kan ha varit en efterföljare till kungsgården vid Fornsigtuna, fyra kilometer västerut, som Sigtuna museum beskriver som en föregångare. Det har också föreslagits att inspiration kom från den danska kungsgården Jelling."
+    },
+    {
+     "rubrik": "De första mynten",
+     "text": "Sveriges första mynthus låg i kungsgårdsområdet. Där lät Olof Skötkonung, som tog över makten efter fadern 995, prägla de första svenska mynten, ungefär 1010–1020. På mynten stod ungefär Olof i Guds Sigtuna. De användes som hedersgåvor, som kungen gav bort till de stormannaätter han ville knyta till sig. SBL beskriver Olof som den förste svenske kung som kan beläggas ha låtit prägla mynt."
+    },
+    {
+     "rubrik": "Kristen stad",
+     "text": "Utgrävningar tyder enligt Svenska Dagbladet på att Sigtuna redan från början var ett kristet samhälle. I mitten av 1000-talet byggdes träkyrkor, och längs Prästgatan växte under medeltiden ett pärlband av kyrkor upp. Sigtuna museum beskriver Sigtuna som en stad där vikingatiden tog slut och medeltiden började ta form. På 1300-talet tog Stockholm över som huvudstad."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sigtunas kyrkliga historia",
+     "utgivare": "Svenska kyrkan Sigtuna",
+     "url": "https://www.svenskakyrkan.se/sigtuna/sigtunas-kyrkliga-historia",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Het debatt om stenkyrkofynd (Svenska Dagbladet)",
+     "utgivare": "Sigtuna museum",
+     "url": "https://arkiv.sigtunamuseum.se/wp-content/uploads/2015/03/Het-debatt-om-stenkyrkofynd-Svd.pdf",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Sigtuna: a powerful political and cultural centre in Sweden c. 980–1200",
+     "utgivare": "medieval.eu, efter Sigtuna Museum",
+     "url": "https://medieval.eu/sigtuna-a-powerful-political-and-cultural-centre-in-sweden-c-980-1200",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Olof Skötkonung (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7749",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "olof-skotkonungs-dop-1008",
    "namn": "Olof Skötkonungs dop",
    "ar": 1008,
@@ -112,7 +558,10 @@
      "kontrollerad": true
     }
    ],
-   "status": "verifierad"
+   "status": "verifierad",
+   "personer": [
+    "birger-jarl"
+   ]
   },
   {
    "id": "alsnostadgan-1280",
@@ -280,7 +729,10 @@
      "kontrollerad": true
     }
    ],
-   "status": "verifierad"
+   "status": "verifierad",
+   "personer": [
+    "bo-jonsson-grip"
+   ]
   },
   {
    "id": "kalmarunionen-1397",
@@ -385,6 +837,9 @@
      "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12366",
      "kontrollerad": true
     }
+   ],
+   "personer": [
+    "engelbrekt"
    ]
   },
   {
@@ -579,6 +1034,9 @@
      "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13315",
      "kontrollerad": true
     }
+   ],
+   "personer": [
+    "hemming-gadh"
    ]
   },
   {
@@ -616,6 +1074,9 @@
      "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13315",
      "kontrollerad": true
     }
+   ],
+   "personer": [
+    "laurentius-andreae"
    ]
   },
   {
@@ -657,6 +1118,10 @@
      "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13315",
      "kontrollerad": true
     }
+   ],
+   "personer": [
+    "laurentius-andreae",
+    "olaus-petri"
    ]
   },
   {
@@ -704,6 +1169,9 @@
      "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13315",
      "kontrollerad": true
     }
+   ],
+   "personer": [
+    "nils-dacke"
    ]
   },
   {
@@ -880,6 +1348,9 @@
      "url": "https://www.britannica.com/event/Battle-of-Lutzen",
      "kontrollerad": true
     }
+   ],
+   "personer": [
+    "axel-oxenstierna"
    ]
   },
   {
@@ -927,6 +1398,9 @@
      "url": "https://www.encyclopedia.com/history/modern-europe/treaties-and-alliances/peace-westphalia",
      "kontrollerad": true
     }
+   ],
+   "personer": [
+    "axel-oxenstierna"
    ]
   },
   {
