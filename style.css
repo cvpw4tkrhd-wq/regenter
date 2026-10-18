@@ -281,3 +281,9 @@ a.nod:hover{border-color:var(--c)}
 .litenknapp:hover,.litenknapp:focus-visible{background:var(--yta)}
 .antlabel{display:block;font-weight:600;margin:1rem 0 .3rem}
 #ant-ny,.antredigera{width:100%;box-sizing:border-box;font:inherit;line-height:1.5;padding:.6rem .7rem;border:1px solid var(--linje);border-radius:var(--radie);background:#fff;color:#1b2430;resize:vertical}
+
+.installbox{background:var(--yta);border:1px solid var(--linje);border-left:6px solid var(--guld);border-radius:var(--radie);padding:.9rem 1.1rem;margin:0 0 1.4rem;max-width:42rem}
+.installbox h2{font-size:1.15rem;margin:0 0 .3rem}
+.installbox p{margin:.3rem 0}
+.installsteg{padding-left:1.2rem}
+.installsteg li{margin:.4rem 0}
