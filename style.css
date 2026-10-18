@@ -287,3 +287,17 @@ a.nod:hover{border-color:var(--c)}
 .installbox p{margin:.3rem 0}
 .installsteg{padding-left:1.2rem}
 .installsteg li{margin:.4rem 0}
+
+.egenform label{display:block;font-weight:600;margin:1rem 0 .3rem}
+.egenform input[type=text],.egenform input[type=number],.egenform select,.egenform textarea{width:100%;box-sizing:border-box;font:inherit;padding:.55rem .7rem;border:1px solid var(--linje);border-radius:var(--radie);background:#fff;color:#1b2430}
+.egenform textarea{line-height:1.5;resize:vertical}
+.radfalt{display:flex;gap:.8rem;flex-wrap:wrap;align-items:flex-end}
+.radfalt>div{flex:1 1 7rem}
+.radfalt .chip{flex:0 0 auto;font-weight:400;margin:0}
+.valj{margin-top:1rem}
+.valjlista{max-height:16rem;overflow:auto;border:1px solid var(--linje);border-radius:var(--radie);background:var(--yta);padding:.4rem .7rem;margin-top:.5rem}
+.valjlista label{font-weight:400;margin:.3rem 0}
+.egenfel{color:#8a1c1c;font-weight:600}
+.egenruta{background:var(--yta);border:1px solid var(--linje);border-left:6px solid #7a5c99;border-radius:var(--radie);padding:.7rem 1rem;margin:1.2rem 0}
+.egenmark,.persmark{display:inline-block;font-size:.75rem;padding:.05rem .5rem;border-radius:999px;background:#7a5c99;color:#fff}
+.rad.pers .kort{border-left-color:#7a5c99}
