@@ -460,12 +460,28 @@ function pHandelser() {
   });
   return `<div class="sida"><div class="sidhuvud"><h1>Händelser</h1><p>Slag, fredsavtal och politiska omvälvningar som hör ihop med regenterna.</p></div><ol class="tl">${out}</ol></div>`;
 }
+const MANADER = ['januari', 'februari', 'mars', 'april', 'maj', 'juni', 'juli', 'augusti', 'september', 'oktober', 'november', 'december'];
+function handelseDatum(h) {
+  if (h.datum && /^\d\d-\d\d$/.test(h.datum)) { const [m, d] = h.datum.split('-').map(Number); return `${d} ${MANADER[m - 1]} ${h.ar}`; }
+  return String(h.ar);
+}
 function pHandelse(id) {
   const h = D.hById[id]; if (!h) return `<div class="sida"><h1>Händelsen finns inte</h1><p><a href="#/handelser">Alla händelser</a></p></div>`;
-  return `<div class="sida"><div class="sidhuvud"><h1>${esc(h.namn)}</h1><p>${h.ar}</p></div>
-  <p style="max-width:40rem;font-family:var(--serif);font-size:1.15rem;line-height:1.7">${fmt(h.text)}</p>
+  const idx = D.H.indexOf(h), prev = D.H[idx - 1], next = D.H[idx + 1];
+  const sek = (h.berattelse || []).map(x => `<section><h2>${esc(x.rubrik)}</h2>${String(x.text).split(/\n\n+/).map(p => `<p>${fmt(p)}</p>`).join('')}</section>`).join('');
+  const ord = (h.berattelse || []).reduce((n, x) => n + String(x.text).split(/\s+/).length, 0);
+  const kallor = (h.kallor || []).map(k => `<li>${k.url ? `<a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.titel)}</a>` : esc(k.titel)}${k.utgivare ? `, ${esc(k.utgivare)}` : ''} <span class="mut">${k.kontrollerad ? '(kontrollerad)' : '(ska kontrolleras)'}</span></li>`).join('');
+  return `<div class="sida handelse"><div class="sidhuvud"><h1>${esc(h.namn)}</h1><p>${esc(handelseDatum(h))}</p></div>
+  <p class="ingress" style="max-width:40rem;font-family:var(--serif);font-size:1.15rem;line-height:1.7">${fmt(h.text)}</p>
+  ${ord ? `<p class="liten mut">Ungefär ${Math.max(1, Math.round(ord / 200))} minuters läsning.</p>` : ''}
+  ${sek ? `<div class="story handelsetext" style="max-width:40rem">${sek}</div>` : ''}
   <h2 style="margin:1.4rem 0 .5rem;font-size:1.2rem">Regenter i händelsen</h2><div class="chips">${(h.regenter || []).filter(x => D.byId[x]).map(x => `<a href="#/regent/${x}">${esc(D.byId[x].namn)}</a>`).join('')}</div>
   ${h.status !== 'verifierad' ? '<aside class="utkast" style="max-width:40rem"><strong>Utkast.</strong> Beskrivningen ska kontrolleras mot källor.</aside>' : ''}
+  ${kallor ? `<div class="kallor" style="max-width:40rem"><h2>Källor</h2><ol>${kallor}</ol></div>` : ''}
+  <nav class="bladdra" aria-label="Föregående och nästa händelse">
+    ${prev ? `<a href="#/handelse/${prev.id}"><small>Föregående händelse</small><strong>${esc(prev.namn)}</strong></a>` : '<span></span>'}
+    ${next ? `<a href="#/handelse/${next.id}"><small>Nästa händelse</small><strong>${esc(next.namn)}</strong></a>` : '<span></span>'}
+  </nav>
   <p><a href="#/handelser">Alla händelser</a></p></div>`;
 }
 
@@ -558,7 +574,7 @@ function pSok(P) {
   let res = '';
   if (q) {
     const rs = D.R.filter(r => r._s.includes(ql)).sort((a, b) => (b.namn.toLowerCase().includes(ql)) - (a.namn.toLowerCase().includes(ql)));
-    const hs = D.H.filter(h => (h.namn + ' ' + h.text).toLowerCase().includes(ql));
+    const hs = D.H.filter(h => (h.namn + ' ' + h.text + ' ' + (h.berattelse || []).map(x => x.rubrik + ' ' + x.text).join(' ')).toLowerCase().includes(ql));
     const os = D.O.filter(o => (o.term + ' ' + o.forklaring).toLowerCase().includes(ql));
     const snip = r => { const i = r._s.indexOf(ql); if (i < 0 || r.namn.toLowerCase().includes(ql)) return esc(r.ingress || ''); const s = (r.berattelse || []).map(x => x.text).join(' ').replace(/\[\[(?:[ho]:)?[^|\]]+\|([^\]]+)\]\]/g, '$1'); const j = s.toLowerCase().indexOf(ql); if (j < 0) return esc(r.ingress || ''); return '…' + esc(s.slice(Math.max(0, j - 60), j)) + '<mark>' + esc(s.slice(j, j + q.length)) + '</mark>' + esc(s.slice(j + q.length, j + q.length + 80)) + '…'; };
     res = `<p class="mut">${rs.length + hs.length + os.length} träffar</p><ul class="sokres" style="list-style:none;padding:0">${rs.map(r => `<li><a href="#/regent/${r.id}"><strong>${esc(r.namn)}</strong></a> <span class="mut">${esc(reignText(r))}</span><br><span class="liten">${snip(r)}</span></li>`).join('')}${hs.map(h => `<li><a href="#/handelse/${h.id}"><strong>${esc(h.namn)}</strong></a> <span class="mut">${h.ar}, händelse</span></li>`).join('')}${os.map(o => `<li><a href="#/ordlista"><strong>${esc(o.term)}</strong></a> <span class="mut">ordlista</span><br><span class="liten">${esc(o.forklaring)}</span></li>`).join('')}</ul>`;
