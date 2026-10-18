@@ -1,8 +1,8 @@
 // Service worker: appskalet och datan fungerar offline. Höj VERSION när du har laddat upp nya filer.
-const VERSION = 'regenter-v11';
-const BILDER = 'regenter-bilder';
+const VERSION = 'sveriges-historia-v12';
+const BILDER = 'sveriges-historia-bilder';
 const SKAL = ['./', 'index.html', 'style.css', 'app.js', 'manifest.json',
-  'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'data/index.json', 'data/handelser.json', 'data/ordlista.json'];
+  'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png', 'data/index.json', 'data/handelser.json', 'data/ordlista.json'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VERSION).then(c => c.addAll(SKAL)).then(() => self.skipWaiting()));
