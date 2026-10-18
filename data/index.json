@@ -1,6 +1,6 @@
 {
  "titel": "Sveriges Historia",
- "version": 1,
+ "version": 2,
  "hus": [
   {
    "id": "uppsala",
@@ -113,11 +113,39 @@
  ],
  "epoker": [
   {
+   "id": "stenalder",
+   "namn": "Stenåldern",
+   "fran": -12000,
+   "till": -1800,
+   "text": "När inlandsisen drog sig tillbaka för omkring 13 000 år sedan följde jägare och samlare efter. Jordbruket kom under yngre stenåldern, och de första byarna och stora stengravarna byggdes."
+  },
+  {
+   "id": "bronsalder",
+   "namn": "Bronsåldern",
+   "fran": -1800,
+   "till": -500,
+   "text": "Bronsåldern räknas i Sverige omkring 1800–500 f.Kr. Skeppet är ett centralt motiv i hällristningarna och som gravform, och stora gravrösen och hällristningar berättar om tidens föreställningsvärld."
+  },
+  {
+   "id": "jarnalder",
+   "namn": "Järnåldern",
+   "fran": -500,
+   "till": 800,
+   "text": "Järnåldern räknas från omkring 500 f.Kr. I Mälardalen visar båtgravarna vid Vendel och Valsgärde att makt och rikedom samlades kring ett kungligt centrum vid Gamla Uppsala."
+  },
+  {
    "id": "vikingatid",
-   "namn": "Vikingatid och tidig medeltid",
-   "fran": 970,
+   "namn": "Vikingatiden",
+   "fran": 800,
+   "till": 1050,
+   "text": "Birka och senare Sigtuna växer fram som handelsplatser, och år 831 grundas enligt UNESCO den första kristna församlingen vid Birka. Sverige är ännu inte ett enhetligt rike, och källorna är få och ofta skrivna långt efteråt."
+  },
+  {
+   "id": "tidigmedeltid",
+   "namn": "Tidig medeltid",
+   "fran": 1050,
    "till": 1130,
-   "text": "Sverige är ännu inte ett enhetligt rike, och kristendomen får fäste långsamt. Källorna är få, ofta skrivna långt efteråt eller av utländska författare, så uppgifterna om de tidiga kungarna är osäkra."
+   "text": "Kristendomen får fäste och kungarna kämpar om makten. Uppgifterna om de tidiga kungarna är osäkra, eftersom källorna är få och ofta skrivna långt efteråt."
   },
   {
    "id": "sverker-erik",
