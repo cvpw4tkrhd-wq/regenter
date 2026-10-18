@@ -1,16 +1,77 @@
 {
-  "name": "Sveriges regenter",
-  "short_name": "Regenter",
-  "description": "Sveriges kungar och drottningar genom historien, med en berättelse om varje regent.",
+  "id": "./",
+  "name": "Sveriges Historia",
+  "short_name": "Sveriges Historia",
+  "description": "Sveriges historia från stenåldern till i dag: tidslinje, regenter, händelser och viktiga personer.",
   "lang": "sv",
+  "dir": "ltr",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0d2a4a",
+  "orientation": "any",
+  "background_color": "#006AA7",
   "theme_color": "#0d2a4a",
+  "categories": [
+    "education",
+    "books",
+    "history"
+  ],
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
-    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Tidslinje",
+      "url": "./#/tidslinje",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Händelser",
+      "url": "./#/handelser",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Quiz",
+      "url": "./#/quiz",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
   ]
 }
