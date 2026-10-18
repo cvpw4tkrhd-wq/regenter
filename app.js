@@ -18,10 +18,12 @@ const PAL = {
 };
 
 /* ---------- Lagrat läge (läst, bokmärken, läsposition) ---------- */
-const defState = () => ({ lasta: {}, bokmarken: [], pos: {}, senast: null, storlek: 1, anteck: {} });
+const defState = () => ({ lasta: {}, bokmarken: [], pos: {}, senast: null, storlek: 1, anteck: {}, egna: [] });
 let S;
 try { S = Object.assign(defState(), JSON.parse(localStorage.getItem(KEY) || '{}')); } catch (e) { S = defState(); }
 const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { /* privat läge */ } };
+const fmtAr = (y, ca) => (ca ? 'ca ' : '') + (y < 0 ? `${Math.abs(y).toLocaleString('sv-SE')} f.Kr.` : String(y));
+const hAr = h => fmtAr(h.ar, h.ca);
 const isRead = id => !!S.lasta[id];
 const findBm = (id, sek) => S.bokmarken.find(b => b.id === id && b.sek === sek);
 document.documentElement.style.setProperty('--lasstorlek', S.storlek);
@@ -44,12 +46,13 @@ function installBox(force) {
 }
 
 /* ---------- Data ---------- */
-const D = { hus: {}, epoker: [], R: [], byId: {}, H: [], hById: {}, O: [], oById: {}, REL: {}, M: [], F: [] };
+const D = { hus: {}, epoker: [], R: [], byId: {}, H: [], Hbas: [], hById: {}, P: [], pById: {}, O: [], oById: {}, REL: {}, M: [], F: [] };
 async function getJSON(p) { const r = await fetch(p); if (!r.ok) throw new Error(p + ' ' + r.status); return r.json(); }
 const start = r => r.perioder[0][0];
 const slut = r => { const p = r.perioder[r.perioder.length - 1]; return p[1] ?? NOW; };
 const reignYears = r => (r.osakerLangd ? 0 : r.perioder.reduce((s, [a, b]) => s + ((b ?? NOW) - a), 0));
 const isMon = r => r.titel !== 'Riksföreståndare';
+const eraSpan = e => `${fmtAr(e.fran)}–${e.till > 3000 ? '' : fmtAr(e.till)}`;
 const eraFor = y => D.epoker.find(e => y >= e.fran && y < e.till) || D.epoker[D.epoker.length - 1];
 const reignText = r => r.regeringstext ? r.regeringstext : r.perioder.map(([a, b]) => `${r.ca ? 'ca ' : ''}${a}–${b == null ? '' : b}`).join(' och ');
 const lifeText = r => {
@@ -76,6 +79,11 @@ const ageAtDeath = r => {
   return r.fodd && r.dod ? r.dod - r.fodd : null;
 };
 
+function rebuildH() {
+  const egna = (S.egna || []).map(e => ({ ...e, egen: true, status: 'egen', berattelse: [], kallor: [] }));
+  D.H = D.Hbas.concat(egna).sort((a, b) => a.ar - b.ar || String(a.datum || '').localeCompare(String(b.datum || '')) || a.namn.localeCompare(b.namn, 'sv'));
+  D.hById = {}; D.H.forEach(h => { D.hById[h.id] = h; });
+}
 async function load() {
   const idx = await getJSON('data/index.json');
   idx.hus.forEach(h => { D.hus[h.id] = h; });
@@ -85,11 +93,13 @@ async function load() {
   files.forEach(f => f.regenter.forEach(r => { r._ord = n++; D.R.push(r); }));
   D.R.sort((a, b) => start(a) - start(b) || a._ord - b._ord);
   D.R.forEach(r => { D.byId[r.id] = r; if (!D.hus[r.hus]) D.hus[r.hus] = { id: r.hus, namn: r.hus, farg: '#777' }; });
-  const [hd, od] = await Promise.all([
+  const [hd, od, pd] = await Promise.all([
     getJSON('data/handelser.json').catch(() => ({ handelser: [] })),
-    getJSON('data/ordlista.json').catch(() => ({ ord: [] }))
+    getJSON('data/ordlista.json').catch(() => ({ ord: [] })),
+    getJSON('data/personer.json').catch(() => ({ personer: [] }))
   ]);
-  D.H = hd.handelser.sort((a, b) => a.ar - b.ar); D.H.forEach(h => { D.hById[h.id] = h; });
+  D.Hbas = hd.handelser; rebuildH();
+  D.P = pd.personer.sort((a, b) => (a.ar ?? a.fodd ?? 0) - (b.ar ?? b.fodd ?? 0) || a.namn.localeCompare(b.namn, 'sv')); D.P.forEach(p => { D.pById[p.id] = p; });
   D.O = od.ord.sort((a, b) => a.term.localeCompare(b.term, 'sv')); D.O.forEach(o => { D.oById[o.id] = o; });
   derive();
 }
@@ -154,7 +164,7 @@ const app = $('#app');
 let post = null;
 const routes = [
   [/^$/, pHem], [/^tidslinje$/, pTidslinje], [/^regent\/([^/]+)$/, pRegent], [/^slakttrad(?:\/([^/]+))?$/, pSlakt],
-  [/^handelser$/, pHandelser], [/^handelse\/([^/]+)$/, pHandelse], [/^jamfor$/, pJamfor], [/^statistik$/, pStat],
+  [/^handelser$/, pHandelser], [/^handelse\/([^/]+)$/, pHandelse], [/^ny-handelse$/, pNyHandelse], [/^personer$/, pPersoner], [/^person\/([^/]+)$/, pPerson], [/^jamfor$/, pJamfor], [/^statistik$/, pStat],
   [/^quiz$/, pQuiz], [/^ordlista$/, pOrd], [/^bokmarken$/, pBokm], [/^sok$/, pSok], [/^mer$/, pMer], [/^om$/, pOm]
 ];
 function route() {
@@ -168,7 +178,7 @@ function route() {
   post = null; document.title = 'Sveriges Historia';
   app.innerHTML = hit ? hit[0](...hit[1], P) : `<div class="sida"><h1>Sidan finns inte</h1><p><a href="#/">Till startsidan</a></p></div>`;
   const seg = clean.split('/')[0];
-  const map = { regent: 'tidslinje', handelse: 'handelser' };
+  const map = { regent: 'tidslinje', handelse: 'handelser', 'ny-handelse': 'handelser' };
   let key = map[seg] ?? seg; if (!['', 'tidslinje', 'slakttrad', 'handelser', 'mer'].includes(key)) key = 'mer';
   $$('.nav a').forEach(a => { a.dataset.nav === key ? a.setAttribute('aria-current', 'page') : a.removeAttribute('aria-current'); });
   window.scrollTo(0, 0);
@@ -208,12 +218,13 @@ function pHem() {
   const bm = S.bokmarken.slice(0, 3).map(b => { const r = D.byId[b.id]; return r ? `<li><a href="#/regent/${r.id}${b.sek >= 0 ? '?sek=' + b.sek : ''}">${esc(r.namn)}</a> <span class="mut">${esc(b.etikett || '')}</span></li>` : ''; }).join('');
   const d = new Date(), mmdd = String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
   const idag = [];
-  D.H.filter(h => h.datum === mmdd).forEach(h => idag.push(`<li><a href="#/handelse/${h.id}">${esc(h.namn)}</a> <span class="mut">${h.ar}</span></li>`));
+  D.H.filter(h => h.datum === mmdd).forEach(h => idag.push(`<li><a href="#/handelse/${h.id}">${esc(h.namn)}</a> <span class="mut">${hAr(h)}</span></li>`));
   D.R.forEach(r => { if ((r.foddDatum || '').slice(5) === mmdd) idag.push(`<li><a href="#/regent/${r.id}">${esc(r.namn)}</a> <span class="mut">föddes ${r.foddDatum.slice(0, 4)}</span></li>`); if ((r.dodDatum || '').slice(5) === mmdd) idag.push(`<li><a href="#/regent/${r.id}">${esc(r.namn)}</a> <span class="mut">dog ${r.dodDatum.slice(0, 4)}</span></li>`); });
   const mer = [
     ['#/tidslinje', 'Tidslinje', 'Alla regenter i tidsordning, med händelser och epoker.'],
     ['#/slakttrad', 'Släktträd', 'Föräldrar, makar och barn. Klicka dig vidare mellan släkterna.'],
-    ['#/handelser', 'Händelser', 'Slag, fredsavtal och statskupper, kopplade till regenterna.'],
+    ['#/handelser', 'Händelser', 'Från stenåldern till i dag, med utförliga berättelser. Lägg också till egna händelser.'],
+    ['#/personer', 'Viktiga personer', 'Personer som formade Sveriges historia, från vikingatiden till i dag.'],
     ['#/jamfor', 'Jämför två regenter', 'Regeringstid, ålder och efterträdare sida vid sida.'],
     ['#/statistik', 'Rekord och statistik', 'Längsta regeringstid, yngsta tronföljare och mer.'],
     ['#/quiz', 'Quiz', 'Frågor på svenska om regenter och årtal.'],
@@ -247,28 +258,32 @@ function pHem() {
 }
 
 /* ---------- Tidslinje ---------- */
-const TL = { hus: new Set(), handelser: true, visa: 'alla' };
+const TL = { hus: new Set(), handelser: true, personer: true, visa: 'alla' };
 function tlHTML() {
   let items = D.R.filter(r => (!TL.hus.size || TL.hus.has(r.hus)) && (TL.visa === 'alla' || (TL.visa === 'lasta') === isRead(r.id))).map(r => ({ y: start(r), t: 0, r }));
   if (TL.handelser) {
     const ids = new Set(items.map(i => i.r.id));
     D.H.forEach(h => { if ((!TL.hus.size && TL.visa === 'alla') || (h.regenter || []).some(x => ids.has(x))) items.push({ y: h.ar, t: 1, h }); });
   }
+  if (TL.personer && !TL.hus.size && TL.visa === 'alla') D.P.forEach(p => { const y = p.ar ?? p.fodd; if (y != null) items.push({ y, t: 2, p }); });
   items.sort((a, b) => a.y - b.y || a.t - b.t);
   if (!items.length) return '<li class="mut">Inga regenter matchar filtret.</li>';
   let out = '', last = null;
   items.forEach(i => {
     const e = eraFor(i.y);
-    if (e !== last) { last = e; out += `<li class="era"><h2>${esc(e.namn)}<span class="eraar">${e.fran}–${e.till > 3000 ? '' : e.till}</span></h2><details><summary>Tidens sammanhang</summary><p>${esc(e.text)}</p></details></li>`; }
+    if (e !== last) { last = e; out += `<li class="era"><h2>${esc(e.namn)}<span class="eraar">${eraSpan(e)}</span></h2><details><summary>Tidens sammanhang</summary><p>${esc(e.text)}</p></details></li>`; }
     if (i.t === 0) {
       const r = i.r;
       out += `<li class="rad${isMon(r) ? '' : ' rf'}${isRead(r.id) ? ' last' : ''}" data-id="${r.id}" style="--c:${hcol(r)}">
         <span class="ar">${r.ca ? 'ca ' : ''}${i.y}</span>
         <a class="kort" href="#/regent/${r.id}"><span class="namn">${esc(r.namn)}</span><span class="under"><span>${esc(r.titel)}</span><span>${esc(D.hus[r.hus].namn)}</span><span>${esc(reignText(r))}</span>${palBadge(r)}${r.berattelse && r.berattelse.length ? `<span>${readMins(r)} min</span>` : ''}</span></a>
         <button type="button" class="kryss" data-act="las" data-las="${r.id}" aria-pressed="${isRead(r.id)}" aria-label="Läst: ${esc(r.namn)}" title="Markera som läst">${CHECK}</button></li>`;
+    } else if (i.t === 2) {
+      const p = i.p;
+      out += `<li class="rad pers" style="--c:#7a5c99"><span class="ar">${fmtAr(i.y, p.ar == null && p.foddCa)}</span><a class="kort" href="#/person/${p.id}"><span class="namn">${esc(p.namn)}</span><span class="under"><span class="persmark">Person</span><span>${esc(p.roll || '')}</span></span></a><span></span></li>`;
     } else {
       const h = i.h;
-      out += `<li class="rad hand" style="--c:var(--text)"><span class="ar">${h.ar}</span><a class="kort" href="#/handelse/${h.id}"><span class="namn">${esc(h.namn)}</span></a><span></span></li>`;
+      out += `<li class="rad hand" style="--c:var(--text)"><span class="ar">${hAr(h)}</span><a class="kort" href="#/handelse/${h.id}"><span class="namn">${esc(h.namn)}</span>${h.egen ? '<span class="under"><span class="egenmark">Min händelse</span></span>' : ''}</a><span></span></li>`;
     }
   });
   return out;
@@ -285,12 +300,13 @@ function pTidslinje(P) {
       el.innerHTML = tlHTML();
     });
     $('#tl-ev').addEventListener('change', e => { TL.handelser = e.target.checked; el.innerHTML = tlHTML(); });
+    $('#tl-pers').addEventListener('change', e => { TL.personer = e.target.checked; el.innerHTML = tlHTML(); });
     $('#tl-visa').addEventListener('change', e => { TL.visa = e.target.value; el.innerHTML = tlHTML(); });
     $('#tl-alla').addEventListener('click', () => { TL.hus.clear(); $$('#tl-hus [data-hus]').forEach(x => x.setAttribute('aria-pressed', 'false')); el.innerHTML = tlHTML(); });
   };
-  return `<div class="sida"><div class="sidhuvud"><h1>Tidslinje</h1><p>Alla regenter i tidsordning. Färgen visar ätten. Kryssrutan till höger markerar att du har läst om regenten.</p></div>
+  return `<div class="sida"><div class="sidhuvud"><h1>Tidslinje</h1><p>Från stenåldern till i dag: regenter, händelser och viktiga personer i tidsordning. Färgen visar ätten. Kryssrutan till höger markerar att du har läst om regenten.</p></div>
   <div class="filter" id="tl-hus" role="group" aria-label="Filtrera på ätt">${used.map(id => `<button type="button" class="chip" data-hus="${id}" aria-pressed="${TL.hus.has(id)}"><i class="prick" style="--c:${D.hus[id].farg}"></i>${esc(D.hus[id].namn)}</button>`).join('')}<button type="button" class="chip" id="tl-alla">Visa alla ätter</button></div>
-  <div class="filter"><label class="chip"><input type="checkbox" id="tl-ev" ${TL.handelser ? 'checked' : ''}> Visa händelser</label>
+  <div class="filter"><label class="chip"><input type="checkbox" id="tl-ev" ${TL.handelser ? 'checked' : ''}> Visa händelser</label><label class="chip"><input type="checkbox" id="tl-pers" ${TL.personer ? 'checked' : ''}> Visa personer</label><a class="chip" href="#/ny-handelse">+ Lägg till egen händelse</a>
   <label>Visa <select id="tl-visa"><option value="alla" ${TL.visa === 'alla' ? 'selected' : ''}>Alla</option><option value="olasta" ${TL.visa === 'olasta' ? 'selected' : ''}>Olästa</option><option value="lasta" ${TL.visa === 'lasta' ? 'selected' : ''}>Lästa</option></select></label></div>
   <ol class="tl" id="tl-lista">${tlHTML()}</ol></div>`;
 }
@@ -359,7 +375,7 @@ function pRegent(id, P) {
         ${rl.relaterade.length ? `<dt>Släkt</dt><dd>${persList(rl.relaterade)}</dd>` : ''}
       </dl><p style="margin:.8rem 0 0"><a href="#/slakttrad/${id}">Visa släktträd</a> &nbsp; <a href="#/jamfor?a=${id}">Jämför med annan</a></p></section>
       <section class="sidoruta"><h2>Tidens sammanhang</h2><p><strong>${esc(era.namn)}</strong></p><p>${esc(era.text)}</p></section>
-      ${evs.length ? `<section class="sidoruta"><h2>Händelser</h2><div class="chips">${evs.map(h => `<a href="#/handelse/${h.id}">${h.ar} ${esc(h.namn)}</a>`).join('')}</div></section>` : ''}
+      ${evs.length ? `<section class="sidoruta"><h2>Händelser</h2><div class="chips">${evs.map(h => `<a href="#/handelse/${h.id}">${hAr(h)} ${esc(h.namn)}</a>`).join('')}</div></section>` : ''}
     </aside>
   </div></article>`;
 }
@@ -474,9 +490,9 @@ function pHandelser() {
   let last = null, out = '';
   D.H.forEach(h => {
     const e = eraFor(h.ar); if (e !== last) { last = e; out += `<li class="era"><h2>${esc(e.namn)}</h2></li>`; }
-    out += `<li class="rad hand" style="--c:var(--text)"><span class="ar">${h.ar}</span><a class="kort" href="#/handelse/${h.id}"><span class="namn">${esc(h.namn)}</span><span class="under">${(h.regenter || []).map(x => D.byId[x] ? esc(D.byId[x].namn) : '').filter(Boolean).join(', ')}${antList(h.id).length ? ` · ${antList(h.id).length} ${antList(h.id).length === 1 ? 'kommentar' : 'kommentarer'}` : ''}</span></a><span></span></li>`;
+    out += `<li class="rad hand" style="--c:var(--text)"><span class="ar">${h.ar}</span><a class="kort" href="#/handelse/${h.id}"><span class="namn">${esc(h.namn)}</span><span class="under">${(h.regenter || []).map(x => D.byId[x] ? esc(D.byId[x].namn) : '').filter(Boolean).join(', ')}${h.egen ? ' · Min händelse' : ''}${antList(h.id).length ? ` · ${antList(h.id).length} ${antList(h.id).length === 1 ? 'kommentar' : 'kommentarer'}` : ''}</span></a><span></span></li>`;
   });
-  return `<div class="sida"><div class="sidhuvud"><h1>Händelser</h1><p>Slag, fredsavtal och politiska omvälvningar som hör ihop med regenterna.</p></div><ol class="tl">${out}</ol></div>`;
+  return `<div class="sida"><div class="sidhuvud"><h1>Händelser</h1><p>Från stenåldern till i dag: slag, fredsavtal, politiska omvälvningar och vad som hände i landet före regenterna.</p><p><a class="knapp" href="#/ny-handelse">+ Lägg till egen händelse</a></p></div><ol class="tl">${out}</ol></div>`;
 }
 const antList = id => ((S.anteck && S.anteck[id]) || []);
 const antDatum = ts => { const d = new Date(ts); return `${d.getDate()} ${MANADER[d.getMonth()].slice(0, 3)} ${d.getFullYear()}, ${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`; };
@@ -491,8 +507,8 @@ function antHTML(id) {
 }
 const MANADER = ['januari', 'februari', 'mars', 'april', 'maj', 'juni', 'juli', 'augusti', 'september', 'oktober', 'november', 'december'];
 function handelseDatum(h) {
-  if (h.datum && /^\d\d-\d\d$/.test(h.datum)) { const [m, d] = h.datum.split('-').map(Number); return `${d} ${MANADER[m - 1]} ${h.ar}`; }
-  return String(h.ar);
+  if (h.datum && /^\d\d-\d\d$/.test(h.datum) && h.ar > 0) { const [m, d] = h.datum.split('-').map(Number); return `${d} ${MANADER[m - 1]} ${h.ar}`; }
+  return hAr(h);
 }
 function pHandelse(id) {
   const h = D.hById[id]; if (!h) return `<div class="sida"><h1>Händelsen finns inte</h1><p><a href="#/handelser">Alla händelser</a></p></div>`;
@@ -501,11 +517,12 @@ function pHandelse(id) {
   const ord = (h.berattelse || []).reduce((n, x) => n + String(x.text).split(/\s+/).length, 0);
   const kallor = (h.kallor || []).map(k => `<li>${k.url ? `<a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.titel)}</a>` : esc(k.titel)}${k.utgivare ? `, ${esc(k.utgivare)}` : ''} <span class="mut">${k.kontrollerad ? '(kontrollerad)' : '(ska kontrolleras)'}</span></li>`).join('');
   return `<div class="sida handelse"><div class="sidhuvud"><h1>${esc(h.namn)}</h1><p>${esc(handelseDatum(h))}</p></div>
-  <p class="ingress" style="max-width:40rem;font-family:var(--serif);font-size:1.15rem;line-height:1.7">${fmt(h.text)}</p>
+  ${String(h.text || '').split(/\n\s*\n|\n/).filter(Boolean).map((p, i) => `<p${i === 0 ? ' class="ingress"' : ''} style="max-width:40rem;font-family:var(--serif);font-size:${i === 0 ? '1.15rem' : '1.05rem'};line-height:1.7">${fmt(p)}</p>`).join('')}
   ${ord ? `<p class="liten mut">Ungefär ${Math.max(1, Math.round(ord / 200))} minuters läsning.</p>` : ''}
   ${sek ? `<div class="story handelsetext" style="max-width:40rem">${sek}</div>` : ''}
   <h2 style="margin:1.4rem 0 .5rem;font-size:1.2rem">Regenter i händelsen</h2><div class="chips">${(h.regenter || []).filter(x => D.byId[x]).map(x => `<a href="#/regent/${x}">${esc(D.byId[x].namn)}</a>`).join('')}</div>
-  ${h.status !== 'verifierad' ? '<aside class="utkast" style="max-width:40rem"><strong>Utkast.</strong> Beskrivningen ska kontrolleras mot källor.</aside>' : ''}
+  ${(h.personer || []).filter(x => D.pById[x]).length ? `<h2 style="margin:1.2rem 0 .5rem;font-size:1.2rem">Personer i händelsen</h2><div class="chips">${h.personer.filter(x => D.pById[x]).map(x => `<a href="#/person/${x}">${esc(D.pById[x].namn)}</a>`).join('')}</div>` : ''}
+  ${h.egen ? '<aside class="egenruta" style="max-width:40rem"><strong>Min händelse.</strong> Den här händelsen har du skrivit själv. Den sparas bara i den här webbläsaren och är inte kontrollerad mot källor.<p><a class="litenknapp" href="#/ny-handelse?id=' + esc(h.id) + '">Ändra</a> <button type="button" class="litenknapp" data-act="egen-ta" data-id="' + esc(h.id) + '">Ta bort händelsen</button></p></aside>' : (h.status !== 'verifierad' ? '<aside class="utkast" style="max-width:40rem"><strong>Utkast.</strong> Beskrivningen ska kontrolleras mot källor.</aside>' : '')}
   <div style="max-width:40rem">${antHTML(id)}</div>
   ${kallor ? `<div class="kallor" style="max-width:40rem"><h2>Källor</h2><ol>${kallor}</ol></div>` : ''}
   <nav class="bladdra" aria-label="Föregående och nästa händelse">
@@ -513,6 +530,72 @@ function pHandelse(id) {
     ${next ? `<a href="#/handelse/${next.id}"><small>Nästa händelse</small><strong>${esc(next.namn)}</strong></a>` : '<span></span>'}
   </nav>
   <p><a href="#/handelser">Alla händelser</a></p></div>`;
+}
+
+
+/* ---------- Egna händelser ---------- */
+function pNyHandelse(P) {
+  const id = P.get('id'), ex = id ? (S.egna || []).find(e => e.id === id) : null;
+  const bc = !!(ex && ex.ar < 0), y = ex ? Math.abs(ex.ar) : '';
+  const [mm, dd] = ex && ex.datum ? ex.datum.split('-').map(Number) : [0, ''];
+  const valda = new Set(ex ? ex.regenter || [] : []);
+  return `<div class="sida"><div class="sidhuvud"><h1>${ex ? 'Ändra' : 'Lägg till'} egen händelse</h1><p>Din händelse visas i tidslinjen och bland händelserna, märkt som din egen. Den sparas bara i den här webbläsaren och följer med i säkerhetskopian.</p></div>
+  <div class="egenform" style="max-width:40rem" data-edit="${ex ? esc(ex.id) : ''}">
+    <label for="e-namn">Namn på händelsen</label><input id="e-namn" type="text" maxlength="80" value="${esc(ex ? ex.namn : '')}" autocomplete="off">
+    <div class="radfalt"><div><label for="e-ar">År</label><input id="e-ar" type="number" min="1" max="30000" step="1" inputmode="numeric" value="${y}"></div>
+    <div><label for="e-tid">Tid</label><select id="e-tid"><option value="ekr" ${bc ? '' : 'selected'}>e.Kr.</option><option value="fkr" ${bc ? 'selected' : ''}>f.Kr.</option></select></div>
+    <label class="chip"><input type="checkbox" id="e-ca" ${ex && ex.ca ? 'checked' : ''}> Ungefärligt år</label></div>
+    <div class="radfalt"><div><label for="e-man">Månad (valfritt)</label><select id="e-man"><option value="">–</option>${MANADER.map((m, i) => `<option value="${i + 1}" ${mm === i + 1 ? 'selected' : ''}>${m}</option>`).join('')}</select></div>
+    <div><label for="e-dag">Dag (valfritt)</label><input id="e-dag" type="number" min="1" max="31" inputmode="numeric" value="${dd}"></div></div>
+    <label for="e-text">Beskrivning</label><textarea id="e-text" rows="6" maxlength="4000" placeholder="Vad hände? Du kan skriva flera stycken.">${esc(ex ? ex.text : '')}</textarea>
+    <details class="valj"><summary>Koppla till regenter (valfritt)</summary><div class="valjlista">${D.R.map(r => `<label><input type="checkbox" name="e-reg" value="${r.id}" ${valda.has(r.id) ? 'checked' : ''}> ${esc(r.namn)} <span class="mut">${esc(reignText(r))}</span></label>`).join('')}</div></details>
+    <p id="e-fel" class="egenfel" role="alert" hidden></p>
+    <p><button type="button" class="knapp" data-act="egen-spara">Spara händelsen</button> <a class="litenknapp" href="#/${ex ? 'handelse/' + esc(ex.id) : 'handelser'}">Avbryt</a></p>
+  </div></div>`;
+}
+function sparaEgen() {
+  const form = $('.egenform'); if (!form) return;
+  const fel = m => { const e = $('#e-fel'); e.textContent = m; e.hidden = false; };
+  const namn = $('#e-namn').value.trim(), yr = parseInt($('#e-ar').value, 10), text = $('#e-text').value.trim();
+  if (!namn) return fel('Skriv ett namn på händelsen.');
+  if (!yr || yr < 1) return fel('Skriv ett år. Det finns inget år noll, så börja på 1.');
+  const man = parseInt($('#e-man').value, 10) || 0, dag = parseInt($('#e-dag').value, 10) || 0;
+  if ((man && !dag) || (!man && dag)) return fel('Fyll i både månad och dag, eller lämna båda tomma.');
+  if (man && (dag < 1 || dag > 31)) return fel('Dagen måste vara mellan 1 och 31.');
+  const ar = $('#e-tid').value === 'fkr' ? -yr : yr;
+  const datum = man && dag && ar > 0 ? String(man).padStart(2, '0') + '-' + String(dag).padStart(2, '0') : null;
+  const regenter = $$('input[name="e-reg"]:checked', form).map(x => x.value);
+  if (!S.egna) S.egna = [];
+  const edit = form.dataset.edit, ex = edit ? S.egna.find(e => e.id === edit) : null;
+  const rec = { id: ex ? ex.id : 'egen-' + Date.now().toString(36) + Math.random().toString(36).slice(2, 5), namn, ar, ca: $('#e-ca').checked, datum, text, regenter, ts: ex ? ex.ts : Date.now() };
+  if (ex) S.egna[S.egna.indexOf(ex)] = rec; else S.egna.unshift(rec);
+  save(); rebuildH(); toast('Händelsen är sparad.'); location.hash = '#/handelse/' + rec.id;
+}
+
+/* ---------- Viktiga personer ---------- */
+function pPersoner() {
+  let last = null, out = '';
+  D.P.forEach(p => {
+    const e = eraFor(p.ar ?? p.fodd ?? 0); if (e !== last) { last = e; out += `<li class="era"><h2>${esc(e.namn)}</h2></li>`; }
+    out += `<li class="rad pers" style="--c:#7a5c99"><span class="ar">${fmtAr(p.ar ?? p.fodd, p.ar == null && p.foddCa)}</span><a class="kort" href="#/person/${p.id}"><span class="namn">${esc(p.namn)}</span><span class="under"><span>${esc(p.roll || '')}</span><span class="mut">${esc(persAr(p))}</span></span></a><span></span></li>`;
+  });
+  return `<div class="sida"><div class="sidhuvud"><h1>Viktiga personer</h1><p>Personer som formade Sveriges historia utan att vara regenter. Varje berättelse bygger på angivna källor.</p></div><ol class="tl">${out || '<li class="mut">Inga personer ännu.</li>'}</ol></div>`;
+}
+const persAr = p => `${p.fodd != null ? fmtAr(p.fodd, p.foddCa) : '?'}–${p.dod != null ? fmtAr(p.dod, p.dodCa) : ''}`;
+function pPerson(id) {
+  const p = D.pById[id]; if (!p) return `<div class="sida"><h1>Personen finns inte</h1><p><a href="#/personer">Alla personer</a></p></div>`;
+  const idx = D.P.indexOf(p), prev = D.P[idx - 1], next = D.P[idx + 1];
+  const sek = (p.berattelse || []).map(x => `<section><h2>${esc(x.rubrik)}</h2>${String(x.text).split(/\n\n+/).map(t => `<p>${fmt(t)}</p>`).join('')}</section>`).join('');
+  const evs = D.H.filter(h => (h.personer || []).includes(id));
+  const kallor = (p.kallor || []).map(k => `<li>${k.url ? `<a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.titel)}</a>` : esc(k.titel)}${k.utgivare ? `, ${esc(k.utgivare)}` : ''} <span class="mut">${k.kontrollerad ? '(kontrollerad)' : '(ska kontrolleras)'}</span></li>`).join('');
+  return `<div class="sida handelse person"><div class="sidhuvud"><h1>${esc(p.namn)}</h1><p>${esc(p.roll || '')} <span class="mut">${esc(persAr(p))}</span></p></div>
+  ${p.ingress ? `<p class="ingress" style="max-width:40rem;font-family:var(--serif);font-size:1.15rem;line-height:1.7">${fmt(p.ingress)}</p>` : ''}
+  ${sek ? `<div class="story handelsetext" style="max-width:40rem">${sek}</div>` : ''}
+  ${(p.regenter || []).filter(x => D.byId[x]).length ? `<h2 style="margin:1.4rem 0 .5rem;font-size:1.2rem">Regenter i berättelsen</h2><div class="chips">${p.regenter.filter(x => D.byId[x]).map(x => `<a href="#/regent/${x}">${esc(D.byId[x].namn)}</a>`).join('')}</div>` : ''}
+  ${evs.length ? `<h2 style="margin:1.2rem 0 .5rem;font-size:1.2rem">Händelser</h2><div class="chips">${evs.map(h => `<a href="#/handelse/${h.id}">${hAr(h)} ${esc(h.namn)}</a>`).join('')}</div>` : ''}
+  ${kallor ? `<div class="kallor" style="max-width:40rem"><h2>Källor</h2><ol>${kallor}</ol></div>` : ''}
+  <nav class="bladdra" aria-label="Föregående och nästa person">${prev ? `<a href="#/person/${prev.id}"><small>Föregående person</small><strong>${esc(prev.namn)}</strong></a>` : '<span></span>'}${next ? `<a href="#/person/${next.id}"><small>Nästa person</small><strong>${esc(next.namn)}</strong></a>` : '<span></span>'}</nav>
+  <p><a href="#/personer">Alla personer</a></p></div>`;
 }
 
 /* ---------- Jämför ---------- */
@@ -604,15 +687,16 @@ function pSok(P) {
   let res = '';
   if (q) {
     const rs = D.R.filter(r => r._s.includes(ql)).sort((a, b) => (b.namn.toLowerCase().includes(ql)) - (a.namn.toLowerCase().includes(ql)));
+    const ps = D.P.filter(p => (p.namn + ' ' + (p.roll || '') + ' ' + (p.ingress || '') + ' ' + (p.berattelse || []).map(x => x.text).join(' ')).toLowerCase().includes(ql));
     const hs = D.H.filter(h => (h.namn + ' ' + h.text + ' ' + (h.berattelse || []).map(x => x.rubrik + ' ' + x.text).join(' ')).toLowerCase().includes(ql));
     const os = D.O.filter(o => (o.term + ' ' + o.forklaring).toLowerCase().includes(ql));
     const snip = r => { const i = r._s.indexOf(ql); if (i < 0 || r.namn.toLowerCase().includes(ql)) return esc(r.ingress || ''); const s = (r.berattelse || []).map(x => x.text).join(' ').replace(/\[\[(?:[ho]:)?[^|\]]+\|([^\]]+)\]\]/g, '$1'); const j = s.toLowerCase().indexOf(ql); if (j < 0) return esc(r.ingress || ''); return '…' + esc(s.slice(Math.max(0, j - 60), j)) + '<mark>' + esc(s.slice(j, j + q.length)) + '</mark>' + esc(s.slice(j + q.length, j + q.length + 80)) + '…'; };
-    res = `<p class="mut">${rs.length + hs.length + os.length} träffar</p><ul class="sokres" style="list-style:none;padding:0">${rs.map(r => `<li><a href="#/regent/${r.id}"><strong>${esc(r.namn)}</strong></a> <span class="mut">${esc(reignText(r))}</span><br><span class="liten">${snip(r)}</span></li>`).join('')}${hs.map(h => `<li><a href="#/handelse/${h.id}"><strong>${esc(h.namn)}</strong></a> <span class="mut">${h.ar}, händelse</span></li>`).join('')}${os.map(o => `<li><a href="#/ordlista"><strong>${esc(o.term)}</strong></a> <span class="mut">ordlista</span><br><span class="liten">${esc(o.forklaring)}</span></li>`).join('')}</ul>`;
+    res = `<p class="mut">${rs.length + hs.length + os.length + ps.length} träffar</p><ul class="sokres" style="list-style:none;padding:0">${rs.map(r => `<li><a href="#/regent/${r.id}"><strong>${esc(r.namn)}</strong></a> <span class="mut">${esc(reignText(r))}</span><br><span class="liten">${snip(r)}</span></li>`).join('')}${hs.map(h => `<li><a href="#/handelse/${h.id}"><strong>${esc(h.namn)}</strong></a> <span class="mut">${hAr(h)}, händelse</span></li>`).join('')}${ps.map(p => `<li><a href="#/person/${p.id}"><strong>${esc(p.namn)}</strong></a> <span class="mut">${esc(p.roll || '')}, person</span></li>`).join('')}${os.map(o => `<li><a href="#/ordlista"><strong>${esc(o.term)}</strong></a> <span class="mut">ordlista</span><br><span class="liten">${esc(o.forklaring)}</span></li>`).join('')}</ul>`;
   }
   return `<div class="sida"><div class="sidhuvud"><h1>Sök</h1></div><form id="sokf" class="valj" role="search"><input id="sokq" type="search" value="${esc(q)}" placeholder="Namn, händelse eller ord" aria-label="Sökord"><button class="knapp" type="submit">Sök</button></form><div style="margin-top:1rem">${res}</div></div>`;
 }
 function pMer() {
-  const l = [['#/jamfor', 'Jämför två regenter', 'Regeringstid, ålder och efterträdare sida vid sida.'], ['#/statistik', 'Rekord och statistik', 'Längsta regeringstid, yngsta tronföljare och mer.'], ['#/quiz', 'Quiz', 'Frågor på svenska om regenter och årtal.'], ['#/ordlista', 'Ordlista', 'Förklaringar av ord som riksföreståndare och interregnum.'], ['#/bokmarken', 'Bokmärken', 'Platser du har sparat i berättelserna.'], ['#/sok', 'Sök', 'Sök bland regenter, händelser och ord.'], ['#/om', 'Om appen och säkerhetskopia', 'Källor, bilder och hur du flyttar dina framsteg.']];
+  const l = [['#/personer', 'Viktiga personer', 'Personer som formade Sveriges historia, från vikingatiden till i dag.'], ['#/ny-handelse', 'Lägg till egen händelse', 'Skriv in en egen händelse som visas i tidslinjen.'], ['#/jamfor', 'Jämför två regenter', 'Regeringstid, ålder och efterträdare sida vid sida.'], ['#/statistik', 'Rekord och statistik', 'Längsta regeringstid, yngsta tronföljare och mer.'], ['#/quiz', 'Quiz', 'Frågor på svenska om regenter och årtal.'], ['#/ordlista', 'Ordlista', 'Förklaringar av ord som riksföreståndare och interregnum.'], ['#/bokmarken', 'Bokmärken', 'Platser du har sparat i berättelserna.'], ['#/sok', 'Sök', 'Sök bland regenter, händelser och ord.'], ['#/om', 'Om appen och säkerhetskopia', 'Källor, bilder och hur du flyttar dina framsteg.']];
   return `<div class="sida"><div class="sidhuvud"><h1>Mer</h1></div><ul class="utforska">${l.map(([h, t, s]) => `<li><a href="${h}"><strong>${t}</strong><span>${s}</span></a></li>`).join('')}</ul></div>`;
 }
 function pOm() {
@@ -675,6 +759,12 @@ document.addEventListener('click', e => {
     n.text = txt; n.andrad = Date.now(); save(); $('#anteck').outerHTML = antHTML(id); toast('Kommentaren är ändrad.');
   }
   else if (act === 'anteck-avbryt') { $('#anteck').outerHTML = antHTML(t.dataset.id); }
+  else if (act === 'egen-spara') sparaEgen();
+  else if (act === 'egen-ta') {
+    if (!confirm('Vill du ta bort din händelse och dess kommentarer?')) return;
+    const id = t.dataset.id; S.egna = (S.egna || []).filter(e => e.id !== id); if (S.anteck) delete S.anteck[id];
+    save(); rebuildH(); toast('Händelsen är borttagen.'); location.hash = '#/handelser';
+  }
   else if (act === 'installera') { if (installEv) { installEv.prompt(); installEv.userChoice.finally(() => { installEv = null; const b = $('#installbox'); if (b) b.remove(); }); } }
   else if (act === 'install-dold') { S.installNej = true; save(); const b = $('#installbox'); if (b) b.remove(); }
   else if (act === 'export') { const b = new Blob([JSON.stringify(S, null, 1)], { type: 'application/json' }); const a = document.createElement('a'); a.href = URL.createObjectURL(b); a.download = 'regenter-framsteg.json'; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 2000); }
