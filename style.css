@@ -266,3 +266,6 @@ a.nod:hover{border-color:var(--c)}
 @media (min-width:761px){#toast{bottom:1.5rem}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 @media print{.topp,.nav,.lasstreck,.verktyg,.bokm,#toast{display:none}.story{max-width:none}}
+.handelse .bladdra a{--c:var(--guld)}
+.handelse .story{font-family:var(--serif);font-size:1.1rem;line-height:1.7}
+.handelse .kallor{margin-top:2rem}
