@@ -269,3 +269,15 @@ a.nod:hover{border-color:var(--c)}
 .handelse .bladdra a{--c:var(--guld)}
 .handelse .story{font-family:var(--serif);font-size:1.1rem;line-height:1.7}
 .handelse .kallor{margin-top:2rem}
+
+.anteck{margin-top:2.2rem;padding-top:1.2rem;border-top:2px solid var(--linje)}
+.anteck h2{font-size:1.3rem;margin:0 0 .3rem}
+.antlista{list-style:none;padding:0;margin:1rem 0}
+.antlista li{background:var(--yta);border:1px solid var(--linje);border-left:5px solid var(--guld);border-radius:var(--radie);padding:.7rem .9rem;margin:0 0 .7rem}
+.antmeta{font-size:.82rem;color:var(--dim);margin-bottom:.25rem}
+.anttext{margin:0 0 .5rem;white-space:normal;overflow-wrap:anywhere}
+.antknappar{display:flex;gap:.5rem;flex-wrap:wrap}
+.litenknapp{font:inherit;font-size:.85rem;padding:.25rem .7rem;border:1px solid var(--linje);border-radius:999px;background:transparent;color:var(--text);cursor:pointer}
+.litenknapp:hover,.litenknapp:focus-visible{background:var(--yta)}
+.antlabel{display:block;font-weight:600;margin:1rem 0 .3rem}
+#ant-ny,.antredigera{width:100%;box-sizing:border-box;font:inherit;line-height:1.5;padding:.6rem .7rem;border:1px solid var(--linje);border-radius:var(--radie);background:#fff;color:#1b2430;resize:vertical}
