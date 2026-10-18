@@ -18,7 +18,7 @@ const PAL = {
 };
 
 /* ---------- Lagrat läge (läst, bokmärken, läsposition) ---------- */
-const defState = () => ({ lasta: {}, bokmarken: [], pos: {}, senast: null, storlek: 1 });
+const defState = () => ({ lasta: {}, bokmarken: [], pos: {}, senast: null, storlek: 1, anteck: {} });
 let S;
 try { S = Object.assign(defState(), JSON.parse(localStorage.getItem(KEY) || '{}')); } catch (e) { S = defState(); }
 const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { /* privat läge */ } };
@@ -456,9 +456,20 @@ function pHandelser() {
   let last = null, out = '';
   D.H.forEach(h => {
     const e = eraFor(h.ar); if (e !== last) { last = e; out += `<li class="era"><h2>${esc(e.namn)}</h2></li>`; }
-    out += `<li class="rad hand" style="--c:var(--text)"><span class="ar">${h.ar}</span><a class="kort" href="#/handelse/${h.id}"><span class="namn">${esc(h.namn)}</span><span class="under">${(h.regenter || []).map(x => D.byId[x] ? esc(D.byId[x].namn) : '').filter(Boolean).join(', ')}</span></a><span></span></li>`;
+    out += `<li class="rad hand" style="--c:var(--text)"><span class="ar">${h.ar}</span><a class="kort" href="#/handelse/${h.id}"><span class="namn">${esc(h.namn)}</span><span class="under">${(h.regenter || []).map(x => D.byId[x] ? esc(D.byId[x].namn) : '').filter(Boolean).join(', ')}${antList(h.id).length ? ` · ${antList(h.id).length} ${antList(h.id).length === 1 ? 'kommentar' : 'kommentarer'}` : ''}</span></a><span></span></li>`;
   });
   return `<div class="sida"><div class="sidhuvud"><h1>Händelser</h1><p>Slag, fredsavtal och politiska omvälvningar som hör ihop med regenterna.</p></div><ol class="tl">${out}</ol></div>`;
+}
+const antList = id => ((S.anteck && S.anteck[id]) || []);
+const antDatum = ts => { const d = new Date(ts); return `${d.getDate()} ${MANADER[d.getMonth()].slice(0, 3)} ${d.getFullYear()}, ${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`; };
+function antHTML(id) {
+  const l = antList(id);
+  return `<section class="anteck" id="anteck" aria-labelledby="anteck-h"><h2 id="anteck-h">Mina kommentarer</h2>
+  <p class="liten mut">Dina kommentarer sparas bara i den här webbläsaren. De följer med när du sparar en säkerhetskopia under Om appen.</p>
+  ${l.length ? `<ul class="antlista">${l.map(n => `<li data-nid="${esc(n.id)}"><div class="antmeta">${esc(antDatum(n.ts))}${n.andrad ? ' (ändrad)' : ''}</div><p class="anttext">${esc(n.text).replace(/\n/g, '<br>')}</p><div class="antknappar"><button type="button" class="litenknapp" data-act="anteck-redigera" data-id="${esc(id)}" data-nid="${esc(n.id)}">Redigera</button><button type="button" class="litenknapp" data-act="anteck-ta" data-id="${esc(id)}" data-nid="${esc(n.id)}">Ta bort</button></div></li>`).join('')}</ul>` : '<p class="mut">Du har inte skrivit några kommentarer till den här händelsen ännu.</p>'}
+  <label for="ant-ny" class="antlabel">Skriv en kommentar</label>
+  <textarea id="ant-ny" rows="4" maxlength="4000" placeholder="Vad tänker du på? Frågor, egna slutsatser eller sådant du vill minnas."></textarea>
+  <p><button type="button" class="knapp" data-act="anteck-spara" data-id="${esc(id)}">Spara kommentar</button></p></section>`;
 }
 const MANADER = ['januari', 'februari', 'mars', 'april', 'maj', 'juni', 'juli', 'augusti', 'september', 'oktober', 'november', 'december'];
 function handelseDatum(h) {
@@ -477,6 +488,7 @@ function pHandelse(id) {
   ${sek ? `<div class="story handelsetext" style="max-width:40rem">${sek}</div>` : ''}
   <h2 style="margin:1.4rem 0 .5rem;font-size:1.2rem">Regenter i händelsen</h2><div class="chips">${(h.regenter || []).filter(x => D.byId[x]).map(x => `<a href="#/regent/${x}">${esc(D.byId[x].namn)}</a>`).join('')}</div>
   ${h.status !== 'verifierad' ? '<aside class="utkast" style="max-width:40rem"><strong>Utkast.</strong> Beskrivningen ska kontrolleras mot källor.</aside>' : ''}
+  <div style="max-width:40rem">${antHTML(id)}</div>
   ${kallor ? `<div class="kallor" style="max-width:40rem"><h2>Källor</h2><ol>${kallor}</ol></div>` : ''}
   <nav class="bladdra" aria-label="Föregående och nästa händelse">
     ${prev ? `<a href="#/handelse/${prev.id}"><small>Föregående händelse</small><strong>${esc(prev.namn)}</strong></a>` : '<span></span>'}
@@ -596,7 +608,7 @@ function pOm() {
   <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Bilder</h2>
   <p>Porträtt hämtas från Wikimedia Commons och visas bara när licensen är fri. Namn på upphovsperson, licens och länk visas under bilden. När det inte finns något porträtt visas en krona.</p>
   <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Dina framsteg</h2>
-  <p>Vad du har läst, dina bokmärken och var du slutade sparas bara i den här webbläsaren. Spara en kopia om du vill flytta dem till en annan enhet.</p>
+  <p>Vad du har läst, dina bokmärken, dina kommentarer till händelserna och var du slutade sparas bara i den här webbläsaren. Spara en kopia om du vill flytta dem till en annan enhet.</p>
   <p><button type="button" class="knapp" data-act="export">Spara säkerhetskopia</button> <label class="knapp ljus" style="cursor:pointer">Läs in säkerhetskopia<input type="file" accept="application/json" id="importfil" hidden></label></p>
   <p><button type="button" class="knapp ljus" data-act="nollstall">Nollställ alla framsteg</button></p></div></div>`;
 }
@@ -620,8 +632,29 @@ document.addEventListener('click', e => {
   else if (act === 'qsvar') { if (Q.ans == null) { Q.ans = t.dataset.v; if (Q.ans === Q.qs[Q.i].a) Q.score++; $('#quiz').innerHTML = quizBody(); } }
   else if (act === 'qnasta') { Q.i++; Q.ans = null; $('#quiz').innerHTML = quizBody(); }
   else if (act === 'qny') { Q = makeQuiz(); $('#quiz').innerHTML = quizBody(); }
+  else if (act === 'anteck-spara') {
+    const id = t.dataset.id, ta = $('#ant-ny'), txt = (ta && ta.value || '').trim(); if (!txt) { toast('Skriv något först.'); return; }
+    if (!S.anteck) S.anteck = {}; (S.anteck[id] = S.anteck[id] || []).unshift({ id: 'n' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6), ts: Date.now(), text: txt });
+    save(); $('#anteck').outerHTML = antHTML(id); toast('Kommentaren är sparad.');
+  }
+  else if (act === 'anteck-ta') {
+    if (!confirm('Vill du ta bort kommentaren?')) return;
+    const id = t.dataset.id; S.anteck[id] = antList(id).filter(n => n.id !== t.dataset.nid); if (!S.anteck[id].length) delete S.anteck[id];
+    save(); $('#anteck').outerHTML = antHTML(id); toast('Kommentaren är borttagen.');
+  }
+  else if (act === 'anteck-redigera') {
+    const id = t.dataset.id, n = antList(id).find(x => x.id === t.dataset.nid); if (!n) return;
+    const li = t.closest('li'); li.innerHTML = `<textarea rows="4" maxlength="4000" class="antredigera" aria-label="Redigera kommentaren">${esc(n.text)}</textarea><div class="antknappar"><button type="button" class="litenknapp" data-act="anteck-uppdatera" data-id="${esc(id)}" data-nid="${esc(n.id)}">Spara ändring</button><button type="button" class="litenknapp" data-act="anteck-avbryt" data-id="${esc(id)}">Avbryt</button></div>`;
+    li.querySelector('textarea').focus();
+  }
+  else if (act === 'anteck-uppdatera') {
+    const id = t.dataset.id, n = antList(id).find(x => x.id === t.dataset.nid), txt = (t.closest('li').querySelector('textarea').value || '').trim(); if (!n) return;
+    if (!txt) { toast('Kommentaren kan inte vara tom.'); return; }
+    n.text = txt; n.andrad = Date.now(); save(); $('#anteck').outerHTML = antHTML(id); toast('Kommentaren är ändrad.');
+  }
+  else if (act === 'anteck-avbryt') { $('#anteck').outerHTML = antHTML(t.dataset.id); }
   else if (act === 'export') { const b = new Blob([JSON.stringify(S, null, 1)], { type: 'application/json' }); const a = document.createElement('a'); a.href = URL.createObjectURL(b); a.download = 'regenter-framsteg.json'; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 2000); }
-  else if (act === 'nollstall') { if (confirm('Vill du ta bort alla läsmarkeringar, bokmärken och sparade lägen?')) { S = defState(); save(); toast('Alla framsteg är borttagna.'); } }
+  else if (act === 'nollstall') { if (confirm('Vill du ta bort alla läsmarkeringar, bokmärken, kommentarer och sparade lägen?')) { S = defState(); save(); toast('Alla framsteg är borttagna.'); } }
 });
 document.addEventListener('change', e => {
   if (e.target.id === 'importfil') {
