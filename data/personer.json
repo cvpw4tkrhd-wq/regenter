@@ -1,0 +1,372 @@
+{
+ "personer": [
+  {
+   "id": "ansgar",
+   "namn": "Ansgar",
+   "roll": "Missionär och ärkebiskop",
+   "fodd": 801,
+   "foddCa": false,
+   "dod": 865,
+   "dodCa": false,
+   "ingress": "Ansgar, som kallas Nordens apostel, kom enligt UNESCO 831 till Birka och grundade den första kristna församlingen i Sverige. Han blev helgon strax efter sin död.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Ansgar föddes 801 i en förnäm familj, sannolikt bland de saliska frankerna. Han fick sin skolgång och blev munk i benediktinklostret Corbie i Picardie, där han blev lärare i klosterskolan. Han flyttades 822 till dotterklostret Korvey vid Weser, en stödjepunkt för kristendomen i det halvhedniska Sachsen. Planerna på mission bland de hedniska danskarna ledde honom ut i Norden. Han dog den 3 februari 865."
+    },
+    {
+     "rubrik": "Betydelse",
+     "text": "SBL kallar honom en uppoffrande pionjär i Norden. Hans lärjunge Rimbert skrev levnadsteckningen Vita Anskarii, som är den viktigaste källan. Han blev ansedd som helgon nästan omedelbart. I Sverige kvarlevde ingen inhemsk tradition om honom, men han firades under medeltiden den 4 februari. Enligt UNESCO grundade han 831 den första kristna församlingen i Sverige, vid Birka."
+    }
+   ],
+   "regenter": [],
+   "kallor": [
+    {
+     "titel": "Ansgar (band 2, 1920)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18733",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Birka and Hovgården",
+     "utgivare": "UNESCO, världsarvscentret",
+     "url": "https://whc.unesco.org/en/list/555",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "birger-jarl",
+   "namn": "Birger jarl",
+   "roll": "Jarl och rikets styresman",
+   "fodd": 1205,
+   "foddCa": true,
+   "dod": 1266,
+   "dodCa": false,
+   "ingress": "Birger Magnusson, kallad Birger jarl, styrde Sverige som jarl under sin son Valdemars kungatid. Han dog den 21 oktober 1266.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Birger Magnusson (Birger jarl) föddes troligen på 1200-talets första årtionde som son till Magnus Minnesköld av Folkungaätten och Ingrid Ylva. Tack vare sin härstamning från Sveriges mäktigaste stormannaätt framträdde han tidigt som en av rikets främsta män. Han slöt sig nära till kung Erik Eriksson, och gifte sig med kungens syster Ingeborg, som dog 1251. År 1261 gifte han sig med Mechtild, änka efter danske kungen Abel."
+    },
+    {
+     "rubrik": "Makten",
+     "text": "När Erik Eriksson dog 1250 valdes Birgers äldste son Valdemar till kung, och Birger blev som sonens naturlige förmyndare rikets faktiske härskare. År 1251 slog han tillbaka Filip Knutssons och Knut Magnussons anfall vid Herrevadsbro. Hans sista kända statshandling var ett möte i Kalmar sommaren 1266 med den påvlige legaten kardinal Guido, där hans fyra söner deltog. Han begravdes i Varnhem. Hans staty av B. E. Fogelberg restes 1854 på Riddarholmen i Stockholm."
+    }
+   ],
+   "regenter": [
+    "valdemar-birgersson",
+    "magnus-ladulas"
+   ],
+   "kallor": [
+    {
+     "titel": "Birger Magnusson, jarl (band 4, 1924)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18238",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "heliga-birgitta",
+   "namn": "Heliga Birgitta",
+   "roll": "Helgon och ordensstiftare",
+   "fodd": 1303,
+   "foddCa": false,
+   "dod": 1373,
+   "dodCa": false,
+   "ingress": "Birgitta Birgersdotter blev under sin livstid en av 1300-talets mest kända svenskar. Hon stiftade Birgittinorden och blev helgonförklarad 1391.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Birgitta föddes 1303 (eller möjligen 1302), antagligen på Finstad i Uppland, som dotter till upplandslagmannen och riksrådet Birger Persson. Hon gifte sig vid 13 års ålder med Ulv Gudmarsson, som blev lagman i Närke och riksråd, och som dog 1344. Hon dog den 23 juli 1373 i Rom."
+    },
+    {
+     "rubrik": "Verk och betydelse",
+     "text": "Birgitta stiftade S:t Augustin Frälsarorden, vanligen kallad Birgittinorden, som påven Urban V stadfäste första gången den 5 augusti 1370. Hon helgonförklarades av Bonifatius IX den 7 oktober 1391. Enligt SBL är hon den första svenska personlighet som fäste världens uppmärksamhet vid sig och sitt land. Hennes uppenbarelser har översatts till alla kulturspråk, och Vadstena kloster blev under senmedeltiden ett av huvudplatserna för det religiösa litterära livet i Norden."
+    }
+   ],
+   "regenter": [
+    "magnus-eriksson"
+   ],
+   "kallor": [
+    {
+     "titel": "Birgitta Birgersdotter (band 4, 1924)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18245",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "engelbrekt",
+   "namn": "Engelbrekt Engelbrektsson",
+   "roll": "Upprorsledare och rikshövitsman",
+   "fodd": 1395,
+   "foddCa": true,
+   "dod": 1436,
+   "dodCa": false,
+   "ingress": "Engelbrekt Engelbrektsson, bergsman och frälseman från Norberg, ledde 1434 ett uppror mot Erik av Pommern och blev rikshövitsman. Han mördades troligen 4 maj 1436.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Engelbrekt föddes i slutet av 1300-talet. Han var enligt SBL både frälseman och bergsman i Norberg, och han red som dalaböndernas talesman till kung Erik i Danmark med klagomål mot fogden Jösse Eriksson. Han ledde dalahären vid upproren 1432, 1433 och 1434, blev riksråd och rikshövitsman vid ständermötet i Arboga 1435, och tillsammans med Karl Knutsson ledde han resningen igen 1436. Han mördades troligen den 4 maj 1436 på en ö i Hjälmaren."
+    },
+    {
+     "rubrik": "Eftermäle",
+     "text": "SBL jämför honom med Skottlands frihetshjälte William Wallace och Jeanne d'Arc: han är den som för alltid erövrat en plats i sitt folks nationalmedvetande. Han var liten till växten, och någon bild av honom har inte bevarats, så statyn i Örebro, rest 1865, är i allt väsentligt en fantasiskapelse."
+    }
+   ],
+   "regenter": [
+    "erik-av-pommern",
+    "karl-knutsson-bonde"
+   ],
+   "kallor": [
+    {
+     "titel": "Engelbrekt Engelbrektsson (band 13, 1950)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16127",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "bo-jonsson-grip",
+   "namn": "Bo Jonsson (Grip)",
+   "roll": "Drots och godsägare",
+   "fodd": 1333,
+   "foddCa": true,
+   "dod": 1386,
+   "dodCa": false,
+   "ingress": "Bo Jonsson Grip var Sveriges drots och en av medeltidens mäktigaste godsägare. Hans död 1386 ledde till striden mellan Albrekt och stormännen.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Bo Jonsson föddes sannolikt i början av 1330-talet som son till Jon Tomasson och Ingeborg Bosdotter. Han gifte sig två gånger, och sonen Knut Bosson föddes i andra giftet. Han dog den 20 augusti 1386."
+    },
+    {
+     "rubrik": "Makt och karaktär",
+     "text": "SBL beskriver en man med finansiell begåvning av första ordningen, med mångsidigt intresse för förvärvsverksamhet, förmåga att organisera resurserna och storslagenhet i deras användning, och det märkligaste draget var den politiska begåvningen: ledareegenskaperna och konsekvensen i att utforma ett verkligt politiskt system. Som riksdrots skjöt han enligt SBL kung Albrekt helt åt sidan, och efter hans död 1386 gick Albrekt mot de herrar som testamentet utsett till fullföljare, vilket ledde till att stormännen vände sig till Margareta."
+    }
+   ],
+   "regenter": [
+    "albrekt-av-mecklenburg",
+    "margareta"
+   ],
+   "kallor": [
+    {
+     "titel": "Bo Jonsson (Grip) (band 5, 1925)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=17833",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Albrekt (band 1, 1918)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5648",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "hemming-gadh",
+   "namn": "Hemming Gadh",
+   "roll": "Riksråd, prelat och diplomat",
+   "fodd": 1450,
+   "foddCa": true,
+   "dod": 1520,
+   "dodCa": false,
+   "ingress": "Hemming Gadh var under Sturetidens två sista decennier regimens främste statsman jämte riksföreståndarna. Han avrättades i Finland i december 1520.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Hemming Gadh föddes troligen omkring 1450 och studerade i Rostock från 1471. Han var kansler hos biskopen i Linköping och sändes av Sten Sture den äldre till Rom, där han stannade till 1500 och blev doktor i kanonisk rätt och kammarherre hos påven Alexander VI. Han återkom och blev riksråd. Han avrättades vid Raseborg i Finland den 16 eller 17 december 1520."
+    },
+    {
+     "rubrik": "Betydelse",
+     "text": "SBL beskriver honom som vital, handlingskraftig och slug, och under Sturetidens två sista decennier som regimens främste statsman jämte riksföreståndarna. Han hade Sten Sture den äldres fulla gillande och var mer splittrad inför de yngre sturarna. Först i Kristian II fann han sin överman i politisk förslagenhet. Han var en av dem som avrättades i Finland efter Stockholms blodbad."
+    }
+   ],
+   "regenter": [
+    "sten-sture-den-aldre",
+    "svante-nilsson",
+    "sten-sture-den-yngre",
+    "kristian-ii"
+   ],
+   "kallor": [
+    {
+     "titel": "Hemming Gadh (band 16, 1964–66)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14630",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "nils-dacke",
+   "namn": "Nils Dacke",
+   "roll": "Upprorsledare",
+   "fodd": null,
+   "foddCa": false,
+   "dod": 1543,
+   "dodCa": false,
+   "ar": 1542,
+   "ingress": "Nils Dacke ledde 1542–1543 ett stort bondeuppror i Småland mot Gustav Vasa. Han sköts ihjäl i juli 1543.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Nils Dacke var enligt Gustav Vasa en danskfödd man från Blekinge och enligt SBL en typisk gränsbo. Han kan följas i källorna under sina sju sista år, 1536–1543. Han blev fredlös efter att ha dräpt kungens ridfogde 1536, fick nåd 1538 och bosatte sig som kronobonde, men gick åter i skogen 1542 och ledde Dackefejden."
+    },
+    {
+     "rubrik": "Betydelse",
+     "text": "Dacke hade en tid ett av kung och råd erkänt hövdingskap över större delen av Småland, och SBL kallar det faktiskt, om än inte formellt, ett länsförhållande. Efter nederlaget våren 1543 sköts han ihjäl på Rödeby skog i slutet av juli 1543. SBL betonar att upproret inte i första hand var riktat mot adeln utan mot kungens fogdar, och att uppfattningen om en social motsättning mellan adel och bönder härrör från Gustav Vasa."
+    }
+   ],
+   "regenter": [
+    "gustav-vasa"
+   ],
+   "kallor": [
+    {
+     "titel": "Nils Dacke (band 9, 1931)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15765",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "laurentius-andreae",
+   "namn": "Laurentius Andreae",
+   "roll": "Reformator och riksråd",
+   "fodd": 1475,
+   "foddCa": true,
+   "dod": 1552,
+   "dodCa": false,
+   "ingress": "Laurentius Andreae var Gustav Vasas sekreterare och en av reformationens ledande män i Sverige. Han dömdes 1540 till döden men benådades.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Laurentius Andreae föddes på 1470-talet. Han var kanik och sedan ärkedjäkne i Strängnäs, studerade i Rostock och Leipzig och var i Rom flera gånger. Han blev Gustav Vasas sekreterare 1523 och riksråd 1524, och mötte tidigt reformationen genom Olaus Petri. Hans valspråk var enligt SBL att nytt folk kommer med nya seder och nya seder kräver ny lag. Han dömdes till döden den 2 januari 1540 men benådades, och dog den 14 april 1552."
+    },
+    {
+     "rubrik": "Betydelse",
+     "text": "SBL anser att han genom sina insatser som religiös reformator, målmedveten och skicklig kyrkopolitiker och språklig nydanare har tillförsäkrat sig en plats bland Sveriges stora statsmän. Han var den som tillsammans med kungen utformade propositionen vid riksdagen i Västerås 1527."
+    }
+   ],
+   "regenter": [
+    "gustav-vasa"
+   ],
+   "kallor": [
+    {
+     "titel": "Laurentius Andreæ (band 22, 1977–79)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11076",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "olaus-petri",
+   "namn": "Olaus Petri",
+   "roll": "Reformator och författare",
+   "fodd": 1493,
+   "foddCa": true,
+   "dod": 1552,
+   "dodCa": false,
+   "ingress": "Olaus Petri kallas Sveriges reformator. Han var präst, författare och översättare, och skrev bland annat Svenska krönikan.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Olavus Petri föddes möjligen 6 januari 1493 (eller 1497) i Örebro som son till smeden Peter Olofsson. Han studerade i Leipzig och Wittenberg 1516–1519, blev skolmästare och predikant i Strängnäs 1523 och Stockholms stadsskrivare 1524. Han var Gustav I:s kansler 1531–33, dömdes till döden den 2 januari 1540 men benådades, och blev kyrkoherde i Stockholm 1543. Han dog den 19 april 1552."
+    },
+    {
+     "rubrik": "Betydelse",
+     "text": "SBL beskriver honom som en rikt begåvad humanist, självständig i ord och handling och med en fast tro på den egna kallelsen, och som den store humanisten med de vitt famnande intressena, i fråga om vetenskaplig uppfattning och begåvning utan motstycke i 1500-talets Sverige. Som skriftställare lever han genom sin genialt enkla men uttrycksfulla prosa."
+    }
+   ],
+   "regenter": [
+    "gustav-vasa"
+   ],
+   "kallor": [
+    {
+     "titel": "Olavus Petri (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7688",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "axel-oxenstierna",
+   "namn": "Axel Oxenstierna",
+   "roll": "Rikskansler",
+   "fodd": 1583,
+   "foddCa": false,
+   "dod": 1654,
+   "dodCa": false,
+   "ingress": "Axel Oxenstierna var rikskansler från 1612 och ledde Sveriges politik under Gustav II Adolf och under Kristinas förmyndartid.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Axel Oxenstierna föddes den 16 juni 1583 i Uppland som son till riksrådet Gustaf Gabrielsson Oxenstierna. Han kom i Karl IX:s tjänst 1604, blev riksråd omkring 1609 och rikskansler den 6 januari 1612. Han var generalguvernör i Preussen och under Gustav II Adolfs krig fullmäktig över arméerna i Tyskland. Han dog den 28 augusti 1654 i Stockholm."
+    },
+    {
+     "rubrik": "Betydelse",
+     "text": "SBL ser honom som grundaren av den svenska byråkratin och av det för Sverige utmärkande systemet med förhållandevis självständiga ämbetsverk. Han lade också grunden till vad som blev dagens regering, ett centralt kansli med rikskanslern som chef. Den regeringsform han lade fram efter Gustav II Adolfs död, 1634, uttryckte enligt SBL en annan syn på regeringssystemet än kungens. Under Kristinas förmyndartid var han Sveriges verklige regent, tills Kristina trängde undan honom."
+    }
+   ],
+   "regenter": [
+    "gustav-ii-adolf",
+    "kristina"
+   ],
+   "kallor": [
+    {
+     "titel": "Axel Oxenstierna (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7882",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "olof-rudbeck",
+   "namn": "Olof Rudbeck",
+   "roll": "Anatom, naturforskare och historiker",
+   "fodd": 1630,
+   "foddCa": false,
+   "dod": 1702,
+   "dodCa": false,
+   "ingress": "Olof Rudbeck var professor i Uppsala, anatom och naturforskare och skrev verket Atlantica. En brand 1702 förstörde hans största vetenskapliga arbeten.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Olof (Olaus) Rudbeck föddes 1630 i Västerås som nionde barn av elva i faderns andra äktenskap. Han studerade i Uppsala och utomlands, blev adjunkt 1655 och professor 1658. Han var professor i teoretisk medicin 1660–1691 och tre gånger rektor. Han gifte sig 1655 med Vendela Lohrman. Han dog den 17 september 1702 i Uppsala."
+    },
+    {
+     "rubrik": "Betydelse",
+     "text": "SBL kallar honom anatom, historiker och naturforskare. Hans atlantiska forskning skulle stärka landets självkänsla och ge stormakten heder genom att visa vilken roll landet spelat i kulturens utveckling. Hans grundläggande universitetsidé blev bärande under följande sekel. Hans största vetenskapliga insatser från mannaåldern förstördes bokstavligen av branden i maj 1702 och utplånades sedan av den vetenskapliga utvecklingen, där Linné ledde in på andra metoder och en allt strängare historieforskning tog död på hans atlantiska vision."
+    }
+   ],
+   "regenter": [],
+   "kallor": [
+    {
+     "titel": "Olof (Olaus) Rudbeck (band 30, 1998–2000)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=6987",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  }
+ ]
+}
