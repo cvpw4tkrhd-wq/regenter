@@ -1,5 +1,5 @@
 'use strict';
-/* Sveriges regenter – appen.
+/* Sveriges Historia – appen.
    All text och alla uppgifter ligger i data/. Den här filen innehåller bara logiken. */
 (() => {
 const NOW = new Date().getFullYear();
@@ -25,6 +25,23 @@ const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch
 const isRead = id => !!S.lasta[id];
 const findBm = (id, sek) => S.bokmarken.find(b => b.id === id && b.sek === sek);
 document.documentElement.style.setProperty('--lasstorlek', S.storlek);
+
+
+/* ---------- Installera som app ---------- */
+let installEv = null;
+const isStandalone = () => (window.matchMedia && matchMedia('(display-mode: standalone)').matches) || navigator.standalone === true;
+const isIOS = () => /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); installEv = e; const b = $('#installbox'); if (b) b.outerHTML = installBox(true); });
+window.addEventListener('appinstalled', () => { installEv = null; const b = $('#installbox'); if (b) b.remove(); toast('Appen är installerad.'); });
+function installHjalp() {
+  return `<ul class="installsteg"><li><strong>iPhone och iPad (Safari):</strong> tryck på Dela-knappen (fyrkanten med pilen), välj <em>Lägg till på hemskärmen</em> och tryck <em>Lägg till</em>.</li><li><strong>Android (Chrome):</strong> tryck på menyn med de tre prickarna och välj <em>Installera app</em> eller <em>Lägg till på startskärmen</em>.</li><li><strong>Dator (Chrome eller Edge):</strong> klicka på installationsikonen i adressfältet, eller öppna menyn och välj <em>Installera Sveriges Historia</em>.</li></ul>`;
+}
+function installBox(force) {
+  if (isStandalone() || (S.installNej && !force)) return '<div id="installbox" hidden></div>';
+  const knapp = installEv ? '<button type="button" class="knapp" data-act="installera">Installera som app</button>' : '';
+  const hj = installEv ? '' : (isIOS() ? '<p>På iPhone och iPad: tryck på Dela-knappen i Safari och välj <em>Lägg till på hemskärmen</em>.</p>' : '<p>Öppna webbläsarens meny och välj <em>Installera app</em> eller <em>Lägg till på startskärmen</em>.</p>');
+  return `<aside id="installbox" class="installbox"><h2>Ha appen på hemskärmen</h2><p>Sveriges Historia fungerar som en app, och även utan nät när du har öppnat den en gång.</p>${knapp}${hj}<p><button type="button" class="litenknapp" data-act="install-dold">Inte nu</button></p></aside>`;
+}
 
 /* ---------- Data ---------- */
 const D = { hus: {}, epoker: [], R: [], byId: {}, H: [], hById: {}, O: [], oById: {}, REL: {}, M: [], F: [] };
@@ -148,7 +165,7 @@ function route() {
   const clean = decodeURIComponent(path).replace(/\/$/, '');
   let hit = null;
   for (const [re, fn] of routes) { const m = clean.match(re); if (m) { hit = [fn, m.slice(1)]; break; } }
-  post = null; document.title = 'Sveriges regenter';
+  post = null; document.title = 'Sveriges Historia';
   app.innerHTML = hit ? hit[0](...hit[1], P) : `<div class="sida"><h1>Sidan finns inte</h1><p><a href="#/">Till startsidan</a></p></div>`;
   const seg = clean.split('/')[0];
   const map = { regent: 'tidslinje', handelse: 'handelser' };
@@ -208,11 +225,12 @@ function pHem() {
     <div class="hero-in">
       <div class="hero-vbar"></div><div class="hero-hbar"></div>
       <div class="hero-krona" aria-hidden="true">${TRE_KRONOR}</div>
-      <h1 id="h1" class="sr-only">Sveriges regenter</h1>
-      <div class="hero-top"><p>Tusen år av kungar och drottningar, och en berättelse om var och en.</p></div>
+      <h1 id="h1" class="sr-only">Sveriges Historia</h1>
+      <div class="hero-top"><p>Sveriges historia från stenåldern till i dag.</p></div>
     </div>
   </section>
   <div class="sida">
+    ${installBox()}
     <section class="avd" style="margin-top:0">
       <div class="rubrikrad"><h2>Tusenårsbandet</h2><p class="mut" id="framsteg">${done} av ${tot} regenter lästa</p></div>
       ${band()}
@@ -607,6 +625,10 @@ function pOm() {
   <p>Varje regent har en pålitlighetsmärkning: ${Object.values(PAL).map(p => `<span class="pal pal-${p.c}">${p.t}</span>`).join(' ')}. ${esc(PAL['säker'].d)} ${esc(PAL['osäker'].d)} ${esc(PAL['legendarisk'].d)}</p>
   <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Bilder</h2>
   <p>Porträtt hämtas från Wikimedia Commons och visas bara när licensen är fri. Namn på upphovsperson, licens och länk visas under bilden. När det inte finns något porträtt visas en krona.</p>
+  <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Installera som app</h2>
+  <p>Du kan spara Sveriges Historia som en app på hemskärmen. Då öppnas den i helskärm, och texterna fungerar även utan nät när du har öppnat dem en gång.</p>
+  ${installEv ? '<p><button type="button" class="knapp" data-act="installera">Installera som app</button></p>' : ''}
+  ${isStandalone() ? '<p class="mut">Du använder redan appen som installerad app.</p>' : installHjalp()}
   <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Dina framsteg</h2>
   <p>Vad du har läst, dina bokmärken, dina kommentarer till händelserna och var du slutade sparas bara i den här webbläsaren. Spara en kopia om du vill flytta dem till en annan enhet.</p>
   <p><button type="button" class="knapp" data-act="export">Spara säkerhetskopia</button> <label class="knapp ljus" style="cursor:pointer">Läs in säkerhetskopia<input type="file" accept="application/json" id="importfil" hidden></label></p>
@@ -653,6 +675,8 @@ document.addEventListener('click', e => {
     n.text = txt; n.andrad = Date.now(); save(); $('#anteck').outerHTML = antHTML(id); toast('Kommentaren är ändrad.');
   }
   else if (act === 'anteck-avbryt') { $('#anteck').outerHTML = antHTML(t.dataset.id); }
+  else if (act === 'installera') { if (installEv) { installEv.prompt(); installEv.userChoice.finally(() => { installEv = null; const b = $('#installbox'); if (b) b.remove(); }); } }
+  else if (act === 'install-dold') { S.installNej = true; save(); const b = $('#installbox'); if (b) b.remove(); }
   else if (act === 'export') { const b = new Blob([JSON.stringify(S, null, 1)], { type: 'application/json' }); const a = document.createElement('a'); a.href = URL.createObjectURL(b); a.download = 'regenter-framsteg.json'; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 2000); }
   else if (act === 'nollstall') { if (confirm('Vill du ta bort alla läsmarkeringar, bokmärken, kommentarer och sparade lägen?')) { S = defState(); save(); toast('Alla framsteg är borttagna.'); } }
 });
