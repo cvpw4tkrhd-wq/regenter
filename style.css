@@ -309,3 +309,5 @@ a.nod:hover{border-color:var(--c)}
 .vers h2{font-size:1.25rem;margin:0}
 .vers h3{font-size:1rem;margin:.2rem 0 .4rem;font-weight:600}
 .vers ul{margin:.3rem 0 .6rem;padding-left:1.2rem}
+
+.synkstatus{font-weight:600;padding:.5rem .8rem;background:var(--yta);border:1px solid var(--linje);border-radius:var(--radie)}
