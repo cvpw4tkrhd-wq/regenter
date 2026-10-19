@@ -6,7 +6,7 @@
   --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
   --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   --las:1.14rem; --lasstorlek:1;
-  --radie:6px; --bredd:72rem; --nav-h:3.5rem;
+  --radie:6px; --bredd:72rem; --nav-h:3.5rem; --sat:env(safe-area-inset-top,0px); --sab:env(safe-area-inset-bottom,0px); --sal:env(safe-area-inset-left,0px); --sar:env(safe-area-inset-right,0px);
 }
 @media (prefers-color-scheme:dark){
   :root{--bg:#0b1623;--yta:#122336;--yta2:#18304a;--text:#e6edf3;--dim:#9fb0c1;--linje:#243a52;--bla:#5db3e8;--marin:#071420;--guldtext:#fecc02;--lank:#7cc4ee}
@@ -25,7 +25,7 @@ button{font:inherit;color:inherit;cursor:pointer}
 h1,h2,h3{font-family:var(--serif);font-weight:700;line-height:1.2;margin:0}
 
 /* ---------- Topp och meny ---------- */
-.topp{position:sticky;top:0;z-index:30;background:var(--marin);color:#fff;display:flex;align-items:center;gap:1rem;padding:.4rem max(1rem,calc((100% - var(--bredd))/2 + 1rem));min-height:var(--nav-h);border-bottom:3px solid var(--guld)}
+.topp{position:sticky;top:0;z-index:30;background:var(--marin);color:#fff;display:flex;align-items:center;gap:1rem;padding:calc(.4rem + var(--sat)) max(calc(1rem + var(--sar)),calc((100% - var(--bredd))/2 + 1rem)) .4rem max(calc(1rem + var(--sal)),calc((100% - var(--bredd))/2 + 1rem));min-height:calc(var(--nav-h) + var(--sat));border-bottom:3px solid var(--guld)}
 .varumarke{display:flex;align-items:center;gap:.6rem;color:#fff;text-decoration:none;font-family:var(--serif);font-weight:700;font-size:1.15rem;margin-right:auto}
 .logo{display:grid;place-items:center;width:2.1rem;height:2.1rem;background:var(--bla);color:var(--guld);border-radius:50%}
 .logo svg{width:1.4rem;height:1.4rem}
@@ -311,3 +311,6 @@ a.nod:hover{border-color:var(--c)}
 .vers ul{margin:.3rem 0 .6rem;padding-left:1.2rem}
 
 .synkstatus{font-weight:600;padding:.5rem .8rem;background:var(--yta);border:1px solid var(--linje);border-radius:var(--radie)}
+
+/* Hemskärmsläge: håll innehållet under statusfältet och ovanför hemindikatorn */
+body{padding-left:var(--sal);padding-right:var(--sar)}
