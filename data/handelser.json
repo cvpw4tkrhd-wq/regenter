@@ -781,6 +781,45 @@
    "status": "verifierad"
   },
   {
+   "id": "albrekt-valjs-1364",
+   "namn": "Albrekt av Mecklenburg blir kung",
+   "ar": 1364,
+   "ca": false,
+   "datum": null,
+   "text": "Efter att den svenska aristokratin avsatt Magnus Eriksson 1363 utropades Albrekt av Mecklenburg till kung vid Mora stenar i februari 1364. Striden om kronan pågick i nästan tio år.",
+   "regenter": [
+    "albrekt-av-mecklenburg",
+    "magnus-eriksson"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Avsättningen 1363",
+     "text": "Magnus Erikssons och hans son Håkans avsättning från den svenska tronen 1363 var ett verk av den svenska aristokratin i förbund med de nordtyska hansestäderna. Några av de förnämsta svenska herrarna begav sig till Tyskland, och efter avslutade förhandlingar avseglade en flotta på hösten 1363 till Sverige med den utsedde tronkandidaten Albrekt den yngre av Mecklenburg. Albrekt var son till hertig Albrekt II av Mecklenburg och den svenska prinsessan Eufemia, Magnus Erikssons syster."
+    },
+    {
+     "rubrik": "Kungautropningen",
+     "text": "Den 30 november 1363 avlade Stockholms stad hyllningsed till Albrekt, och i februari 1364 utropades han på vanligt sätt till Sveriges kung vid Mora stenar. Hela Sverige var emellertid inte därmed vunnet för den nye kungen. Nära ett decennium pågick tävlingsstriden mellan honom och de avsatta kungarna Magnus och Håkan."
+    },
+    {
+     "rubrik": "Gataskogen och striden",
+     "text": "Slaget vid Gataskogen 1365 bragte kung Magnus i Albrekts våld, men Håkan fortsatte kampen, understödd av sin svärfader, kung Valdemar i Danmark. Under 1360-talets sista år växte striden, när de hanseatiska städerna och flera tyska furstar gick in på Albrekts sida. År 1371 ryckte Håkan med en här mot Stockholm, samtidigt som en stor folkresning mot det tyska väldet bröt ut i Sverige. Situationen såg mörk ut för Albrekt, och det återstod för honom endast att helt lämna sig i de svenska herrarnas våld."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Herrarna, vare sig de tillhörde Albrekts eller Magnus parti, fann sina ståndsintressen hotade av den demokratiska rörelsen och ingick en förlikning. Albrekt blev kvar som kung till 1389, men makten låg hos riksrådet och riksdrotsen Bo Jonsson Grip. Efter slaget vid Åsle 1389 avsattes han."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Albrekt (band 1, 1918)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5648",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "aasle-1389",
    "namn": "Slaget vid Åsle",
    "ar": 1389,
@@ -1087,6 +1126,94 @@
    ]
   },
   {
+   "id": "rotebro-1497",
+   "namn": "Rotebro och Hans kröns",
+   "ar": 1497,
+   "ca": false,
+   "datum": "10-06",
+   "text": "Hösten 1497 besegrades Sten Sture den äldres dalkarlar vid Rotebro, och Sten erkände kung Hans. Hans kröntes till svensk kung i Stockholm, och Sten Sture avsade sig riksföreståndarskapet.",
+   "regenter": [
+    "hans",
+    "sten-sture-den-aldre",
+    "svante-nilsson"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Sten Sture utmanas",
+     "text": "Sten Sture den äldre hade ett svårt förhållande till riksrådet, och i konflikten med ärkebiskopen lät han sina knektar tåga mot Uppsala, bränna ärkebiskopsgården och sedan innesluta Almarstäk. Ärkebiskopen lyste honom i bann. Vid antågandet av kungens landsatta trupper drog Sten sig tillbaka till Stockholm, vars borgerskap dock vägrade ta ställning."
+    },
+    {
+     "rubrik": "Rotebro",
+     "text": "Hans hopp stod till uppbådet från Dalarna, men vid Rotebro norr om staden blev detta blodigt hejdat. I tron att komma dalkarlarna till mötes ledde Sten ett utfall, som så när hade gjort honom till kung Hans fånge. I detta svåra läge beslöt Sten att förhandla."
+    },
+    {
+     "rubrik": "Förlikningen",
+     "text": "I Klara kloster utanför staden mötte han Hans den 6 oktober, erkände honom som kung och nedlade riksföreståndarskapet. Han uppsökte dalahären och förmådde den att återvända, under förespegling av hans fortsatta makt över länet. Vid det formella kungavalet och kröningen uppträdde Sten som rikets hovmästare och Svante Nilsson som dess marsk."
+    },
+    {
+     "rubrik": "Vad Sten fick",
+     "text": "Förlikningen visade Stens starka förhandlingsläge. Han måste avstå Västerås län med Dalarna, men behöll Nyköpings län, Rekarne och Svartsjö län, allt välbeläget till hans privata godsinnehav. Hela Åbo stift jämte Norrbotten tillerkändes honom som livstidsförläning, och hans hustru fru Ingeborg skulle efter hans död behålla Tavastehus län. Motsättningen mellan Sten och hans kolleger i riksrådet skulle bestå."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sten Sture (band 34, 2013–2019)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34628",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Hans (band 18, 1969–71)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12583",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "brannkyrka-1518",
+   "namn": "Slaget vid Brännkyrka",
+   "ar": 1518,
+   "ca": false,
+   "datum": null,
+   "text": "Sommaren 1518 slog Sten Sture den yngre tillbaka Kristian II:s invasionshär vid Brännkyrka söder om Stockholm. Därefter förde kungen bort Gustav Eriksson Vasa som gisslan.",
+   "regenter": [
+    "sten-sture-den-yngre",
+    "kristian-ii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Kristian II invaderar",
+     "text": "Kristian II:s attacker mot Sverige hade pågått sedan 1517, då han fått ärkebiskop Birger i Lund att bannlysa Sten Sture för hans behandling av Gustav Trolle, något som Sten satt sig över. År 1518 försökte Kristian åter med en invasion."
+    },
+    {
+     "rubrik": "Slaget",
+     "text": "Sten Sture den yngres framgångsrika försvar av Stockholm 1518 var tydligen grundat på att han i slaget vid Brännkyrka i grunden besegrade Kristians invasionshär. Kristian stannade flera månader i försök att locka Sten till förhandling. Då denne inte lyssnade erbjöd han sig själv att komma till ett möte men begärde en kvalificerad gisslan."
+    },
+    {
+     "rubrik": "Gisslan",
+     "text": "Sten sände honom Hemming Gadh med fem frälsemän, bland dem Gustav Eriksson Vasa. Kristian avbröt då förhandlingarna och seglade hem med gisslan. Händelsen fick en tragisk följd för Hemming Gadh: han misstänkliggjordes inför Sten, som berövade honom hans län och lade beslag på hans egendom. Det är ett av flera exempel på att Peder Jakobsson sunnanväder hade stort inflytande på Sten, och det var sannolikt han som genom sin rådgivning gav dessa år drag av folklig diktatur."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Sten Sture kunde finna tillförsikt i att han avvisat två invasionsförsök av Kristian. Men Kristians angrepp hösten 1519 var omsorgsfullare planerat, och Gustav Eriksson, som fördes till Danmark som gisslan 1518, kom hem först 1520."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sten Svantesson Sture (band 34, 2013–2019)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=34642",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad",
+   "personer": [
+    "hemming-gadh"
+   ]
+  },
+  {
    "id": "kristina-gyllenstiernas-forsvar-1520",
    "namn": "Kristina Gyllenstiernas försvar av Stockholm",
    "ar": 1520,
@@ -1287,6 +1414,44 @@
    ]
   },
   {
+   "id": "vastgotaherrarnas-uppror-1529",
+   "namn": "Västgötaherrarnas uppror",
+   "ar": 1529,
+   "ca": false,
+   "datum": null,
+   "text": "År 1529 reste sig herrar i Västergötland och norra Småland mot Gustav Vasa. Upproret hade både religiösa och ekonomiska orsaker och slutade med förlikning i Broddetorp.",
+   "regenter": [
+    "gustav-vasa"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Kyrkomötet i Örebro",
+     "text": "Gustav Vasa önskade inga vittgående reformer av kultlivet som kunde skapa oro hos folket. Därför följdes en försiktig medelväg vid kyrkomötet i Örebro i februari 1529, där det gamla bibehölls, blott med den rätta meningen klarlagd och utan någon magisk särskild tro. Men därmed tillfredsställdes ingendera parten."
+    },
+    {
+     "rubrik": "Upproret",
+     "text": "Nu klarnade innebörden av Västeråsbesluten, och det religiösa motivet framträder tydligare i den revolt i Västergötland och norra Småland 1529 som går under namnet Västgötaherrarnas uppror. I spetsen stod lagmannen Ture Jönsson, Skarabiskopen Magnus Haraldsson och Jönköpingsborgmästaren Nils Arvidsson. Därutöver skymtar ekonomiska motsättningar. Gustavs allt hårdare politik mot Lübeck i skuldfrågan och hans benägenhet att bryta stadens handelsmonopol genom att tillåta även holländare att segla på Östersjön var ett hot mot den västsvenska handeln, och en konflikt med Lübeck skulle försvåra Sydsveriges export av animalieprodukter."
+    },
+    {
+     "rubrik": "Gustavs svar",
+     "text": "Med mycket verkningsfull propaganda förstod Gustav att avskärma Dalarna och Östergötland, vars handelspolitiska intressen vette mot Östersjön. Här gav hans adelsvänliga länspolitik resultat: aristokratin utanför Västergötland vägrade delta. En medlingsdeputation kunde därför i Broddetorp få ett förlikningsförslag antaget av västgötaallmogen."
+    },
+    {
+     "rubrik": "Utgången",
+     "text": "Herrarna gav upp, och några dömdes senare och avrättades. När Laurentius Petri 1531 valdes till ärkebiskop inför drottning Katarinas vigsel och kröning, och konsekrerades utan påvens medverkan, hade den svenska kyrkan i praktiken brutit med Rom."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav I (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13315",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "dackefejden-1542",
    "namn": "Dackefejden",
    "ar": 1542,
@@ -1372,6 +1537,123 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "sturemorden-1567",
+   "namn": "Sturemorden",
+   "ar": 1567,
+   "ca": false,
+   "datum": null,
+   "text": "I slutet av maj 1567 lät Erik XIV på Uppsala slott döda de fängslade adelsmännen, bland dem Nils Sture. Därefter försvann kungen, och det blev uppenbart att han var sinnessjuk.",
+   "regenter": [
+    "erik-xiv"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Anklagelserna",
+     "text": "Sommaren 1566 ska yngre adelsmän enligt nämndens protokoll ha sammansvurit sig mot Erik XIV. Om detta täckte en verklig hotande fara kan inte med visshet sägas. Adelsmän fängslades, och tortyr användes vid rannsakningen. Ständerna samlades i maj i Uppsala, dit de fängslade hade förts, och inför riksdagen lade Erik fram sina anklagelser den 19 maj. Den 20 maj fortsatte domstolsförhandlingarna, nu med Jöran Persson som anklagare."
+    },
+    {
+     "rubrik": "Nils Stures återkomst",
+     "text": "Den 21 maj anlände Nils Sture, som hade avfärdats som friaresändebud till Lothringen men inte haft framgång. Eriks misstänksamhet ökade, och hans själsliga tillstånd var hårt spänt. Avgörandet om domens fullbordan var svårt för kungen att träffa, och han vacklade av och an. Han gick in till Sten Eriksson och bad om vänskap."
+    },
+    {
+     "rubrik": "Dådet",
+     "text": "Kort därefter återvände Erik efter samtal med Jöran Persson och prästen Peder Carlsson, gick in i Nils Stures fängelserum med några drabanter och stötte sin dolk i hans arm. Drabanterna dräpte omedelbart Nils Sture. Erik skyndade bort efter att ha gett order att alla anklagade utom Sten Eriksson skulle dödas. Drabanterna utförde ordern så att alla fängslade utom Sten Eriksson Leijonhufvud och Sten Axelsson Banér dödades. Kungen själv var försvunnen och påträffades senare ute på landet. Det blev då uppenbart att han var sinnessjuk."
+    },
+    {
+     "rubrik": "Hur dådet ska förstås",
+     "text": "Sturemorden har kommit att framstå som den dominerande händelsen i Eriks liv, men det är endast till en del berättigat. Dådet belyser ändå hans förföljelseidéer och misstänksamhet. Om den utbrytande sinnessjukdomen gav upphov till Sturemorden eller om morden utlöste den kan inte avgöras, men sammanhanget är tydligt, och sinnessjukdomen var ärftligt betingad. Flera rationella linjer i hans liv leder också fram till dådet: kampen mot adeln, särskilt Stureätten som länge hade framstått som Vasarnas medtävlare, och hävdandet av den starka furstemakten med alla medel."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Erik XIV (band 14, 1953)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15412",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "erik-xiv-avsatts-1569",
+   "namn": "Erik XIV avsätts",
+   "ar": 1569,
+   "ca": false,
+   "datum": "01-26",
+   "text": "Erik XIV fängslades av sina bröder Johan och Karl den 29 september 1568 och avsattes den 26 januari 1569. Han satt fången till sin död 1577.",
+   "regenter": [
+    "erik-xiv",
+    "johan-iii",
+    "karl-ix"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund",
+     "text": "Erik XIV föddes den 13 december 1533 på Stockholms slott som son till Gustav Vasa och Katarina av Sachsen-Lauenburg. Han blev genom Västerås arvförening 1544 arvfurste och var kung från faderns död 1560, kröntes i Uppsala domkyrka den 29 juni 1561 och instiftade samma år Salvatorsorden. Han gifte sig sommaren 1567 med Karin Månsdotter, som var dotter till knekten Måns. Vigseln ägde rum i Storkyrkan i Stockholm den 4 juli 1568 och hon kröntes dagen därpå."
+    },
+    {
+     "rubrik": "Bröderna griper makten",
+     "text": "Kort därefter, den 29 september 1568, blev Erik fången hos sina bröder Johan och Karl. Den 26 januari 1569 avsattes han. Erik hade efter Sturemorden 1567 visat tecken på sinnessjukdom."
+    },
+    {
+     "rubrik": "Åren som fånge",
+     "text": "Erik satt först fången på Stockholms slott. I juli 1570 fördes han till Åbo slott, i augusti 1571 till Kastellholm på Åland och i november samma år till Gripsholm. Den 13–14 juni 1573 fördes han till Västerås slott, och samma månad avlägsnades hans gemål från honom. I oktober 1574 flyttades han till Örbyhus."
+    },
+    {
+     "rubrik": "Döden",
+     "text": "Erik XIV dog den 26 februari 1577 på Örbyhus och begravdes i Västerås domkyrka. Karin Månsdotter dog 1612 på Liuksiala gård i Finland och begravdes i Åbo domkyrka. Johan III blev kung efter honom."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Erik XIV (band 14, 1953)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=15412",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "johan-iii-roda-boken-1576",
+   "namn": "Johan III:s liturgi, Röda boken",
+   "ar": 1576,
+   "ca": false,
+   "datum": null,
+   "text": "Johan III lät 1576 trycka en ny liturgi, Röda boken, som låg närmare katolskt bruk. Den mötte starkt motstånd, särskilt från hertig Karl.",
+   "regenter": [
+    "johan-iii",
+    "karl-ix"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Kungen och kyrkan",
+     "text": "Johan III strävade efter en kyrka som stod närmare den äldre kristna traditionen. Kyrkofädernas auktoritet åberopades och ett återställande av medeltida ceremonier eftersträvades. Som främste medhjälpare tjänstgjorde sekreteraren Petrus Michaelis Fecht."
+    },
+    {
+     "rubrik": "Röda boken",
+     "text": "Redan 1576 lät Johan trycka en ny liturgi, den så kallade Röda boken, som Fecht utarbetat enligt Johans intentioner. Mässordningen och gudstjänsten blev värdig och stämningsmättad och fördes närmare katolskt bruk, med användning av latin vid sidan av svenska. De nya nattvardsbönerna uppfattades av den ortodoxa lutherska falangen som en återgång till det katolska mässoffret."
+    },
+    {
+     "rubrik": "Motståndet",
+     "text": "Johan hade betydande svårigheter att få liturgin accepterad. Hertig Karl och furstendömets ständer nekade våren 1576 att anta den. Disputationer anställdes i Stockholm, och i februari 1577 samlades ett ständermöte, där Johan höll ett temperamentsfullt tal med utfall mot försumliga och ovårdade präster. Motsträvigt antogs liturgin, dock med tillägget att den skulle uttydas rätteligen och inte vrångt."
+    },
+    {
+     "rubrik": "Kontakterna med Rom",
+     "text": "Johan hade redan 1572 kontaktat kurian genom drottning Katarina i en samvetsfråga för henne: hon hade tagit emot kalken i nattvarden och ville ha påvens tillåtelse. Hon fick absolution, och brevväxlingen ledde sommaren 1574 till besök av den polske jesuiten Warszewicki, som förmedlade ankomsten våren 1576 av jesuiten Laurentius Nicolai Norvegus, kallad Klosterlasse. Han blev föreståndare för en ny teologisk läroanstalt i det tidigare franciskanklostret på Riddarholmen."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Johan III (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12099",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "uppsala-mote-1593",
@@ -2486,6 +2768,89 @@
    ]
   },
   {
+   "id": "myntreformen-1776",
+   "namn": "Myntrealisationen 1776",
+   "ar": 1776,
+   "ca": false,
+   "datum": null,
+   "text": "Åren 1776–1777 genomfördes under Gustav III en myntrealisation där sedlar växlades in till halva värdet och Sverige fick silvermyntfot.",
+   "regenter": [
+    "gustav-iii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Ett rike med dåliga finanser",
+     "text": "Rikets finanser var uselt vid Gustav III:s trontillträde 1771. Han valde skickliga medhjälpare och försökte förverkliga det bästa ur båda partiernas program, och på finansområdet blev det Johan Liljencrantz som ledde arbetet."
+    },
+    {
+     "rubrik": "Realisationen",
+     "text": "Myntrealisationen 1776–1777, med två stora utländska lån, innebar att utelöpande sedlar inväxlades till halva namnvärdet, och Sverige fick silvermyntfot med riksdaler som huvudmynt. Tekniskt var den ett mästerverk, men verkan blev kortvarig eftersom Gustav saknade sinne för ordnat penningväsende."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Andra finansåtgärder under hans tid hade blandad framgång. Brännvinsregalet 1774 med statliga brännerier och förbud mot husbehovsbränning ledde till lönnbränning och missnöje och upphävdes. Spannmålshandeln frigavs 1775–1780. Under kriget gav han ut riksgäldssedlar, och vid regeringens slut var man åter i förvirring och med en oerhörd statsskuld."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav III (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13317",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "religionsfriheten-1781",
+   "namn": "Religionsfrihetslagen 1781",
+   "ar": 1781,
+   "ca": false,
+   "datum": null,
+   "text": "År 1781 utfärdades Sveriges första religionsfrihetslag, och 1782 kom ett judereglemente som tillät judar att bosätta sig i tre städer.",
+   "regenter": [
+    "gustav-iii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Idéerna",
+     "text": "Gustav III omfattade trosfriheten, som var Voltaires stora patos, men med nationalekonomiska motiv: man ville locka främmande trosbekännare till landet. Frågan hade drivits av prästen och riksdagsmannen Anders Chydenius."
+    },
+    {
+     "rubrik": "Lagen",
+     "text": "Efter Chydenius förslag vid riksdagen 1778–1779 utfärdades 1781 Sveriges första religionsfrihetslag. Året därpå, 1782, kom ett judereglemente som tillät mosaiska trosbekännare att bosätta sig i Stockholm, Göteborg och Norrköping och bygga synagogor."
+    },
+    {
+     "rubrik": "Gränserna",
+     "text": "Tryckfrihetsförordningen 1774 var däremot långt ifrån ett uttryck för upplysningens frisinne. Den skyddade kung, regering och styrelsesätt för kritik, och nya inskränkningar på 1780-talet gjorde den illusorisk. Vid kungörelsen om judarnas emancipation 1838, under Karl XIV Johan, bröt antisemitiska upplopp ut."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav III (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13317",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Anders Chydenius (band 8, 1929)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14849",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Karl XIV Johan (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12359",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad",
+   "personer": [
+    "chydenius"
+   ]
+  },
+  {
    "id": "svenska-akademien-1786",
    "namn": "Svenska Akademien grundas",
    "ar": 1786,
@@ -2970,6 +3335,130 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "skeppshandeln-1825",
+   "namn": "Skeppshandeln",
+   "ar": 1825,
+   "ca": false,
+   "datum": null,
+   "text": "År 1825 sålde Sverige gamla örlogsfartyg till Spaniens upproriska undersåtar i Sydamerika. Affären slutade i fiasko när Ryssland krävde att den skulle stoppas.",
+   "regenter": [
+    "karl-xiv-johan",
+    "oscar-i"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Affären",
+     "text": "Skeppshandeln 1825, där Sverige sålde gamla örlogsfartyg till Spaniens upproriska undersåtar i Sydamerika, slutade i ett fiasko när Ryssland krävde att affären stoppades. Kronprins Oscar, som var tillförordnad ordförande i regeringen, drogs in i skeppshandeln, där han modererade sin far Karl XIV Johan men höll sig lojal med statsrådet."
+    },
+    {
+     "rubrik": "Kungens tro på sin egen förmåga",
+     "text": "Karl XIV Johan ansåg sig lika stor fackman på det finansiella som på det politiska och militära planet. Han ville bekämpa inflationen med en egen monetär politik, med växelaffärer på Hamburgbörsen och medel ur den så kallade Guadeloupefonden, 24 miljoner francs som England betalat som kompensation för ön, men höll emot en realisation ända till riksdagen 1828–1830. Den genomfördes först 1834."
+    },
+    {
+     "rubrik": "Kronprins Oscar",
+     "text": "Från 1824 fick Oscar regelbundet bevista statsrådsberedningen, och som vicekung i Norge samma år gavs han för första gången möjlighet till politiskt agerande. Skeppshandeln var en av de första större frågor där han stod mellan faderns vilja och statsrådets."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XIV Johan (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12359",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Oscar I (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7811",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "riksdagen-1840-41",
+   "namn": "Oppositionsriksdagen 1840–1841",
+   "ar": 1840,
+   "ca": false,
+   "datum": null,
+   "text": "Vid riksdagen 1840–1841 gick den liberala oppositionen till frontalangrepp mot statsrådet. Statsrådet avgick för första gången in corpore, och riksdagen ledde till departementalreformen.",
+   "regenter": [
+    "karl-xiv-johan",
+    "oscar-i"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Oppositionen växer",
+     "text": "Redan vid riksdagen 1815 framträdde en lojal opposition, och temperaturen steg för varje riksdag. Efter julirevolutionen 1830 hämtade den liberala oppositionen vapen ur liberalismens arsenal och angrep statsrådet, som den såg som en anomali, genom riksrättsåtal och anslagsvägran. Lars Johan Hierta startade Aftonbladet 1830, och indragningsmakten togs i bruk 1835. Affären Lindeberg 1834 och Crusenstolpes agerande gjorde att det politiska livet fick ett drag av löje."
+    },
+    {
+     "rubrik": "Koalitionen",
+     "text": "Vid den stora oppositionsriksdagen 1840–1841 hade den så kallade koalitionen väl förberett en frontalattack. När kabinettskassans användning för kungens växeloperationer blev en skandal, tillsköt han 805 000 riksdaler banko ur egen kassa."
+    },
+    {
+     "rubrik": "Statsrådet avgår",
+     "text": "Statsrådet lämnade för första gången i Sveriges historia in corpore in sin avskedsansökan. Det bestående värdet av riksdagen var departementalreformen. Karl XIV Johans politiska konservatism hindrade däremot lösningen av representationsfrågan."
+    },
+    {
+     "rubrik": "Kronprinsen",
+     "text": "Kronprins Oscar hade under riksdagen hållit sig passiv, och hans förhållande till fadern beskrivs som en böljegång av misstro och försoning. Han hade 1840 anonymt utgivit skriften Om straff och straffanstalter, och när han 1844 blev kung kunde han fortsätta på reformvägen."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XIV Johan (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12359",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Oscar I (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7811",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "reformerna-1845-1847",
+   "namn": "Reformerna 1845–1847",
+   "ar": 1845,
+   "ca": false,
+   "datum": null,
+   "text": "Under Oscar I:s första år genomfördes reformer om lika arvsrätt 1845, näringsfrihet 1846 och fattigvård 1847. De kom att forma 1800-talets samhälle.",
+   "regenter": [
+    "oscar-i"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Lika arvsrätt",
+     "text": "Det politiskt mest kontroversiella reformbeslutet togs våren 1845: lika arvsrätt på landsbygden för son och dotter. Lagändringen var till kvinnornas fördel men diskuterades knappast som en kvinnofråga, utan som en fråga om arvsrättens politiska betydelse, särskilt adelns överlevnad. Oscar sanktionerade reformen mot adelns votum och trots att halva statsrådet avstyrkt, och drog på sig en storm av kritik från de konservativa."
+    },
+    {
+     "rubrik": "Näringsfrihet",
+     "text": "Förordningarna om friare näringslagstiftning 1846 utarbetades av Oscar tillsammans med civilministern, och han var i vissa avseenden den mest liberaliseringsvänliga parten. Han såg liksom i sin bok om fängelser näringsfriheten som lösningen på massfattigdom och kriminalitet."
+    },
+    {
+     "rubrik": "Fattigvårdsförordningen 1847",
+     "text": "Fattigvårdsförordningen 1847 brukar betecknas som hans eget verk. Under påverkan av en humanitär fransk tradition lyckades han mildra effekterna av strömningar som ville förneka rätten till fattigvård, och förordningen utökade det offentligas förpliktelser. En ny strafflag var en annan av hans hjärtefrågor, men hans ansträngningar var otillräckliga och reformen genomfördes inte fullt ut under hans livstid."
+    },
+    {
+     "rubrik": "Därefter",
+     "text": "Efter marsoroligheterna 1848 greps Oscar av den konservativa reaktionen och tydde sig till aristokratin."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Oscar I (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7811",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "marsoroligheterna-1848",
