@@ -733,6 +733,245 @@
     }
    ],
    "status": "verifierad"
+  },
+  {
+   "id": "kristina-gyllenstierna",
+   "namn": "Kristina Gyllenstierna",
+   "roll": "Furstinna och försvarare av Stockholm",
+   "fodd": 1494,
+   "foddCa": false,
+   "dod": 1559,
+   "dodCa": false,
+   "ingress": "Kristina Nilsdotter Gyllenstierna var gift med Sten Sture den yngre och ledde försvaret av Stockholm 1520 efter hans död. Hon fängslades i Danmark och återvände 1524.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Kristina Nilsdotter föddes enligt uppgift 1494 som dotter till riksrådet Nils Eriksson (Gyllenstierna) och Sigrid Eskilsdotter (Banér). Hon gifte sig den 16 november 1511 i Stockholm med riksföreståndaren Sten Sture den yngre. Efter hans död 1520 övertog hon ledningen. Hon dog den 5 januari 1559 på Hörningsholm vid Mörkö."
+    },
+    {
+     "rubrik": "Stockholms försvar och fångenskap",
+     "text": "Hon fortsatte försvaret av Stockholm mot Kristian II och uppmuntrade motståndet i landsorten. Staden kapitulerade mot löfte om amnesti, men efter Kristians kröning anklagades hon av ärkebiskop Gustav Trolle, och förlorade därefter sin frihet. Hon fördes 1521 till Danmark och satt fången, bland annat på Kalundborg, tills hon i januari 1524 fick återvända till Sverige."
+    },
+    {
+     "rubrik": "Senare år",
+     "text": "Hon gifte sig 1527 på Lindholmen med riksrådet Johan Turesson (Tre rosor). Hennes insats vid belägringen av Stockholm 1520 har blivit en av Sturetidens mest berömda. Hennes halvsyster Cecilia Månsdotter var mor till Gustav Eriksson Vasa."
+    }
+   ],
+   "regenter": [
+    "sten-sture-den-yngre",
+    "kristian-ii"
+   ],
+   "kallor": [
+    {
+     "titel": "Kristina Nilsdotter Gyllenstierna (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13412",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "celsius",
+   "namn": "Anders Celsius",
+   "roll": "Astronom och professor",
+   "fodd": 1701,
+   "foddCa": false,
+   "dod": 1744,
+   "dodCa": false,
+   "ingress": "Anders Celsius var professor i astronomi i Uppsala och skapade en temperaturskala med fix punkter för vattnets frys- och kokpunkt. Han dog bara 42 år gammal.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Anders Celsius föddes den 27 november 1701 i Uppsala, i en släkt med en lång vetenskaplig tradition. Han blev student 1711 och disputerade 1727 och 1728. Han var amanuens och sedan sekreterare i Vetenskapssocieteten i Uppsala, docent i matematik 1729 och professor i astronomi 1730. Han gjorde en utrikes studieresa 1732–1736, var rektor vid universitetet två gånger och blev ledamot av Vetenskapsakademien 1739. Han var ogift och dog den 25 april 1744 i Uppsala, ännu inte 43 år gammal."
+    },
+    {
+     "rubrik": "Termometern",
+     "text": "I sitt arbete om termometern utgick Celsius från två fixpunkter: vattnets fryspunkt och dess kokpunkt. Han visade experimentellt att fryspunkten är oberoende av lufttryck. Vid kokpunkten satte han siffran 0 och vid fryspunkten 100, alltså omvänt mot dagens skala, och hans skala var en modifikation av den franske astronomen De l'Isles skala."
+    },
+    {
+     "rubrik": "Forskare i Europa",
+     "text": "Hans namn räknas bland den svenska lärdomshistoriens främsta. Han var en av de första svenska vetenskapsmän som intog en ledande ställning i det internationella vetenskapliga samarbetet. I striden om jordens form försvarade han Newtons åsikt, att jorden är avplattad vid polerna, och föreslog att man skulle göra en gradmätning så nära polen som möjligt för att avgöra frågan."
+    }
+   ],
+   "regenter": [],
+   "kallor": [
+    {
+     "titel": "Anders Celsius (band 8, 1929)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14758",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "per-brahe",
+   "namn": "Per Brahe d.y.",
+   "roll": "Greve, riksdrots och generalguvernör",
+   "fodd": 1602,
+   "foddCa": false,
+   "dod": 1680,
+   "dodCa": false,
+   "ingress": "Per Brahe d.y. var greve till Visingsborg, riksdrots från 1641 och två gånger generalguvernör i Finland. Han var kansler för Åbo universitet.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Per Brahe föddes den 18 februari 1602 på Rydboholm och dog den 12 september 1680 på Bogesund. Han studerade utomlands 1618–1625, blev kammarherre hos Gustav II Adolf 1626 och riksråd 1630. År 1634 fick han i uppdrag att hjälpa rikskanslern i Tyskland, och han var civil generalguvernör över Preussen och generalguvernör över Finland 1637. Han blev riksdrots och president i Svea hovrätt 1641 och var befälhavare under kriget mot Danmark 1643–1644."
+    },
+    {
+     "rubrik": "Finland och Åbo universitet",
+     "text": "Brahe blev kansler för Åbo universitet 1646 och var på nytt generalguvernör över Finland 1648–1654. Han blev 1657 högste befälhavare över krigsmakten under kriget mot Danmark. År 1661 blev han direktör över hela justitieverket i riket."
+    },
+    {
+     "rubrik": "Karaktären",
+     "text": "Under åren 1660–1672 blev Brahe, som i mångt och mycket levde kvar i en gången tids föreställningar, mindre skickad att behärska och leda det söndrade förmyndarrådet. Han tycks inte ha strävat efter en verkligt ledande ställning i riksstyrelsen, utan var nöjd med en post som gav honom ett självständigt verksamhetsfält och rätt att säga sitt ord i alla rådslag, blott han fick njuta den företrädesrang som ämbete och börd gav honom bland rikets yppersta män."
+    }
+   ],
+   "regenter": [
+    "gustav-ii-adolf",
+    "kristina",
+    "karl-xi"
+   ],
+   "kallor": [
+    {
+     "titel": "Per Brahe d.y. (band 5, 1925)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=18054",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "ellen-key",
+   "namn": "Ellen Key",
+   "roll": "Författare och pedagog",
+   "fodd": 1849,
+   "foddCa": false,
+   "dod": 1926,
+   "dodCa": false,
+   "ingress": "Ellen Key skrev Barnets århundrade (1900), där hon fördömde all strykpedagogik. Hon var lärarinna, föreläsare och en av sin tids mest kända skribenter.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Ellen Key föddes den 11 december 1849 på Sundsholm i Gladhammar i Småland som dotter till riksdagsmannen Emil Key. Hon läste vid Lärokurs för fruntimmer i Stockholm 1868–1872 och studerade vid danska folkhögskolor 1874. Hon var sin fars sekreterare i hans riksdagsarbete på 1870-talet, och var lärarinna vid Anna Whitlocks flickskola 1880–1899. Hon föreläste vid Stockholms arbetareinstitut 1883–1903 och var ordförande i sällskapet Nya Idun 1887–1900. Hon var ogift och dog den 25 april 1926 på Strand i Östergötland."
+    },
+    {
+     "rubrik": "Barnets århundrade",
+     "text": "I Barnets århundrade (1900) fördömer hon all strykpedagogik, med minnet av de hårda bestraffningar som hennes bröder utsattes för i barndomshemmet. Som flicka hade hon fått läsa goda böcker. På sin artonårsdag fick hon av sin mor tre dramer av Ibsen: Brand, Peer Gynt och Kjærlighedens Komedie, och särskilt det sistnämnda gjorde ett starkt intryck. George Eliots romaner förmedlade en sträng etisk livssyn."
+    },
+    {
+     "rubrik": "Föreläsare och ledamot",
+     "text": "Hon gjorde resor till England, Frankrike och Italien 1900–1901 och föreläsningsturnéer i Tyskland, Italien och andra länder 1905–1909. Hon blev ledamot av Samfundet De Nio 1913. Efter faderns död utgav hon i tre band Minnen av och om Emil Key."
+    }
+   ],
+   "regenter": [],
+   "kallor": [
+    {
+     "titel": "Ellen K S Key (band 21, 1975–77)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11453",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "palme",
+   "namn": "Olof Palme",
+   "roll": "Statsminister",
+   "fodd": 1927,
+   "foddCa": false,
+   "dod": 1986,
+   "dodCa": false,
+   "ingress": "Olof Palme var Sveriges statsminister 1969–1976 och från 1982 till sin död. Han mördades den 28 februari 1986 i Stockholm.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Sven Olof Joachim Palme föddes den 30 januari 1927 i Stockholm. Han tog examen vid Kenyon College i Ohio 1948 och var ordförande i Sveriges förenade studentkårer 1952–1953. Han var handsekreterare åt statsministern 1953–1963 och riksdagsledamot från 1958. Han blev statsråd 1965 och chef för Kommunikationsdepartementet, för Utbildningsdepartementet 1967–1969, och partiordförande för Socialdemokraterna den 1 oktober 1969."
+    },
+    {
+     "rubrik": "Statsminister",
+     "text": "Palme var statsminister den 14 oktober 1969–8 oktober 1976 och åter från 8 oktober 1982. Han var medlem av Brandtkommissionen från 1977, FN:s generalsekreterares särskilda sändebud i konflikten mellan Iran och Irak från 1980 och ordförande i den oberoende kommissionen för nedrustnings- och säkerhetsfrågor, Palmekommissionen, från 1980."
+    },
+    {
+     "rubrik": "Eftermälet",
+     "text": "Palme framstod för vida kretsar utanför Sverige som en symbol för en strävan efter samförstånd och fred mellan väst och öst, mellan syd och nord, liksom för vakthållning kring små staters självbestämmanderätt. Tidigt hade han mer än någon annan svensk politiker i modern tid fört världen och dess problem in i den svenska vardagen, och mer än någon annan svensk politiker gjorde han genom sin gärning Sverige känt ute i världen. Han mördades den 28 februari 1986 i Stockholm."
+    }
+   ],
+   "regenter": [],
+   "kallor": [
+    {
+     "titel": "Olof Palme (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7983",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "ingvar-den-vittfarne",
+   "namn": "Ingvar den vittfarne",
+   "roll": "Vikingahövding",
+   "fodd": 1016,
+   "foddCa": true,
+   "dod": 1041,
+   "dodCa": false,
+   "ingress": "Ingvar den vittfarne ledde en färd österut omkring 1036–1041 som blev ödesdiger för många av hans följeslagare. Mer än tjugo runstenar nämner färden.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Enligt isländsk tradition föddes Ingvar omkring 1016 och dog 1041 i Ryssland. Han var son till Emund Åkesson, dotterson till kung Erik Segersäll, och kallas vikingahövding. Hans namn har bevarats genom runstenar i Mälardalen och genom en isländsk saga som skrevs ned i början av 1300-talet."
+    },
+    {
+     "rubrik": "Stenarna och sagan",
+     "text": "Mer än ett tjugotal runstenar minns män som omkom på en sjöfärd österut med Ingvar, i några fall med resmålet Särkland, saracenernas land vid Kaspiska havet. De flesta finns i Södermanland. Samme man gav namn åt Yngvars saga víðförla, vars första fem kapitel anses kunna återgå på äldre tradition."
+    }
+   ],
+   "regenter": [
+    "erik-segersall"
+   ],
+   "kallor": [
+    {
+     "titel": "Ingvar vittfarne (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11969",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "geijer",
+   "namn": "Erik Gustaf Geijer",
+   "roll": "Professor och författare",
+   "fodd": 1783,
+   "foddCa": false,
+   "dod": 1847,
+   "dodCa": false,
+   "ingress": "Erik Gustaf Geijer var professor i Uppsala och ledamot av Svenska Akademien. Han föddes på Ransäters bruk i Värmland.",
+   "berattelse": [
+    {
+     "rubrik": "Liv",
+     "text": "Erik Gustaf Geijer föddes den 12 januari 1783 på Ransäters bruk i Värmland som son till brukspatronen Bengt Gustaf Geijer. Han blev student i Uppsala 1799, magister 1806, docent i historia 1810 och professor 1817. Han var informator i Stockholm 1811–1814 och rektor vid universitetet fem gånger. Han gifte sig 1816 med sin syssling Anna Lisa Lilljebjörn."
+    },
+    {
+     "rubrik": "Uppdrag och utmärkelser",
+     "text": "Geijer satt i prästeståndet vid riksdagarna 1828–1830 och 1840–1841 och i den så kallade stora uppfostringskommittén 1825–1828. Han fick Svenska Akademiens stora pris 1803 och 1810, blev ledamot av Svenska Akademien 1824, av Musikaliska akademien 1829 och av Vetenskapsakademien 1835. Han dog den 23 april 1847 i Stockholm."
+    }
+   ],
+   "regenter": [],
+   "kallor": [
+    {
+     "titel": "Erik Gustaf Geijer (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12976",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   }
  ]
 }
