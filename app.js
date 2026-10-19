@@ -18,10 +18,10 @@ const PAL = {
 };
 
 /* ---------- Lagrat läge (läst, bokmärken, läsposition) ---------- */
-const defState = () => ({ lasta: {}, bokmarken: [], pos: {}, senast: null, storlek: 1, anteck: {}, egna: [] });
+const defState = () => ({ lasta: {}, bokmarken: [], pos: {}, senast: null, storlek: 1, anteck: {}, egna: [], borttaget: {} });
 let S;
 try { S = Object.assign(defState(), JSON.parse(localStorage.getItem(KEY) || '{}')); } catch (e) { S = defState(); }
-const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { /* privat läge */ } };
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { /* privat läge */ } if (typeof schedSync === 'function') schedSync(); };
 const fmtAr = (y, ca) => (ca ? 'ca ' : '') + (y < 0 ? `${Math.abs(y).toLocaleString('sv-SE')} f.Kr.` : String(y));
 const hAr = h => fmtAr(h.ar, h.ca);
 const isRead = id => !!S.lasta[id];
@@ -30,7 +30,7 @@ document.documentElement.style.setProperty('--lasstorlek', S.storlek);
 
 
 /* ---------- Versionshantering ---------- */
-const APP_VERSION = '2.2.0';
+const APP_VERSION = '2.3.0';
 const cmpVer = (a, b) => { const x = String(a).split('.').map(Number), y = String(b).split('.').map(Number); for (let i = 0; i < 3; i++) { if ((x[i] || 0) !== (y[i] || 0)) return (x[i] || 0) - (y[i] || 0); } return 0; };
 let nyVersion = null;
 async function kollaVersion() {
@@ -188,7 +188,7 @@ const app = $('#app');
 let post = null;
 const routes = [
   [/^$/, pHem], [/^tidslinje$/, pTidslinje], [/^regent\/([^/]+)$/, pRegent], [/^slakttrad(?:\/([^/]+))?$/, pSlakt],
-  [/^handelser$/, pHandelser], [/^handelse\/([^/]+)$/, pHandelse], [/^ny-handelse$/, pNyHandelse], [/^personer$/, pPersoner], [/^version$/, pVersion], [/^person\/([^/]+)$/, pPerson], [/^jamfor$/, pJamfor], [/^statistik$/, pStat],
+  [/^handelser$/, pHandelser], [/^handelse\/([^/]+)$/, pHandelse], [/^ny-handelse$/, pNyHandelse], [/^personer$/, pPersoner], [/^synk$/, pSynk], [/^version$/, pVersion], [/^person\/([^/]+)$/, pPerson], [/^jamfor$/, pJamfor], [/^statistik$/, pStat],
   [/^quiz$/, pQuiz], [/^ordlista$/, pOrd], [/^bokmarken$/, pBokm], [/^sok$/, pSok], [/^mer$/, pMer], [/^om$/, pOm]
 ];
 function route() {
@@ -558,6 +558,117 @@ function pHandelse(id) {
 }
 
 
+
+/* ---------- Synk mot GitHub (Gist) ---------- */
+const SYNC_KEY = 'sveriges-historia-synk', SYNC_FIL = 'sveriges-historia.json';
+let syncing = false, syncT = null, syncMsg = '';
+const syncCfg = () => { try { return JSON.parse(localStorage.getItem(SYNC_KEY) || '{}'); } catch (e) { return {}; } };
+const saveSyncCfg = c => { try { localStorage.setItem(SYNC_KEY, JSON.stringify(c)); } catch (e) { /* privat läge */ } };
+function syncPayload() { const { installNej, ...rest } = S; return { app: 'sveriges-historia', version: APP_VERSION, uppdaterad: Date.now(), data: rest }; }
+async function gh(path, opt) {
+  const c = syncCfg(); opt = opt || {};
+  const r = await fetch('https://api.github.com' + path, { ...opt, headers: { Authorization: 'Bearer ' + c.token, Accept: 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28', ...(opt.body ? { 'Content-Type': 'application/json' } : {}) } });
+  if (!r.ok) { const e = new Error(r.status === 401 ? 'GitHub godtog inte token. Kontrollera att den är rätt och inte har gått ut.' : r.status === 403 || r.status === 404 ? 'GitHub nekade åtkomst. Kontrollera att token har behörighet att läsa och skriva gistar.' : 'GitHub svarade med felkod ' + r.status + '.'); e.status = r.status; throw e; }
+  return r.json();
+}
+async function hittaGist() {
+  for (let sida = 1; sida <= 5; sida++) {
+    const lista = await gh('/gists?per_page=100&page=' + sida);
+    const g = lista.find(x => x.files && x.files[SYNC_FIL]); if (g) return g.id;
+    if (lista.length < 100) break;
+  }
+  return null;
+}
+async function lasGist(id) {
+  const g = await gh('/gists/' + id); const f = g.files && g.files[SYNC_FIL]; if (!f) return null;
+  let txt = f.content; if (f.truncated && f.raw_url) txt = await (await fetch(f.raw_url)).text();
+  const j = JSON.parse(txt); return j && j.data ? j.data : null;
+}
+async function skrivGist() {
+  const c = syncCfg();
+  const body = { description: 'Sveriges Historia: synkade kommentarer, egna händelser och läsmarkeringar', files: { [SYNC_FIL]: { content: JSON.stringify(syncPayload()) } } };
+  if (c.gistId) await gh('/gists/' + c.gistId, { method: 'PATCH', body: JSON.stringify(body) });
+  else { const g = await gh('/gists', { method: 'POST', body: JSON.stringify({ ...body, public: false }) }); c.gistId = g.id; saveSyncCfg(c); }
+}
+function mergeState(l, r) {
+  const out = { ...l };
+  const tomb = { ...(r.borttaget || {}) }; Object.entries(l.borttaget || {}).forEach(([k, v]) => { tomb[k] = Math.max(tomb[k] || 0, v); });
+  out.borttaget = tomb;
+  out.lasta = { ...(r.lasta || {}), ...(l.lasta || {}) };
+  const seen = new Set(); out.bokmarken = [...(l.bokmarken || []), ...(r.bokmarken || [])].filter(b => { const k = JSON.stringify(b); if (seen.has(k)) return false; seen.add(k); return true; });
+  out.pos = { ...(r.pos || {}), ...(l.pos || {}) };
+  if (!out.senast && r.senast) out.senast = r.senast;
+  const tid = n => n.andrad || n.ts || 0;
+  const eids = new Set([...Object.keys(l.anteck || {}), ...Object.keys(r.anteck || {})]);
+  out.anteck = {};
+  eids.forEach(eid => {
+    if (tomb[eid]) return;
+    const m = new Map();
+    [...((r.anteck || {})[eid] || []), ...((l.anteck || {})[eid] || [])].forEach(n => { const c = m.get(n.id); if (!c || tid(n) >= tid(c)) m.set(n.id, n); });
+    const arr = [...m.values()].filter(n => !(tomb[n.id] && tomb[n.id] >= tid(n))).sort((a, b) => b.ts - a.ts);
+    if (arr.length) out.anteck[eid] = arr;
+  });
+  const em = new Map();
+  [...(r.egna || []), ...(l.egna || [])].forEach(e => { const c = em.get(e.id); if (!c || tid(e) >= tid(c)) em.set(e.id, e); });
+  out.egna = [...em.values()].filter(e => !(tomb[e.id] && tomb[e.id] >= tid(e))).sort((a, b) => b.ts - a.ts);
+  return out;
+}
+function tillampaState(ny) {
+  const keep = { installNej: S.installNej, storlek: S.storlek };
+  S = Object.assign(defState(), ny, keep);
+  try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { /* privat läge */ }
+  rebuildH();
+}
+async function syncNow(mode, tyst) {
+  const c = syncCfg(); if (!c.token || syncing) return false;
+  syncing = true; setSyncMsg('Synkar …');
+  try {
+    if (!c.gistId) { const id = await hittaGist(); if (id) { c.gistId = id; saveSyncCfg(c); } }
+    let remote = null; if (c.gistId && mode !== 'push') remote = await lasGist(c.gistId);
+    if (mode === 'pull') { if (!remote) throw new Error('Det finns ingen sparad data på GitHub att hämta.'); tillampaState(remote); }
+    else if (mode === 'push') { /* skriv över */ }
+    else if (remote) tillampaState(mergeState(S, remote));
+    await skrivGist();
+    const c2 = syncCfg(); c2.senast = Date.now(); saveSyncCfg(c2);
+    setSyncMsg('Synkad ' + antDatum(c2.senast) + '.'); if (!tyst) toast('Synkad med GitHub.');
+    if (/^#\/(synk|handelse|handelser|tidslinje|bokmarken|om)/.test(location.hash) || !location.hash || location.hash === '#/') route();
+    return true;
+  } catch (e) {
+    setSyncMsg('Synken misslyckades: ' + (e.message || 'okänt fel')); if (!tyst) toast('Synken misslyckades.'); return false;
+  } finally { syncing = false; }
+}
+function schedSync() {
+  if (syncing) return; const c = syncCfg(); if (!c.token || !c.auto) return;
+  clearTimeout(syncT); syncT = setTimeout(() => syncNow('merge', true), 6000);
+}
+function setSyncMsg(m) { syncMsg = m; const el = $('#synk-status'); if (el) el.textContent = m; }
+window.addEventListener('online', () => { const c = syncCfg(); if (c.token && c.auto) syncNow('merge', true); });
+setTimeout(() => { const c = syncCfg(); if (c.token && c.auto) syncNow('merge', true); }, 3500);
+function pSynk() {
+  const c = syncCfg(), ansluten = !!c.token;
+  return `<div class="sida"><div class="sidhuvud"><h1>Synk mot GitHub</h1><p>Spara dina kommentarer, egna händelser, bokmärken och läsmarkeringar i en privat Gist på ditt GitHub-konto, och hämta dem på andra enheter.</p></div>
+  <div style="max-width:40rem">
+  <p id="synk-status" role="status" aria-live="polite" class="synkstatus">${esc(syncMsg || (ansluten ? (c.senast ? 'Senast synkad ' + antDatum(c.senast) + '.' : 'Ansluten. Tryck på Synka nu.') : 'Inte ansluten.'))}</p>
+  ${ansluten ? `<p><button type="button" class="knapp" data-act="synk-nu">Synka nu</button></p>
+  <label class="chip"><input type="checkbox" id="synk-auto" ${c.auto ? 'checked' : ''}> Synka automatiskt vid start och efter ändringar</label>
+  <p class="liten mut">Gist-ID: ${esc(c.gistId ? c.gistId.slice(0, 8) + '…' : 'skapas vid första synken')}</p>
+  <p><button type="button" class="litenknapp" data-act="synk-push">Skicka min data (skriv över GitHub)</button> <button type="button" class="litenknapp" data-act="synk-pull">Hämta från GitHub (skriv över denna enhet)</button> <button type="button" class="litenknapp" data-act="synk-koppla-fran">Koppla från</button></p>` : `
+  <h2 style="font-size:1.2rem">Anslut</h2>
+  <label for="synk-token" style="font-weight:600">GitHub-token</label>
+  <input id="synk-token" type="password" autocomplete="off" placeholder="github_pat_… eller ghp_…" style="width:100%;box-sizing:border-box;font:inherit;padding:.55rem .7rem;border:1px solid var(--linje);border-radius:var(--radie)">
+  <p><button type="button" class="knapp" data-act="synk-anslut">Spara och anslut</button></p>`}
+  <details class="valj"><summary>Så skapar du en token</summary>
+  <ol><li>Logga in på github.com och öppna Settings, sedan Developer settings, sedan Personal access tokens.</li>
+  <li>Välj Fine-grained tokens, Generate new token. Under Account permissions väljer du Gists: Read and write. Ge den ett namn och en utgångstid.</li>
+  <li>Alternativt: Tokens (classic), Generate new token, och kryssa bara i <em>gist</em>.</li>
+  <li>Kopiera token och klistra in den här. Samma token används på dina andra enheter.</li></ol></details>
+  <aside class="egenruta"><strong>Integritet.</strong> Token sparas bara i den här webbläsaren och ingår inte i säkerhetskopian. Datan sparas i en hemlig Gist, det vill säga en Gist som inte listas offentligt men som kan ses av den som har länken. Skriv därför inget i dina kommentarer som du inte vill att någon annan ska kunna läsa.</aside>
+  <h2 style="font-size:1.2rem;margin-top:1.4rem">Vad som synkas</h2>
+  <ul><li>Dina kommentarer till händelser, och dina egna händelser.</li><li>Bokmärken och vilka regenter du har läst.</li><li>Raderingar följer med, så att en borttagen kommentar försvinner på alla enheter.</li></ul>
+  <p class="liten mut">Vid konflikter vinner den senaste ändringen. Att ta bort en läsmarkering synkas inte, den bara läggs till.</p>
+  </div></div>`;
+}
+
 /* ---------- Version ---------- */
 let versionData = null;
 function pVersion() {
@@ -605,7 +716,7 @@ function sparaEgen() {
   const regenter = $$('input[name="e-reg"]:checked', form).map(x => x.value);
   if (!S.egna) S.egna = [];
   const edit = form.dataset.edit, ex = edit ? S.egna.find(e => e.id === edit) : null;
-  const rec = { id: ex ? ex.id : 'egen-' + Date.now().toString(36) + Math.random().toString(36).slice(2, 5), namn, ar, ca: $('#e-ca').checked, datum, text, regenter, ts: ex ? ex.ts : Date.now() };
+  const rec = { id: ex ? ex.id : 'egen-' + Date.now().toString(36) + Math.random().toString(36).slice(2, 5), namn, ar, ca: $('#e-ca').checked, datum, text, regenter, ts: ex ? ex.ts : Date.now(), andrad: ex ? Date.now() : undefined };
   if (ex) S.egna[S.egna.indexOf(ex)] = rec; else S.egna.unshift(rec);
   save(); rebuildH(); toast('Händelsen är sparad.'); location.hash = '#/handelse/' + rec.id;
 }
@@ -734,7 +845,7 @@ function pSok(P) {
   return `<div class="sida"><div class="sidhuvud"><h1>Sök</h1></div><form id="sokf" class="valj" role="search"><input id="sokq" type="search" value="${esc(q)}" placeholder="Namn, händelse eller ord" aria-label="Sökord"><button class="knapp" type="submit">Sök</button></form><div style="margin-top:1rem">${res}</div></div>`;
 }
 function pMer() {
-  const l = [['#/personer', 'Viktiga personer', 'Personer som formade Sveriges historia, från vikingatiden till i dag.'], ['#/ny-handelse', 'Lägg till egen händelse', 'Skriv in en egen händelse som visas i tidslinjen.'], ['#/jamfor', 'Jämför två regenter', 'Regeringstid, ålder och efterträdare sida vid sida.'], ['#/statistik', 'Rekord och statistik', 'Längsta regeringstid, yngsta tronföljare och mer.'], ['#/quiz', 'Quiz', 'Frågor på svenska om regenter och årtal.'], ['#/ordlista', 'Ordlista', 'Förklaringar av ord som riksföreståndare och interregnum.'], ['#/bokmarken', 'Bokmärken', 'Platser du har sparat i berättelserna.'], ['#/sok', 'Sök', 'Sök bland regenter, händelser och ord.'], ['#/om', 'Om appen och säkerhetskopia', 'Källor, bilder och hur du flyttar dina framsteg.']];
+  const l = [['#/synk', 'Synk mot GitHub', 'Spara dina kommentarer och egna händelser på GitHub och hämta dem på andra enheter.'], ['#/personer', 'Viktiga personer', 'Personer som formade Sveriges historia, från vikingatiden till i dag.'], ['#/ny-handelse', 'Lägg till egen händelse', 'Skriv in en egen händelse som visas i tidslinjen.'], ['#/jamfor', 'Jämför två regenter', 'Regeringstid, ålder och efterträdare sida vid sida.'], ['#/statistik', 'Rekord och statistik', 'Längsta regeringstid, yngsta tronföljare och mer.'], ['#/quiz', 'Quiz', 'Frågor på svenska om regenter och årtal.'], ['#/ordlista', 'Ordlista', 'Förklaringar av ord som riksföreståndare och interregnum.'], ['#/bokmarken', 'Bokmärken', 'Platser du har sparat i berättelserna.'], ['#/sok', 'Sök', 'Sök bland regenter, händelser och ord.'], ['#/om', 'Om appen och säkerhetskopia', 'Källor, bilder och hur du flyttar dina framsteg.']];
   return `<div class="sida"><div class="sidhuvud"><h1>Mer</h1></div><ul class="utforska">${l.map(([h, t, s]) => `<li><a href="${h}"><strong>${t}</strong><span>${s}</span></a></li>`).join('')}</ul></div>`;
 }
 function pOm() {
@@ -747,6 +858,8 @@ function pOm() {
   <p>Varje regent har en pålitlighetsmärkning: ${Object.values(PAL).map(p => `<span class="pal pal-${p.c}">${p.t}</span>`).join(' ')}. ${esc(PAL['säker'].d)} ${esc(PAL['osäker'].d)} ${esc(PAL['legendarisk'].d)}</p>
   <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Bilder</h2>
   <p>Porträtt hämtas från Wikimedia Commons och visas bara när licensen är fri. Namn på upphovsperson, licens och länk visas under bilden. När det inte finns något porträtt visas en krona.</p>
+  <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Synk mot GitHub</h2>
+  <p>Du kan spara dina kommentarer, egna händelser och bokmärken i en privat Gist på ditt GitHub-konto och hämta dem på andra enheter. <a href="#/synk">Ställ in synk</a>.</p>
   <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Version</h2>
   <p>Du kör version <strong>${APP_VERSION}</strong>. <a href="#/version">Se vad som är nytt och sök efter uppdatering</a>.</p>
   <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Installera som app</h2>
@@ -760,6 +873,7 @@ function pOm() {
 }
 
 /* ---------- Händelser från klick ---------- */
+document.addEventListener('change', e => { if (e.target && e.target.id === 'synk-auto') { const c = syncCfg(); c.auto = e.target.checked; saveSyncCfg(c); } });
 document.addEventListener('click', e => {
   const t = e.target.closest('[data-act]');
   if (!t) { const j = e.target.closest('[data-jump]'); if (j) { e.preventDefault(); const el = $('#sek-' + j.dataset.jump); if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' }); } return; }
@@ -785,7 +899,7 @@ document.addEventListener('click', e => {
   }
   else if (act === 'anteck-ta') {
     if (!confirm('Vill du ta bort kommentaren?')) return;
-    const id = t.dataset.id; S.anteck[id] = antList(id).filter(n => n.id !== t.dataset.nid); if (!S.anteck[id].length) delete S.anteck[id];
+    const id = t.dataset.id; if (!S.borttaget) S.borttaget = {}; S.borttaget[t.dataset.nid] = Date.now(); S.anteck[id] = antList(id).filter(n => n.id !== t.dataset.nid); if (!S.anteck[id].length) delete S.anteck[id];
     save(); $('#anteck').outerHTML = antHTML(id); toast('Kommentaren är borttagen.');
   }
   else if (act === 'anteck-redigera') {
@@ -800,11 +914,20 @@ document.addEventListener('click', e => {
   }
   else if (act === 'anteck-avbryt') { $('#anteck').outerHTML = antHTML(t.dataset.id); }
   else if (act === 'uppdatera') uppdateraApp();
+  else if (act === 'synk-anslut') {
+    const tok = ($('#synk-token').value || '').trim(); if (!tok) { toast('Klistra in en token först.'); return; }
+    saveSyncCfg({ ...syncCfg(), token: tok, auto: true, gistId: syncCfg().gistId || null });
+    gh('/gists?per_page=1').then(() => syncNow('merge')).then(() => route()).catch(e => { const c = syncCfg(); delete c.token; saveSyncCfg(c); setSyncMsg('Anslutningen misslyckades: ' + e.message); toast('Anslutningen misslyckades.'); });
+  }
+  else if (act === 'synk-nu') syncNow('merge');
+  else if (act === 'synk-push') { if (confirm('Skriva över datan på GitHub med det som finns på den här enheten?')) syncNow('push'); }
+  else if (act === 'synk-pull') { if (confirm('Skriva över datan på den här enheten med det som finns på GitHub?')) syncNow('pull'); }
+  else if (act === 'synk-koppla-fran') { if (confirm('Koppla från GitHub? Din data på enheten och i din Gist ligger kvar.')) { try { localStorage.removeItem(SYNC_KEY); } catch (e) { /* */ } syncMsg = ''; route(); toast('Frånkopplad.'); } }
   else if (act === 'sok-uppdatering') { toast('Söker efter uppdatering …'); kollaVersion().then(v => { if (!v) toast('Kunde inte kontrollera. Är du uppkopplad?'); else if (nyVersion) { toast('Version ' + nyVersion.version + ' finns.'); route(); } else toast('Du har den senaste versionen.'); }); }
   else if (act === 'egen-spara') sparaEgen();
   else if (act === 'egen-ta') {
     if (!confirm('Vill du ta bort din händelse och dess kommentarer?')) return;
-    const id = t.dataset.id; S.egna = (S.egna || []).filter(e => e.id !== id); if (S.anteck) delete S.anteck[id];
+    const id = t.dataset.id; if (!S.borttaget) S.borttaget = {}; S.borttaget[id] = Date.now(); S.egna = (S.egna || []).filter(e => e.id !== id); if (S.anteck) delete S.anteck[id];
     save(); rebuildH(); toast('Händelsen är borttagen.'); location.hash = '#/handelser';
   }
   else if (act === 'installera') { if (installEv) { installEv.prompt(); installEv.userChoice.finally(() => { installEv = null; const b = $('#installbox'); if (b) b.remove(); }); } }
