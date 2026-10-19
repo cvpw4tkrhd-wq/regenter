@@ -30,7 +30,7 @@ document.documentElement.style.setProperty('--lasstorlek', S.storlek);
 
 
 /* ---------- Versionshantering ---------- */
-const APP_VERSION = '2.1.0';
+const APP_VERSION = '2.2.0';
 const cmpVer = (a, b) => { const x = String(a).split('.').map(Number), y = String(b).split('.').map(Number); for (let i = 0; i < 3; i++) { if ((x[i] || 0) !== (y[i] || 0)) return (x[i] || 0) - (y[i] || 0); } return 0; };
 let nyVersion = null;
 async function kollaVersion() {
