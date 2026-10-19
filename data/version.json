@@ -1,7 +1,16 @@
 {
- "version": "2.2.0",
+ "version": "2.3.0",
  "datum": "2026-10-19",
  "andringar": [
+  {
+   "version": "2.3.0",
+   "datum": "2026-10-19",
+   "rubrik": "Synk mot GitHub och fler händelser",
+   "punkter": [
+    "Synk mot GitHub: spara dina kommentarer, egna händelser, bokmärken och läsmarkeringar i en privat Gist och hämta dem på andra enheter. Raderingar följer med, och du kan välja automatisk synk.",
+    "12 nya händelser mellan 1300-talet och 1800-talet, bland annat Albrekts val 1364, Rotebro 1497, Brännkyrka 1518, Sturemorden 1567, Röda boken 1576, religionsfrihetslagen 1781 och reformerna 1845–1847. Totalt 100 händelser."
+   ]
+  },
   {
    "version": "2.2.0",
    "datum": "2026-10-19",
