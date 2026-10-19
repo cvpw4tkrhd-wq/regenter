@@ -743,6 +743,79 @@
    "status": "verifierad"
   },
   {
+   "id": "varberg-moten-1343",
+   "namn": "Håkan blir norsk kung vid Varberg",
+   "ar": 1343,
+   "ca": false,
+   "datum": "08-15",
+   "text": "Vid ett möte i Varberg 1343 blev Magnus Erikssons yngre son Håkan kung av Norge, medan äldre brodern Erik utsågs till faderns efterträdare i Sverige. Rikena delades därmed mellan bröderna.",
+   "regenter": [
+    "magnus-eriksson",
+    "hakan-magnusson"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Mötet",
+     "text": "På ett möte i Varberg mellan kung Magnus och det norska riksrådet blev Håkan kung av Norge med sin far som förmyndare. Hans äldre bror Erik utsågs i stället till faderns efterträdare i Sverige. Håkan var född omkring 8–17 augusti 1340, son till Magnus Eriksson och grevinnan Blanche av Namur, och kung av Norge den 15 augusti 1343."
+    },
+    {
+     "rubrik": "Varför delades rikena?",
+     "text": "Det har diskuterats om den främsta anledningen till åtgärderna var faderns dynastiska intressen, eller norskt missnöje med unionen. Sommaren 1344 hyllades Håkan som kung vid ett norskt ständermöte på Bohus."
+    },
+    {
+     "rubrik": "Tioårig kung i Bergen",
+     "text": "Vid ett besök i Bergen sommaren 1350 ska Magnus enligt isländska annalnotiser ha satt den då tioårige Håkan i kungasäte och gett honom egen hird, men behållit Hålogaland, Island, Färöarna och Shetlandsöarna för sig själv. Håkan fick samtidigt en egen drots, Orm Eysteinsson, som styrde landet i Magnus namn."
+    },
+    {
+     "rubrik": "Myndig och gift",
+     "text": "Håkan blev myndig mellan den 8 och 17 augusti 1355. Han blev svensk kung i februari 1362, och den 9 april 1363 gifte han sig i Köpenhamn med Margareta, dotter till kung Valdemar Atterdag, den kvinna som senare som drottning Margareta samlade de tre rikena. Han dog 1380 i Oslo."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Håkan (band 19, 1971–73)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13945",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "digerdoden-1349",
+   "namn": "Digerdöden",
+   "ar": 1349,
+   "ca": false,
+   "datum": null,
+   "text": "År 1349 nådde digerdöden Norden, när sjukdomen enligt traditionen kom med ett skepp till Bergen. Magnus Eriksson skrev samma höst ett brev till folket i Linköpings stift om pesten.",
+   "regenter": [
+    "magnus-eriksson"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Pesten kommer",
+     "text": "Krig drabbade de nordiska folken under 1300-talet, men också den svårartade pest som kallats digerdöden. Den skall någon gång under 1349 med ett skepp ha förts till Bergen. Pesten drabbade Norge och Halland, och Magnus Eriksson utfärdade troligen i september 1349 från Lödöse ett brev till folket i Linköpings stift, där han talade om den plåga och hårda död som drabbat Norge och Halland och som det nu gällde att söka skydd mot."
+    },
+    {
+     "rubrik": "Hur hårt slog den?",
+     "text": "Nyare forskning har visat att farsoten drabbade Europas länder ojämnt. Det är möjligt att det glest befolkade Sverige sluppit lindrigare undan än tätorterna utomlands. Andra inslag i Magnus och hans folks historia avtecknar sig därför tydligare än digerdöden, en historia som trots olyckorna präglas av reformer i tidens anda."
+    },
+    {
+     "rubrik": "Ett rike i Europa",
+     "text": "I det romersk-katolska Europa ingick Magnus rike, och gemenskapen blev på flera sätt märkbar. Nordiska studenter for under seklets första hälft i stort antal till universitetet i Paris, senare delvis ersatt av universitetet i Prag. Vid mitten av århundradet började också rikslagar för landsbygd och städer sammanställas, och Magnus tid präglas av många försök att ena ett splittrat rike."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Magnus Eriksson (band 24, 1982–84)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10153",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "landslagen-1350",
    "namn": "Landslagen",
    "ar": 1350,
@@ -775,6 +848,97 @@
      "titel": "Magnus Eriksson (band 24, 1982–84)",
      "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
      "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10153",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "erik-magnusson-uppror-1356",
+   "namn": "Erik Magnusson gör uppror mot fadern",
+   "ar": 1356,
+   "ca": false,
+   "datum": null,
+   "text": "Hösten 1356 gick Magnus Erikssons äldste son Erik till öppen strid mot sin far, och 1357 delades riket mellan dem genom en skiljedom i Jönköping.",
+   "regenter": [
+    "erik-magnusson",
+    "magnus-eriksson"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Oppositionen samlas",
+     "text": "Erik Magnusson, som utsetts till faderns efterträdare i Sverige, hade vid myndig ålder ännu inte nått en ställning motsvarande broderns. För oppositionen mot Magnus låg det då nära till hands att samla sig kring honom. Sommaren 1356 gifte sig Erik med en systerdotter till Valdemar Atterdag."
+    },
+    {
+     "rubrik": "Striden",
+     "text": "Hösten 1356 gick Erik till öppen strid mot sin far och, enligt vad han själv kungjorde, mot Bengt Algotsson och hans medhjälpare, verksamt stödd av de mot Magnus oppositionella svenska stormännen. Närmare känner man inte stridens förlopp, men Erik tycks ha segrat i Skåne och kunde vid årets slut belöna stödjande fränder: hertig Albrekt av Mecklenburg fick Skanör och Falsterbo samt Fuglie socken i förläning, och hans söner Albrekt och Henrik fick södra Halland samt Bjäre och Norra Åsbo som ärftligt hertigdöme under svenska kronan."
+    },
+    {
+     "rubrik": "Skiljedomen",
+     "text": "En skiljedom, avkunnad i Jönköping den 28 april 1357 av hertig Albrekt av Mecklenburg och greve Adolf av Holstein, gav Erik Skåne, stora områden i Götaland och Åbo biskopsdöme, medan Magnus fick resten av det svenska riket. Fördelningen ändrades den 22 november 1357 på så sätt att Erik utöver det tidigare tilldelade fick Stockholms slott jämte stora delar av Svealand på två år, och ett slags samregering mellan de båda kungarna föreskrevs. Greve Adolf belönades för skiljedomarskapet."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Striden mellan far och son försvagade riket, och hertig Albrekt av Mecklenburg, som gynnats av delningen, fick stort inflytande. Några år senare, 1363, avsattes Magnus av den svenska aristokratin."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Magnus Eriksson (band 24, 1982–84)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10153",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "visby-och-hakan-1361",
+   "namn": "Visby faller och Håkan blir svensk kung",
+   "ar": 1361,
+   "ca": false,
+   "datum": null,
+   "text": "I juli 1361 intog Valdemar Atterdag Visby. Hösten samma år slöts fördraget i Greifswald, och i februari 1362 valdes Håkan till svensk kung.",
+   "regenter": [
+    "magnus-eriksson",
+    "hakan-magnusson",
+    "albrekt-av-mecklenburg"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Valdemar går på offensiv",
+     "text": "Snart följde stora motgångar för Magnus Eriksson. Hans svåger Albrekt av Mecklenburg, som nyss tycks ha gått samman med honom, förband sig knappt ett år senare med Valdemar Atterdag, som då med krigsmakt erövrade Skåne, år 1360. I juli året därpå, 1361, intog han Visby. Motåtgärder av Magnus och Håkan uteblev inte."
+    },
+    {
+     "rubrik": "Förlovningen bryts",
+     "text": "Håkan bröt i början av 1361 sin förlovning med Margareta, Valdemars dotter. Hon ersattes med en fränka till grevarna av Holstein, som fick Kalmar slott i pant."
+    },
+    {
+     "rubrik": "Fördraget i Greifswald",
+     "text": "Den 8 september 1361 slöts i Greifswald fördrag mellan Sverige och Norge å ena sidan och elva nordtyska städer med Lübeck i spetsen å den andra, och dagen därpå gavs städerna i huvudsak samma privilegier i de båda nordiska rikena. Villkoren blev hårda för Magnus. Om Skåne erövrades i den strid mot Valdemar som nu förestod, skulle städerna få landet från Helsingborg i norr till Skanör och Falsterbo i söder. Men avtalen hade ingåtts efter överläggningar mellan de båda kungarnas sändebud och städerna, och underkändes sannolikt av Magnus, och Håkan försäkrade senare att delegaterna överskridit sina befogenheter."
+    },
+    {
+     "rubrik": "Håkan kung 1362",
+     "text": "Av vad som nu närmast följde ger bevarade källor ingen klar bild. En brytning tycks ha inträtt mellan Magnus och hans son, och enligt en annal ska den senare till och med ha låtit fängsla sin far i Kalmar. I februari 1362 valdes Håkan till svensk kung. Men snart därpå återupptogs striden, och 1363 avsattes både Magnus och Håkan av den svenska aristokratin i förbund med hansestäderna."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Magnus Eriksson (band 24, 1982–84)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10153",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Albrekt (band 1, 1918)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5648",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Håkan (band 19, 1971–73)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13945",
      "kontrollerad": true
     }
    ],
@@ -2183,6 +2347,51 @@
    "status": "verifierad"
   },
   {
+   "id": "reduktionen-1655",
+   "namn": "Reduktionen 1655",
+   "ar": 1655,
+   "ca": false,
+   "datum": null,
+   "text": "Vid riksdagen 1655 fick Karl X Gustav igenom ett beslut om att delar av de gods som kronan sålt eller skänkt bort efter 1632 skulle återgå till kronan.",
+   "regenter": [
+    "karl-x-gustav",
+    "kristina"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund",
+     "text": "Under Kristinas tid hade kronans gods sålts och donerats till adeln, och Karl X Gustav hade redan före tronskiftet en dokumenterat negativ inställning till drottningens avsöndringspolitik. Han lät förbereda reduktionen under tiden fram till 1655 års riksdag. I sin försäkran som arvfurste 1650 hade han undgått att uttryckligen lova konfirmation av givna donationer, vilket han måste ha betraktat som en stor fördel."
+    },
+    {
+     "rubrik": "Beslutet",
+     "text": "Vid riksdagen 1655 fick han till stånd ett beslut som i sina huvuddrag innebar att donationer givna på förbjudna orter efter 1632 skulle återgå till kronan, att expektanser och allodialrättigheter givna efter 1632 skulle upphävas, att en laga räfst med gods avsöndrade efter 1604 skulle genomföras och att fjärdedelen av donationer givna efter 1632 utanför förbjudna orter skulle återgå. Tills en rannsakning skett skulle dock i stället för fjärdeparten en summa i pengar, motsvarande räntan, betalas som kontribution."
+    },
+    {
+     "rubrik": "Förhandlingarna",
+     "text": "Beslutet tillkom efter en serie svåra förhandlingar med råd och ständer, och i rådet var oppositionen stark. Att rådet gick med på reduktionen berodde delvis på att Karl hotade med andra, för rådet än mer misshagliga åtgärder, såsom en inskränkning av adelns privilegier. Han bekräftade inte heller 1644 års adelsprivilegium. De ofrälse stånden pressade på i reduktionsfrågan, något som Karl i hög grad drog nytta av, och ständerna fastslog att frågan skulle tas upp igen vid en kommande riksdag."
+    },
+    {
+     "rubrik": "Varför reduktion?",
+     "text": "Karl ansåg att en reduktion av avsöndrade gods och räntor var en nödvändig reform av flera skäl. Han ville minska adelns maktställning, och godsinkomsterna var undandragna ständernas bevillning och därför fördelaktiga ur konstitutionell synpunkt. Reduktionen avstannade från hösten 1656, eftersom kungen inte själv kunde leda genomförandet och kriget krävde inrikespolitiska hänsyn. Det blev Karl XI som slutförde den 1680."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl X Gustav (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12355",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Karl XI (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12356",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "roskildefreden-1658",
    "namn": "Freden i Roskilde",
    "ar": 1658,
@@ -2222,6 +2431,44 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "fehrbellin-1675",
+   "namn": "Fehrbellin och förmyndarräfsten",
+   "ar": 1675,
+   "ca": false,
+   "datum": null,
+   "text": "Det i och för sig obetydliga nederlaget vid Fehrbellin i juni 1675 drog in Sverige i krig mot Holland, kejsaren och Danmark. Det ledde också till förmyndarräfsten, och Karl XI började regera på allvar.",
+   "regenter": [
+    "karl-xi"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Frankrike och Brandenburg",
+     "text": "Det europeiska kriget hade orsakats av Ludvig XIV:s anfall på Holland. Frankrike krävde att Sverige skulle ingripa aktivt mot Brandenburg, som var Hollands förbundne. Den svenska regeringen gav efter mot löfte om ökade franska subsidier och överförde stora styrkor till Pommern."
+    },
+    {
+     "rubrik": "Nederlaget",
+     "text": "Det i och för sig obetydliga nederlaget vid Fehrbellin i juni 1675 fick svåra efterverkningar för Sverige och framkallade krigsförklaringar från Holland, kejsaren och Danmark. Krigsutbrottet avslöjade med ens den stora misshushållningen på försvarets område."
+    },
+    {
+     "rubrik": "Räfsten",
+     "text": "Den kröningsriksdag som sammankallats till Uppsala krävde en granskning av de höga riksämbetsmännens medelsförvaltning, och Karl XI, som ansåg sig vilseledd av kanslern De la Gardie och hans kolleger, gav sitt bifall till denna förmyndarräfst. Rådsherrarna var splittrade sinsemellan, och kungen blev den fasta punkten när allt annat sviktade."
+    },
+    {
+     "rubrik": "Kungen växer",
+     "text": "Karl växte med uppgiften och mobiliserade de bästa av sina egenskaper. Han var ett barn av den stränga lutherska ortodoxin, arbetsam, pliktmedveten, tyngd av sitt ansvar och ofördragsam mot de höga herrar som vållat rikets olyckor. Hela hösten var han outtröttligt verksam med att driva på ämbetsverken, öva trupper och sätta upp nya förband. Sedan De la Gardie dragit sig tillbaka från ledningen regerade Karl själv med hjälp av sina sekreterare och fattade ensam besluten. Han var full av stridslust, och när den norske överbefälhavaren Gyldenløve gick in i Bohuslän i oktober 1675 drog han emot honom."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XI (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12356",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "slaget-vid-lund-1676",
@@ -2466,6 +2713,45 @@
    "status": "verifierad"
   },
   {
+   "id": "stenbock-tonning-1713",
+   "namn": "Stenbock och kapitulationen i Tönning",
+   "ar": 1713,
+   "ca": false,
+   "datum": null,
+   "text": "Magnus Stenbock vann segrar över danskarna 1710 och 1712 men kapitulerade i Tönning i maj 1713. Samma år började ryssarna invadera Finland, och missnöjet i Sverige växte.",
+   "regenter": [
+    "karl-xii",
+    "ulrika-eleonora"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Segrarna",
+     "text": "Medan Karl XII satt i Turkiet vann Magnus Stenbock enstaka ljusglimtar: 1710 en seger över danskarna vid Helsingborg och 1712 vid Gadebusch. De kunde ändå inte förta intrycket att den planerade stenbockska offensiven från Pommern till Polen var utsiktslös. Ryssarnas ockupation av Estland och Livland och danskarnas invasion i Skåne hade undergrävt turkarnas tilltro till Sveriges militära styrka."
+    },
+    {
+     "rubrik": "Tönning",
+     "text": "Underrättelsen om Stenbocks kapitulation i Tönning i maj 1713 torde ha fört Karl XII till botten av hans djupa depression. Samtidigt, i maj 1713, började ryssarna invadera Finland och lade efter hand större delen av landet under sig. På hösten föll Stettin."
+    },
+    {
+     "rubrik": "Missnöje hemma",
+     "text": "I slutet av 1713 framträdde i Sverige ett stigande missnöje, inte bara med de växande krigsbördorna utan också med Karls långa frånvaro och rikets svaga styrelse. Man fordrade ständernas inkallande, utseende av en ställföreträdare och inledande av fredsförhandlingar."
+    },
+    {
+     "rubrik": "Ulrika Eleonora i regeringen",
+     "text": "Den 2 november 1713 tog prinsessan Ulrika Eleonora på rådets anhållan säte i regeringen. Samma dag fattades beslut om riksdagens inkallande, och strax därpå inledde regeringen på egen hand en fredsunderhandling. Karl själv återvann i slutet av 1713 sin hälsa och aktivitet, och han beslöt att återvända till hemlandet efter att turkarna förlorat intresset av att hålla kvar honom."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XII (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12357",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "fredriksten-1718",
    "namn": "Karl XII faller vid Fredriksten",
    "ar": 1718,
@@ -2564,6 +2850,45 @@
      "titel": "Gustav III (band 17, 1967–69)",
      "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
      "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13317",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "nystadsfreden-1721",
+   "namn": "Freden i Nystad",
+   "ar": 1721,
+   "ca": false,
+   "datum": null,
+   "text": "Fred med Ryssland slöts i Nystad 1721 efter att Sverige varit utmattat och ryssarna härjat landets kuster. Freden innebar stora territoriella förluster.",
+   "regenter": [
+    "fredrik-i",
+    "ulrika-eleonora"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Vägen till fred",
+     "text": "Efter Karl XII:s död ville Fredrik I och Arvid Horn nå fred genom att orientera sig mot England-Hannover och västmakterna. Under engelsk och i viss mån fransk medverkan slöts fred med Hannover 1719 och med Preussen och Danmark 1720. Kanslipresident Cronhielm önskade helst en överenskommelse med Ryssland, men kunde inte presentera något bärande motförslag under några avgörande månader."
+    },
+    {
+     "rubrik": "Den engelska alliansen svek",
+     "text": "Den engelska alliansen beredde både Fredrik och landet svåra besvikelser. Verkligt effektiv hjälp mot Ryssland erhöll Sverige inte, och de engelska flottor som inlöpte i Östersjön förhöll sig påfallande passiva. Det utmattade Sveriges försvarsanstalter förmådde inte hindra ryssarna från att hårt förhärja landets kuster."
+    },
+    {
+     "rubrik": "Freden",
+     "text": "Snart återstod ingen annan utväg än att på allvar underhandla med Ryssland om fred, som slöts i Nystad 1721 med stora territoriella förluster."
+    },
+    {
+     "rubrik": "Kungens roll",
+     "text": "Både samtiden och den senaste historieforskningen har riktat skarpa anklagelser mot Fredrik för hans förhållande till fredsuppgörelsen. Man kan konstatera att han i fråga om försvaret sökte göra vad som under förhandenvarande omständigheter var möjligt, och militärt gav han stundom prov på sin gamla bravur: försvaret av Stäket mot ryssarna 1719 och Rutger Fuchs bekanta ingripande där var i hög grad Fredriks förtjänst. Som bastant egoist kopplade han ändå på ett för landet betänkligt sätt samman sina egna dynastipolitiska intressen med fredsförhandlingarna, eftersom hans åtgärder i hög grad behärskades av strävan att utestänga hertigen av Holstein från tronföljden."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Fredrik I (band 16, 1964–66)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14443",
      "kontrollerad": true
     }
    ],
@@ -2789,6 +3114,14 @@
     {
      "rubrik": "Följderna",
      "text": "Andra finansåtgärder under hans tid hade blandad framgång. Brännvinsregalet 1774 med statliga brännerier och förbud mot husbehovsbränning ledde till lönnbränning och missnöje och upphävdes. Spannmålshandeln frigavs 1775–1780. Under kriget gav han ut riksgäldssedlar, och vid regeringens slut var man åter i förvirring och med en oerhörd statsskuld."
+    },
+    {
+     "rubrik": "Reformer i förvaltningen",
+     "text": "Instruktioner utfärdades 1773–1774 för en rad ämbetsverk. Justitiekanslern Liliestråle sändes ut för att undersöka läns- och stiftsstyrelsers förvaltning och uppbördssystem, varefter följde en med omutlig stränghet genomförd ämbetsmannaräfst, helt i överensstämmelse med vad de yngre mössorna krävt. Mest betydelsefull blev räfsten med Göta hovrätt, som inleddes med Gustavs besök i Jönköping, där han höll ett exempellöst strafftal till hovrätten."
+    },
+    {
+     "rubrik": "Lönerna och rättskipningen",
+     "text": "Av stor betydelse för höjandet av ämbetsmännens moral blev den lönereglering som genomfördes 1778 av Liljencrantz med Gustavs livliga stöd. Gustav intresserade sig vid den här tiden starkt för en oväldig och skyndsam rättskipning och pådrev i justitierevisionen, där han hade två röster och utslagsröst, målens behandling. Han var personligen den ledande vid avskaffandet av tortyren och inskränkningen av dödsstraffen, inspirerad av Beccarias bok om brott och straff och av upplysningens tänkande i övrigt."
     }
    ],
    "kallor": [
@@ -2823,6 +3156,14 @@
     {
      "rubrik": "Gränserna",
      "text": "Tryckfrihetsförordningen 1774 var däremot långt ifrån ett uttryck för upplysningens frisinne. Den skyddade kung, regering och styrelsesätt för kritik, och nya inskränkningar på 1780-talet gjorde den illusorisk. Vid kungörelsen om judarnas emancipation 1838, under Karl XIV Johan, bröt antisemitiska upplopp ut."
+    },
+    {
+     "rubrik": "Biskoparnas motstånd",
+     "text": "På 1778–1779 års riksdag påyrkade Anders Chydenius i samförstånd med Gustav III att samvets- och religionsfrihet skulle beviljas inflyttade främlingar av alla trosbekännelser. Trots biskoparnas häftiga motstånd anslöt sig ständerna till förslaget, och 1781 utfärdades lagen. Gustav var överhuvudtaget mycket angelägen att framträda som en upplysningens företrädare, men endast så länge idéerna inte kom i konflikt med hans kungliga intressen."
+    },
+    {
+     "rubrik": "Tryckfriheten 1774",
+     "text": "Som anhängare av upplysningen och fysiokratismen kunde Gustav väntas bli en vän av tryckfriheten. Efter statsvälvningen 1772 var det ovisst om 1766 års tryckfrihetsförordning ännu gällde, och oklarheten var tydligen i hans ögon en fördel. Genom en förfrågan från Svea hovrätt tvangs han att precisera sin ståndpunkt och utfärdade 1774 en tryckfrihetsförordning som han själv utarbetat, åtföljd av en diktamen. Diktamen uttrycker samma uppfattning om tryckfrihetens nytta som de franska tänkarna, men förordningen skyddade kung, regering och styrelsesätt för kritik, inskränkte folkets kontroll till ämbetsmannavärlden och behöll den teologiska censuren."
     }
    ],
    "kallor": [
@@ -3672,6 +4013,14 @@
     {
      "rubrik": "Kungens svåra år",
      "text": "Dessa år var svåra för honom: han ansåg att det var hans oavvisliga plikt att vidmakthålla unionen, och statsminister Selmer var en av hans närmaste politiska vänner. Björnstjerne Björnsons agerande väckte hans starka motvilja, och han var närmast maniskt fientlig mot honom. Stundom tänkte han på abdikation, stundom på ett tyskt ingripande i Norge. Vid ett tillfälle yttrade han: \"Är jag då den ende som skall försvara unionen?\""
+    },
+    {
+     "rubrik": "Rundresan och reaktionerna",
+     "text": "Sommaren 1882 företog Oscar en rundresa i Norge, en färd som var utpräglat politiskt markerad. De rojalistiska hyllningar som förekom felbedömde han och tolkade som en allmän politisk omsvängning. Särskilt svårt var det för honom när han fick veta att lantmannapartister och andra i den svenska riksdagen i slutet av april 1884 arrangerat en sexa där det förekommit hyllningstal för den norske venstremannen Viggo Ullmann. Å andra sidan saknades inte de i Sverige som ville ha hårda tag mot norrmännen."
+    },
+    {
+     "rubrik": "Drottning Sofia och Themptander",
+     "text": "Det är troligt att Themptanders tillträde som svensk statsminister innebar en avkylning av de heta känslorna. Mycket tyder också på att drottning Sofia från och med april 1884 insett att fortsatt kamp bara skulle skada kungamakten och därför gått in för att övertala Oscar att acceptera Johan Sverdrup."
     }
    ],
    "kallor": [
@@ -3740,6 +4089,14 @@
     {
      "rubrik": "Följderna",
      "text": "Oscar insjuknade i en nervös åkomma, och drottningen ingrep för att få Boström att stanna. Krisen visade hur nära unionen kommit sitt slut, men än fanns sju år kvar tills den upplöstes 1905."
+    },
+    {
+     "rubrik": "Boströms ilska",
+     "text": "Det som inträffade var otvivelaktigt en norsk seger, och reaktionen i Sverige lät inte vänta på sig. Boström, med vilken Oscar i övrigt hade goda relationer, blev förbittrad. Han menade att kungen handlat oärligt mot det svenska statsrådet och oskickligt, eftersom det hade varit möjligt att uppskjuta ärendet. Han ville avgå, varvid Oscar för sin del talade om att abdikera. Drottningen ingrep och lyckades tillsammans med andra som stod Boström nära få honom att stanna. Det är uppenbart att Oscar visade svaghet, men samtidigt har det framhållits att Boström fann det angeläget att genom en häftig reaktion visa att han inte förde någon eftergiftspolitik."
+    },
+    {
+     "rubrik": "Dramats slutakt",
+     "text": "Slutakten kom i början av det nya seklet. En unionskommitté arbetade första halvåret 1902 för att lösa konsulatfrågan, med initiativ från utrikesminister Alfred Lagerheim, som stod kungen nära. En viss enighet uppnåddes på statsrådsnivå våren 1903, men samförståndet var skenbart, eftersom det gav utrymme åt olika tolkningar. I slutet av 1904 skärptes situationen, när den svenska regeringen lade fram förslag till likalydande konsulatlagar som den norska regeringen inte kunde anta. I slutet av januari 1905 var alla förhandlingar avbrutna, och norrmännen tog saken i egna händer."
     }
    ],
    "kallor": [
