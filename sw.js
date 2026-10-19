@@ -1,5 +1,5 @@
 // Service worker: appskalet och datan fungerar offline. Höj VERSION när du har laddat upp nya filer.
-const VERSION = 'sveriges-historia-v2.3.0';
+const VERSION = 'sveriges-historia-v2.4.0';
 const BILDER = 'sveriges-historia-bilder';
 const SKAL = ['./', 'index.html', 'style.css', 'app.js', 'manifest.json',
   'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png', 'data/index.json', 'data/handelser.json', 'data/personer.json', 'data/ordlista.json'];
