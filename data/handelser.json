@@ -1330,6 +1330,162 @@
    ]
   },
   {
+   "id": "kalmarkriget-knared-1613",
+   "namn": "Kalmarkriget och freden i Knäred",
+   "ar": 1613,
+   "ca": false,
+   "datum": null,
+   "text": "Kriget mot Danmark 1611–1613 började med att Kalmar föll och Älvsborg gick förlorat. Freden i Knäred återgav Kalmar men gjorde att Älvsborg skulle lösas ut för en miljon riksdaler.",
+   "regenter": [
+    "karl-ix",
+    "gustav-ii-adolf"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Ett farligt arv",
+     "text": "När Gustav II Adolf blev kung efter sin far Karl IX var landet i ett farligt läge, ett läge som Karl IX:s politik hade framkallat. Sverige stod i krig mot Danmark. Redan Kalmar hade gått förlorat, och den nya regimens främsta uppgift blev att föra landet ut ur trångmålet."
+    },
+    {
+     "rubrik": "Kriget 1612",
+     "text": "Den andra huvudfästningen, Älvsborg, togs av danskarna i maj 1612. Gustav hade själv gått i fält kort efter riksdagen men kunde inte uträtta mycket med sina nyutskrivna trupper. Krigsrörelserna följde det mönster som var välkänt från tidigare dansk-svenska krig: inför danska framryckningar höll man ett uppehållande försvar och försökte samtidigt störa fiendens förbindelselinjer och härja områden han behövde. Under ett sådant företag mot norra Skåne i februari 1612 omkom Gustav nästan, när isen brast under hans häst vid Vittsjö. Själv berättade han triumferande att 24 kyrksocknar och Vä stad låg i aska, och att han inte mött något motstånd. Under sommaren insatte Kristian IV en kombinerad offensiv mot Jönköping, men den bröt samman inför svårigheten att ta sig fram i gränstrakternas terräng och att där underhålla den värvade danska armén."
+    },
+    {
+     "rubrik": "Freden i Knäred",
+     "text": "Efter ett misslyckat försök att med flottan tränga fram till Stockholm fann Kristian IV tiden inne att avsluta det för Danmark så betungande kriget. Freden i Knäred på nyåret 1613 återgav Kalmar, men bestämde att Älvsborg med sju underlydande härader skulle förbli i dansk hand tills Sverige hade betalat en lösen på inte mindre än en miljon riksdaler. Sverige måste dessutom ge upp de krav på ishavskusten som Karl IX så aggressivt hade hävdat."
+    },
+    {
+     "rubrik": "Kriget i Ryssland",
+     "text": "Samtidigt återstod kriget i Ryssland. Sverige och Polen stödde var sin rivaliserande fraktion, och Polen hade lyckats avsätta den av Sverige beskyddade tsaren och ersätta honom med prins Vladislav. I den allmänna upplösningen hade den svenske befälhavaren Jakob De la Gardie ockuperat gränstrakterna med Kexholm och Novgorod och dessutom fått de novgorodska ständerna att vända sig till Karl IX för att få en av hans söner till storfurste. När erbjudandet kom var Gustav redan kung, men han visade en tydlig benägenhet att själv kandidera."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav II Adolf (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13316",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "stolbova-1617",
+   "namn": "Freden i Stolbova",
+   "ar": 1617,
+   "ca": false,
+   "datum": null,
+   "text": "I februari 1617 slöt Sverige fred med Ryssland i Stolbova. Sverige behöll fästningsgördeln runt Finska viken.",
+   "regenter": [
+    "gustav-ii-adolf"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Gustav Adolfs första fälttåg",
+     "text": "Åren 1614 och 1615 anlände Gustav II Adolf själv med förstärkningar från Sverige. Vid det senare tillfället tog han befälet över en expedition mot Pskov söder om Peipus, som var viktig som gränsfästning och som stapelplats för den ryska handeln. Belägringen misslyckades, och Gustav fick dra sig tillbaka, ett något snöpligt slut på det första större krigsföretag han själv ledde."
+    },
+    {
+     "rubrik": "Fredsförhandlingarna",
+     "text": "Under de samtidigt pågående fredsförhandlingarna fick Sverige gradvis ge upp sina krav, även de handelspolitiska. Den slutliga freden i Stolbova i februari 1617 lät Sverige behålla fästningsgördeln runt Finska viken mot att återställa sina övriga erövringar."
+    },
+    {
+     "rubrik": "Vinst eller misslyckande?",
+     "text": "Vinsten av de många årens krig var inte särskilt överväldigande, och utgången har närmast karakteriserats som ett misslyckande. Så ville dock inte Gustav framställa saken. I sitt stora tal till ständerna vid kröningsriksdagen i Stockholm utmålade han i triumfatoriska vändningar alla de fördelar Sverige nu hade vunnit: fästningar, säkrade gränser och länder av stor fruktsamhet, länder genom vilka handeln från hela Ryssland måste gå. Talet visar kungen själv, när han framställer, övertygar och vinner. Hans sätt att se på saken har levt kvar länge i historieskrivningen."
+    },
+    {
+     "rubrik": "Därefter",
+     "text": "Freden var vunnen, och därmed fanns möjlighet att ta upp de inrepolitiska frågor som krävde kungens uppmärksamhet."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav II Adolf (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13316",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "sverige-i-trettioariga-kriget-1630",
+   "namn": "Sverige går in i trettioåriga kriget",
+   "ar": 1630,
+   "ca": false,
+   "datum": null,
+   "text": "Sommaren 1630 landsteg Gustav II Adolf i Tyskland. Läget var i början svårt, men efter ett avtal med Frankrike och segern vid Breitenfeld blev Sverige en stormakt.",
+   "regenter": [
+    "gustav-ii-adolf"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Beslutet",
+     "text": "När Gustav II Adolf på sommaren 1630 landsteg i Tyskland hade ännu inget avtal kommit till stånd vare sig med de tilltänkta tyska bundsförvanterna eller med Frankrike. Hemma hade han vid ett möte i Ulfsbäck konfronterats med sina planer. Enligt hans egen version frågade man honom vad han hade med kejsaren att göra och varför han blandade sig i det tyska väsendet. Samma fråga ställde de tyska furstar som han hoppades kunna få som allierade."
+    },
+    {
+     "rubrik": "Ett svårt läge",
+     "text": "I Tyskland hoppades man i stället på kurfurstedagen i Regensburg, där skarp kritik riktades mot den kejserliga militärpolitiken och där den katolska ligan tvingade fram Wallensteins avsked och ersatte honom med Tilly. Gustav Adolfs ställning blev ändå först ytterst besvärlig. Bara lantgreven av Hessen-Kassel, ärkebiskopen av Magdeburg och staden Magdeburg slöt upp på svensk sida. Hertigen av Pommern och senare kurfursten av Brandenburg måste tvingas till anslutning under militärt hot."
+    },
+    {
+     "rubrik": "Pengarna",
+     "text": "I sina försök att säkra operationsbasen i Pommern och Mecklenburg lamslogs Gustav av brist på pengar, en ond cirkel som var typisk för tidens krigföring: utan pengar kunde de värvade ryttarna inte förmås agera, och utan rytteri kunde inga medel drivas in från kvarter och underhållsområden. Hans brev från den här tiden uttrycker för ovanlighetens skull förtvivlan, samtidigt som de visar hur intensivt han sysselsatte sig med krigsfinansieringens mekanik. Det viktiga var att till varje pris bevara krediten, på kommande inkomster av koppar- och spannmålshandel och preussiska licenter. Problemen uppstod när de uteblev eller krympte, vilket särskilt gällde det spannmålsmonopol som 1629 etablerats och som Gustav hade ställt stora förhoppningar till. Axel Oxenstierna övertog ledningen av detta."
+    },
+    {
+     "rubrik": "Propagandan och vändningen",
+     "text": "Det tyska kriget fördes också som ett propagandakrig, där den svenska propagandan arbetade intensivt för att skapa en prosvensk och antikatolsk opinion. Man kunde då appellera till den redan förefintliga, närmast apokalyptiska tron på lejonet från Norden som räddare i Tysklands nöd. På nyåret 1631 började läget lätta, sedan Oxenstierna fått iväg värvat rytteri från Preussen och förhandlingarna med Frankrike hade lett till traktaten i Bärwalde, där Gustav med i stort sett bibehållen handlingsfrihet tillförsäkrades subsidier på 400 000 riksdaler om året. Under det följande halvåret utvidgades operationsområdet längs Oder och vid Elbe, men Gustav lyckades inte undsätta det belägrade Magdeburg."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav II Adolf (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13316",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad",
+   "personer": [
+    "axel-oxenstierna"
+   ]
+  },
+  {
+   "id": "breitenfeld-1631",
+   "namn": "Slaget vid Breitenfeld",
+   "ar": 1631,
+   "ca": false,
+   "datum": null,
+   "text": "Den 7 september 1631 (svensk tid) besegrade Gustav II Adolf och sachsarna Tillys kejserliga armé vid Breitenfeld utanför Leipzig. Segern öppnade vägen för det svenska segertåget genom Tyskland.",
+   "regenter": [
+    "gustav-ii-adolf"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund",
+     "text": "De protestantiska furstarna i Leipzig försökte förgäves enas om en handlingslinje mot kejsaren. Kejsaren stod fast vid kravet på genomförandet av restitutionsediktet, alltså återställandet av de övertagna andliga stiften, och lät i augusti Tilly rycka in i den protestantiska huvudmakten Sachsen. Kurfursten drevs då äntligen till samverkan med Gustav Adolf, som gick in i Sachsen och förenade sig med den sachsiska armén."
+    },
+    {
+     "rubrik": "Slaget",
+     "text": "Den 7 september (svensk tid) stod det avgörande slaget vid Breitenfeld. Krigshistoriker har velat se i slaget ett exempel på Gustav Adolfs nya djärva taktik, syftande till att omfatta och förinta Tillys armé. Nyare forskning har framhävt de fortfarande passiva dragen: den svenska armén stod under större delen av slaget stilla och mötte i enlighet med nederländsk taktik de anfallande styrkorna. Kvar står ändå den visade förmågan till smidig omgruppering i det svåra läge som uppstod sedan den sachsiska armén drivits på flykten. Gustav har själv gett en drastisk skildring av sachsarnas flykt, där kurfursten som höll sig i arriärgarden sprang med hela sitt livkompani och inte stannade förrän i Eulenburg."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Även om den kejserliga armén på intet sätt förintats blev segerns följder genomgripande. Den banade väg för Gustav Adolfs segertåg genom Thüringen och Maindalen ned mot Rhentrakten och öppnade nya rika områden för kontribution och rekrytering. Nya arméer sattes upp i olika operationsområden, och snart stod mycket stora truppstyrkor under hans överbefäl, mestadels tyska trupper sedan det svenska inslaget krympt genom den fortgående avgången från den inte alltför stora svenska expeditionskåren. Segern ledde också till en allmän anslutning från protestantiska furstar och städer, med vilka traktater uppsattes som tillgodosåg Gustavs krav på högsta krigsledning och avsevärda bidrag i trupper och pengar."
+    },
+    {
+     "rubrik": "Vägen till Lützen",
+     "text": "Året därpå, 1632, mötte Gustav Adolf döden vid Lützen. Men Breitenfeld hade redan gjort Sverige till en makt som kejsaren och de katolska furstarna måste räkna med, och i freden i Westfalen 1648 nådde stormaktstiden sin höjdpunkt."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav II Adolf (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13316",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "lutzen-1632",
    "namn": "Slaget vid Lützen",
    "ar": 1632,
@@ -1482,6 +1638,44 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "polska-kriget-1655",
+   "namn": "Karl X Gustav går in i Polen",
+   "ar": 1655,
+   "ca": false,
+   "datum": null,
+   "text": "Sommaren 1655 avreste Karl X Gustav med hären till Pommern för ett anfall på Polen. Stora militära framgångar, bland annat tredagarsslaget vid Warszawa, gav inte den politiska vinst som Sverige hoppats på.",
+   "regenter": [
+    "karl-x-gustav"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Beslutet att gå mot Polen",
+     "text": "Genom en skickligt upplagd taktik lyckades kungens talesmän, rikskanslern Erik Oxenstierna och riksdrotsen Per Brahe, få rådets anslutning till att offensiva rustningar borde göras och riktas mot Polen, och att Polen skulle krävas på verklig försäkran och satisfaktion. Därmed kunde värvningsoffensiven sättas i gång, och efter att ständerna godkänt kriget mot Polen avreste kungen på sommaren 1655 med hären till Pommern, som blev utgångspunkt för huvudanfallet."
+    },
+    {
+     "rubrik": "Framgångar utan seger",
+     "text": "Karl X Gustavs stora militära framgångar i Polen 1655–1657, bland dem tredagarsslaget vid Warszawa som väckte mest uppmärksamhet, gav inte motsvarande politiska resultat. En viktig orsak var att svenskarna inte hade tillräckliga militära och ekonomiska resurser för att behärska hela Polen. Dessutom försämrades det utrikespolitiska läget hela tiden."
+    },
+    {
+     "rubrik": "Brandenburg, Ryssland och Österrike",
+     "text": "Kurfursten av Brandenburg tvingades i början av 1656 sluta det för Sverige fördelaktiga fördraget i Königsberg, där kurfursten accepterade Sverige som länsherre över Ostpreussen i stället för Polen. Men Brandenburg kunde ställa allt högre krav för sitt stöd i takt med att Karls ställning i Polen blev svårare. I fördraget i Labiau i november 1656 måste Karl ge kurfursten full suveränitet i Ostpreussen mot hjälp vid erövringen av andra områden från Polen, som Västpreussen och Kurland. Hösten 1657 slöt Brandenburg förbund med den polske kungen. Därtill öppnade Ryssland krig mot Sverige i juni 1656, och Österrike slöt i maj 1657 förbund med Polen och sände trupper till dess hjälp."
+    },
+    {
+     "rubrik": "Drömmen om ett förenat rike",
+     "text": "Under intryck av sina stora första framgångar i Polen hade Karl hyst allvarliga planer på att förena hela det riket med Sverige. Från 1657 kunde han räkna med synnerligen svåra förhållanden. När den danske kungen Fredrik III i början av juni 1657 bröt freden, gick Karl med hären mot Danmark, och det ledde till tåget över Bält och freden i Roskilde 1658."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl X Gustav (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12355",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "roskildefreden-1658",
@@ -1871,6 +2065,118 @@
    "status": "verifierad"
   },
   {
+   "id": "adolf-fredrik-tronfoljare-1743",
+   "namn": "Adolf Fredrik väljs till tronföljare",
+   "ar": 1743,
+   "ca": false,
+   "datum": "06-23",
+   "text": "Mitt under kriget mot Ryssland valde riksdagen den 23 juni 1743 hertig Adolf Fredrik av Holstein-Gottorp till svensk tronföljare. Valet var ett led i fredsförhandlingarna med kejsarinnan Elisabet.",
+   "regenter": [
+    "adolf-fredrik"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Kriget och kejsarinnan",
+     "text": "Hösten 1742, mitt under kriget mellan Sverige och Ryssland, sände Adolf Fredrik sin unge myndling Karl Peter Ulrik till Petersburg. Där förmåddes denne av sin moster, kejsarinnan Elisabet, att mycket mot sin vilja övergå till grekisk-katolska läran och utropades till rysk tronföljare. Samtidigt hade Sveriges ständer valt honom till svensk tronföljare, och det valet gick därmed om intet. Adolf Fredrik hade knappast någon medveten avsikt att bereda rum för sin egen kandidatur, eftersom hans utsikter genom släktskapet med Vasasläkten var alltför obetydliga."
+    },
+    {
+     "rubrik": "En billig fred",
+     "text": "Men kejsarinnan Elisabets politik gav honom helt oväntat stora utsikter. För att hindra den danske kronprinsens val, och därmed en förening av de nordiska kronorna, erbjöd hon Sverige en billig fred på villkor att Adolf Fredrik valdes till tronföljare. Efter fredspreliminärerna i Åbo, som lovade att större delen av Finland skulle återlämnas, och sedan ett bonduppror för den danske kronprinsens erkännande blodigt kuvats, var hans framgång säkrad."
+    },
+    {
+     "rubrik": "Valet den 23 juni",
+     "text": "Den 23 juni 1743 valdes han på rikssalen av de fyra stånden och riksråden till svensk tronföljare, med arvsrätt för hans manliga avkomlingar. Han höll sitt intåg i Stockholm den 14 oktober 1743. Ställningen var utomordentligt svår, eftersom valet genomdrivits mot en stor del av svenska folket, kriget med Danmark hotade och en rysk armékår stod i hjärtat av Sverige. Utan politisk erfarenhet och obekant med svenska förhållanden blev han en passiv deltagare, tacksam mot den ryska kejsarinnan och i huvudsak rättande sig efter hennes råd."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Det första personliga avgörandet var kravet att han skulle erkänna Danmarks besittning av Slesvig och avstå arvsrätten till Holstein, vilket han med rysk hjälp envist avvisade. En överenskommelse med Danmark slöts den 5 mars 1744, och de ryska hjälptrupperna hemsändes. Samma år, den 6 juli 1744, vigdes han i Berlin vid Lovisa Ulrika av Preussen. Genom henne närmade sig tronföljarparet gradvis hattpartiet."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Adolf Fredrik (band 1, 1918)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5574",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "hovpartiets-kuppforsok-1756",
+   "namn": "Hovpartiets revolutionsförsök 1756",
+   "ar": 1756,
+   "ca": false,
+   "datum": null,
+   "text": "Efter att ständerna 1756 infört en kunglig namnstämpel gjorde hovet sommaren 1756 ett kuppförsök. Det misslyckades och krossade för en tid hovpartiet.",
+   "regenter": [
+    "adolf-fredrik"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Konflikten med rådet",
+     "text": "Hela Adolf Fredriks regeringstid präglades av strävan att öka kungens makt, men utan insikt, konsekvens eller kraft. Konflikten med rådet om kungens makt över regeringsärenden ledde vid riksdagen 1755–1756 till ett fullständigt nederlag för honom. Genom ständernas skrivelse den 26 maj 1756 infördes den kungliga namnstämpeln, och därmed förnedrades konungadömet till en ren etikett."
+    },
+    {
+     "rubrik": "Kuppförsöket",
+     "text": "Strax därefter kom från hovkretsar under drottningens ledning ett revolutionsförsök sommaren 1756. Adolf Fredrik själv hade bara en ringa och passiv del i det. Försöket misslyckades."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Misslyckandet ledde till nya förödmjukelser för kungaparet. Konungaparets främsta anhängare hamnade på schavotten eller i landsflykt, och hovpartiet krossades för en tid. Hovet återfick snart ett visst inflytande genom partikampen på 1760-talet, men den kungliga makten hade fått ett hårt slag. Adolf Fredrik blev kvar på tronen, men med ännu mindre makt än förut."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Adolf Fredrik (band 1, 1918)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5574",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "tronavsagelsen-1768",
+   "namn": "Tronavsägelsen 1768",
+   "ar": 1768,
+   "ca": false,
+   "datum": "12-15",
+   "text": "Den 15 december 1768 nedlade Adolf Fredrik regeringen för att tvinga rådet att kalla samman ständerna. Efter fem dagar återtog han tronen, men den utlovade författningsändringen gick om intet.",
+   "regenter": [
+    "adolf-fredrik"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund",
+     "text": "Efter 1756 hade hovet och rådet legat i konflikt, och konungadömet hade sjunkit djupare i vanmakt än någonsin. Adolf Fredrik hade ändå inte gett upp hoppet om större makt. I december 1768 gjorde han ett uppseendeväckande försök att med ett skarpt medel tvinga fram en författningsändring."
+    },
+    {
+     "rubrik": "Den 15 december",
+     "text": "Den mest uppseendeväckande händelsen i hans senare regering var tronavsägelsen den 15 december 1768. Då uppträdde han i rådkammaren och nedlade regeringen, tills rådet fogat sig efter hans vilja och sammankallat ständerna. Rådet gav efter, och den 20 december 1768 återtog han tronen. Hans bror hertig Karl, som annars ofta kunde ge efter för andra, motstod under de kritiska dagarna i december 1768 alla lockelser att ställa sig på rådets sida."
+    },
+    {
+     "rubrik": "Utgången",
+     "text": "Den utlovade författningsändringen gick om intet vid riksdagen 1769–1770. Kungen kunde inte driva igenom sin vilja, och när han dog 1771 återstod för sonen Gustav III att med statskuppen 1772 göra ett nytt försök. Adolf Fredrik är därför en kung som blev kvar i historien mest som en länk i den långa kampen om makten under frihetstiden."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Adolf Fredrik (band 1, 1918)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5574",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Karl XIII (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12358",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "statskuppen-1772",
    "namn": "Gustav III:s statskupp",
    "ar": 1772,
@@ -1910,6 +2216,103 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "svenska-akademien-1786",
+   "namn": "Svenska Akademien grundas",
+   "ar": 1786,
+   "ca": false,
+   "datum": null,
+   "text": "Gustav III grundade 1786 Svenska Akademien efter förebild av Franska akademin. Samma år omdanades Vitterhetsakademien.",
+   "regenter": [
+    "gustav-iii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "En kung som älskade litteraturen",
+     "text": "Gustav III var den främste kulturpersonligheten bland Sveriges kungar. Han var en frikostig och säker mecenat, och teatern var det första område där han ville göra en verklig insats, eftersom han ansåg att den bäst odlade sinnena, förfinade smaken och utvecklade det svenska språket. Operan började spela på svenska 1773, och 1782 flyttade den in i Adelcrantz operahus. Han skrev själv fem dramer, och när ingen författare av rang ville skriva svenskt originaldrama tog han saken i egna händer."
+    },
+    {
+     "rubrik": "Akademin 1786",
+     "text": "År 1786 grundade han Svenska Akademien efter förebild av Franska akademin. I den satt, vid sidan av adelsmän, ofrälse författare som Kellgren och Leopold. Samma år ombildade han Vitterhetsakademien. Redan 1771 hade han grundat Musikaliska akademien, och 1773 ombildade han Ritarakademien till Målar- och bildhuggarakademien."
+    },
+    {
+     "rubrik": "Akademien under Oscar II",
+     "text": "Akademien blev långlivad. Oscar II, som själv var diktare och beskyddare av Akademien, lät under sin tid sina personliga preferenser påverka valen på ett sätt som snarare skadade Akademiens anseende: hans vän Sander utsågs, men Henrik Schück kunde inte väljas förrän efter Oscars död. Bland ledamöterna har funnits några av landets mest kända personer, som Selma Lagerlöf, invald 1914, och Dag Hammarskjöld, invald 1954."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav III (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13317",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Oscar II (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7812",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Selma O L Lagerlöf (band 22, 1977–79)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10922",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Dag Hammarskjöld (band 18, 1969–71)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12545",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "anjalaforbundet-1788",
+   "namn": "Anjalaförbundet",
+   "ar": 1788,
+   "ca": false,
+   "datum": null,
+   "text": "Hösten 1788, under kriget mot Ryssland, skrev 112 officerare under en föreningsakt där de förklarade kriget olagligt. Förbundet kallas Anjalaförbundet.",
+   "regenter": [
+    "gustav-iii",
+    "karl-xiii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Kriget börjar illa",
+     "text": "Gustav III hade i juni 1788 inlett kriget mot Ryssland. Sjöslaget vid Hogland den 17 juli slutade oavgjort, men ur strategisk synpunkt blev det ett svenskt nederlag. Den ryska flottan låg kvar på stridsplatsen utan att kunna manövrera, medan den svenska på grund av ammunitionsbrist återvände till Sveaborg. Den stort upplagda fälttågsplanen måste begränsas till en operation mot Fredrikshamn."
+    },
+    {
+     "rubrik": "Hertig Karl får befälet",
+     "text": "När Gustav III den 25 augusti lämnade den finska krigsskådeplatsen anförtrodde han hertig Karl, sedermera Karl XIII, överbefälet och landets styrelse. Karl ålades att försvara de ställningar som innehades på ryskt område och förbjöds att underhandla med fienden utan att inhämta kungens tillstånd. Karl, som kände sig isolerad och övergiven inför den svårbemästrade uppgiften, kom snart under inflytande av de oppositionella elementen i armén. I hopp om att uppnå ett stillestånd lät han utan tvingande militära skäl utrymma ställningarna vid Högfors och Anjala, och bröt därmed mot broderns instruktioner."
+    },
+    {
+     "rubrik": "Föreningsakten",
+     "text": "Från Anjala skickade officerare en föreningsakt, undertecknad av 112 officerare, om krigets olaglighet. Handlingen kan kallas myteri, eftersom kungen enligt 1772 års regeringsform inte fick inleda anfallskrig utan ständernas samtycke. Hertig Karl tycks rent av ha övervägt att med stöd av armén och flottan ingripa i händelseutvecklingen i Sverige, men han bröt i oktober med de sammansvurna."
+    },
+    {
+     "rubrik": "Gustav III:s svar",
+     "text": "Gustav III bevarade huvudet kallt. När Danmark gick in i kriget kunde han återvända som Sveriges försvarare. Han begav sig till Mora för att tala till allmogen från samma hög där Gustav Vasa sades ha stått, och möttes överallt av offervilja. Det danska anfallet mot Bohuslän avstannade genom den brittiske ministern Hugh Elliots ingripande, och Danmark höll sig sedan utanför kriget. Anjalaförbundet blev bakgrunden till att Gustav III 1789 genomdrev Förenings- och säkerhetsakten."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav III (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13317",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Karl XIII (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12358",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "foreningsakten-1789",
@@ -2039,6 +2442,44 @@
    ]
   },
   {
+   "id": "finska-kriget-1808",
+   "namn": "Finska kriget",
+   "ar": 1808,
+   "ca": false,
+   "datum": null,
+   "text": "I februari 1808 gick ryska trupper över Finlands gräns. Kriget slutade med att Finland gick förlorat och Gustav IV Adolf avsattes 1809.",
+   "regenter": [
+    "gustav-iv-adolf"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Vägen till kriget",
+     "text": "Hösten 1807 inledde Ryssland en diplomatisk offensiv för att tvinga Sverige in i kontinentalblockaden. Gustav IV Adolfs vägran blev den direkta anledningen till att ryska trupper i februari 1808 gick över Finlands gräns, och i mars följde Danmarks krigsförklaring. Sverige stod inför ett tvåfrontskrig."
+    },
+    {
+     "rubrik": "Rustning och strategi",
+     "text": "Gustav lät skriva ut ett lantvärn på 30 000 unga ogifta män, men det slog dåligt ut. Han ville, i motsats till de ledande generalerna, sätta in de första stora stötarna västerut, mot Norge eller Själland. Brittiska landtrupper kom aldrig att landstiga sedan han råkat i tvist med befälhavaren sir John Moore."
+    },
+    {
+     "rubrik": "Förlusten av Finland",
+     "text": "Från juni 1808 följde han operationerna i Finland från Åland och Åbo skärgård. Sveaborgs kapitulation i maj hotade planen på en stor sommaroffensiv, och när han återvände till Stockholm i november var Finland upp till Kemi älv besatt av ryssarna. Hans rådgivare ansåg att kriget fördes för Storbritanniens skull och borde bekostas av brittiska subsidier, medan han ville ta rikets egna resurser i anspråk och i januari 1809 lät skriva ut en stor krigsgärd."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Under vintern 1808–1809 inleddes allvarliga konspirationer, främst i militära kretsar. Natten till den 7 mars 1809 besatte G. Adlersparre Karlstad och marscherade mot Stockholm. Den 13 mars arresterades Gustav IV Adolf, och i riksakten som avsatte honom sades att hans utrikespolitik lett till förlusten av Pommern och Finland. Finland gick förlorat."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav IV Adolf (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13318",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "gustav-iv-adolf-avsatts-1809",
    "namn": "Gustav IV Adolf avsätts",
    "ar": 1809,
@@ -2091,6 +2532,51 @@
    ]
   },
   {
+   "id": "fersenska-mordet-1810",
+   "namn": "Fersenska mordet",
+   "ar": 1810,
+   "ca": false,
+   "datum": "06-20",
+   "text": "Den 20 juni 1810 slogs riksmarsken Axel von Fersen ihjäl av en folkmassa i Stockholm, vid kronprins Karl Augusts begravning. Händelsen blev en av de mörkaste i svensk historia.",
+   "regenter": [
+    "karl-xiii",
+    "karl-xiv-johan"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund",
+     "text": "Kronprins Karl Augusts hastiga död 1810 försatte landet i en svår situation. Det spreds misstankar om att Axel von Fersen d.y. var skyldig till hans död, och det fanns en gammal motsättning mellan honom och Karl XIII."
+    },
+    {
+     "rubrik": "Den 20 juni",
+     "text": "Den 20 juni 1810 mördades Fersen av en folkmassa i Stockholm. Militären förblev overksam under upploppet."
+    },
+    {
+     "rubrik": "Karl XIII:s roll",
+     "text": "Karl XIII hade gett uttryck för uppfattningen att Fersen var skyldig till Karl Augusts död och sökt sprida den. Hans ansvar för militärens overksamhet under upploppet och försöken att skydda de ansvariga cheferna är ovedersägliga. Man har sagt att det moraliska ansvaret ytterst drabbar honom."
+    },
+    {
+     "rubrik": "Därefter",
+     "text": "Några månader senare, den 21 augusti 1810, valdes marskalk Bernadotte till svensk tronföljare, och i november antogs han som Karl XIII:s son."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XIII (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12358",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Karl XIV Johan (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12359",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "karl-johan-1810",
    "namn": "Karl Johan väljs till kronprins",
    "ar": 1810,
@@ -2137,6 +2623,44 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "leipzig-1813",
+   "namn": "Slaget vid Leipzig",
+   "ar": 1813,
+   "ca": false,
+   "datum": "10-16",
+   "text": "Den 16–19 oktober 1813 besegrades Napoleon vid Leipzig. Karl Johans nordarmé deltog, och därefter vände han sig mot Danmark.",
+   "regenter": [
+    "karl-xiv-johan"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Trachenberg",
+     "text": "I juli 1813 bjöds Karl Johan till konferens på slottet Trachenberg i Schlesien med tsar Alexander och kung Fredrik Vilhelm. Den generalplan som blev huvudresultatet bar i hög grad hans signatur. Karl Johan fick befälet över nordarmén, som med preussiska och ryska kårer tidvis uppgick till 170 000 man, det största kommando han förde."
+    },
+    {
+     "rubrik": "Gross-Beeren och Dennewitz",
+     "text": "Han har av den tyska generalstabens historieskrivning beskyllts för överdriven försiktighet, men han ville spara både svenskt och franskt blod. Han avvärjde de franska framstötarna mot Berlin genom segrarna vid Gross-Beeren den 23 augusti och Dennewitz den 6 september, och föreslog därefter att man skulle marschera rakt mot Leipzig."
+    },
+    {
+     "rubrik": "Slaget",
+     "text": "Vid det stora slaget den 16–19 oktober iakttog nordarmén en mer passiv taktik. Karl Johan klöv därefter armén och gick med svenskarna mot Danmark, bröt in i Holstein omkring den 1 december och fick fred i Kiel den 14 januari 1814, med Norges avträdande."
+    },
+    {
+     "rubrik": "Drömmen om Frankrike",
+     "text": "Under de hektiska månaderna närdes Karl Johans ambition av gamla vänner i madame de Staëls krets, där A. W. von Schlegel skrev den proklamation vid Leipzig som fick sachsarna att lämna Napoleon, och Benjamin Constant skrev en broschyr med anspelningar på honom. Hans hopp om att kallas till regeringen i Frankrike, i nödfall som major domus under bourbonerna, grusades när Paris föll och bourbonerna proklamerades. Constant sade att han brann för att bli kung av Frankrike men inte ville riskera att inte bli kung av Sverige."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XIV Johan (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12359",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "kielfreden-1814",
@@ -2217,6 +2741,82 @@
    "status": "verifierad"
   },
   {
+   "id": "novembertraktaten-1855",
+   "namn": "Novembertraktaten",
+   "ar": 1855,
+   "ca": false,
+   "datum": null,
+   "text": "Under Krimkriget slöt Oscar I 1855 en defensivallians med västmakterna, novembertraktaten. Hoppet om att återta Finland grusades av det snabba fredsslutet 1856.",
+   "regenter": [
+    "oscar-i"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Krimkriget",
+     "text": "När Krimkriget bröt ut 1853–1856 tog Oscar I en västmaktsvänlig hållning och utfärdade en neutralitetsförklaring som var till Rysslands nackdel. Han hade sedan ungdomen ett starkt intresse för utrikespolitik och höll till stor del själv i trådarna."
+    },
+    {
+     "rubrik": "Traktaten",
+     "text": "Med den norsk-finska gränskonflikten som lockbete lyckades han få en defensivallians med västmakterna. Novembertraktaten 1855 gav dem garanti för Sverige-Norges territorium. Oscar närde hopp om en återerövring av Finland, men planerna omintetgjordes av det snabba fredsslutet. Ålandskonventionen blev den offensiva kungadiplomatins enda och snöpliga resultat."
+    },
+    {
+     "rubrik": "Skandinavismen",
+     "text": "För att motverka isoleringen efter Krimkriget satsade han på en dynamisk skandinavism och en svensk-dansk försvarsallians, med mål att han själv eller kronprins Karl skulle bli unionskung. I juni 1856 hälsade han på Drottningholm det nordiska studentmötets deltagare med orden att krig skandinaviska bröder emellan hädanefter var omöjligt. I mars 1857 erbjöd han Danmark en defensivallians för det egentliga Danmark och Slesvig, men den avvisades eftersom den inte omfattade Holstein."
+    },
+    {
+     "rubrik": "Hovdiplomati",
+     "text": "Oscar lät kamarillan, hemliga redskap, påverka opinionen och förbigick ofta yrkesdiplomater, till exempel genom att låta operachefen Knut Bonde sondera Napoleon III. Vid riksdagen 1856–1857 förenades konservativa och liberaler i kravet på konstitutionella garantier inom utrikespolitiken, vilket kan ses som ständernas dom över en alltför självsvåldig kungadiplomati."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Oscar I (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7811",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "danska-kriget-1864",
+   "namn": "Danska kriget 1864 och skandinavismens slut",
+   "ar": 1864,
+   "ca": false,
+   "datum": null,
+   "text": "När Danmark 1864 angreps av Preussen och Österrike uteblev den svenska hjälpen. Det blev slutet på skandinavismen som praktisk politik.",
+   "regenter": [
+    "karl-xv"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Alliansen som aldrig blev av",
+     "text": "Våren 1863 stod Karl XV i förbindelse med kejsar Napoleon med tanke på ett svenskt deltagande i en västmaktsintervention mot Ryssland, och återupptog förbindelserna med ledande skandinaver. I juli 1863 bjöd han den danske konseljpresidenten Hall en allians till försvar mot tyska angrepp, och förhandlingarna togs om hand av Henning Hamilton, som förmådde utrikesminister Manderström att gå med på en traktat som band Sverige-Norge till militärt ingripande vid gränsen mellan Holstein och Slesvig."
+    },
+    {
+     "rubrik": "Ulriksdal",
+     "text": "Vid en konferens i september 1863 på Ulriksdal genomdrev Gripenstedt, De Geer och den norske statsministern Sibbern att saken sköts upp för hänvändelse till Storbritannien och Frankrike, vilket i verkligheten blev allianspolitikens undergång."
+    },
+    {
+     "rubrik": "Kungens löfte",
+     "text": "Karl lovade i december 1863 att komma till Danmark i spetsen för 22 000 svensk-norska soldater, men det blev klart att statsråden, inte kungen, regerade. Det danska nederlaget mot Tyskland 1864 innebar slutet för skandinavismen som praktisk politik."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Karl hade fått ge upp motståndet mot representationsreformen, som vann i december 1865. Efter kriget fick han ingenting ut av reformen för skandinavismens räkning. En unionskommitté lade 1867 fram förslag till en ny föreningsakt, men stortinget förkastade hela förslaget 1871."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Karl XV (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12360",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "representationsreformen-1865",
    "namn": "Representationsreformen 1865",
    "ar": 1865,
@@ -2254,6 +2854,142 @@
      "titel": "Oscar I (band 28, 1992–94)",
      "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
      "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7811",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "stora-fragorna-kompromissen-1873",
+   "namn": "Kompromissen om de stora frågorna",
+   "ar": 1873,
+   "ca": false,
+   "datum": null,
+   "text": "Riksdagen 1873 beslöt en kompromiss mellan indelningsverket och grundskatterna. Frågan, som kallades de stora frågorna, förblev olöst i nästan tjugo år.",
+   "regenter": [
+    "oscar-ii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Frågorna",
+     "text": "Vid Oscar II:s tronbestigning 1872 återstod de så kallade stora frågorna: försvaret och skatterna. De stora frågorna gällde försvaret och skatterna. Det viktigaste beslutet under Oscars första år var riksdagens kompromiss 1873: indelningsverket fick avskaffas bara samtidigt som grundskatterna avskrevs."
+    },
+    {
+     "rubrik": "Hårknuten",
+     "text": "Kompromissen blev en hårknut, som paralyserade frågorna i mer än ett decennium. Att Oscar medvetet deltog i ett dubbelspel är inte bevisat och knappast troligt. För grundskatteproblemen intresserade han sig mycket litet, men försvarsfrågorna ägnade han uppsatser och anonyma tidningsartiklar, eftersom hans utbildning var officerens."
+    },
+    {
+     "rubrik": "Utvecklingen",
+     "text": "Våren 1885 spelade han en roll vid Themptanders blygsamma reform, som äntligen medförde en uppluckring, och en promemoria från honom 1884 framhöll att de stora frågorna skulle ordnas successivt och inte i ett enda beslut. Frågan löstes först med försvarsreformen 1892."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Oscar II (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7812",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "riksratten-i-norge-1884",
+   "namn": "Riksrätten i Norge och parlamentarismens genombrott",
+   "ar": 1884,
+   "ca": false,
+   "datum": null,
+   "text": "I februari 1884 avsattes den norska regeringen Selmer genom riksrätt. Kungen Oscar II tvingades i juni acceptera Sverdrup som statsminister, och parlamentarismen genomfördes i Norge.",
+   "regenter": [
+    "oscar-ii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Vetostriden",
+     "text": "Svårigheter av mer komplicerat slag mötte Oscar II i Norge. Tre storting hade beslutat, senast 1880, att statsråden skulle få delta i stortingsdebatterna, men Oscar vägrade varje gång sanktion, och frågan blev om kungen hade absolut veto i grundlagsfrågor."
+    },
+    {
+     "rubrik": "Riksrätten",
+     "text": "Vänstern under Johan Sverdrup drev igenom att ministären ställdes inför riksrätt, och domen blev fällande: i februari 1884 avsattes statsminister Selmer och de flesta statsråden. Oscar lät bilda en högerministär men tvangs redan i juni acceptera Sverdrup som statsminister, och därmed var parlamentarismen klart accepterad i Norge."
+    },
+    {
+     "rubrik": "Kungens svåra år",
+     "text": "Dessa år var svåra för honom: han ansåg att det var hans oavvisliga plikt att vidmakthålla unionen, och statsminister Selmer var en av hans närmaste politiska vänner. Björnstjerne Björnsons agerande väckte hans starka motvilja, och han var närmast maniskt fientlig mot honom. Stundom tänkte han på abdikation, stundom på ett tyskt ingripande i Norge. Vid ett tillfälle yttrade han: \"Är jag då den ende som skall försvara unionen?\""
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Oscar II (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7812",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "forsvarsreformen-1892",
+   "namn": "Försvarsreformen 1892",
+   "ar": 1892,
+   "ca": false,
+   "datum": null,
+   "text": "Vid en urtima riksdag hösten 1892 löstes de stora frågorna: indelningsverket och grundskatterna avskaffades, och allmän värnplikt infördes.",
+   "regenter": [
+    "oscar-ii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Tullstriderna",
+     "text": "I Sverige avlöste tullstriderna under senare delen av 1880-talet de stora frågorna. Personligen var Oscar frihandlare, men han ingrep inte med engagemang. Regeringskrisen i februari 1888, då Themptander avgick, var långdragen och präglades av stark kunglig aktivitet. Gillis Bildt blev statsminister, men Oscar hade inte särskilt stora valmöjligheter eftersom tullvännerna dominerade riksdagen. Efter Bildt kom Gustaf Åkerhielm och 1891 E. G. Boström."
+    },
+    {
+     "rubrik": "Reformen",
+     "text": "Under den långa protektionistiska dominansen sköts tullfrågorna i bakgrunden. Det öppnade möjligheten för ministären att vid en urtima riksdag hösten 1892 genomföra försvarsreformen som slutgiltigt löste de stora frågorna: indelningsverket och grundskatterna avskaffades och allmän värnplikt infördes."
+    },
+    {
+     "rubrik": "Kungens glädje",
+     "text": "Oscars glädje var uppriktig. Han avtog sitt eget blå band, löste serafimerstjärnan från bröstet och lämnade båda till Boström. Reformen var en av de största framgångarna under hans regering."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Oscar II (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7812",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "flaggkrisen-1898",
+   "namn": "Flaggkrisen 1898",
+   "ar": 1898,
+   "ca": false,
+   "datum": null,
+   "text": "I december 1898 tvingades Oscar II utfärda en lag om att stryka unionsmärket ur den norska handelsflaggan, utan sanktion men med sin namnteckning.",
+   "regenter": [
+    "oscar-ii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Unionsstriderna",
+     "text": "Vänstern vann stortingsvalet 1891 på ett program med krav på norsk likställighet i utrikespolitiken och ett eget konsulatväsen, och stämningen var 1895 så upphetsad att man inte uteslöt att problemen skulle avgöras med vapenmakt. I Oscars egen familj var kronprinsen och prins Carl aktivister, medan drottningen och prins Eugen var modererande, och kejsar Wilhelm menade att Sverige borde ingripa militärt. Själv lekte Oscar med tanken att bege sig till Fredrikshald och marschera mot Kristiania med en kungatrogen norsk ministär. Förhandlingarna i en unionsrevisionskommitté 1895–1898 slutade resultatlösa."
+    },
+    {
+     "rubrik": "Flagglagen",
+     "text": "I december 1898 inträffade flaggkrisen. Oscar förelades ett tredje beslut av stortinget om att stryka unionsmärket ur den norska handelsflaggan, och tvingades av den norska statsrådsavdelningen i Stockholm utfärda flagglagen utan sanktion men med sin namnteckning. Det blev ett av de obehagligaste sammanträden han deltog i, och han talade om att abdikera."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Oscar insjuknade i en nervös åkomma, och drottningen ingrep för att få Boström att stanna. Krisen visade hur nära unionen kommit sitt slut, men än fanns sju år kvar tills den upplöstes 1905."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Oscar II (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7812",
      "kontrollerad": true
     }
    ],
@@ -2408,6 +3144,62 @@
    ]
   },
   {
+   "id": "rostratten-1919",
+   "namn": "Allmän och lika rösträtt",
+   "ar": 1919,
+   "ca": false,
+   "datum": "05-24",
+   "text": "Den 24 maj 1919 fattade riksdagen det första av två grundlagsbeslut om allmän och lika rösträtt. I september 1921 röstade kvinnor för första gången i ett riksdagsval.",
+   "regenter": [
+    "gustaf-v"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Kampen för rösträtten",
+     "text": "Under 1800-talets sista decennier och 1900-talets början var allmän och lika rösträtt en av de viktigaste politiska frågorna. Allmän rösträtt för män infördes 1909, och tre år senare lade regeringen fram en proposition om rösträtt för kvinnor. År 1913 samlade Landsföreningen för kvinnans politiska rösträtt in 351 454 namnunderskrifter, som överlämnades till riksdagen. Kampen för kvinnlig rösträtt tog ordentlig fart under början av 1900-talet."
+    },
+    {
+     "rubrik": "Besluten 1918–1921",
+     "text": "År 1917 tillträdde en regering av liberaler och socialdemokrater med allmän och lika rösträtt på programmet, och på hösten 1918 lade regeringen fram sitt förslag, som till sist accepterades av högern. Riksdagen röstade 1918 för rösträtt för kvinnor, till att börja med i de kommunala valen, och våren 1919 hölls de första kommunal- och landstingsvalen med allmän och lika rösträtt. För att verkligen genomföra en allmän rösträttsreform krävdes dock en grundlagsändring. Den 24 maj 1919 fattade riksdagen det första av två grundlagsändrande beslut. Två år senare, i januari 1921, fattades det andra och bekräftande beslutet, som gav kvinnor rösträtt i praktiken."
+    },
+    {
+     "rubrik": "Första valet 1921",
+     "text": "På hösten 1921 genomfördes det första riksdagsvalet där kvinnor kunde delta. Valdeltagandet var bland kvinnor 15 procentenheter lägre än bland män. Fem kvinnor valdes in i riksdagen, vilket motsvarade drygt en procent av platserna, och i januari 1922 trädde de första kvinnorna in i riksdagen. Sverige blev det sista landet i Skandinavien som införde allmän och lika rösträtt för kvinnor."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Utvecklingen mot jämställdhet i riksdagen var långsam. Det första kvinnliga statsrådet tillsattes först 1947, 26 år efter att kvinnlig rösträtt införts. Andelen kvinnor i riksdagen ökade stegvis, och efter valet 1994 var den drygt 40 procent. Sedan dess har andelen män och kvinnor legat inom intervallet 40–60 procent."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Kampen om rösträtten",
+     "utgivare": "Sveriges riksdag",
+     "url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/riksdagens-historia/kampen-om-rostratten/",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Hundra år med kvinnlig rösträtt",
+     "utgivare": "Statistiska centralbyrån",
+     "url": "https://www.scb.se/hitta-statistik/artiklar/2021/hundra-ar-med-kvinnlig-rostratt/",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Kvinnlig rösträtt fyller 100 år",
+     "utgivare": "SVT Nyheter",
+     "url": "https://www.svt.se/nyheter/inrikes/kvinnlig-rostratt-fyller-100-ar",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Kampen för kvinnors rösträtt i Sverige",
+     "utgivare": "Sanoma Utbildning, Hitta historien",
+     "url": "https://www.sanomautbildning.se/globalassets/gymn-vuxenutb/pdf/hitta-historien/hittahistorien_kampenforkvinnor.pdf",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "asine-expeditionen-1922",
    "namn": "Asine-expeditionen",
    "ar": 1922,
@@ -2559,6 +3351,60 @@
    ]
   },
   {
+   "id": "eu-folkomrostningen-1994",
+   "namn": "Folkomröstningen om EU",
+   "ar": 1994,
+   "ca": false,
+   "datum": "11-13",
+   "text": "Den 13 november 1994 röstade 52,3 procent av svenskarna ja till EU-medlemskap. Sverige blev medlem den 1 januari 1995.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Vägen till omröstningen",
+     "text": "Sveriges väg till EU var enligt regeringens egen beskrivning kulmen på en lång period av integration och samarbete. EES-avtalet undertecknades och trädde i kraft den 1 januari 1994, och regeringen hade förklarat att målet var ett svenskt EG-medlemskap. Förhandlingarna tog bara drygt ett år. Den 30 mars 1994 var en överenskommelse mellan Sverige och EU:s medlemsstater klar, och avtalet undertecknades vid EU-toppmötet på Korfu sommaren 1994."
+    },
+    {
+     "rubrik": "Folkomröstningen",
+     "text": "Den 13 november 1994 avgjordes frågan om medlemskap i en folkomröstning. Frågan löd: Anser du att Sverige bör bli medlem i EU i enlighet med avtalet mellan Sverige och EU:s medlemsstater? Ja-sidan fick 52,3 procent, nej-sidan 46,8 procent, och 0,9 procent röstade blankt. Valdeltagandet var 83,3 procent. Folkomröstningen var rådgivande, men partierna hade i förväg enats om att respektera resultatet. Beslutet fattades formellt av riksdagen den 15 december 1994."
+    },
+    {
+     "rubrik": "Medlemskapet",
+     "text": "Den 1 januari 1995 blev Sverige medlem i EU, tillsammans med Finland och Österrike. Samtidigt upphörde Sveriges medlemskap i Efta. Svenska är i dag ett av EU:s 24 officiella språk. Sverige höll sitt första val till Europaparlamentet den 17 september 1995."
+    },
+    {
+     "rubrik": "Euron och senare",
+     "text": "Frågan om Sverige skulle gå med i valutaunionen avgjordes i en annan folkomröstning, där nej-sidan fick 55,9 procent, ja-sidan 42 procent och 2,1 procent röstade blankt. Därmed är Sverige medlem i EU men står utanför euron. Under det trettioåriga medlemskapet har svenskarnas stöd för EU stärkts."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sveriges väg till EU-medlemskap",
+     "utgivare": "Regeringen",
+     "url": "https://regeringen.se/sa-styrs-sverige/regeringens-arbete-pa-eu-niva/sveriges-vag-till-eu-medlemskap/",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Folkomröstningar",
+     "utgivare": "Regeringen",
+     "url": "https://regeringen.se/sa-styrs-sverige/grundlagar-och-demokratiskt-deltagande/folkomrostningar/",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Inför EU-valet 9 juni",
+     "utgivare": "Statistiska centralbyrån (2024)",
+     "url": "https://www.scb.se/contentassets/0ec58d0737dc4add9a8a37ed2e091814/me0109_2024i24_br_me09br2402.pdf",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Sweden’s EU membership",
+     "utgivare": "Government Offices of Sweden",
+     "url": "https://government.se/government-policy/30-years-of-sweden-in-the-eu/swedens-eu-membership/",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "kungajubileet-2023",
    "namn": "Kungajubileet 2023",
    "ar": 2023,
@@ -2608,6 +3454,60 @@
      "titel": "The presidential couple celebrated the 80th birthday of the King of Sweden",
      "utgivare": "Finlands presidents kansli (2026)",
      "url": "https://www.presidentti.fi/en/the-presidential-couple-celebrated-the-80th-birthday-of-the-king-of-sweden/",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "nato-medlemskapet-2024",
+   "namn": "Sverige blir medlem i Nato",
+   "ar": 2024,
+   "ca": false,
+   "datum": "03-07",
+   "text": "Den 7 mars 2024 blev Sverige fullvärdig medlem i Nato, efter drygt 200 år som militärt alliansfritt land.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Från samarbete till ansökan",
+     "text": "Sveriges relation till Nato går tillbaka till 1994, då Sverige gick med i Partnerskap för fred. Efter Rysslands fullskaliga anfall på Ukraina 2022 beslutade regeringen den 16 maj 2022, med brett stöd i riksdagen, att ansöka om medlemskap, och den 18 maj 2022 överlämnade Sverige sin ansökan, tillsammans med Finland."
+    },
+    {
+     "rubrik": "Vägen mot medlemskap",
+     "text": "Regeringen beslutade i mars 2023 om propositionen Sveriges medlemskap i Nato, och riksdagen godkände anslutningen den 22 mars 2023. Av riksdagens 349 ledamöter röstade 269 för. Sveriges inträde drog ut på tiden genom att Turkiet och Ungern dröjde med att ratificera anslutningsprotokollet: Turkiet gjorde det den 25 januari 2024 och Ungern den 5 mars 2024."
+    },
+    {
+     "rubrik": "Den 7 mars 2024",
+     "text": "Den 7 mars 2024 inträdde Sverige som fullvärdig medlem, som alliansens 32:a medlem. Anslutningsdokumenten undertecknades av statsminister Ulf Kristersson på svenska ambassaden i Washington och överlämnades samma dag till USA:s utrikesminister Antony Blinken. Därmed upphörde över 200 år av militär alliansfrihet."
+    },
+    {
+     "rubrik": "Ceremonierna",
+     "text": "Den 11 mars 2024 hissades Sveriges flagga vid Natos högkvarter i Bryssel, och den 18 mars hölls flagghissningsceremonier vid riksdagen och på Karlbergs slott i Stockholm. Den 20 mars presenterade regeringen en extra utrikesdeklaration med anledning av medlemskapet."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sveriges och Natos historia",
+     "utgivare": "Regeringen",
+     "url": "https://regeringen.se/regeringens-politik/sverige-i-nato/sveriges-och-natos-historia/",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Historical relations between Sweden and NATO",
+     "utgivare": "Government Offices of Sweden",
+     "url": "https://government.se/government-policy/sweden-in-nato/history-of-sweden-and-nato/",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Sweden – March 2024: Sweden officially joins NATO",
+     "utgivare": "International IDEA, Democracy Tracker",
+     "url": "https://idea.int/democracytracker/report/sweden/march-2024?pid=7138",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Anslutningsdokument till Nato",
+     "utgivare": "Armémuseum",
+     "url": "https://digitaltmuseum.org/0210214481058",
      "kontrollerad": true
     }
    ],
