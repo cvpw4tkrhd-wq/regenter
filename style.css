@@ -301,3 +301,11 @@ a.nod:hover{border-color:var(--c)}
 .egenruta{background:var(--yta);border:1px solid var(--linje);border-left:6px solid #7a5c99;border-radius:var(--radie);padding:.7rem 1rem;margin:1.2rem 0}
 .egenmark,.persmark{display:inline-block;font-size:.75rem;padding:.05rem .5rem;border-radius:999px;background:#7a5c99;color:#fff}
 .rad.pers .kort{border-left-color:#7a5c99}
+
+.versionsrad{margin:2.4rem 0 1rem;padding-top:1rem;border-top:1px solid var(--linje);color:var(--dim);font-size:.9rem;text-align:center}
+.versionsrad p{margin:.2rem 0}
+.versionsrad .uppd{color:var(--text);font-weight:600}
+.vers{margin:1.2rem 0;padding-bottom:.6rem;border-bottom:1px solid var(--linje)}
+.vers h2{font-size:1.25rem;margin:0}
+.vers h3{font-size:1rem;margin:.2rem 0 .4rem;font-weight:600}
+.vers ul{margin:.3rem 0 .6rem;padding-left:1.2rem}
