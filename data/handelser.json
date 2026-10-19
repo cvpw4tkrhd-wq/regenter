@@ -484,6 +484,45 @@
    "status": "verifierad"
   },
   {
+   "id": "ingvar-vittfarnes-tag-1041",
+   "namn": "Ingvar den vittfarnes österväg",
+   "ar": 1041,
+   "ca": false,
+   "datum": null,
+   "text": "Omkring 1041 dog Ingvar den vittfarne på en färd österut. Mer än tjugo runstenar i Mälardalen minns män som följde honom.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Hövdingen",
+     "text": "Ingvar den vittfarne var enligt isländsk tradition född omkring 1016 och död 1041 i Ryssland. Han var son till Emund Åkesson och dotterson till kung Erik Segersäll. Han kallas vikingahövding, och han blev känd för en färd österut som blev ödesdiger för många av hans följeslagare."
+    },
+    {
+     "rubrik": "Stenarna",
+     "text": "Från den tid då Ingvar enligt isländska uppgifter dog finns mer än ett tjugotal runstenar över personer som omkommit på en sjöfärd österut med en man med förnamnet Ingvar. I några fall preciseras resmålet som Särkland, saracenernas land, alltså i det här fallet tydligen de länder vid Kaspiska havet som lydde under kalifatet. De flesta av stenarna finns i Södermanland, några i Uppland, en i Västmanland och två på Vikbolandet i Östergötland."
+    },
+    {
+     "rubrik": "Sagan",
+     "text": "Stenarna åsyftar tydligen samme man som gett namn åt den isländska Yngvars saga víðförla, som skrevs ned i början av 1300-talet och vars första fem kapitel kan återgå på äldre tradition. Enligt sagan hade Ingvar en son som hette Sven. Ett par runstenar från Rimbo och Husby-Lyhundra i Uppland nämner en person med förnamnet Ingvar som bror till bland andra en Erik och en Håkan."
+    },
+    {
+     "rubrik": "Vad det visar",
+     "text": "Runstenarna är några av de tydligaste spåren efter hur långt svenska vikingar färdades åt öster. Färden mot Särkland slutade för många av dem i döden, och släkten reste stenar hemma."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Ingvar vittfarne (band 20, 1973–75)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11969",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad",
+   "personer": [
+    "ingvar-den-vittfarne"
+   ]
+  },
+  {
    "id": "erik-den-heliges-dod-1160",
    "namn": "Erik den heliges död",
    "ar": 1160,
@@ -698,6 +737,44 @@
      "titel": "Karl X Gustav (band 20, 1973–75)",
      "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
      "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12355",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "landslagen-1350",
+   "namn": "Landslagen",
+   "ar": 1350,
+   "ca": false,
+   "datum": null,
+   "text": "Omkring 1350 antogs en rikslag för landsbygden i delar av Sverige. Den har sedan kallats Magnus Erikssons landslag, men om kungen själv stod bakom den är oklart.",
+   "regenter": [
+    "magnus-eriksson"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "En lag för hela riket",
+     "text": "Mot mitten av 1300-talet började rikslagar för Sveriges landsbygd och städer sammanställas. Båda har sedan C. J. Schlyter utgav dem kallats efter Magnus Eriksson, en benämning som inte utan reservation bör godtas. Landslagen antogs omkring 1350 i Östergötland och Uppland. Det är oklart om Magnus helt godtog den, och dess antagande behöver inte uppfattas som en seger för hans personliga politik."
+    },
+    {
+     "rubrik": "Stadslagen",
+     "text": "Säkra belägg för att Magnus utfärdade stadslagen finns inte, men det är sannolikt att den till största delen färdigställdes under hans tid. Nära till hands ligger antagandet att den ömtåliga frågan om tyskarnas ställning i de svenska städerna, inte minst i Stockholm, orsakade dröjsmål."
+    },
+    {
+     "rubrik": "Möten som liknade en riksdag",
+     "text": "Under 1300-talet företräddes det svenska samhället vid flera tillfällen av möten av en typ som dittills varit okänd och vars sammansättning påminde om den senare fyrståndsriksdagen. Möjligen fungerade en sådan representation redan vid kungavalet 1319, och säkert gjorde den det vid Skånes anslutning till det svenska riket 1332, i Uppsala 1344 och i Söderköping 1359. Vid dessa möten, som alla nära angick Magnus, avhandlades främst frågor om ståndens rättigheter och rikets styrelse."
+    },
+    {
+     "rubrik": "Ett rike som skulle enas",
+     "text": "Rikslagarna och mötena var led i försöken att enhetliggöra ett ännu alltför splittrat rike, och samtidigt uttryck för det framväxande fyrdelade ståndssamhället. Sammanhanget med nära samtida folkrepresentationer i England under Edvard I och i Frankrike under Filip den sköne är uppenbart. Vad Magnus egen insats betydde är svårt att avgöra, eftersom källorna ofta ger otillräcklig eller missvisande information."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Magnus Eriksson (band 24, 1982–84)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=10153",
      "kontrollerad": true
     }
    ],
@@ -1010,6 +1087,58 @@
    ]
   },
   {
+   "id": "kristina-gyllenstiernas-forsvar-1520",
+   "namn": "Kristina Gyllenstiernas försvar av Stockholm",
+   "ar": 1520,
+   "ca": false,
+   "datum": null,
+   "text": "Efter Sten Sture den yngres död i början av 1520 ledde hans änka Kristina Gyllenstierna försvaret av Stockholm. Staden kapitulerade den 7 september mot ett löfte om amnesti.",
+   "regenter": [
+    "sten-sture-den-yngre",
+    "kristian-ii"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Änkan tar över",
+     "text": "Sten Sture den yngre dog den 3 februari 1520 på Björkfjärden i Mälaren. Hans änka Kristina Nilsdotter Gyllenstierna, född omkring 1494, hade gift sig med honom 1511. Efter hans död övertog hon på sina barns vägnar ledningen. Det var enligt tiden naturligt: redan 1504 hade Sten Sture nämnts som tänkbar efterträdare till kung Hans, och i Stockholms tänkebok kallades hon vår kära furstinna."
+    },
+    {
+     "rubrik": "Försvaret",
+     "text": "Ehuru ett antal svenska riksråd den 6 mars 1520 i Uppsala erkänt Kristian II som kung fortsatte Kristina försvaret av Stockholm och uppmuntrade motståndet ute i landet. Kanslern Peder Jakobsson sunnanväder sändes till Polen och hansestäderna för att söka hjälp, och med honom följde hennes sjuårige son Nils. I slutet av maj anlände Kristian själv med en flotta och började belägra Stockholm."
+    },
+    {
+     "rubrik": "Kapitulationen",
+     "text": "Mot löfte om amnesti kapitulerade staden den 7 september. Kristina fick bland annat löfte om Tavastehus län i Finland som förläning. Men efter Kristians kröning anklagades hon, hennes döde make, hennes mor och en mängd anhängare den 7 november av ärkebiskop Gustav Trolle för övergrepp. Sedan hon samma dag visat upp 1517 års ständerbeslut om Trolles avsättning och Stäkets nedbrytande, förklarades undertecknarna skyldiga till kätteri, en dom som ledde till Stockholms blodbad."
+    },
+    {
+     "rubrik": "Fångenskapen",
+     "text": "Själv undgick Kristina och hennes mor avrättning, men de fängslades. Våren 1521 lyckades riksrådet förmå henne och hennes halvsyster Cecilia Månsdotter, mor till Gustav Eriksson Vasa, att skriva till Gustav för att få honom att upphöra med sitt uppror. På sommaren 1521 sändes hennes båda söner och hennes mor jämte flera högadliga kvinnor till Köpenhamn, och i september drabbade samma öde henne och hennes dotter. Först i januari 1524 lovade danska riksrådet att hon och de övriga fångna svenska kvinnorna skulle få återvända. Redan den 28 januari var hon i Linköping."
+    },
+    {
+     "rubrik": "Därefter",
+     "text": "Kristina gifte sig 1527 med riksrådet Johan Turesson (Tre rosor) och dog den 5 januari 1559 på Hörningsholm vid Mörkö i Södermanland. Hennes försvar av Stockholm 1520 hör till Sturetidens mest kända händelser."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Kristina Nilsdotter Gyllenstierna (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13412",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Kristian II (band 21, 1975–77)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11768",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad",
+   "personer": [
+    "kristina-gyllenstierna"
+   ]
+  },
+  {
    "id": "stockholms-blodbad-1520",
    "namn": "Stockholms blodbad",
    "ar": 1520,
@@ -1064,7 +1193,8 @@
     }
    ],
    "personer": [
-    "hemming-gadh"
+    "hemming-gadh",
+    "kristina-gyllenstierna"
    ]
   },
   {
@@ -1282,6 +1412,45 @@
      "titel": "Statschefens konstitutionella ställning",
      "utgivare": "De Lege, Uppsala universitet",
      "url": "https://journals.uu.se/DeLege/article/download/616/543/1490",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "klubbekriget-1596",
+   "namn": "Klubbekriget",
+   "ar": 1596,
+   "ca": false,
+   "datum": null,
+   "text": "Klubbekriget 1596–1597 var ett bondeuppror i Finland mot Klas Fleming. Hertig Karl utnyttjade det för att vinna bönderna i striden mot Sigismund.",
+   "regenter": [
+    "sigismund",
+    "karl-ix"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Ett rike utan kung",
+     "text": "Sigismund bodde i Polen, och i Sverige styrdes riket av hertig Karl tillsammans med rådet. Efter riksdagen i Söderköping 1595 erkändes Karl som riksföreståndare med förbehåll för kungens rätt och rådets medverkan. Karl rensade ut Sigismunds sekreterare ur kansliet, och Sigismund sade 1596 nästan upp honom från regeringen."
+    },
+    {
+     "rubrik": "Finland",
+     "text": "Riksmarsken Klas Fleming i Finland ställde sig självständig mot hertigen. Hans brutala nedslående av bondeupproret i Finland, klubbekriget, gjorde bönderna till Karls sak."
+    },
+    {
+     "rubrik": "Arboga 1597",
+     "text": "Hertigen vann bönderna vid riksdagen i Arboga 1597, som hölls trots Sigismunds förbud. Samregeringen med rådet sprängdes slutgiltigt. Flera herrar flydde till Polen. Sigismund hade svårt att resa hem, eftersom kriget mot turkarna ökade kejsarens krav på hjälp från Polen-Litauen, och sejmen sprängdes 1597 utan beslut."
+    },
+    {
+     "rubrik": "Vägen mot Stångebro",
+     "text": "Klubbekriget visar hur striden mellan Sigismund och Karl också var en strid om vem bönder och allmoge litade på. När Sigismund landade i Kalmar 1598 och mötte Karl vid Stångebro förlorade han striden."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sigismund (band 32, 2003–06)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5908",
      "kontrollerad": true
     }
    ],
@@ -1539,6 +1708,60 @@
    ],
    "personer": [
     "axel-oxenstierna"
+   ]
+  },
+  {
+   "id": "regeringsformen-1634",
+   "namn": "1634 års regeringsform",
+   "ar": 1634,
+   "ca": false,
+   "datum": null,
+   "text": "Efter Gustav II Adolfs död lade rikskansler Axel Oxenstierna fram en regeringsform som gav makten under förmyndartiden åt de fem höga riksämbetsmännen. Den kom att forma svensk förvaltning i århundraden.",
+   "regenter": [
+    "gustav-ii-adolf",
+    "kristina"
+   ],
+   "personer": [
+    "axel-oxenstierna"
+   ],
+   "status": "verifierad",
+   "berattelse": [
+    {
+     "rubrik": "Kungen död, drottningen sex år",
+     "text": "När Gustav II Adolf stupade vid Lützen 1632 stod Sverige inför en svår fråga: skulle hans efterföljare kunna bevara den stormaktsställning han fört landet till? Problemet gällde också regeringsmakten och kungadömets framtid. Dottern Kristina var bara sex år, och en förmyndarstyrelse med rikskansler Axel Oxenstierna som ledande man övertog regeringen."
+    },
+    {
+     "rubrik": "Förslaget",
+     "text": "Lösningen blev det förslag till regeringsform som Axel Oxenstierna lade fram kort efter kungens död. Under förmyndartiden lades regeringsmakten i händerna på de fem höga riksämbetsmännen. Den uttryckte en annan syn på regeringssystemet än kungens. Oxenstierna ses som grundaren av den svenska byråkratin och av det system med förhållandevis självständiga ämbetsverk som blev utmärkande för Sverige, och han lade också grunden till ett centralt kansli med rikskanslern som chef."
+    },
+    {
+     "rubrik": "Adelns tid",
+     "text": "Under förmyndartiden vann den svenska högadeln en maktställning som nästan aldrig tidigare. Riksrådet blev en regerande konselj, och alla regeringsärenden avgjordes i realiteten av dess ledande män, främst Axel Oxenstierna. Samtidigt fick adeln en ekonomisk grundval för sin makt, när kronans gods såldes och donerades."
+    },
+    {
+     "rubrik": "Kristina tar över",
+     "text": "Den 8 december 1644 blev Kristina myndig, 18 år gammal, och började själv regera. Hennes strävan att säkerställa kungamakten förde henne i kamp mot Oxenstierna, som därmed sakta trängdes undan. Det som började 1634 som en nödlösning för ett barn på tronen blev på så sätt en period då aristokratin hade en ställning som den aldrig haft förr."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Gustav II Adolf (band 17, 1967–69)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13316",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Axel Oxenstierna (band 28, 1992–94)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7882",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Kristina (band 21, 1975–77)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=11773",
+     "kontrollerad": true
+    }
    ]
   },
   {
@@ -2059,6 +2282,51 @@
      "titel": "Gustav III (band 17, 1967–69)",
      "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
      "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13317",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "hattarnas-ryska-krig-1741",
+   "namn": "Hattarnas ryska krig",
+   "ar": 1741,
+   "ca": false,
+   "datum": null,
+   "text": "Vid riksdagen 1740–1741 drev hattarna igenom krig mot Ryssland. Kriget slutade med nederlag, och fred i Åbo 1743 knöts till valet av Adolf Fredrik till tronföljare.",
+   "regenter": [
+    "fredrik-i",
+    "adolf-fredrik"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Hattarnas seger",
+     "text": "Från 1730-talet blev hattpartiet allt starkare, och efter att Arvid Horn störtats vid riksdagen 1738–1739 bearbetades kung Fredrik av hattarna. Under hans medverkan genomdrev hattarna vid riksdagen 1740–1741 en krigsförklaring mot Ryssland. Hans önskan att själv gå i fält avböjdes."
+    },
+    {
+     "rubrik": "Kriget",
+     "text": "Kriget gick dåligt, och Ryssland hade intagit stora delar av Finland. I februari 1743, sedan generalen Lewenhaupt häktats, erbjöd sig den gamle kungen åter att bli överbefälhavare, och riksdagen godtog det. Han gjorde vad på honom ankom för att sätta krigsmakten i skick."
+    },
+    {
+     "rubrik": "Dalupproret",
+     "text": "Mot krigets slut tågade dalabönder mot Stockholm. Kungen red dem personligen till mötes och gick fram med största mildhet."
+    },
+    {
+     "rubrik": "Freden och tronföljden",
+     "text": "Kriget förde också fram frågan om tronföljden, eftersom drottning Ulrika Eleonora hade dött 1741 och Fredrik inte hade några lagliga arvingar. Kejsarinnan Elisabet ville hindra den danske kronprinsens val och erbjöd Sverige en billig fred på villkor att Adolf Fredrik av Holstein-Gottorp valdes till tronföljare. Efter fredspreliminärerna i Åbo, som lovade att större delen av Finland skulle återlämnas, och sedan ett bonduppror för den danske kronprinsens erkännande kuvats, valdes han den 23 juni 1743."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Fredrik I (band 16, 1964–66)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=14443",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Adolf Fredrik (band 1, 1918)",
+     "utgivare": "Svenskt biografiskt lexikon, Riksarkivet",
+     "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=5574",
      "kontrollerad": true
     }
    ],
@@ -3055,6 +3323,56 @@
    ]
   },
   {
+   "id": "folkpensionen-1913",
+   "namn": "Folkpensionen",
+   "ar": 1913,
+   "ca": false,
+   "datum": "06-30",
+   "text": "Den 30 juni 1913 antogs lagen om allmän pensionsförsäkring. Sverige blev först i världen med en allmän socialförsäkring som gav alla en obligatorisk grundtrygghet på ålderdomen.",
+   "regenter": [
+    "gustaf-v"
+   ],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrund",
+     "text": "Sverige var på 1910-talet ett fattigt land, och tanken på ett socialförsäkringssystem som omfattar flertalet medborgare blev politiskt accepterad först under 1910-talet. Många ville satsa på selektiva insatser, såsom fattigunderstöd, i stället för en allmän försäkring, och det fanns invändningar mot de kostnader en sådan reform skulle föra med sig."
+    },
+    {
+     "rubrik": "Beslutet",
+     "text": "Trots invändningarna antogs reformen av riksdagen 1913. Lagen om allmän pensionsförsäkring, daterad den 30 juni 1913, gav Sverige den första generella socialförsäkringen: en obligatorisk grundtrygghet för äldre som fyllt 67 år, eller som tidigare drabbats av varaktig oförmåga att arbeta. Därmed var Sverige först i världen med en allmän pensionsförsäkring som täckte hela befolkningen."
+    },
+    {
+     "rubrik": "Besvikelsen",
+     "text": "Beloppen var låga och i många fall svåra att leva på. Beslutet mottogs inte med verklig tillfredsställelse av den allmänna opinionen, och en riksdagsman skrev 1928 att det blev ett löjligt litet understöd på några kronor, långt från vad folket fått löfte om. De principer som sjösattes blev ändå viktiga för den senare utvecklingen av den nordiska välfärdsmodellen."
+    },
+    {
+     "rubrik": "Vidare",
+     "text": "Pensionssystemet byggdes ut i flera steg. År 1948 infördes folkpensionen, 1960 den allmänna tilläggspensionen, ATP, och 1994 antog riksdagen ett förslag till ett reformerat pensionssystem. År 1913 antog riksdagen också den första alkoholistlagen."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Socionomens forskningssupplement nr 33 (2013)",
+     "utgivare": "Socionomen",
+     "url": "https://socionomen.se/wp-content/uploads/2021/04/Socionomens-forskningssupplement-nr-33.pdf",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Motion 1928:167 om allmän pensionsförsäkring",
+     "utgivare": "Riksdagstrycket (KB)",
+     "url": "https://weburn.kb.se/riks/tvåkammarriksdagen/pdf/web/1928/web_mot_1928__fk__167/mot_1928__fk__167.pdf",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Pensionsmyndighetens arkiv, arkivbeskrivning",
+     "utgivare": "Pensionsmyndigheten",
+     "url": "https://www.pensionsmyndigheten.se/content/dam/pensionsmyndigheten/blanketter---broschyrer---faktablad/om-pensionsmyndigheten/allmanna-handlingar/PID122966_v8.0%20Arkivbeskrivning.pdf",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "borggardstalet-1914",
    "namn": "Borggårdstalet och borggårdskrisen",
    "ar": 1914,
@@ -3255,6 +3573,96 @@
    "status": "verifierad"
   },
   {
+   "id": "adalen-1931",
+   "namn": "Skotten i Ådalen",
+   "ar": 1931,
+   "ca": false,
+   "datum": "05-14",
+   "text": "Den 14 maj 1931 sköt militär mot en demonstration i Lunde i Ådalen. Fem människor dödades, och händelsen blev en symbol för arbetarrörelsens kamp.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Hot om lönesänkningar",
+     "text": "Vreden bubblade under ytan i Ådalen i maj 1931. Hot om lönesänkningar inom industrierna ledde till strejker och sympatistrejker, och arbetsgivarna svarade med att kalla in strejkbrytare söderifrån. De kom till Ådalen för att börja lasta ångaren Milos med pappersmassa från fabriken i Sandviken den 13 maj. Rörarbetarna vid sulfatfabriken protesterade mot lönesänkningar och försämrade arbetsvillkor."
+    },
+    {
+     "rubrik": "Den 14 maj",
+     "text": "Den 14 maj 1931 tågade flera tusen människor i en spontan demonstration från Frånö Folkets hus de fem kilometerna till Lunde, där strejkbrytarna inhysts. Militär fanns utposterad för att upprätthålla ordningen. När tåget nådde Lunde sköt befälhavaren, kapten Mesterton, flera varningsskott i luften och ropade tre gånger I lagens namn halt eller jag skjuter. Men den uppretade folkmassan fortsatte framåt."
+    },
+    {
+     "rubrik": "Eldgivningen",
+     "text": "Till slut gav Mesterton order om skarp eldgivning. Tanken var att det skulle skjutas skrämskott i marken, men den upphetsade stämningen gjorde att soldaterna tappade kontrollen och sköt rakt in i demonstrationståget. Fem personer dödades, bland dem en ung kvinna som inte deltog i tåget utan stod på en tomt och tittade på, och fem skadades svårt."
+    },
+    {
+     "rubrik": "Följderna",
+     "text": "Händelsen väckte oerhörd bestörtning i hela landet och satte djupa spår i den politiska utvecklingen. Året efter bildade Per Albin Hansson en socialdemokratisk regering, och därefter satt socialdemokraterna vid makten praktiskt taget oavbrutet i 44 år. Skotten i Ådalen blev en symbol: Olof Palme kallade dem 1981 en ny begynnelse i det svenska samhället, eftersom insikten växte att konflikterna på arbetsmarknaden måste lösas på annat sätt, något som ledde till Saltsjöbadsavtalet. Ett monument av konstnären Lenny Clarhäll avtäcktes på platsen vid 50-årsminnet 1981."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "80 år sen skotten i Ådalen",
+     "utgivare": "SVT Nyheter",
+     "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/80-ar-sen-skotten-i-adalen",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Det glömda minnesmonumentet",
+     "utgivare": "SVT Nyheter",
+     "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/det-glomda-minnesmonumentet",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Olof Palme: Anförande i Ådalen 1981-05-09",
+     "utgivare": "Arbetarrörelsens arkiv och bibliotek",
+     "url": "https://olofpalme.arbark.se/wp-content/dokument/810509_adalen.pdf",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
+   "id": "saltsjobadsavtalet-1938",
+   "namn": "Saltsjöbadsavtalet",
+   "ar": 1938,
+   "ca": false,
+   "datum": null,
+   "text": "I december 1938 slöt LO och Svenska Arbetsgivareföreningen ett huvudavtal i Saltsjöbaden. Det blev grunden för den svenska modellen på arbetsmarknaden.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Bakgrunden",
+     "text": "Efter år av instabilitet och konflikter på arbetsmarknaden, där skotten i Ådalen 1931 blivit den mest uppmärksammade händelsen, träffades arbetstagare och arbetsgivare på Grand Hotel i Saltsjöbaden. Redan 1928 hade regeringen tagit initiativ till en arbetsfredskonferens, men den räknas som en enstaka händelse med oklar betydelse. Skillnaden 1938 var att förhandlingarna inleddes av huvudorganisationerna själva och syftade till en central överenskommelse."
+    },
+    {
+     "rubrik": "Avtalet",
+     "text": "Saltsjöbadsavtalet var ett kollektivavtal mellan Landsorganisationen, LO, och Svenska Arbetsgivareföreningen, SAF, i dag Svenskt Näringsliv. Det kom till efter nästan två års förhandlingar och slöts i december 1938. Avtalet inrättade ett gemensamt organ, Arbetsmarknadsnämnden, utarbetade regler för hur tvister skulle hanteras och satte gränser för stridsåtgärder som kunde skada nationella intressen."
+    },
+    {
+     "rubrik": "Den svenska modellen",
+     "text": "Avtalet blev grunden för ett system där arbetsmarknadens konflikter löstes utan mycket inblandning från staten och utan lagstiftning. Det var ett av de viktigaste elementen i den svenska modellen, och under årtionden en fundamental del av arbetsmarknadens relationer. Det fungerade enligt de flesta bedömare väl i över ett halvt sekel."
+    },
+    {
+     "rubrik": "Senare",
+     "text": "År 2007 inledde LO och Svenskt Näringsliv samtal om ändringar i avtalet, men samtalen avbröts två år senare."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Sweden’s Saltsjöbaden Agreement",
+     "utgivare": "Nordics.info, Aarhus universitet",
+     "url": "https://nordics.info/show/artikel/swedens-saltsjoebaden-agreement",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Arbetsfrede och Saltsjöbaden (Hans De Geer)",
+     "utgivare": "Scandia",
+     "url": "https://journals.lub.lu.se/scandia/article/download/1205/991/2158",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
+  },
+  {
    "id": "midsommarkrisen-1941",
    "namn": "Midsommarkrisen 1941",
    "ar": 1941,
@@ -3349,6 +3757,72 @@
      "kontrollerad": true
     }
    ]
+  },
+  {
+   "id": "estonia-1994",
+   "namn": "Estoniakatastrofen",
+   "ar": 1994,
+   "ca": false,
+   "datum": "09-28",
+   "text": "Natten till den 28 september 1994 förliste färjan M/S Estonia på väg från Tallinn till Stockholm. Av 989 ombord omkom 852, och det blev Europas värsta fartygskatastrof i fredstid.",
+   "regenter": [],
+   "berattelse": [
+    {
+     "rubrik": "Natten",
+     "text": "På kvällen den 27 september 1994 lämnade bil- och passagerarfärjan M/S Estonia hamnen i Tallinn på väg mot Stockholm. Det blåste hårt, och de 989 personerna ombord var mest svenskar och ester. Ungefär en kvart efter midnatt, den 28 september, lossnade fartygets bogvisir och stora mängder vatten forsade in på bildäck. Fartyget fick slagsida och sjönk snabbt."
+    },
+    {
+     "rubrik": "Räddningen",
+     "text": "Estonia förliste ungefär 50 kilometer söder om finska Utö. Finlandsfärjan Mariella var först på plats. Totalt räddades 137 personer, men för många av dem som tog sig ut blev väntan i vattnet för lång. Av de 989 ombord omkom 852, bland dem 501 av de 552 svenskarna, vilket gör förlisningen till den värsta civila sjökatastrofen som drabbat svenska medborgare."
+    },
+    {
+     "rubrik": "Utredningen",
+     "text": "Estland, Finland och Sverige tillsatte en gemensam haverikommission, JAIC, vars slutrapport kom i december 1997 efter flera uppskov. Den kom fram till att fästena och låsen till bogvisiret hade varit underdimensionerade. Rapporten har kritiserats av anhöriga, överlevande och sjöfartsorganisationer, som krävt en ny utredning. Frågan om fartyget var sjövärdigt och hur så snabbt ett förlopp kunde ske har diskuterats länge. Många år efter förlisningen avslöjade Sverige också att fartyget fört militär utrustning vid två tidigare resor i september 1994."
+    },
+    {
+     "rubrik": "Ny undersökning",
+     "text": "Statens haverikommission, Estlands och Finlands motsvarigheter genomförde därefter nya undersökningar av vraket. I en delrapport 2023 fann man inga tecken på att en kollision eller en explosion orsakat förlisningen, och rapporten motsade inte slutsatserna från 1997. Frågor om förloppet har hållits levande av anhöriga och överlevande."
+    }
+   ],
+   "kallor": [
+    {
+     "titel": "Estonia: katastrofen som skakade Sverige",
+     "utgivare": "SVT Nyheter",
+     "url": "https://www.svt.se/nyheter/inrikes/estonia-katastrofen-som-skakade-sverige",
+     "kontrollerad": true
+    },
+    {
+     "titel": "30 år av utredningar – detta vet vi om Estoniakatastrofen",
+     "utgivare": "TV4",
+     "url": "https://www.tv4.se/artikel/4mbIYIPdiM7MoLFDXu01SW/30-ar-av-utredningar-men-manga-fragor-kvarstar",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Estonia (Motion 2001/02:T458)",
+     "utgivare": "Sveriges riksdag",
+     "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/estonia_gp02t458/",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Tjugo år sedan Estoniakatastrofen",
+     "utgivare": "Sveriges Radio",
+     "url": "https://www.sverigesradio.se/artikel/5976933",
+     "kontrollerad": true
+    },
+    {
+     "titel": "Estonia-ulykken",
+     "utgivare": "Store norske leksikon",
+     "url": "https://snl.no/Estonia-ulykken",
+     "kontrollerad": true
+    },
+    {
+     "titel": "New 1994 ferry disaster report: No collision, no explosion",
+     "utgivare": "Associated Press",
+     "url": "https://news.yahoo.com/1994-ferry-disaster-report-no-111446696.html",
+     "kontrollerad": true
+    }
+   ],
+   "status": "verifierad"
   },
   {
    "id": "eu-folkomrostningen-1994",
