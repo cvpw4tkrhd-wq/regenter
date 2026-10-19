@@ -1,0 +1,54 @@
+{
+ "version": "2.1.0",
+ "datum": "2026-10-19",
+ "andringar": [
+  {
+   "version": "2.1.0",
+   "datum": "2026-10-19",
+   "rubrik": "Fler stora händelser och versionsvisning",
+   "punkter": [
+    "22 nya stora händelser, bland annat Kalmarkriget, trettioåriga kriget, Breitenfeld, polska kriget, Anjalaförbundet, finska kriget, rösträtten 1919–1921, EU-folkomröstningen 1994 och Nato-medlemskapet 2024. Totalt 78 händelser.",
+    "Versionsnummer längst ned på startsidan, och en sida som visar vad som är nytt.",
+    "Appen kontrollerar om det finns en nyare version och låter dig uppdatera med en knapp."
+   ]
+  },
+  {
+   "version": "2.0.0",
+   "datum": "2026-10-18",
+   "rubrik": "Sveriges Historia",
+   "punkter": [
+    "Appen heter nu Sveriges Historia, med ny ikon och möjlighet att installera den som app.",
+    "Tidslinjen börjar i stenåldern, med händelser från förhistorien och vikingatiden.",
+    "Viktiga personer som egen kategori, med 20 personer.",
+    "Egna händelser som du själv lägger till i tidslinjen, och egna kommentarer under varje händelse.",
+    "Källorna står nedanför texten och inte i löptexten."
+   ]
+  },
+  {
+   "version": "1.2.0",
+   "datum": "oktober 2026",
+   "rubrik": "Händelser",
+   "punkter": [
+    "Händelser med utförliga berättelser och källor.",
+    "Sökning, quiz, statistik och jämförelse av regenter."
+   ]
+  },
+  {
+   "version": "1.1.0",
+   "datum": "oktober 2026",
+   "rubrik": "Regenternas berättelser",
+   "punkter": [
+    "Alla 62 regenter har berättelser med källor, från Erik Segersäll till Carl XVI Gustaf.",
+    "Porträtt med fria licenser, släktträd och tidslinje."
+   ]
+  },
+  {
+   "version": "1.0.0",
+   "datum": "oktober 2026",
+   "rubrik": "Första versionen",
+   "punkter": [
+    "Tidslinje över Sveriges regenter, startsida med flagga, släktträd och ordlista."
+   ]
+  }
+ ]
+}
