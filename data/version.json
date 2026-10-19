@@ -1,7 +1,17 @@
 {
- "version": "2.3.0",
+ "version": "2.4.0",
  "datum": "2026-10-19",
  "andringar": [
+  {
+   "version": "2.4.0",
+   "datum": "2026-10-19",
+   "rubrik": "Luckor fyllda och hemskärmen rättad",
+   "punkter": [
+    "Rättat: när appen öppnas från hemskärmen hamnar övre raden och en del av flaggan inte längre under telefonens statusfält.",
+    "8 nya händelser som fyller luckorna på 1300-talet och 1650–1750, bland annat Varberg 1343, digerdöden 1349, Erik Magnussons uppror 1356, reduktionen 1655, Fehrbellin 1675, Tönning 1713 och Nystad 1721. Totalt 108 händelser.",
+    "Mer text i fem befintliga händelser: myntrealisationen, religionsfrihetslagen, flaggkrisen, riksrätten i Norge och bakgrunden till unionsupplösningen."
+   ]
+  },
   {
    "version": "2.3.0",
    "datum": "2026-10-19",
