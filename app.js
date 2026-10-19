@@ -29,6 +29,30 @@ const findBm = (id, sek) => S.bokmarken.find(b => b.id === id && b.sek === sek);
 document.documentElement.style.setProperty('--lasstorlek', S.storlek);
 
 
+/* ---------- Versionshantering ---------- */
+const APP_VERSION = '2.1.0';
+const cmpVer = (a, b) => { const x = String(a).split('.').map(Number), y = String(b).split('.').map(Number); for (let i = 0; i < 3; i++) { if ((x[i] || 0) !== (y[i] || 0)) return (x[i] || 0) - (y[i] || 0); } return 0; };
+let nyVersion = null;
+async function kollaVersion() {
+  try {
+    const r = await fetch('data/version.json?v=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) return null;
+    const v = await r.json();
+    nyVersion = cmpVer(v.version, APP_VERSION) > 0 ? v : null;
+    return v;
+  } catch (e) { return null; }
+}
+async function uppdateraApp() {
+  try {
+    if ('serviceWorker' in navigator) { const regs = await navigator.serviceWorker.getRegistrations(); await Promise.all(regs.map(r => r.unregister())); }
+    if (window.caches) { const ks = await caches.keys(); await Promise.all(ks.filter(k => !/bilder/.test(k)).map(k => caches.delete(k))); }
+  } catch (e) { /* fortsätt ändå */ }
+  location.reload();
+}
+function versionsRad() {
+  return `<footer class="versionsrad" id="versionsrad"><p>Sveriges Historia · version ${APP_VERSION} · <a href="#/version">Vad är nytt</a></p>${nyVersion ? `<p class="uppd">Version ${esc(nyVersion.version)} finns. <button type="button" class="litenknapp" data-act="uppdatera">Uppdatera nu</button></p>` : ''}</footer>`;
+}
+
 /* ---------- Installera som app ---------- */
 let installEv = null;
 const isStandalone = () => (window.matchMedia && matchMedia('(display-mode: standalone)').matches) || navigator.standalone === true;
@@ -164,7 +188,7 @@ const app = $('#app');
 let post = null;
 const routes = [
   [/^$/, pHem], [/^tidslinje$/, pTidslinje], [/^regent\/([^/]+)$/, pRegent], [/^slakttrad(?:\/([^/]+))?$/, pSlakt],
-  [/^handelser$/, pHandelser], [/^handelse\/([^/]+)$/, pHandelse], [/^ny-handelse$/, pNyHandelse], [/^personer$/, pPersoner], [/^person\/([^/]+)$/, pPerson], [/^jamfor$/, pJamfor], [/^statistik$/, pStat],
+  [/^handelser$/, pHandelser], [/^handelse\/([^/]+)$/, pHandelse], [/^ny-handelse$/, pNyHandelse], [/^personer$/, pPersoner], [/^version$/, pVersion], [/^person\/([^/]+)$/, pPerson], [/^jamfor$/, pJamfor], [/^statistik$/, pStat],
   [/^quiz$/, pQuiz], [/^ordlista$/, pOrd], [/^bokmarken$/, pBokm], [/^sok$/, pSok], [/^mer$/, pMer], [/^om$/, pOm]
 ];
 function route() {
@@ -254,6 +278,7 @@ function pHem() {
       <section class="ruta"><h2>Idag i historien</h2>${idag.length ? `<ul>${idag.join('')}</ul>` : '<p class="mut">Inga händelser i databasen för dagens datum.</p>'}</section>
     </div>
     <section class="avd"><h2>Utforska</h2><ul class="utforska">${mer}</ul></section>
+    ${versionsRad()}
   </div>`;
 }
 
@@ -533,6 +558,19 @@ function pHandelse(id) {
 }
 
 
+/* ---------- Version ---------- */
+let versionData = null;
+function pVersion() {
+  setTimeout(async () => {
+    const v = await kollaVersion(); if (v) versionData = v;
+    const el = $('#vers-info'); if (!el) return;
+    const d = versionData;
+    const lista = d ? d.andringar.map(a => `<section class="vers"><h2>${esc(a.version)} <span class="mut">${esc(a.datum)}</span></h2><h3>${esc(a.rubrik)}</h3><ul>${a.punkter.map(p => `<li>${esc(p)}</li>`).join('')}</ul></section>`).join('') : '<p class="mut">Ändringslistan kunde inte hämtas. Anslut till nätet och försök igen.</p>';
+    el.innerHTML = (nyVersion ? `<aside class="installbox"><h2>Ny version finns</h2><p>Version ${esc(nyVersion.version)} är tillgänglig. Du kör ${APP_VERSION}.</p><p><button type="button" class="knapp" data-act="uppdatera">Uppdatera nu</button></p></aside>` : (d ? '<p>Du har den senaste versionen.</p>' : '')) + lista;
+  }, 0);
+  return `<div class="sida"><div class="sidhuvud"><h1>Version</h1><p>Sveriges Historia version <strong>${APP_VERSION}</strong>${(window.matchMedia && matchMedia('(display-mode: standalone)').matches) ? ' (installerad app)' : ''}.</p><p><button type="button" class="litenknapp" data-act="sok-uppdatering">Sök efter uppdatering</button></p></div><div id="vers-info" style="max-width:40rem"><p class="mut">Hämtar ändringslistan …</p></div></div>`;
+}
+
 /* ---------- Egna händelser ---------- */
 function pNyHandelse(P) {
   const id = P.get('id'), ex = id ? (S.egna || []).find(e => e.id === id) : null;
@@ -709,6 +747,8 @@ function pOm() {
   <p>Varje regent har en pålitlighetsmärkning: ${Object.values(PAL).map(p => `<span class="pal pal-${p.c}">${p.t}</span>`).join(' ')}. ${esc(PAL['säker'].d)} ${esc(PAL['osäker'].d)} ${esc(PAL['legendarisk'].d)}</p>
   <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Bilder</h2>
   <p>Porträtt hämtas från Wikimedia Commons och visas bara när licensen är fri. Namn på upphovsperson, licens och länk visas under bilden. När det inte finns något porträtt visas en krona.</p>
+  <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Version</h2>
+  <p>Du kör version <strong>${APP_VERSION}</strong>. <a href="#/version">Se vad som är nytt och sök efter uppdatering</a>.</p>
   <h2 style="margin:1.4rem 0 .4rem;font-size:1.3rem">Installera som app</h2>
   <p>Du kan spara Sveriges Historia som en app på hemskärmen. Då öppnas den i helskärm, och texterna fungerar även utan nät när du har öppnat dem en gång.</p>
   ${installEv ? '<p><button type="button" class="knapp" data-act="installera">Installera som app</button></p>' : ''}
@@ -759,6 +799,8 @@ document.addEventListener('click', e => {
     n.text = txt; n.andrad = Date.now(); save(); $('#anteck').outerHTML = antHTML(id); toast('Kommentaren är ändrad.');
   }
   else if (act === 'anteck-avbryt') { $('#anteck').outerHTML = antHTML(t.dataset.id); }
+  else if (act === 'uppdatera') uppdateraApp();
+  else if (act === 'sok-uppdatering') { toast('Söker efter uppdatering …'); kollaVersion().then(v => { if (!v) toast('Kunde inte kontrollera. Är du uppkopplad?'); else if (nyVersion) { toast('Version ' + nyVersion.version + ' finns.'); route(); } else toast('Du har den senaste versionen.'); }); }
   else if (act === 'egen-spara') sparaEgen();
   else if (act === 'egen-ta') {
     if (!confirm('Vill du ta bort din händelse och dess kommentarer?')) return;
@@ -782,5 +824,6 @@ window.addEventListener('pagehide', stopSpeech);
 load().then(() => { route(); }).catch(err => {
   app.innerHTML = `<div class="sida"><h1>Datan kunde inte laddas</h1><p>${esc(err.message)}. Kontrollera att mappen data/ finns i samma repo som index.html.</p></div>`;
 });
+setTimeout(() => kollaVersion().then(() => { const f = $('#versionsrad'); if (f) f.outerHTML = versionsRad(); }), 2500);
 if ('serviceWorker' in navigator && location.protocol.startsWith('http')) navigator.serviceWorker.register('sw.js').catch(() => {});
 })();
